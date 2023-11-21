@@ -1,0 +1,10991 @@
+1
+00:00:59,727 --> 00:01:01,962
+ <i>(low, indistinct chattering)</i> 
+
+2
+00:01:06,367 --> 00:01:08,802
+ <i>(indistinct chatter</i>
+ <i>grows louder)</i> 
+
+3
+00:01:17,645 --> 00:01:19,280
+TÁR:
+ <i>You ready?</i> 
+
+4
+00:01:19,313 --> 00:01:22,316
+ <i>No, just... Yeah, just-just</i>
+ <i>ignore the microphone.</i> 
+
+5
+00:01:22,350 --> 00:01:24,518
+ <i>Yeah, just-just act as if</i>
+ <i>it's not there.</i> 
+
+6
+00:01:24,552 --> 00:01:27,221
+ <i>Sing as if it's not there.</i> 
+
+7
+00:01:27,255 --> 00:01:30,791
+ <i>Yeah, uh... (stammers</i>
+ <i>speaking foreign language)</i> 
+
+8
+00:01:39,167 --> 00:01:40,301
+ <i>Okay?</i> 
+
+9
+00:01:40,334 --> 00:01:43,771
+ <i>(woman speaking</i>
+ <i>foreign language)</i> 
+
+10
+00:01:45,406 --> 00:01:47,841
+ <i>(woman singing</i>
+ <i>in foreign language)</i> 
+
+11
+00:02:03,791 --> 00:02:06,026
+ <i>(singing continues)</i> 
+
+12
+00:02:24,412 --> 00:02:26,647
+*
+
+13
+00:02:42,596 --> 00:02:44,832
+*
+
+14
+00:03:07,288 --> 00:03:09,323
+*
+
+15
+00:03:27,241 --> 00:03:29,277
+*
+
+16
+00:04:01,575 --> 00:04:03,811
+*
+
+17
+00:04:22,496 --> 00:04:24,732
+*
+
+18
+00:04:47,220 --> 00:04:49,457
+ <i>(singing ends, woman sighs)</i> 
+
+19
+00:04:58,766 --> 00:05:00,401
+(sniffs)
+
+20
+00:05:00,434 --> 00:05:01,735
+(exhales)
+
+21
+00:05:01,769 --> 00:05:04,438
+(audience chattering)
+
+22
+00:05:04,472 --> 00:05:06,907
+(exhales)
+
+23
+00:05:06,940 --> 00:05:09,176
+(inhales deeply)
+
+24
+00:05:12,613 --> 00:05:14,515
+(inhales deeply)
+
+25
+00:05:14,548 --> 00:05:16,316
+(exhales slowly)
+
+26
+00:05:16,350 --> 00:05:17,618
+(exhales sharply)
+
+27
+00:05:17,651 --> 00:05:19,887
+(audience continues chattering)
+
+28
+00:05:25,926 --> 00:05:28,028
+(sniffs)
+
+29
+00:05:38,338 --> 00:05:40,007
+(sniffs)
+
+30
+00:05:43,977 --> 00:05:45,813
+-Ready for them?
+-Yes.
+
+31
+00:05:45,846 --> 00:05:47,314
+Let's go.
+
+32
+00:05:47,347 --> 00:05:49,383
+(applause)
+
+33
+00:05:52,520 --> 00:05:54,788
+ <i>(applause quiets)</i> 
+
+34
+00:05:54,822 --> 00:05:57,224
+ADAM GOPNIK: <i>If you're here,</i>
+ <i>then you already know</i> 
+
+35
+00:05:57,257 --> 00:05:59,627
+ <i>who she is, and that is one</i>
+ <i>of the most important</i> 
+
+36
+00:05:59,660 --> 00:06:01,995
+ <i>musical figures of our time.</i> 
+
+37
+00:06:02,029 --> 00:06:03,931
+ <i>Lydia Tár is many things:</i> 
+
+38
+00:06:03,964 --> 00:06:07,334
+ <i>a piano performance graduate</i>
+ <i>at the Curtis Institute,</i> 
+
+39
+00:06:07,367 --> 00:06:09,837
+ <i>Phi Beta Kappa from Harvard.</i> 
+
+40
+00:06:09,870 --> 00:06:14,207
+ <i>She got her PhD in Musicology</i>
+ <i>from the University of Vienna,</i> 
+
+41
+00:06:14,241 --> 00:06:16,644
+ <i>specializing in</i>
+ <i>the indigenous music</i> 
+
+42
+00:06:16,677 --> 00:06:19,813
+ <i>of the Ucayali Valley</i>
+ <i>in Eastern Peru,</i> 
+
+43
+00:06:19,847 --> 00:06:21,815
+ <i>where she spent five years</i> 
+
+44
+00:06:21,849 --> 00:06:23,651
+ <i>among the Shipibo-Konibo people.</i> 
+
+45
+00:06:23,684 --> 00:06:27,287
+ <i>As a conductor,</i>
+ <i>Tár began her career</i> 
+
+46
+00:06:27,320 --> 00:06:28,656
+ <i>with the Cleveland Orchestra,</i> 
+
+47
+00:06:28,689 --> 00:06:30,458
+ <i>one of the so-called</i>
+ <i>"Big Five."</i> 
+
+48
+00:06:30,491 --> 00:06:32,560
+ <i>A string of</i>
+ <i>important posts followed,</i> 
+
+49
+00:06:32,593 --> 00:06:35,195
+ <i>including</i>
+ <i>the Philadelphia Orchestra,</i> 
+
+50
+00:06:35,228 --> 00:06:36,430
+ <i>the Chicago Symphony Orchestra,</i> 
+
+51
+00:06:36,464 --> 00:06:37,931
+ <i>the Boston Symphony Orchestra,</i> 
+
+52
+00:06:37,965 --> 00:06:39,667
+ <i>until she at last arrived here</i> 
+
+53
+00:06:39,700 --> 00:06:42,936
+ <i>at our own</i>
+ <i>New York Philharmonic.</i> 
+
+54
+00:06:42,970 --> 00:06:44,472
+ <i>With the latter, she organized</i> 
+
+55
+00:06:44,505 --> 00:06:46,874
+ <i>the Highway 10</i>
+ <i>refugee concerts in Zaatari,</i> 
+
+56
+00:06:46,907 --> 00:06:51,445
+ <i>which were attended</i>
+ <i>by over 75,000 people.</i> 
+
+57
+00:06:51,479 --> 00:06:53,080
+ <i>She's become particularly</i>
+ <i>well-known</i> 
+
+58
+00:06:53,113 --> 00:06:54,715
+ <i>for commissioning</i>
+ <i>contemporary work</i> 
+
+59
+00:06:54,748 --> 00:06:58,151
+ <i>from, among others,</i>
+ <i>Jennifer Higdon, Caroline Shaw,</i> 
+
+60
+00:06:58,185 --> 00:07:00,588
+ <i>Julia Wolfe</i>
+ <i>and Hildur Gudnadóttir.</i> 
+
+61
+00:07:00,621 --> 00:07:03,624
+ <i>And she's made a point</i>
+ <i>of programming their works</i> 
+
+62
+00:07:03,657 --> 00:07:06,827
+ <i>alongside composers</i>
+ <i>of the canon.</i> 
+
+63
+00:07:06,860 --> 00:07:08,328
+ <i>She's been quoted as saying,</i> 
+
+64
+00:07:08,361 --> 00:07:11,098
+ <i>"These composers</i>
+ <i>are having a conversation</i> 
+
+65
+00:07:11,131 --> 00:07:13,934
+ <i>and it may not always</i>
+ <i>be so polite."</i> 
+
+66
+00:07:13,967 --> 00:07:16,737
+ <i>Lydia Tár has also written</i>
+ <i>music for the stage and screen.</i> 
+
+67
+00:07:16,770 --> 00:07:21,509
+ <i>She is in fact one of only 15</i>
+ <i>so-called EGOTs, meaning those</i> 
+
+68
+00:07:21,542 --> 00:07:25,579
+ <i>who have won all four</i>
+ <i>major entertainment awards:</i> 
+
+69
+00:07:25,613 --> 00:07:29,282
+ <i>an Emmy, a Grammy,</i>
+ <i>an Oscar and a Tony.</i> 
+
+70
+00:07:29,316 --> 00:07:30,851
+ <i>It is, as you can imagine,</i> 
+
+71
+00:07:30,884 --> 00:07:33,521
+ <i>an extremely short</i>
+ <i>and shimmering list</i> 
+
+72
+00:07:33,554 --> 00:07:36,690
+ <i>that includes Richard Rodgers,</i>
+ <i>Audrey Hepburn,</i> 
+
+73
+00:07:36,724 --> 00:07:40,360
+ <i>Andrew Lloyd Webber</i>
+ <i>and, of course, Mel Brooks.</i> 
+
+74
+00:07:40,393 --> 00:07:43,296
+ <i>(audience laughing)</i> 
+
+75
+00:07:44,431 --> 00:07:47,601
+GOPNIK: In 2010, with
+the support of Eliot Kaplan,
+
+76
+00:07:47,635 --> 00:07:50,771
+she founded the Accordion
+Conducting Fellowship,
+
+77
+00:07:50,804 --> 00:07:53,674
+which fosters entrepreneurship
+and performance opportunities
+
+78
+00:07:53,707 --> 00:07:57,044
+for female conductors,
+allowing them residencies
+
+79
+00:07:57,077 --> 00:07:59,780
+with major orchestras
+around the world.
+
+80
+00:07:59,813 --> 00:08:05,118
+In 2013, Berlin elected Tár
+as its principal conductor,
+
+81
+00:08:05,152 --> 00:08:07,521
+in succession to Andris Davis,
+
+82
+00:08:07,555 --> 00:08:10,457
+and she's remained there
+ever since.
+
+83
+00:08:10,490 --> 00:08:12,526
+Like her mentor,
+Leonard Bernstein,
+
+84
+00:08:12,560 --> 00:08:15,495
+Tár has a particular
+affinity for Mahler,
+
+85
+00:08:15,529 --> 00:08:17,831
+whose nine symphonies
+she recorded
+
+86
+00:08:17,865 --> 00:08:19,900
+during her Big Five stints.
+
+87
+00:08:20,701 --> 00:08:22,636
+However, she never managed
+to complete
+
+88
+00:08:22,670 --> 00:08:26,173
+the so-called "cycle" with
+a single orchestra until now.
+
+89
+00:08:26,206 --> 00:08:27,608
+Under her direction,
+
+90
+00:08:27,641 --> 00:08:29,643
+Berlin has recorded eight
+of the Mahler symphonies,
+
+91
+00:08:29,677 --> 00:08:32,512
+saving the big one,
+Symphony No. 5, for last.
+
+92
+00:08:32,546 --> 00:08:34,782
+Due to the pandemic,
+that performance,
+
+93
+00:08:34,815 --> 00:08:37,350
+which was scheduled for
+last year, had to be canceled.
+
+94
+00:08:37,384 --> 00:08:39,352
+But I'm told that next month,
+
+95
+00:08:39,386 --> 00:08:42,055
+she'll make a live recording
+of Mahler's Fifth,
+
+96
+00:08:42,089 --> 00:08:43,724
+which will complete the cycle
+
+97
+00:08:43,757 --> 00:08:47,360
+and will be issued in a box set
+by Deutsche Grammophon
+
+98
+00:08:47,394 --> 00:08:49,529
+just in time
+for Mahler's birthday.
+
+99
+00:08:49,563 --> 00:08:53,433
+As if that's not enough,
+her new book, <i>Tár on Tár,</i> 
+
+100
+00:08:53,466 --> 00:08:56,970
+will be published by Nan
+Talese's imprint at Doubleday,
+
+101
+00:08:57,004 --> 00:09:00,407
+just in time for Christmas,
+a perfect stocking stuffer,
+
+102
+00:09:00,440 --> 00:09:02,810
+especially if you have
+a very large stocking.
+
+103
+00:09:02,843 --> 00:09:04,344
+(audience laughing)
+
+104
+00:09:04,377 --> 00:09:05,779
+All of us at <i>The New Yorker</i>
+welcome you.
+
+105
+00:09:05,813 --> 00:09:07,848
+Thank you for joining us,
+Maestro, today.
+
+106
+00:09:07,881 --> 00:09:09,482
+Thank you, Adam. Thank you.
+
+107
+00:09:09,516 --> 00:09:12,152
+-(applause)
+-Thank you.
+
+108
+00:09:13,320 --> 00:09:15,488
+Lydia, I couldn't...
+
+109
+00:09:15,522 --> 00:09:18,859
+I couldn't help but see you
+flinch just a little bit
+
+110
+00:09:18,892 --> 00:09:20,493
+as I was reading your bio.
+
+111
+00:09:20,527 --> 00:09:22,562
+Was it because I forgot
+some other amazing achievement?
+
+112
+00:09:22,596 --> 00:09:25,065
+Or do you have
+a slight self-consciousness
+
+113
+00:09:25,098 --> 00:09:27,234
+about the incredibly
+varied things
+
+114
+00:09:27,267 --> 00:09:29,102
+that you've accomplished?
+
+115
+00:09:29,136 --> 00:09:34,441
+Well, in today's world,
+"varied," it-it's a dirty word.
+
+116
+00:09:34,474 --> 00:09:36,543
+I mean,
+our era is one of specialists,
+
+117
+00:09:36,576 --> 00:09:39,479
+and if you're trying to do
+more than one thing,
+
+118
+00:09:39,512 --> 00:09:41,248
+it's, you know,
+it's often frowned upon.
+
+119
+00:09:41,281 --> 00:09:42,850
+Every artist gets typecast.
+
+120
+00:09:42,883 --> 00:09:44,384
+Oh, yes. Aggressively so.
+
+121
+00:09:44,417 --> 00:09:46,119
+Well, do you think there'll be
+a moment, though,
+
+122
+00:09:46,153 --> 00:09:48,321
+when the classical music
+community,
+
+123
+00:09:48,355 --> 00:09:51,792
+uh, decides not to use
+sexual distinctions
+
+124
+00:09:51,825 --> 00:09:53,761
+to differentiate artists?
+
+125
+00:09:53,794 --> 00:09:56,163
+I'm probably
+the wrong person to ask
+
+126
+00:09:56,196 --> 00:09:58,398
+since I don't, uh,
+read reviews.
+
+127
+00:09:58,431 --> 00:10:00,000
+-Never, really?
+-No.
+
+128
+00:10:00,033 --> 00:10:04,404
+But it is odd, I-I think,
+that anyone ever felt compelled
+
+129
+00:10:04,437 --> 00:10:07,374
+to substitute
+"maestro" with "maestra."
+
+130
+00:10:07,407 --> 00:10:10,711
+I mean, we don't call women
+astronauts "astronettes."
+
+131
+00:10:10,744 --> 00:10:12,479
+-GOPNIK: Mm-hmm. Right.
+-(audience chuckling)
+
+132
+00:10:12,512 --> 00:10:16,249
+But as to the question
+of, uh, gender bias,
+
+133
+00:10:16,283 --> 00:10:18,819
+I really have nothing
+to complain about.
+
+134
+00:10:18,852 --> 00:10:21,789
+Nor, for that matter, should
+Marin Alsop, JoAnn Falletta,
+
+135
+00:10:21,822 --> 00:10:24,257
+uh, Laurence Equilbey
+and Nathalie Stutzmann.
+
+136
+00:10:24,291 --> 00:10:26,994
+I mean, there's so many
+incredible women
+
+137
+00:10:27,027 --> 00:10:28,461
+who came before us.
+
+138
+00:10:28,495 --> 00:10:30,931
+You know, women who did
+the-the real lifting.
+
+139
+00:10:30,964 --> 00:10:32,132
+That-that's fascinating.
+
+140
+00:10:32,165 --> 00:10:34,101
+Can you... Who, for instance?
+
+141
+00:10:34,134 --> 00:10:35,402
+Uh, okay, sure.
+
+142
+00:10:35,435 --> 00:10:37,604
+Uh, first and foremost,
+Nadia Boulanger.
+
+143
+00:10:37,637 --> 00:10:40,573
+I mean, that would be
+the, uh, happy example.
+
+144
+00:10:40,607 --> 00:10:43,777
+Uh, the sad one would be
+Antonia Brico,
+
+145
+00:10:43,811 --> 00:10:46,747
+who by all accounts
+was an incredible conductor
+
+146
+00:10:46,780 --> 00:10:50,117
+but was ghettoized
+into the nonglamorous status
+
+147
+00:10:50,150 --> 00:10:52,185
+of a "guest conductor"
+
+148
+00:10:52,219 --> 00:10:55,088
+and essentially
+treated as a dog act.
+
+149
+00:10:55,122 --> 00:10:57,290
+A dog...
+Uh, she never got the chance
+
+150
+00:10:57,324 --> 00:10:58,525
+to lead a major orchestra?
+
+151
+00:10:58,558 --> 00:11:00,593
+Well, yes.
+Yes, she did, uh, conduct
+
+152
+00:11:00,627 --> 00:11:02,763
+the, uh, Berlin Philharmonic,
+as well as the Met,
+
+153
+00:11:02,796 --> 00:11:05,966
+but, again,
+only as a guest conductor.
+
+154
+00:11:05,999 --> 00:11:08,001
+You know, at, I mean,
+at that time it was...
+
+155
+00:11:08,035 --> 00:11:10,303
+it was all gender spectacle.
+
+156
+00:11:10,337 --> 00:11:11,739
+But fortunately, times change,
+
+157
+00:11:11,772 --> 00:11:13,707
+and-and the Pauline
+conversion is...
+
+158
+00:11:13,741 --> 00:11:15,475
+-(chuckling): "Pauline..."
+-... if not complete,
+
+159
+00:11:15,508 --> 00:11:16,977
+then it's-it's evolving nicely.
+
+160
+00:11:17,010 --> 00:11:19,646
+N-No less, um,
+having fallen off its horse.
+
+161
+00:11:19,679 --> 00:11:22,149
+Um, Lydia, could we talk
+a little bit
+
+162
+00:11:22,182 --> 00:11:24,284
+-about, uh, translation?
+-Mm-hmm.
+
+163
+00:11:24,317 --> 00:11:25,919
+'Cause I think
+there's still people
+
+164
+00:11:25,953 --> 00:11:29,289
+who think of the conductor
+as a kind of human metronome.
+
+165
+00:11:30,423 --> 00:11:33,326
+Well, yeah,
+that's-that's partly true.
+
+166
+00:11:33,360 --> 00:11:35,128
+-Yeah, but it's...
+-But keeping time,
+
+167
+00:11:35,162 --> 00:11:36,730
+it's-it's no small thing.
+
+168
+00:11:36,764 --> 00:11:38,732
+But I suspect there's
+a lot more to it than that.
+
+169
+00:11:38,766 --> 00:11:40,433
+Yeah, well,
+I-I would hope so, yes.
+
+170
+00:11:40,467 --> 00:11:43,003
+-But time is the thing.
+-Uh-huh.
+
+171
+00:11:43,036 --> 00:11:47,440
+Time is-is the essential piece
+of, uh, interpretation.
+
+172
+00:11:47,474 --> 00:11:49,209
+You cannot start without me.
+
+173
+00:11:49,242 --> 00:11:51,278
+See, I start the clock.
+
+174
+00:11:51,311 --> 00:11:54,748
+Now, my left hand shapes,
+but my right hand,
+
+175
+00:11:54,782 --> 00:11:59,019
+the second hand, marks time
+and moves it forward.
+
+176
+00:11:59,052 --> 00:12:03,090
+However, unlike a clock,
+sometimes my second hand stops,
+
+177
+00:12:03,123 --> 00:12:06,226
+which means that time stops.
+
+178
+00:12:06,259 --> 00:12:09,396
+Now, the illusion is that,
+like you,
+
+179
+00:12:09,429 --> 00:12:11,664
+I'm responding to
+the orchestra in real time...
+
+180
+00:12:11,698 --> 00:12:13,700
+-Right, right. -... making the
+decision about the right moment
+
+181
+00:12:13,733 --> 00:12:15,402
+to restart the thing,
+or reset it,
+
+182
+00:12:15,435 --> 00:12:18,005
+or throw time out
+the window altogether.
+
+183
+00:12:18,038 --> 00:12:21,441
+The reality is that right
+from the very beginning,
+
+184
+00:12:21,474 --> 00:12:23,543
+I know precisely
+what time it is...
+
+185
+00:12:23,576 --> 00:12:25,278
+-Really? That's...
+-... and the exact moment
+
+186
+00:12:25,312 --> 00:12:28,481
+that you and I will arrive
+at our destination together.
+
+187
+00:12:28,515 --> 00:12:32,119
+You know, the only real,
+uh, discovery for me
+
+188
+00:12:32,152 --> 00:12:33,854
+is in rehearsal.
+
+189
+00:12:33,887 --> 00:12:35,956
+It's never,
+never in performance.
+
+190
+00:12:35,989 --> 00:12:39,793
+Hard question, I know, but
+if you could define one thing
+
+191
+00:12:39,827 --> 00:12:42,863
+that Bernstein gave you,
+what would it be?
+
+192
+00:12:44,631 --> 00:12:46,233
+Kavvanah.
+
+193
+00:12:46,266 --> 00:12:47,567
+Yeah, it's-it's the Hebrew word
+
+194
+00:12:47,600 --> 00:12:50,503
+for attention to meaning
+or-or intent.
+
+195
+00:12:50,537 --> 00:12:52,172
+You know, what are
+the composer's priorities,
+
+196
+00:12:52,205 --> 00:12:54,607
+and what are yours, and how do
+they complement one another?
+
+197
+00:12:54,641 --> 00:12:56,609
+Right, kavvanah. I think
+that's a word that will have
+
+198
+00:12:56,643 --> 00:12:58,846
+a slightly different meaning
+for many in our audience.
+
+199
+00:12:58,879 --> 00:13:01,915
+-Well, yes, yes, I imagine so.
+-(audience murmuring)
+
+200
+00:13:01,949 --> 00:13:03,550
+Am I right in thinking
+that a conductor
+
+201
+00:13:03,583 --> 00:13:06,286
+was not always, uh,
+an onstage presence
+
+202
+00:13:06,319 --> 00:13:07,754
+-in classical music?
+-No, that's right.
+
+203
+00:13:07,787 --> 00:13:09,789
+I-I think I read someplace
+that it actually was
+
+204
+00:13:09,823 --> 00:13:11,892
+the first violin, for a long
+time, who was responsible.
+
+205
+00:13:11,925 --> 00:13:14,494
+Yes, the first violinist,
+whether they had any interest
+
+206
+00:13:14,527 --> 00:13:16,129
+or-or skill in it or not.
+
+207
+00:13:16,163 --> 00:13:18,932
+Wh-When did that change,
+and-and who changed it?
+
+208
+00:13:18,966 --> 00:13:22,102
+With the French composer,
+Jean-Baptiste Lully,
+
+209
+00:13:22,135 --> 00:13:26,106
+who reportedly, uh,
+used a, uh, rather enormous,
+
+210
+00:13:26,139 --> 00:13:30,343
+rather pointy staff to pound
+the tempi into the floor.
+
+211
+00:13:30,377 --> 00:13:31,611
+It's not something I imagine
+
+212
+00:13:31,644 --> 00:13:34,081
+the players particularly,
+uh, appreciated.
+
+213
+00:13:34,114 --> 00:13:37,951
+Uh, anyway, uh, that technique
+ended during a performance
+
+214
+00:13:37,985 --> 00:13:39,953
+when Lully accidentally
+
+215
+00:13:39,987 --> 00:13:42,155
+stabbed himself in the foot
+with the thing and died.
+
+216
+00:13:42,189 --> 00:13:45,158
+-(audience laughter)
+-Yeah, of-of-of gangrene.
+
+217
+00:13:45,192 --> 00:13:47,060
+But anyway...
+
+218
+00:13:47,094 --> 00:13:49,930
+-(applause)
+-Yeah.
+
+219
+00:13:49,963 --> 00:13:53,133
+Anyway, but the conductor
+
+220
+00:13:53,166 --> 00:13:56,904
+really becomes essential
+as the ensembles get bigger.
+
+221
+00:13:56,937 --> 00:13:59,639
+And once again,
+we go back to Beethoven.
+
+222
+00:13:59,672 --> 00:14:02,575
+* Buh, buh, buh, bum,
+buh, buh, buh, bum. *
+
+223
+00:14:02,609 --> 00:14:04,777
+Now, that doesn't start
+with the eighth note.
+
+224
+00:14:04,811 --> 00:14:07,314
+The downbeat--
+* Buh, buh, buh --
+
+225
+00:14:07,347 --> 00:14:08,916
+it's silent, right?
+
+226
+00:14:08,949 --> 00:14:11,618
+So someone had to start
+that clock.
+
+227
+00:14:11,651 --> 00:14:14,621
+Someone had to, uh,
+plant their flag in the sand
+
+228
+00:14:14,654 --> 00:14:17,090
+and say, "Follow me," you know?
+
+229
+00:14:17,124 --> 00:14:20,660
+And when that someone was
+Lenny, the orchestra was led
+
+230
+00:14:20,693 --> 00:14:24,864
+on the most extraordinary
+tour of pleasures.
+
+231
+00:14:24,898 --> 00:14:27,767
+'Cause he knew the music,
+Mahler especially,
+
+232
+00:14:27,800 --> 00:14:29,903
+as well or better than anyone.
+
+233
+00:14:29,937 --> 00:14:33,406
+And he would often play
+with the form.
+
+234
+00:14:33,440 --> 00:14:34,807
+'Cause he wanted an orchestra
+to feel
+
+235
+00:14:34,841 --> 00:14:36,876
+that they had never seen,
+let alone heard
+
+236
+00:14:36,910 --> 00:14:39,879
+or-or performed
+any of that music.
+
+237
+00:14:39,913 --> 00:14:42,115
+So he-he would do
+radical things,
+
+238
+00:14:42,149 --> 00:14:44,584
+like, uh, disregarding
+the tempo primo
+
+239
+00:14:44,617 --> 00:14:46,954
+or-or ending this phrase
+molto ritardando,
+
+240
+00:14:46,987 --> 00:14:49,589
+even though
+it had no such marking.
+
+241
+00:14:49,622 --> 00:14:51,124
+Was he over-egging it?
+
+242
+00:14:51,158 --> 00:14:52,625
+Oh, no, no, no. Not at all.
+
+243
+00:14:52,659 --> 00:14:56,429
+He, he, he celebrated the joy
+of his discovery.
+
+244
+00:14:56,463 --> 00:14:57,998
+You just told us a moment ago
+
+245
+00:14:58,031 --> 00:15:00,467
+that your discovery
+takes place in rehearsal.
+
+246
+00:15:00,500 --> 00:15:03,003
+When will that process
+begin again for you?
+
+247
+00:15:03,770 --> 00:15:05,372
+We start on Monday.
+
+248
+00:15:05,405 --> 00:15:07,340
+-Immediately?
+-Mm.
+
+249
+00:15:07,374 --> 00:15:09,776
+With this one,
+it really is about
+
+250
+00:15:09,809 --> 00:15:14,114
+trying to read the tea leaves
+of-of Mahler's intention.
+
+251
+00:15:14,147 --> 00:15:15,715
+I mean, we know a great deal
+about this
+
+252
+00:15:15,748 --> 00:15:17,417
+with his other symphonies.
+
+253
+00:15:17,450 --> 00:15:19,852
+You know, he was so inspired
+by the poetry of Rückert
+
+254
+00:15:19,886 --> 00:15:22,055
+that for years he didn't set
+another author to music.
+
+255
+00:15:22,089 --> 00:15:25,258
+But all of this changes
+with the Five.
+
+256
+00:15:25,292 --> 00:15:27,560
+The Five is a mystery.
+
+257
+00:15:27,594 --> 00:15:30,163
+And the only clue he leaves us
+
+258
+00:15:30,197 --> 00:15:32,199
+is on the cover
+of the manuscript itself.
+
+259
+00:15:32,232 --> 00:15:36,469
+Yes, the-the dedication
+to his new wife, Alma.
+
+260
+00:15:36,503 --> 00:15:38,471
+So if you're gonna partner
+with Mahler
+
+261
+00:15:38,505 --> 00:15:41,274
+on his, uh, fifth symphony,
+
+262
+00:15:41,308 --> 00:15:42,842
+the first thing you must do
+
+263
+00:15:42,875 --> 00:15:47,280
+is try to understand
+that very complex marriage.
+
+264
+00:15:47,314 --> 00:15:49,983
+And would you say that you have
+a different interpretation
+
+265
+00:15:50,017 --> 00:15:52,452
+of that marriage
+than Bernstein did?
+
+266
+00:15:54,054 --> 00:15:58,591
+You mentioned my ethnographic
+fieldwork in the Amazon.
+
+267
+00:15:58,625 --> 00:16:01,394
+Well, Adam, the Shipibo-Konibo
+
+268
+00:16:01,428 --> 00:16:03,963
+only receive an <i>icaro,</i> or song,
+
+269
+00:16:03,997 --> 00:16:05,898
+if the singer is there, right?
+
+270
+00:16:05,932 --> 00:16:09,736
+On the same side of the-the
+spirit that-that created it.
+
+271
+00:16:09,769 --> 00:16:13,173
+And in that way, the past
+and the present converge.
+
+272
+00:16:13,206 --> 00:16:16,843
+It's the flip sides
+of the same cosmic coin.
+
+273
+00:16:16,876 --> 00:16:19,879
+That definition of fidelity
+makes sense to me.
+
+274
+00:16:19,912 --> 00:16:22,215
+But Lenny,
+he believed in <i>teshuvah.</i> 
+
+275
+00:16:22,249 --> 00:16:24,817
+The Talmudic power
+to reach back into time
+
+276
+00:16:24,851 --> 00:16:27,620
+and-and transform
+the, uh, significance
+
+277
+00:16:27,654 --> 00:16:29,322
+of one's past deeds.
+
+278
+00:16:29,356 --> 00:16:33,560
+So when he played the Adagietto
+at Robert Kennedy's funeral,
+
+279
+00:16:33,593 --> 00:16:35,695
+it ran for 12 minutes.
+
+280
+00:16:35,728 --> 00:16:38,198
+-He treated it as a mass.
+-(agreeing murmur)
+
+281
+00:16:38,231 --> 00:16:39,999
+And, you know, if you listen
+to a recording of it,
+
+282
+00:16:40,033 --> 00:16:43,803
+you will no doubt feel
+the tragedy and-and the pathos.
+
+283
+00:16:43,836 --> 00:16:46,439
+And of course
+that, uh, interpretation
+
+284
+00:16:46,473 --> 00:16:48,608
+was very true for Mahler
+later in life,
+
+285
+00:16:48,641 --> 00:16:50,677
+after the professional bottom
+dropped out
+
+286
+00:16:50,710 --> 00:16:52,779
+and Alma had left him
+for Gropius.
+
+287
+00:16:52,812 --> 00:16:58,017
+But, as I said before,
+we are dealing with time.
+
+288
+00:16:58,051 --> 00:17:02,522
+And this piece was not born
+into aching tragedy.
+
+289
+00:17:02,555 --> 00:17:04,857
+It was born into young love.
+
+290
+00:17:04,891 --> 00:17:07,294
+And so you chose...
+
+291
+00:17:07,327 --> 00:17:08,895
+Love.
+
+292
+00:17:08,928 --> 00:17:11,731
+-(audience murmuring)
+-Right, but precisely how long?
+
+293
+00:17:11,764 --> 00:17:13,300
+(quietly):
+Well...
+
+294
+00:17:13,333 --> 00:17:15,402
+seven minutes.
+
+295
+00:17:15,435 --> 00:17:17,670
+(laughter)
+
+296
+00:17:19,206 --> 00:17:22,409
+WOMAN: I was so taken
+by what you said to Adam
+
+297
+00:17:22,442 --> 00:17:25,745
+about, um, interpretation
+
+298
+00:17:25,778 --> 00:17:29,182
+and specifically about feelings,
+
+299
+00:17:29,216 --> 00:17:31,351
+and that you chose love.
+
+300
+00:17:32,252 --> 00:17:34,787
+And I know it's said
+that you should leave the tears
+
+301
+00:17:34,821 --> 00:17:37,056
+for the audience, but...
+
+302
+00:17:37,090 --> 00:17:39,859
+do you ever find yourself
+overwhelmed by emotion
+
+303
+00:17:39,892 --> 00:17:41,561
+when you're up there
+at the podium?
+
+304
+00:17:41,594 --> 00:17:43,463
+-TÁR: Yes.
+-(sighs)
+
+305
+00:17:43,496 --> 00:17:45,265
+Yes, that does happen.
+
+306
+00:17:45,298 --> 00:17:48,568
+There's an...
+an expectation-reward cycle
+
+307
+00:17:48,601 --> 00:17:50,503
+with some works
+and the spots in them
+
+308
+00:17:50,537 --> 00:17:53,640
+that I find so incredible,
+that when I'm conducting,
+
+309
+00:17:53,673 --> 00:17:56,042
+it's not that
+I'm rushing exactly,
+
+310
+00:17:56,075 --> 00:17:58,745
+but, oh, I just can't wait
+to get to that spot,
+
+311
+00:17:58,778 --> 00:18:01,214
+and, yeah, it does it.
+It does it every time.
+
+312
+00:18:01,248 --> 00:18:02,682
+(laughs softly)
+
+313
+00:18:02,715 --> 00:18:04,751
+So it's physical
+as well as emotional.
+
+314
+00:18:04,784 --> 00:18:06,786
+-Hmm. Hmm.
+-God, it must take hours
+
+315
+00:18:06,819 --> 00:18:09,021
+to come back down to earth.
+
+316
+00:18:09,055 --> 00:18:12,492
+You say things after others
+remember, but you won't.
+
+317
+00:18:12,525 --> 00:18:14,727
+And sleep, it's impossible.
+
+318
+00:18:14,761 --> 00:18:16,663
+It's like my freshman year
+at Smith.
+
+319
+00:18:16,696 --> 00:18:18,598
+(Tár chuckles)
+
+320
+00:18:18,631 --> 00:18:19,932
+(sighs)
+
+321
+00:18:19,966 --> 00:18:21,701
+Which piece does that to you?
+
+322
+00:18:21,734 --> 00:18:23,203
+Oh, I saw you.
+
+323
+00:18:23,236 --> 00:18:25,672
+I saw you conduct, uh,
+ <i>The Rite of Spring</i> 
+
+324
+00:18:25,705 --> 00:18:27,174
+at the Met last year.
+
+325
+00:18:27,207 --> 00:18:29,075
+It was so powerful.
+
+326
+00:18:29,108 --> 00:18:31,244
+TÁR:
+Thank you. Thank you.
+
+327
+00:18:31,278 --> 00:18:34,447
+It's...
+It's the 11 pistol shots--
+
+328
+00:18:34,481 --> 00:18:35,848
+it's a prime number--
+
+329
+00:18:35,882 --> 00:18:38,151
+that strike you as both victim
+and perpetrator.
+
+330
+00:18:38,185 --> 00:18:39,919
+You know, it's not until
+I conducted it
+
+331
+00:18:39,952 --> 00:18:43,423
+that I became convinced
+we're all capable of murder.
+
+332
+00:18:43,456 --> 00:18:46,226
+That is a fantastic handbag,
+by the way.
+
+333
+00:18:46,259 --> 00:18:48,761
+Thank you.
+I'm glad you like it.
+
+334
+00:18:48,795 --> 00:18:50,397
+Oh, I do. I do.
+
+335
+00:18:50,430 --> 00:18:52,465
+(quietly): Sorry.
+Your lunch with Mr. Kaplan.
+
+336
+00:18:52,499 --> 00:18:54,234
+His driver is waiting.
+
+337
+00:18:54,267 --> 00:18:55,302
+All right.
+
+338
+00:18:55,335 --> 00:18:56,636
+I-I'm sorry,
+I've forgotten your name.
+
+339
+00:18:56,669 --> 00:18:58,205
+-Whitney. Whitney Reese.
+-Whitney.
+
+340
+00:18:58,238 --> 00:18:59,406
+Whitney, of course.
+
+341
+00:18:59,439 --> 00:19:00,907
+I'm, I'm so sorry,
+
+342
+00:19:00,940 --> 00:19:02,342
+and unfortunately
+I've left things a bit late
+
+343
+00:19:02,375 --> 00:19:03,743
+-and there's something
+I can't get out of. -Oh.
+
+344
+00:19:03,776 --> 00:19:05,144
+I understand.
+
+345
+00:19:05,178 --> 00:19:07,380
+Can I text you?
+
+346
+00:19:26,699 --> 00:19:28,901
+It's perfect, Aldo.
+
+347
+00:19:31,338 --> 00:19:33,840
+Oh. I was hoping
+we could celebrate.
+
+348
+00:19:33,873 --> 00:19:36,008
+No. So was I.
+
+349
+00:19:36,042 --> 00:19:37,644
+I've got a class at Juilliard.
+
+350
+00:19:37,677 --> 00:19:38,811
+Oh, good.
+
+351
+00:19:38,845 --> 00:19:40,480
+I promised Ben.
+
+352
+00:19:40,513 --> 00:19:44,016
+I'm sure you'll have a few
+elbowing for an Accordion slot.
+
+353
+00:19:44,951 --> 00:19:47,720
+We should open up
+the fellowship.
+
+354
+00:19:47,754 --> 00:19:50,022
+-What, expand our numbers?
+-No, our sex.
+
+355
+00:19:50,056 --> 00:19:53,360
+I mean, it feels quaint
+to keep things single-gender.
+
+356
+00:19:53,393 --> 00:19:54,694
+We've made our point.
+
+357
+00:19:54,727 --> 00:19:56,296
+And, honestly,
+we've had no real trouble
+
+358
+00:19:56,329 --> 00:19:58,431
+successfully placing
+any of them.
+
+359
+00:19:58,465 --> 00:20:00,333
+Except one.
+
+360
+00:20:00,367 --> 00:20:01,968
+Oh, well.
+
+361
+00:20:02,001 --> 00:20:04,271
+She had issues.
+
+362
+00:20:04,304 --> 00:20:05,905
+So I've heard.
+
+363
+00:20:05,938 --> 00:20:07,807
+The topic comes up
+in every Citibank meeting
+
+364
+00:20:07,840 --> 00:20:10,443
+with her father.
+
+365
+00:20:10,477 --> 00:20:11,811
+I'm sorry about that.
+
+366
+00:20:11,844 --> 00:20:13,079
+It's fine.
+
+367
+00:20:13,112 --> 00:20:15,515
+It's nothing I can't handle.
+
+368
+00:20:16,316 --> 00:20:20,787
+So, you want to torpedo
+Accordion's founding principle?
+
+369
+00:20:20,820 --> 00:20:22,822
+We'd likely lose donors.
+
+370
+00:20:22,855 --> 00:20:25,224
+Yeah, I suppose that's true.
+
+371
+00:20:25,258 --> 00:20:27,494
+M-Maybe it's something
+we revisit
+
+372
+00:20:27,527 --> 00:20:29,296
+-down the line.
+-Sure.
+
+373
+00:20:29,329 --> 00:20:31,998
+Now, Bryant Park's locked
+for the 25th.
+
+374
+00:20:32,031 --> 00:20:34,066
+Nan asked me
+to help fill the place,
+
+375
+00:20:34,100 --> 00:20:35,835
+so the Kaplan Fund
+is gonna buy some radio
+
+376
+00:20:35,868 --> 00:20:37,870
+and outdoor advertising.
+
+377
+00:20:37,904 --> 00:20:40,006
+And claqueurs.
+
+378
+00:20:40,039 --> 00:20:41,374
+It's too big, Eliot.
+
+379
+00:20:41,408 --> 00:20:43,109
+She should have booked
+the Strand.
+
+380
+00:20:43,142 --> 00:20:44,477
+Relax.
+
+381
+00:20:44,511 --> 00:20:46,679
+It'll be great.
+
+382
+00:20:46,713 --> 00:20:49,081
+And it almost falls
+on your birthday.
+
+383
+00:20:51,050 --> 00:20:53,520
+I was, uh, I was sorry
+you weren't able to make it
+
+384
+00:20:53,553 --> 00:20:55,388
+to my Mahler Three in London.
+
+385
+00:20:56,423 --> 00:20:58,157
+Me, too.
+
+386
+00:20:59,526 --> 00:21:01,961
+Uh, Petra had a school thing.
+
+387
+00:21:01,994 --> 00:21:06,399
+Uh, and I promised Sharon
+I'd be there.
+
+388
+00:21:07,700 --> 00:21:09,769
+Of course.
+
+389
+00:21:09,802 --> 00:21:13,039
+I was just hoping
+for your honest opinion.
+
+390
+00:21:13,072 --> 00:21:15,908
+My player rating sheets
+were off the charts.
+
+391
+00:21:15,942 --> 00:21:17,877
+Those are confidential, Eliot.
+
+392
+00:21:17,910 --> 00:21:20,179
+Well, the principal oboist
+is a big fan.
+
+393
+00:21:21,414 --> 00:21:22,582
+On the way back,
+
+394
+00:21:22,615 --> 00:21:24,451
+I was listening to yours
+with the Israeli Phil,
+
+395
+00:21:24,484 --> 00:21:26,453
+and I was struck
+by what you managed to pull
+
+396
+00:21:26,486 --> 00:21:28,955
+from the strings
+in the last movement.
+
+397
+00:21:28,988 --> 00:21:32,559
+I mean, how did you
+get them there?
+
+398
+00:21:32,592 --> 00:21:33,926
+Was it the hall?
+
+399
+00:21:33,960 --> 00:21:35,562
+Was it the players?
+
+400
+00:21:35,595 --> 00:21:38,798
+(scoffs) The players weren't
+very obliging.
+
+401
+00:21:38,831 --> 00:21:40,533
+The principal violinist
+came up to me
+
+402
+00:21:40,567 --> 00:21:41,801
+after the first rehearsal
+
+403
+00:21:41,834 --> 00:21:43,803
+-and asked if I was a Jew.
+-What?
+
+404
+00:21:43,836 --> 00:21:46,706
+It seemed to him unusual, if
+not suspicious, that a non-Jew
+
+405
+00:21:46,739 --> 00:21:50,042
+would be interested
+in conducting Jewish music.
+
+406
+00:21:50,076 --> 00:21:53,012
+-(Eliot chuckles)
+-Felt like Max Bruch.
+
+407
+00:21:53,045 --> 00:21:56,282
+Well, big Jew that I am,
+the Kaplan Fund has, uh,
+
+408
+00:21:56,315 --> 00:21:58,250
+committed a sizable
+amount to them
+
+409
+00:21:58,284 --> 00:22:00,119
+-for a klezmer commission.
+-Mm-hmm.
+
+410
+00:22:00,152 --> 00:22:02,121
+Uh, maybe they'll invite me
+to guest conduct.
+
+411
+00:22:02,154 --> 00:22:03,990
+Oh, well, they'd be lucky
+to have you.
+
+412
+00:22:04,023 --> 00:22:05,858
+Oh, please.
+
+413
+00:22:05,892 --> 00:22:08,027
+I know my place.
+
+414
+00:22:08,060 --> 00:22:10,497
+Money can't always
+buy you everything.
+
+415
+00:22:11,664 --> 00:22:13,700
+You don't really believe that.
+
+416
+00:22:13,733 --> 00:22:16,035
+I'll have you know
+I tried to bribe Francesca
+
+417
+00:22:16,068 --> 00:22:17,704
+to let me look at your notation.
+
+418
+00:22:17,737 --> 00:22:19,271
+She sent me packing.
+
+419
+00:22:19,305 --> 00:22:20,707
+Good girl.
+
+420
+00:22:21,508 --> 00:22:23,376
+That gentleman sitting
+over there with the gnome
+
+421
+00:22:23,410 --> 00:22:25,945
+is urgently focused
+on our table.
+
+422
+00:22:25,978 --> 00:22:29,181
+At first, I thought
+he was looking at me,
+
+423
+00:22:29,215 --> 00:22:31,283
+but I think he's got
+his eye on you.
+
+424
+00:22:31,317 --> 00:22:33,319
+Please try and ignore him.
+
+425
+00:22:33,352 --> 00:22:35,622
+I can excuse myself
+and go wash my hands
+
+426
+00:22:35,655 --> 00:22:37,156
+if you'd like to be alone.
+
+427
+00:22:37,189 --> 00:22:40,226
+And I would never forgive you.
+
+428
+00:22:40,259 --> 00:22:42,261
+The last thing I need
+is to be buttonholed in here
+
+429
+00:22:42,294 --> 00:22:44,431
+by someone exactly like me.
+
+430
+00:22:45,998 --> 00:22:47,767
+Uh, what time are you
+leaving tomorrow?
+
+431
+00:22:48,568 --> 00:22:51,103
+Francesca's looking
+into flights.
+
+432
+00:22:51,137 --> 00:22:52,639
+Well, call her off.
+
+433
+00:22:52,672 --> 00:22:54,240
+Leave when you like.
+
+434
+00:22:54,273 --> 00:22:56,242
+You don't have to do that.
+
+435
+00:22:56,275 --> 00:23:00,079
+My motives are not entirely
+altruistic.
+
+436
+00:23:00,112 --> 00:23:02,582
+Just one peek. One peek
+at your performing score.
+
+437
+00:23:02,615 --> 00:23:05,351
+(Tár chuckles)
+
+438
+00:23:05,384 --> 00:23:06,853
+Fine.
+
+439
+00:23:06,886 --> 00:23:09,789
+-Would 5:15 be okay?
+-Sure.
+
+440
+00:23:09,822 --> 00:23:12,959
+Okay, I mean, I do... I have
+to get turned around fast.
+
+441
+00:23:12,992 --> 00:23:15,294
+We're filling a vacant position.
+
+442
+00:23:15,327 --> 00:23:17,464
+Oh, please tell me
+it's Sebastian.
+
+443
+00:23:17,497 --> 00:23:18,798
+Now, be fair, Eliot.
+
+444
+00:23:18,831 --> 00:23:21,067
+Sebastian has decent technique.
+
+445
+00:23:21,100 --> 00:23:22,502
+He has baton.
+
+446
+00:23:22,535 --> 00:23:24,203
+A month ago,
+I dropped into Bunkamura
+
+447
+00:23:24,236 --> 00:23:27,406
+to watch the Turing machine
+trot out Chopin One.
+
+448
+00:23:27,440 --> 00:23:30,977
+Ol' Sebastian really
+is Mr. Tempo Rubato.
+
+449
+00:23:31,010 --> 00:23:32,679
+Robot-o is more like it.
+
+450
+00:23:32,712 --> 00:23:33,980
+Why do you keep him on?
+
+451
+00:23:34,013 --> 00:23:36,348
+Oh, he's Andris's man,
+you know that.
+
+452
+00:23:36,382 --> 00:23:37,917
+Exactly. You inherited
+that decision.
+
+453
+00:23:37,950 --> 00:23:40,086
+Seven years is a long time
+to pretend you respect it.
+
+454
+00:23:40,119 --> 00:23:42,421
+They have different
+labor contracts over there.
+
+455
+00:23:44,757 --> 00:23:47,794
+He's a... he's a strange guy.
+
+456
+00:23:47,827 --> 00:23:49,095
+Who? Andris?
+
+457
+00:23:49,128 --> 00:23:51,097
+No, Sebastian.
+
+458
+00:23:51,130 --> 00:23:53,766
+He has, uh, fetishes.
+
+459
+00:23:53,800 --> 00:23:55,602
+Fetishes? Like what?
+
+460
+00:23:55,635 --> 00:23:59,305
+Nostalgia for prewar Kalmus
+miniature scores,
+
+461
+00:23:59,338 --> 00:24:01,207
+dead-stock pencils he's seen
+
+462
+00:24:01,240 --> 00:24:03,309
+von Karajan hold in photographs.
+
+463
+00:24:03,342 --> 00:24:05,211
+You know, that sort of thing.
+
+464
+00:24:05,244 --> 00:24:07,614
+(scoffs)
+That's just sad.
+
+465
+00:24:11,918 --> 00:24:14,453
+Yeah, but you're not wrong.
+
+466
+00:24:14,487 --> 00:24:17,490
+I am gonna have to rotate him
+at some point.
+
+467
+00:24:19,759 --> 00:24:22,128
+For who?
+
+468
+00:24:26,298 --> 00:24:28,067
+ <i>What Love Teaches Me.</i> 
+
+469
+00:24:28,100 --> 00:24:30,336
+That string notation.
+
+470
+00:24:31,771 --> 00:24:34,006
+Mahler gives it to you himself.
+
+471
+00:24:36,342 --> 00:24:37,777
+-Come on.
+-Trust me.
+
+472
+00:24:37,810 --> 00:24:39,345
+You do not want to go to school
+
+473
+00:24:39,378 --> 00:24:41,848
+on someone else's
+red and blue pencil.
+
+474
+00:24:41,881 --> 00:24:43,516
+Least of all, mine.
+
+475
+00:24:43,550 --> 00:24:44,784
+Oh, but I do.
+
+476
+00:24:44,817 --> 00:24:46,385
+(sighs) All right.
+Will you quit pestering me?
+
+477
+00:24:46,418 --> 00:24:48,487
+Yes.
+
+478
+00:24:48,521 --> 00:24:50,489
+Free bowing.
+
+479
+00:24:51,791 --> 00:24:54,393
+It's not pretty
+for an audience to look at,
+
+480
+00:24:54,426 --> 00:24:56,028
+but if you can manage
+to keep your players
+
+481
+00:24:56,062 --> 00:24:57,697
+out of the weeds...
+
+482
+00:24:58,731 --> 00:25:00,733
+... the sound's ferocious.
+
+483
+00:25:02,501 --> 00:25:04,436
+Oh.
+
+484
+00:25:07,707 --> 00:25:10,710
+There's no glory
+for a robot, Eliot.
+
+485
+00:25:14,346 --> 00:25:16,549
+Do your own thing.
+
+486
+00:25:18,685 --> 00:25:20,720
+Hmm.
+
+487
+00:25:24,624 --> 00:25:26,392
+(piano plays deep chord)
+
+488
+00:25:26,425 --> 00:25:28,661
+(playing "Ró"
+by Anna Thorvaldsdóttir)
+
+489
+00:25:32,164 --> 00:25:34,366
+-(hollow thump)
+-(soft knock)
+
+490
+00:25:36,435 --> 00:25:38,838
+-(soft knock)
+-(hollow thump)
+
+491
+00:25:38,871 --> 00:25:41,240
+-All right, um...
+-(playing stops)
+
+492
+00:25:41,273 --> 00:25:44,076
+Let's... stop here.
+
+493
+00:25:44,110 --> 00:25:45,712
+-Thank you, Max. Very good.
+-Thanks.
+
+494
+00:25:45,745 --> 00:25:50,850
+Um, just for my own
+edification...
+
+495
+00:25:50,883 --> 00:25:53,052
+why did you come to Juilliard?
+
+496
+00:25:53,085 --> 00:25:55,121
+(Max clicks tongue)
+
+497
+00:25:56,022 --> 00:25:58,658
+Uh, it's the best music
+conservatory in the country?
+
+498
+00:25:58,691 --> 00:26:01,594
+People from Curtis, Eastman,
+and others may beg to differ.
+
+499
+00:26:01,628 --> 00:26:04,230
+I mean,
+Juilliard's a brand, right?
+
+500
+00:26:04,263 --> 00:26:07,066
+So, did you come to study
+with a brand?
+
+501
+00:26:07,099 --> 00:26:09,368
+-No. -No, right.
+So there's a teacher
+
+502
+00:26:09,401 --> 00:26:11,604
+or graduate somewhere
+down the line who, you know,
+
+503
+00:26:11,638 --> 00:26:13,305
+conjured something
+in your imagination.
+
+504
+00:26:13,339 --> 00:26:15,675
+-Someone you aspire
+to be yourself. -Mm-hmm.
+
+505
+00:26:15,708 --> 00:26:17,243
+So, who was that?
+
+506
+00:26:17,276 --> 00:26:18,911
+Sarah Chang.
+
+507
+00:26:18,945 --> 00:26:20,813
+Hmm. So you're a violinist?
+
+508
+00:26:20,847 --> 00:26:22,348
+-Yeah.
+-All right, okay.
+
+509
+00:26:22,381 --> 00:26:24,216
+Well, I can see why
+
+510
+00:26:24,250 --> 00:26:26,719
+you would choose to conduct
+a piece like this.
+
+511
+00:26:26,753 --> 00:26:29,321
+Must be a familiar pleasure
+in presiding over
+
+512
+00:26:29,355 --> 00:26:32,191
+a bed of strings that behave
+as if they're tuning.
+
+513
+00:26:32,224 --> 00:26:34,160
+-(scattered laughter)
+-Now...
+
+514
+00:26:34,193 --> 00:26:38,597
+this piece is very au courant.
+
+515
+00:26:38,631 --> 00:26:41,300
+I mean, here,
+the composer tells us
+
+516
+00:26:41,333 --> 00:26:43,469
+to begin with "back-and-forth
+tremolo strokes
+
+517
+00:26:43,502 --> 00:26:47,506
+with wire brush and slowly
+sliding crotales over skin."
+
+518
+00:26:47,539 --> 00:26:50,042
+Sounds like René Redzepi's
+recipe for reindeer.
+
+519
+00:26:50,076 --> 00:26:51,678
+(sighs heavily)
+
+520
+00:26:51,711 --> 00:26:54,280
+It's exciting to play
+new music, isn't it?
+
+521
+00:26:54,313 --> 00:26:55,748
+-Yeah.
+-Yeah.
+
+522
+00:26:55,782 --> 00:26:59,118
+Great. All right, please,
+join the other fellows.
+
+523
+00:27:00,519 --> 00:27:03,890
+Now, I know you're all
+conducting students
+
+524
+00:27:03,923 --> 00:27:06,859
+of, uh, Mr. Wolfe's,
+but how many of you
+
+525
+00:27:06,893 --> 00:27:10,029
+are also studying composition?
+
+526
+00:27:10,062 --> 00:27:11,630
+Right, what's your name?
+
+527
+00:27:11,664 --> 00:27:13,099
+Olive Kerr.
+
+528
+00:27:13,132 --> 00:27:15,668
+All right, Olive. Uh...
+
+529
+00:27:15,702 --> 00:27:18,170
+What do you make of what
+we've just been listening to?
+
+530
+00:27:18,204 --> 00:27:19,972
+It's pretty awesome.
+
+531
+00:27:20,006 --> 00:27:23,242
+I mean, there's incredible
+atonal tension.
+
+532
+00:27:23,275 --> 00:27:25,544
+I agree about the tension part.
+
+533
+00:27:25,577 --> 00:27:29,448
+Now, you can intellectually
+contemplate, or masturbate,
+
+534
+00:27:29,481 --> 00:27:33,185
+about the felicity
+of the so-called "atonal,"
+
+535
+00:27:33,219 --> 00:27:39,058
+but the important question here
+is: What are you conducting?
+
+536
+00:27:39,091 --> 00:27:40,326
+What is the effect?
+
+537
+00:27:40,359 --> 00:27:43,329
+What is it actually doing to me?
+
+538
+00:27:43,362 --> 00:27:47,199
+Good music can be
+as ornate as a cathedral
+
+539
+00:27:47,233 --> 00:27:49,468
+or bare as a potting shed
+
+540
+00:27:49,501 --> 00:27:52,972
+so long as it allows you to
+answer both those questions.
+
+541
+00:27:53,005 --> 00:27:55,174
+-(claps hands)
+-Max.
+
+542
+00:27:55,207 --> 00:27:57,543
+Come on, what do you think?
+
+543
+00:28:00,479 --> 00:28:05,351
+When... Anna Thorvaldsdóttir
+gave her master class,
+
+544
+00:28:05,384 --> 00:28:09,221
+she said she was often
+influenced by the form
+
+545
+00:28:09,255 --> 00:28:14,693
+and structure of landscapes
+and nature she grew up within.
+
+546
+00:28:14,727 --> 00:28:17,296
+But I'm not sure
+she was interested per se
+
+547
+00:28:17,329 --> 00:28:20,432
+in, uh, describing
+those actual sounds.
+
+548
+00:28:20,466 --> 00:28:23,169
+Very <i>Punkt Kontra Punkt.</i> 
+
+549
+00:28:24,170 --> 00:28:25,805
+Yes.
+
+550
+00:28:25,838 --> 00:28:30,709
+The intent of her composition
+is vague, to say the least.
+
+551
+00:28:30,743 --> 00:28:35,647
+So, if her intent is vague,
+how do you, as a conductor,
+
+552
+00:28:35,681 --> 00:28:39,185
+have a point of view
+about anything?
+
+553
+00:28:39,218 --> 00:28:40,820
+Now, to be fair, I mean,
+
+554
+00:28:40,853 --> 00:28:43,155
+there are times when you will
+simply have no choice.
+
+555
+00:28:43,189 --> 00:28:45,858
+And you will be made to stand
+in front of an orchestra
+
+556
+00:28:45,892 --> 00:28:49,128
+and pretend that there are
+these invisible structures.
+
+557
+00:28:49,161 --> 00:28:52,264
+But my prayer for you
+
+558
+00:28:52,298 --> 00:28:54,433
+is that you will be spared
+the embarrassment
+
+559
+00:28:54,466 --> 00:28:56,735
+of standing on the podium
+with a 4'33",
+
+560
+00:28:56,769 --> 00:28:59,371
+trying to sell a car
+without an engine.
+
+561
+00:28:59,405 --> 00:29:01,507
+Because now, my friends,
+
+562
+00:29:01,540 --> 00:29:04,777
+now is the time to conduct music
+
+563
+00:29:04,811 --> 00:29:08,314
+that actually requires
+something of you.
+
+564
+00:29:08,347 --> 00:29:09,949
+You know,
+music that everybody knows
+
+565
+00:29:09,982 --> 00:29:14,620
+but will hear differently
+when you interpret it for them.
+
+566
+00:29:14,653 --> 00:29:18,290
+For instance, Max,
+why not a Kyrie?
+
+567
+00:29:18,324 --> 00:29:23,495
+You know, like, uh, something
+like Bach's <i>Mass in B minor.</i> 
+
+568
+00:29:23,529 --> 00:29:25,197
+(chuckles nervously)
+
+569
+00:29:25,231 --> 00:29:27,166
+I'm not really into Bach.
+
+570
+00:29:27,199 --> 00:29:29,969
+-You're not into Bach?
+-Mm-hmm.
+
+571
+00:29:30,002 --> 00:29:31,804
+Oh, Max.
+
+572
+00:29:32,671 --> 00:29:34,907
+Have you read
+the Schweitzer book?
+
+573
+00:29:34,941 --> 00:29:36,442
+No.
+
+574
+00:29:36,475 --> 00:29:38,110
+Well, you should.
+
+575
+00:29:38,144 --> 00:29:40,446
+It's an important text.
+
+576
+00:29:40,479 --> 00:29:42,882
+Now, Antonia Brico thought so.
+
+577
+00:29:42,915 --> 00:29:45,784
+So much so that she shipped
+herself to Equatorial Africa
+
+578
+00:29:45,818 --> 00:29:48,654
+and canoed up the Congo River
+to track Schweitzer down
+
+579
+00:29:48,687 --> 00:29:51,790
+and ask him to teach her
+what he knew about Bach.
+
+580
+00:29:51,824 --> 00:29:53,559
+I mean, somewhere,
+I've got a picture of her
+
+581
+00:29:53,592 --> 00:29:56,062
+in a, in a pith helmet.
+
+582
+00:29:56,095 --> 00:29:57,529
+I mean, have you...
+
+583
+00:29:57,563 --> 00:30:01,567
+have you ever played
+or-or conducted Bach?
+
+584
+00:30:01,600 --> 00:30:07,239
+Honestly, as a BIPOC,
+pangender person,
+
+585
+00:30:07,273 --> 00:30:08,941
+I would say Bach's
+misogynistic life
+
+586
+00:30:08,975 --> 00:30:12,144
+makes it kind of impossible
+for me
+
+587
+00:30:12,178 --> 00:30:14,580
+to take his music seriously.
+
+588
+00:30:15,982 --> 00:30:17,749
+Come on.
+
+589
+00:30:17,783 --> 00:30:20,719
+What do... what do...
+what do you mean by that?
+
+590
+00:30:20,752 --> 00:30:24,656
+Well, didn't he sire,
+like, 20 kids?
+
+591
+00:30:24,690 --> 00:30:26,859
+Yes, that's documented.
+
+592
+00:30:26,893 --> 00:30:30,629
+Along with a considerable
+amount of music.
+
+593
+00:30:30,662 --> 00:30:32,999
+But I'm sorry,
+I'm... I'm unclear
+
+594
+00:30:33,032 --> 00:30:35,667
+as to what his prodigious
+skills in the marital bed
+
+595
+00:30:35,701 --> 00:30:39,005
+have to do with B minor.
+
+596
+00:30:39,038 --> 00:30:40,472
+Sure.
+
+597
+00:30:40,506 --> 00:30:43,142
+All right, whatever.
+That's-that's your choice.
+
+598
+00:30:43,175 --> 00:30:46,045
+I mean, after all, "a soul
+selects her own society."
+
+599
+00:30:46,078 --> 00:30:48,881
+But remember, the flip side
+of that selection
+
+600
+00:30:48,915 --> 00:30:51,850
+closes the valves
+of one's attention.
+
+601
+00:30:51,884 --> 00:30:56,188
+Now, of course,
+siloing what is acceptable
+
+602
+00:30:56,222 --> 00:30:59,591
+or not acceptable
+is a basic construct of many,
+
+603
+00:30:59,625 --> 00:31:01,994
+if not most,
+symphony orchestras today,
+
+604
+00:31:02,028 --> 00:31:04,096
+who see it
+as their imperial right
+
+605
+00:31:04,130 --> 00:31:05,697
+to curate for the cretins.
+
+606
+00:31:05,731 --> 00:31:07,699
+So, slippery as it is,
+
+607
+00:31:07,733 --> 00:31:11,337
+there is some merit
+in examining Max's allergy.
+
+608
+00:31:11,370 --> 00:31:14,806
+Can classical music
+written by a bunch of straight,
+
+609
+00:31:14,840 --> 00:31:18,010
+Austro-German, churchgoing
+white guys exalt us,
+
+610
+00:31:18,044 --> 00:31:20,612
+individually
+as-as well as collectively,
+
+611
+00:31:20,646 --> 00:31:24,650
+and who, may I ask,
+gets to decide that?
+
+612
+00:31:25,617 --> 00:31:28,087
+(sighs)
+You know, what about Beethoven?
+
+613
+00:31:28,120 --> 00:31:29,888
+You into him?
+
+614
+00:31:29,922 --> 00:31:32,758
+Because for me,
+as a U-Haul lesbian,
+
+615
+00:31:32,791 --> 00:31:35,995
+I'm... I'm not too sure
+about old Ludwig.
+
+616
+00:31:37,096 --> 00:31:40,499
+But then, I face him.
+
+617
+00:31:40,532 --> 00:31:42,734
+And I find myself nose-to-nose
+
+618
+00:31:42,768 --> 00:31:47,139
+with his magnitude
+and inevitability.
+
+619
+00:31:49,541 --> 00:31:52,544
+Come on, Max. Indulge me.
+
+620
+00:31:52,578 --> 00:31:56,048
+Let's allow Bach a similar gaze.
+
+621
+00:31:56,082 --> 00:31:57,316
+(inhales deeply)
+
+622
+00:31:57,349 --> 00:32:00,719
+(playing Bach's Präludium
+und Fuge C-Dur. BWV 846)
+
+623
+00:32:00,752 --> 00:32:02,054
+Sit.
+
+624
+00:32:04,890 --> 00:32:07,960
+Now, this is all
+filigree, right?
+
+625
+00:32:07,994 --> 00:32:12,764
+I mean, it could be
+a first-year piano student.
+
+626
+00:32:12,798 --> 00:32:17,436
+* Or Schroeder playing
+for Lucy. *
+
+627
+00:32:19,405 --> 00:32:21,807
+Or Glenn Gould, for that matter.
+
+628
+00:32:26,412 --> 00:32:28,880
+Now, it's not until
+it changes...
+
+629
+00:32:29,915 --> 00:32:31,483
+... when you get inside it,
+
+630
+00:32:31,517 --> 00:32:33,085
+that you hear what it really is.
+
+631
+00:32:33,119 --> 00:32:34,853
+It's a question.
+
+632
+00:32:37,256 --> 00:32:39,158
+And an answer.
+
+633
+00:32:40,792 --> 00:32:43,595
+Which begs another question.
+
+634
+00:32:45,631 --> 00:32:48,000
+There's a humility in Bach.
+
+635
+00:32:48,034 --> 00:32:51,937
+He's not pretending
+he's certain about anything.
+
+636
+00:32:51,970 --> 00:32:54,906
+'Cause he knows
+that it's always the question
+
+637
+00:32:54,940 --> 00:32:57,943
+that involves the listener.
+
+638
+00:32:57,976 --> 00:33:01,080
+It's never the answer, right?
+
+639
+00:33:01,113 --> 00:33:04,783
+Now, the big question
+for you is:
+
+640
+00:33:04,816 --> 00:33:07,119
+(growling):
+What do you think, Max?
+
+641
+00:33:11,157 --> 00:33:13,125
+(exhales)
+
+642
+00:33:13,159 --> 00:33:15,194
+You play really well.
+
+643
+00:33:15,227 --> 00:33:21,467
+But nowadays, white, male, cis
+composers, just not my thing.
+
+644
+00:33:21,500 --> 00:33:25,737
+Don't be so eager
+to be offended.
+
+645
+00:33:25,771 --> 00:33:27,906
+The narcissism
+of small differences
+
+646
+00:33:27,939 --> 00:33:30,676
+leads to the most boring
+conformity.
+
+647
+00:33:30,709 --> 00:33:32,744
+I guess Edgard Varèse is okay.
+
+648
+00:33:32,778 --> 00:33:34,713
+I mean, I like "Arcana," anyway.
+
+649
+00:33:34,746 --> 00:33:37,749
+Oh, well, then you must be
+aware that Varèse
+
+650
+00:33:37,783 --> 00:33:40,052
+once famously stated that jazz
+
+651
+00:33:40,086 --> 00:33:44,323
+was "a Negro product
+exploited by the Jews."
+
+652
+00:33:44,356 --> 00:33:47,025
+Didn't stop Jerry Goldsmith
+from ripping him off
+
+653
+00:33:47,059 --> 00:33:49,195
+for his
+ <i>Planet of the Apes</i> score.
+
+654
+00:33:49,228 --> 00:33:51,830
+It's kind of a perfect insult,
+don't you think?
+
+655
+00:33:51,863 --> 00:33:55,601
+But you see, the problem
+with enrolling yourself
+
+656
+00:33:55,634 --> 00:33:58,104
+as an ultrasonic epistemic
+dissident
+
+657
+00:33:58,137 --> 00:34:01,807
+is that if Bach's talent
+can be reduced to his gender,
+
+658
+00:34:01,840 --> 00:34:04,843
+birth country, religion,
+sexuality, and so on,
+
+659
+00:34:04,876 --> 00:34:07,479
+then so can yours.
+
+660
+00:34:07,513 --> 00:34:11,083
+Now, someday, Max,
+when you go out into the world
+
+661
+00:34:11,117 --> 00:34:14,620
+and you guest conduct
+for a major or minor orchestra,
+
+662
+00:34:14,653 --> 00:34:17,789
+you may notice that the players
+have more than light bulbs
+
+663
+00:34:17,823 --> 00:34:20,292
+and music on their stands.
+
+664
+00:34:20,326 --> 00:34:23,695
+They will also have been
+handed rating sheets,
+
+665
+00:34:23,729 --> 00:34:26,665
+the purpose of which
+is to rate you.
+
+666
+00:34:26,698 --> 00:34:29,034
+Now, what kind of criteria
+
+667
+00:34:29,067 --> 00:34:31,570
+would you hope that they would
+use to do this?
+
+668
+00:34:31,603 --> 00:34:35,006
+Your score reading and stick
+technique, or something else?
+
+669
+00:34:37,909 --> 00:34:41,480
+All right, everyone,
+using Max's criteria,
+
+670
+00:34:41,513 --> 00:34:44,082
+let's consider Max's thing.
+
+671
+00:34:44,116 --> 00:34:46,918
+In this case,
+Anna Thorvaldsdóttir.
+
+672
+00:34:46,952 --> 00:34:50,722
+Now, can we agree on two pieces
+of observation?
+
+673
+00:34:50,756 --> 00:34:53,225
+One, that Anna was born
+in Iceland.
+
+674
+00:34:53,259 --> 00:34:55,561
+And two, that she is,
+in a, I don't know,
+
+675
+00:34:55,594 --> 00:34:58,330
+Waldorf teacher kinda way,
+a superhot young woman.
+
+676
+00:34:58,364 --> 00:35:00,166
+Show of hands.
+
+677
+00:35:00,199 --> 00:35:02,501
+All right,
+now let's turn our gaze
+
+678
+00:35:02,534 --> 00:35:04,436
+back to the piano bench up there
+
+679
+00:35:04,470 --> 00:35:07,839
+and see if we can square
+how any of those things
+
+680
+00:35:07,873 --> 00:35:12,178
+possibly relate to the person
+we see seated before us.
+
+681
+00:35:12,211 --> 00:35:14,079
+(lid slams shut)
+
+682
+00:35:16,848 --> 00:35:18,750
+Oh, where are you going?
+
+683
+00:35:22,388 --> 00:35:23,789
+You're a fucking bitch.
+
+684
+00:35:23,822 --> 00:35:25,324
+(Tár grunts)
+
+685
+00:35:25,357 --> 00:35:27,326
+And you are a robot.
+
+686
+00:35:27,359 --> 00:35:29,928
+I mean, unfortunately,
+the architect of your soul
+
+687
+00:35:29,961 --> 00:35:32,598
+appears to be social media.
+
+688
+00:35:32,631 --> 00:35:35,967
+You want to dance the mask,
+you must service the composer.
+
+689
+00:35:36,001 --> 00:35:37,303
+You gotta sublimate yourself,
+
+690
+00:35:37,336 --> 00:35:40,372
+your ego, and, yes,
+your identity.
+
+691
+00:35:40,406 --> 00:35:42,974
+You must, in fact, stand
+in front of the public and God
+
+692
+00:35:43,008 --> 00:35:45,844
+and obliterate yourself.
+
+693
+00:35:47,879 --> 00:35:49,615
+(sighs):
+All right.
+
+694
+00:35:49,648 --> 00:35:51,317
+ALEC BALDWIN (over computer):
+During the lockdown,
+
+695
+00:35:51,350 --> 00:35:53,685
+you did something
+I thought remarkable.
+
+696
+00:35:53,719 --> 00:35:55,321
+You made music for free.
+
+697
+00:35:55,354 --> 00:35:58,023
+Anyone at all could stream
+Berlin performances
+
+698
+00:35:58,056 --> 00:36:00,592
+without ever paying a dime.
+
+699
+00:36:00,626 --> 00:36:02,528
+TÁR:
+Well, that-that was a...
+
+700
+00:36:02,561 --> 00:36:05,897
+it's a democratically made
+decision by the players.
+
+701
+00:36:05,931 --> 00:36:10,135
+And though I-I wish I could
+claim the idea was mine,
+
+702
+00:36:10,168 --> 00:36:13,705
+it really did spring from
+the heart of Sharon Goodnow.
+
+703
+00:36:13,739 --> 00:36:15,073
+BALDWIN:
+Sharon is your partner.
+
+704
+00:36:15,106 --> 00:36:16,442
+You have a child together,
+
+705
+00:36:16,475 --> 00:36:19,177
+and she's also the
+concertmaster for Berlin.
+
+706
+00:36:19,211 --> 00:36:21,146
+-Does that ever...
+-Yes, that's right.
+
+707
+00:36:21,179 --> 00:36:22,981
+... complicate things for you?
+
+708
+00:36:23,014 --> 00:36:24,950
+Your work getting into your
+home or the other way ar...?
+
+709
+00:36:24,983 --> 00:36:27,219
+(indistinct chatter)
+
+710
+00:36:38,830 --> 00:36:40,198
+FRANCESCA:
+Jake said he was certain
+
+711
+00:36:40,232 --> 00:36:42,000
+you'd be happy with the drape
+of the seat.
+
+712
+00:36:42,033 --> 00:36:43,502
+I will be... (sighs)
+
+713
+00:36:43,535 --> 00:36:46,037
+... if I can keep the fat off
+until next month.
+
+714
+00:36:46,071 --> 00:36:48,907
+(laughs):
+You never gain weight.
+
+715
+00:36:49,675 --> 00:36:51,443
+(laughs softly)
+
+716
+00:36:52,244 --> 00:36:54,413
+Your... your mother texted me.
+
+717
+00:36:54,446 --> 00:36:56,915
+She knows you're busy
+but is hoping to drop by.
+
+718
+00:36:56,948 --> 00:36:58,450
+(clears throat nervously)
+
+719
+00:36:58,484 --> 00:37:00,085
+Next trip.
+
+720
+00:37:00,118 --> 00:37:02,454
+What are you thinking
+for dinner?
+
+721
+00:37:02,488 --> 00:37:04,055
+Uh, no.
+
+722
+00:37:04,089 --> 00:37:06,958
+No, I'm-I'm gonna stay in
+and put this piano to good use.
+
+723
+00:37:06,992 --> 00:37:10,562
+I'm suspicious of the E natural
+in the cello line.
+
+724
+00:37:10,596 --> 00:37:13,832
+Doesn't it sound like
+warmed-over Charles Ives to you?
+
+725
+00:37:13,865 --> 00:37:15,834
+Not-not at all.
+
+726
+00:37:15,867 --> 00:37:17,836
+But don't worry,
+I'll call Houston.
+
+727
+00:37:17,869 --> 00:37:19,271
+They'll be flexible.
+
+728
+00:37:19,305 --> 00:37:21,873
+(sighs) You must have
+some New Haven friends
+
+729
+00:37:21,907 --> 00:37:24,042
+you want to see tonight?
+
+730
+00:37:24,075 --> 00:37:26,378
+(chuckles):
+No. Not really.
+
+731
+00:37:26,412 --> 00:37:28,013
+(Tár sighs, sniffs)
+
+732
+00:37:28,046 --> 00:37:31,082
+Should I stop by later
+for notes?
+
+733
+00:37:31,116 --> 00:37:33,218
+No, that won't be necessary.
+
+734
+00:37:33,251 --> 00:37:36,087
+-(playing dramatic melody)
+-(quietly): Okay.
+
+735
+00:37:38,524 --> 00:37:43,995
+Oh, I, I-I almost forgot, but...
+
+736
+00:37:44,029 --> 00:37:46,798
+this was left for you
+at the front desk.
+
+737
+00:37:46,832 --> 00:37:47,933
+By who?
+
+738
+00:37:47,966 --> 00:37:49,935
+They didn't say.
+
+739
+00:37:49,968 --> 00:37:51,803
+Wh-What, no card?
+
+740
+00:37:51,837 --> 00:37:53,071
+No.
+
+741
+00:37:53,104 --> 00:37:55,206
+Okay, just, just leave it
+over there.
+
+742
+00:37:55,240 --> 00:37:56,408
+Thanks.
+
+743
+00:37:56,442 --> 00:37:58,477
+*
+
+744
+00:38:07,018 --> 00:38:08,420
+Good night.
+
+745
+00:38:08,454 --> 00:38:10,021
+Night.
+
+746
+00:38:15,327 --> 00:38:18,096
+*
+
+747
+00:38:18,129 --> 00:38:19,465
+JESSICA HANSEN (over radio):
+You're listening to
+
+748
+00:38:19,498 --> 00:38:22,033
+ <i>All Things Considered</i>
+from NPR News.
+
+749
+00:38:22,067 --> 00:38:23,535
+ <i>All Things Considered</i>
+is brought to you
+
+750
+00:38:23,569 --> 00:38:25,236
+by the Corporation
+for Public Broadcasting...
+
+751
+00:38:25,270 --> 00:38:26,905
+TÁR (mimics):
+Public Broadcasting.
+
+752
+00:38:26,938 --> 00:38:28,474
+HANSEN:
+... and <i>I Eat Ears,</i> 
+
+753
+00:38:28,507 --> 00:38:31,443
+-feeding the discerning
+listener since 2008. -2008.
+
+754
+00:38:31,477 --> 00:38:33,078
+ <i>-I Eat Ears,</i>
+ <i>-I Eat Ears,</i> 
+
+755
+00:38:33,111 --> 00:38:35,381
+-and you should, too.
+-and you should, too.
+
+756
+00:38:36,147 --> 00:38:39,551
+HANSEN:
+And now, more from NPR.
+
+757
+00:38:39,585 --> 00:38:40,952
+Over the next few weeks,
+
+758
+00:38:40,986 --> 00:38:43,088
+we'll be hearing poems
+from four finalists
+
+759
+00:38:43,121 --> 00:38:46,792
+for the National
+Youth Poet Laureate Award.
+
+760
+00:38:54,400 --> 00:38:56,935
+TÁR:
+When were you informed of this?
+
+761
+00:38:56,968 --> 00:38:59,638
+FRANCESCA:
+Just this morning.
+
+762
+00:38:59,671 --> 00:39:01,907
+Mr. Kaplan was very apologetic.
+
+763
+00:39:01,940 --> 00:39:03,341
+I was able to get us on
+
+764
+00:39:03,375 --> 00:39:04,976
+the 7:00 a.m. you like,
+through Munich.
+
+765
+00:39:05,010 --> 00:39:06,211
+The connection's short,
+
+766
+00:39:06,244 --> 00:39:08,113
+but special services
+are standing by.
+
+767
+00:39:08,146 --> 00:39:10,181
+Where are things with DG?
+
+768
+00:39:10,215 --> 00:39:12,818
+Please tell me they've finally
+woken up to see the wisdom
+
+769
+00:39:12,851 --> 00:39:15,186
+of honest-to-God LPs
+for this release?
+
+770
+00:39:15,220 --> 00:39:17,288
+-(Tár sighs)
+-No movement there yet.
+
+771
+00:39:17,322 --> 00:39:19,057
+Have you looked at the email
+I drafted for you?
+
+772
+00:39:19,090 --> 00:39:20,459
+-Sent it last night.
+-Mm-hmm.
+
+773
+00:39:20,492 --> 00:39:23,261
+-Well, just forward me
+their response. -Mm-hmm.
+
+774
+00:39:24,229 --> 00:39:27,265
+What's your take
+on <i>The New Yorker</i> talk?
+
+775
+00:39:28,634 --> 00:39:29,968
+It went well, I thought.
+
+776
+00:39:30,001 --> 00:39:31,703
+Oh. You're hedging.
+
+777
+00:39:31,737 --> 00:39:32,904
+(Francesca chuckles softly)
+
+778
+00:39:32,938 --> 00:39:34,272
+I was garrulous.
+
+779
+00:39:34,305 --> 00:39:35,641
+-No.
+-(chuckles)
+
+780
+00:39:35,674 --> 00:39:37,876
+No, not at all.
+You, you were fabulous.
+
+781
+00:39:37,909 --> 00:39:40,311
+(laughs):
+Francesca.
+
+782
+00:39:40,345 --> 00:39:42,981
+If you have any real interest
+in conducting,
+
+783
+00:39:43,014 --> 00:39:44,916
+you need to be able
+to speak your mind.
+
+784
+00:39:44,950 --> 00:39:46,785
+Okay. Perhaps you...
+
+785
+00:39:46,818 --> 00:39:49,455
+You could've made less
+of the relationship with...
+
+786
+00:39:49,488 --> 00:39:50,956
+-Lenny?
+-No.
+
+787
+00:39:50,989 --> 00:39:53,358
+I-I was thinking
+about Mahler and Alma's.
+
+788
+00:39:53,391 --> 00:39:55,260
+-Oh. Huh. -You implied
+that she betrayed him.
+
+789
+00:39:55,293 --> 00:39:58,497
+I'm not, I'm not sure
+I agree with that.
+
+790
+00:39:58,530 --> 00:39:59,931
+Oh, really?
+
+791
+00:39:59,965 --> 00:40:01,467
+Alma was a composer, too,
+
+792
+00:40:01,500 --> 00:40:03,835
+but he insisted
+she stop writing music.
+
+793
+00:40:03,869 --> 00:40:05,504
+He said there was
+only room for...
+
+794
+00:40:05,537 --> 00:40:07,739
+-One asshole in the house?
+-One asshole in the house. Yes.
+
+795
+00:40:07,773 --> 00:40:09,374
+And she agreed to those rules.
+
+796
+00:40:09,407 --> 00:40:11,810
+No one made that decision
+for her.
+
+797
+00:40:11,843 --> 00:40:14,880
+#RulesOfTheGame.
+
+798
+00:40:18,183 --> 00:40:20,552
+(blows raspberry) Okay.
+
+799
+00:40:26,091 --> 00:40:27,826
+(Francesca sighs)
+
+800
+00:40:27,859 --> 00:40:29,160
+How was your evening?
+
+801
+00:40:29,194 --> 00:40:31,630
+Yeah, was uneventful.
+
+802
+00:40:31,663 --> 00:40:34,199
+Are there any
+of Sharon's pills left?
+
+803
+00:40:34,232 --> 00:40:37,135
+No, but Dr. Korovin
+called these in.
+
+804
+00:40:37,168 --> 00:40:39,638
+Ah, thanks.
+
+805
+00:40:42,508 --> 00:40:44,375
+(exhales heavily)
+
+806
+00:40:47,178 --> 00:40:50,081
+I received another weird email
+from Krista.
+
+807
+00:40:50,115 --> 00:40:53,685
+-Mm-hmm.
+-How should I reply?
+
+808
+00:40:53,719 --> 00:40:55,386
+Don't.
+
+809
+00:40:56,788 --> 00:41:00,191
+Well, this one felt
+especially desperate.
+
+810
+00:41:00,225 --> 00:41:02,260
+(speaking German)
+
+811
+00:41:08,967 --> 00:41:11,202
+(plane engine humming quietly)
+
+812
+00:41:15,473 --> 00:41:17,242
+(sighs)
+
+813
+00:41:29,688 --> 00:41:31,489
+(inhales deeply)
+
+814
+00:41:32,257 --> 00:41:34,425
+(sighs heavily)
+
+815
+00:41:34,459 --> 00:41:36,427
+(paper rustling)
+
+816
+00:41:36,461 --> 00:41:38,496
+(sighs)
+
+817
+00:42:11,262 --> 00:42:13,498
+(pencil scratching on paper)
+
+818
+00:42:14,933 --> 00:42:17,168
+(muffled mumbling)
+
+819
+00:42:30,415 --> 00:42:32,651
+(suitcase clattering)
+
+820
+00:42:44,195 --> 00:42:46,397
+(keys jingle)
+
+821
+00:42:55,974 --> 00:42:58,243
+(sighs)
+
+822
+00:43:00,779 --> 00:43:03,314
+TÁR: Do you have some kind
+of profit-sharing deal
+
+823
+00:43:03,348 --> 00:43:05,851
+with the utility company
+that I am unaware of?
+
+824
+00:43:05,884 --> 00:43:07,819
+(Sharon gasping)
+
+825
+00:43:07,853 --> 00:43:10,255
+The flutter's back.
+
+826
+00:43:10,288 --> 00:43:13,625
+It's... It's racing.
+
+827
+00:43:13,659 --> 00:43:16,127
+I can't find my Metoprolol
+anywhere.
+
+828
+00:43:16,161 --> 00:43:18,563
+(breath trembling)
+
+829
+00:43:20,331 --> 00:43:22,133
+(whispers):
+Oh, fuck.
+
+830
+00:43:23,268 --> 00:43:25,937
+(opens pill bottle)
+
+831
+00:43:25,971 --> 00:43:27,839
+(pills rattling)
+
+832
+00:43:27,873 --> 00:43:29,307
+(Sharon breathing shakily)
+
+833
+00:43:29,340 --> 00:43:30,876
+(opens lid)
+
+834
+00:43:30,909 --> 00:43:32,577
+(runs water, stops)
+
+835
+00:43:32,610 --> 00:43:33,712
+(closes lid)
+
+836
+00:43:33,745 --> 00:43:37,649
+Uh, I found this
+lying loose in the drawer.
+
+837
+00:43:40,051 --> 00:43:42,387
+Is this the right one?
+
+838
+00:43:43,822 --> 00:43:45,390
+Yeah.
+
+839
+00:43:50,195 --> 00:43:52,297
+Thank you.
+
+840
+00:43:55,300 --> 00:43:57,402
+Is that a new bag?
+
+841
+00:43:57,435 --> 00:44:00,038
+Oh, it's just a gift from Eliot.
+
+842
+00:44:00,071 --> 00:44:01,439
+(chuckles):
+You want it?
+
+843
+00:44:01,472 --> 00:44:02,774
+No.
+
+844
+00:44:04,009 --> 00:44:05,443
+Suits you.
+
+845
+00:44:05,476 --> 00:44:07,412
+(sets glass on table)
+
+846
+00:44:07,445 --> 00:44:13,118
+Let's slow this down
+to 60 beats a minute.
+
+847
+00:44:13,952 --> 00:44:15,553
+(switch clicks)
+
+848
+00:44:15,586 --> 00:44:18,690
+("Li'l Darlin'" by Count Basie
+& His Orchestra playing)
+
+849
+00:44:21,292 --> 00:44:23,494
+(Sharon sniffs)
+
+850
+00:44:25,530 --> 00:44:27,999
+(Sharon breaths deeply, sighs)
+
+851
+00:44:28,033 --> 00:44:30,268
+*
+
+852
+00:44:37,142 --> 00:44:39,010
+Actually, it's 64 beats.
+
+853
+00:44:39,044 --> 00:44:41,146
+(Tár chuckles softly)
+
+854
+00:44:43,481 --> 00:44:46,517
+Tried calling you
+on your mobile last night.
+
+855
+00:44:46,551 --> 00:44:48,319
+TÁR:
+Hmm.
+
+856
+00:44:48,353 --> 00:44:51,289
+And again at the hotel.
+
+857
+00:44:51,322 --> 00:44:53,725
+Must've been asleep.
+
+858
+00:44:54,625 --> 00:44:56,494
+You never sleep that deeply.
+
+859
+00:44:56,527 --> 00:44:58,764
+No, no, don't be a scold.
+
+860
+00:44:58,797 --> 00:45:02,667
+(quietly):
+* Feelin' a feelin'
+
+861
+00:45:03,735 --> 00:45:10,208
+* For somethin' there ain't
+too much of... *
+
+862
+00:45:11,009 --> 00:45:12,911
+I'm worried about Petra.
+
+863
+00:45:15,480 --> 00:45:18,649
+She's starting to disappear
+into herself.
+
+864
+00:45:19,885 --> 00:45:21,652
+Be specific.
+
+865
+00:45:24,655 --> 00:45:28,026
+She keeps coming home
+with bruises on her shins.
+
+866
+00:45:28,960 --> 00:45:32,463
+And then when I ask her
+about it, she gets quiet.
+
+867
+00:45:34,099 --> 00:45:36,734
+I mean, I hope
+it's just playground football
+
+868
+00:45:36,768 --> 00:45:39,570
+and not some <i>Biodeutsche</i> thing.
+
+869
+00:45:39,604 --> 00:45:42,507
+Hmm, we talked about this.
+
+870
+00:45:43,809 --> 00:45:46,945
+But maybe we just need
+to put more effort
+
+871
+00:45:46,978 --> 00:45:49,881
+into finding her a friend.
+
+872
+00:45:49,915 --> 00:45:51,783
+Last year was really hard
+
+873
+00:45:51,817 --> 00:45:55,320
+to be locked up alone
+with two old ladies like us.
+
+874
+00:45:58,689 --> 00:46:01,692
+She's old enough to learn piano.
+
+875
+00:46:03,394 --> 00:46:05,430
+I'll teach her.
+
+876
+00:46:06,631 --> 00:46:08,433
+(Sharon laughs softly)
+
+877
+00:46:10,168 --> 00:46:12,337
+Yeah.
+
+878
+00:46:12,370 --> 00:46:14,772
+That might be good.
+
+879
+00:46:16,007 --> 00:46:18,243
+How's your heart?
+
+880
+00:46:19,210 --> 00:46:21,412
+Better now.
+
+881
+00:46:22,547 --> 00:46:24,782
+(song continues playing)
+
+882
+00:46:38,296 --> 00:46:41,900
+(Symphony No. 5 in D Minor,
+Op. 47: IV. Finale over radio)
+
+883
+00:46:43,401 --> 00:46:46,304
+(sighs):
+Knock, knock. Who's there?
+
+884
+00:46:46,337 --> 00:46:48,974
+Lenny?
+
+885
+00:46:49,007 --> 00:46:51,309
+Walter?
+
+886
+00:46:51,342 --> 00:46:54,245
+Oh, it's you, MTT.
+
+887
+00:46:54,279 --> 00:46:57,448
+Why do you insist on holding
+things up like that?
+
+888
+00:46:57,482 --> 00:46:59,050
+Your business here is rejoicing,
+
+889
+00:46:59,084 --> 00:47:02,888
+not screaming
+like a fucking porn star.
+
+890
+00:47:02,921 --> 00:47:05,023
+RADIO ANNOUNCER: Michael Tilson
+Thomas... (speaks German)
+
+891
+00:47:05,056 --> 00:47:07,292
+(toothbrush buzzing)
+
+892
+00:47:13,531 --> 00:47:15,666
+Hello, Petra.
+
+893
+00:47:17,635 --> 00:47:20,705
+Why are you lurking? Hmm?
+
+894
+00:47:21,506 --> 00:47:23,841
+Tell me and I'll help.
+
+895
+00:47:24,609 --> 00:47:26,211
+-TÁR: Sharon?
+-Hmm?
+
+896
+00:47:26,244 --> 00:47:28,346
+Uh, I'm taking Petra to school.
+
+897
+00:47:28,379 --> 00:47:29,847
+Oh, okay.
+
+898
+00:47:29,881 --> 00:47:32,583
+-Come on.
+ <i>-Tschüss.</i> 
+
+899
+00:47:52,537 --> 00:47:55,406
+TÁR:
+Who'll bear the pall?
+
+900
+00:47:55,440 --> 00:47:57,075
+"We," said the wren,
+
+901
+00:47:57,108 --> 00:48:00,245
+-"both the cock and the hen."
+-The hen.
+
+902
+00:48:00,278 --> 00:48:01,947
+"I'll..." (sputters)
+
+903
+00:48:01,980 --> 00:48:04,449
+BOTH:
+"We'll bear the pall."
+
+904
+00:48:04,482 --> 00:48:06,151
+And who'll sing a psalm?
+
+905
+00:48:06,184 --> 00:48:10,655
+"I," said the thrush
+as she sat on a bush.
+
+906
+00:48:10,688 --> 00:48:12,723
+"I'll sing a song."
+
+907
+00:48:12,757 --> 00:48:14,993
+"Who'll toll the bell?"
+
+908
+00:48:15,026 --> 00:48:16,394
+"I," said the bull,
+
+909
+00:48:16,427 --> 00:48:19,030
+"because I can pull.
+
+910
+00:48:19,064 --> 00:48:20,431
+I'll toll the bell."
+
+911
+00:48:20,465 --> 00:48:23,301
+BOTH:
+All the birds of the air
+
+912
+00:48:23,334 --> 00:48:26,371
+fell a-sighing and a-sobbing
+
+913
+00:48:26,404 --> 00:48:29,374
+when they heard the bell toll
+
+914
+00:48:29,407 --> 00:48:33,411
+for poor Cock Robin!
+
+915
+00:48:38,749 --> 00:48:39,917
+(children chattering)
+
+916
+00:48:39,951 --> 00:48:42,387
+TÁR:
+It's gonna be okay.
+
+917
+00:48:46,791 --> 00:48:49,060
+All right.
+Okay, which one is she?
+
+918
+00:48:49,094 --> 00:48:51,062
+The red one.
+
+919
+00:48:54,099 --> 00:48:56,001
+-Bye.
+-Go on.
+
+920
+00:49:00,305 --> 00:49:02,540
+(children continue chattering)
+
+921
+00:49:06,911 --> 00:49:08,879
+TÁR:
+ <i>Hallo,</i> Johanna.
+
+922
+00:50:02,933 --> 00:50:05,536
+TÁR:
+Hello. Hi.
+
+923
+00:50:11,942 --> 00:50:14,179
+They're all in the chamber hall?
+
+924
+00:50:14,212 --> 00:50:16,081
+Yes.
+
+925
+00:50:16,114 --> 00:50:18,149
+No.
+
+926
+00:50:19,317 --> 00:50:21,552
+(Tár sighs)
+
+927
+00:50:41,339 --> 00:50:43,608
+(latch clicks)
+
+928
+00:50:52,183 --> 00:50:54,252
+(urinating)
+
+929
+00:50:57,988 --> 00:51:00,625
+(sniffs)
+Good morning.
+
+930
+00:51:01,692 --> 00:51:03,961
+Oh, I'm sorry, Maestro.
+
+931
+00:51:03,994 --> 00:51:05,996
+We weren't sure you were coming.
+
+932
+00:51:06,030 --> 00:51:09,267
+We were told there might be,
+um, a scheduling conflict.
+
+933
+00:51:09,300 --> 00:51:11,369
+-Would you like me
+to take notes? -(clicking pen)
+
+934
+00:51:11,402 --> 00:51:12,670
+No, thank you, Sebastian.
+
+935
+00:51:12,703 --> 00:51:14,004
+-That won't be necessary.
+-(clicking stops)
+
+936
+00:51:14,038 --> 00:51:15,840
+Do we all have
+our rating sheets?
+
+937
+00:51:15,873 --> 00:51:17,508
+-We narrowed it down to three.
+-Mm-hmm.
+
+938
+00:51:17,542 --> 00:51:19,910
+So, unless anyone has
+other business to discuss,
+
+939
+00:51:19,944 --> 00:51:22,012
+let's bring in number one.
+
+940
+00:51:23,681 --> 00:51:27,118
+(cello playing <i>Tannhäuser und</i>
+ <i>der Sängerkrieg auf Wartburg)</i> 
+
+941
+00:51:37,562 --> 00:51:40,998
+(cello playing <i>Verdi Messa</i>
+ <i>da Requiem</i> (Offertorio))
+
+942
+00:51:57,415 --> 00:52:00,851
+(cello playing <i>Pathétique</i>
+(Allegro con graza))
+
+943
+00:52:13,664 --> 00:52:15,366
+(playing stops)
+
+944
+00:52:18,836 --> 00:52:21,071
+(footsteps)
+
+945
+00:52:35,520 --> 00:52:37,755
+(low chattering)
+
+946
+00:52:39,056 --> 00:52:41,859
+Goossens stands, sounds his A.
+
+947
+00:52:41,892 --> 00:52:44,795
+And of course, uh, Léon
+was rather famous
+
+948
+00:52:44,829 --> 00:52:49,099
+-for his, um, rather wide
+vibrato, huh? -Hmm.
+
+949
+00:52:49,133 --> 00:52:52,670
+Beecham looks up and says,
+"Gentlemen, take your pick."
+
+950
+00:52:52,703 --> 00:52:55,473
+(both chuckling)
+
+951
+00:52:55,506 --> 00:52:57,308
+How's the writing going?
+
+952
+00:52:57,342 --> 00:53:00,545
+Ah, I never know how
+to answer that question.
+
+953
+00:53:00,578 --> 00:53:01,912
+No.
+
+954
+00:53:01,946 --> 00:53:04,515
+Makes it sound like
+a physical act.
+
+955
+00:53:04,549 --> 00:53:06,551
+Like, how's the shitting going?
+
+956
+00:53:06,584 --> 00:53:08,253
+(laughing)
+
+957
+00:53:08,286 --> 00:53:09,520
+Okay.
+
+958
+00:53:09,554 --> 00:53:11,489
+How's the thinking going?
+
+959
+00:53:11,522 --> 00:53:13,924
+Yeah, not so well.
+
+960
+00:53:13,958 --> 00:53:16,327
+I keep hearing something
+and getting excited
+
+961
+00:53:16,361 --> 00:53:20,097
+only to catch myself
+in pastiche.
+
+962
+00:53:20,130 --> 00:53:21,599
+Hmm.
+
+963
+00:53:21,632 --> 00:53:23,901
+Uh, it's all pastiche.
+
+964
+00:53:23,934 --> 00:53:26,404
+We all have the same
+musical grammar.
+
+965
+00:53:26,437 --> 00:53:29,206
+Uh, just look at Beethoven Five.
+
+966
+00:53:29,240 --> 00:53:32,443
+The third movement's theme has
+the same sequence of intervals
+
+967
+00:53:32,477 --> 00:53:36,146
+as the opening theme of the
+final movement of Mozart Forty.
+
+968
+00:53:36,180 --> 00:53:38,583
+Mm, th-that could've been
+a coincidence.
+
+969
+00:53:38,616 --> 00:53:40,418
+No. Not in this case.
+
+970
+00:53:40,451 --> 00:53:43,254
+If you examine
+the sketchbooks he used,
+
+971
+00:53:43,288 --> 00:53:47,492
+29 bars of Mozart's
+finale appear.
+
+972
+00:53:47,525 --> 00:53:49,627
+Copied out by Beethoven.
+
+973
+00:53:49,660 --> 00:53:54,064
+Oh, my God. I find that
+extremely depressing.
+
+974
+00:53:54,098 --> 00:53:55,866
+I finished reading
+your manuscript.
+
+975
+00:53:55,900 --> 00:53:57,635
+It's very good, Lydia.
+
+976
+00:53:57,668 --> 00:53:59,737
+One for the ages.
+
+977
+00:53:59,770 --> 00:54:02,039
+And, I dare say,
+will be available
+
+978
+00:54:02,072 --> 00:54:03,708
+long after my book
+has been forgotten.
+
+979
+00:54:03,741 --> 00:54:05,242
+Oh, yes, you're right.
+
+980
+00:54:05,276 --> 00:54:08,779
+The entire first printing
+will always be available.
+
+981
+00:54:08,813 --> 00:54:11,048
+Too modest, as usual.
+
+982
+00:54:19,724 --> 00:54:21,792
+Thank you, Andris.
+
+983
+00:54:22,727 --> 00:54:24,562
+I'll cherish this.
+
+984
+00:54:24,595 --> 00:54:26,797
+You may use it.
+
+985
+00:54:26,831 --> 00:54:29,166
+A-a blurb for the covers.
+
+986
+00:54:30,468 --> 00:54:33,003
+Oh, thank you.
+
+987
+00:54:33,037 --> 00:54:35,005
+I'll send it to the publisher.
+
+988
+00:54:35,039 --> 00:54:36,974
+Hopefully, there's still time.
+
+989
+00:54:37,007 --> 00:54:39,209
+I'm proud to call you my pupil,
+
+990
+00:54:39,243 --> 00:54:40,745
+uh, even though there was really
+
+991
+00:54:40,778 --> 00:54:41,979
+nothing I could teach you.
+
+992
+00:54:42,012 --> 00:54:43,514
+Now, that's not true.
+
+993
+00:54:43,548 --> 00:54:46,283
+I'd never have the position
+here were it not for you.
+
+994
+00:54:46,317 --> 00:54:48,886
+Then you'd be in London,
+New York.
+
+995
+00:54:48,919 --> 00:54:50,888
+They're not Berlin.
+
+996
+00:54:51,989 --> 00:54:54,492
+Besides, I'm not sure
+what Sharon would do,
+
+997
+00:54:54,525 --> 00:54:55,726
+were we ever to leave.
+
+998
+00:54:55,760 --> 00:54:57,562
+She's so close with her family.
+
+999
+00:54:57,595 --> 00:55:01,131
+Ah, yeah, the Goodnow sisters.
+
+1000
+00:55:01,165 --> 00:55:03,801
+I remember the elder one
+being an absolute ball-breaker
+
+1001
+00:55:03,834 --> 00:55:06,937
+while she still held sway at DG.
+
+1002
+00:55:06,971 --> 00:55:10,875
+-Heike is a woman
+of many opinions. -Oh.
+
+1003
+00:55:10,908 --> 00:55:12,142
+And that voice.
+
+1004
+00:55:12,176 --> 00:55:13,611
+I mean, the signal-to-noise
+ratio,
+
+1005
+00:55:13,644 --> 00:55:15,580
+-it's unbearable.
+-(chuckles)
+
+1006
+00:55:15,613 --> 00:55:17,948
+I've had to bolt-hole
+at my old place in town
+
+1007
+00:55:17,982 --> 00:55:20,451
+to get any writing done.
+
+1008
+00:55:20,485 --> 00:55:22,052
+Schopenhauer measured
+a man's intelligence
+
+1009
+00:55:22,086 --> 00:55:24,321
+against his sensitivity
+to noise.
+
+1010
+00:55:24,355 --> 00:55:25,723
+(chuckles)
+
+1011
+00:55:25,756 --> 00:55:28,793
+Didn't he once also throw
+a woman down a flight of stairs
+
+1012
+00:55:28,826 --> 00:55:30,461
+who later sued him?
+
+1013
+00:55:30,495 --> 00:55:31,662
+(chuckles):
+Yes.
+
+1014
+00:55:31,696 --> 00:55:33,230
+Although, it's unclear
+
+1015
+00:55:33,263 --> 00:55:34,832
+this private
+and personal failing
+
+1016
+00:55:34,865 --> 00:55:37,635
+is at all relevant to his work.
+
+1017
+00:55:37,668 --> 00:55:39,904
+(both chuckling)
+
+1018
+00:55:39,937 --> 00:55:42,172
+(tires squeal)
+
+1019
+00:55:45,009 --> 00:55:47,077
+You're late.
+
+1020
+00:55:47,111 --> 00:55:48,646
+(driver speaking German)
+
+1021
+00:55:48,679 --> 00:55:49,847
+Here, give me your stick.
+
+1022
+00:55:49,880 --> 00:55:51,616
+-Thank you.
+-I've got it.
+
+1023
+00:55:51,649 --> 00:55:54,885
+(distant siren wailing)
+
+1024
+00:56:00,691 --> 00:56:02,927
+(meditative breaths)
+
+1025
+00:56:23,080 --> 00:56:25,315
+*
+
+1026
+00:56:36,627 --> 00:56:39,063
+(exhaling)
+
+1027
+00:56:39,096 --> 00:56:41,331
+-(inhales deeply)
+-*
+
+1028
+00:56:47,638 --> 00:56:49,874
+(bell chiming in distance)
+
+1029
+00:56:56,747 --> 00:56:58,983
+(chiming continues)
+
+1030
+00:57:02,720 --> 00:57:05,055
+(Tár mimicking chiming)
+
+1031
+00:57:10,861 --> 00:57:12,830
+(plays two notes
+matching bell chime)
+
+1032
+00:57:12,863 --> 00:57:15,399
+(Tár mimics chiming)
+
+1033
+00:57:28,613 --> 00:57:30,648
+(exhales)
+
+1034
+00:57:32,717 --> 00:57:34,318
+(exhales)
+
+1035
+00:57:36,921 --> 00:57:38,556
+(shrill scream in distance)
+
+1036
+00:57:39,924 --> 00:57:42,159
+(woman continues screaming)
+
+1037
+00:57:44,562 --> 00:57:46,597
+(siren wailing)
+
+1038
+00:57:48,833 --> 00:57:51,068
+(screaming continues)
+
+1039
+00:58:04,815 --> 00:58:06,784
+(screaming continues)
+
+1040
+00:58:06,817 --> 00:58:09,053
+(Sharon breathing rhythmically)
+
+1041
+00:58:19,263 --> 00:58:21,498
+(bell chiming in distance)
+
+1042
+00:58:26,637 --> 00:58:28,272
+(sighs)
+
+1043
+00:58:45,455 --> 00:58:46,523
+(sighs)
+
+1044
+00:58:46,557 --> 00:58:48,993
+(plays two notes
+matching bell chime)
+
+1045
+00:58:55,465 --> 00:58:57,702
+(playing gentle melody)
+
+1046
+00:59:04,408 --> 00:59:07,645
+(orchestra playing Mahler
+Symphony No. 5 Trauermarsch)
+
+1047
+00:59:21,291 --> 00:59:23,794
+(tempo slows)
+
+1048
+00:59:38,008 --> 00:59:40,277
+Okay. Uh...
+
+1049
+00:59:41,779 --> 00:59:43,013
+ <i>Gut, gut.</i> 
+
+1050
+00:59:43,047 --> 00:59:45,015
+(speaking German)
+
+1051
+00:59:45,883 --> 00:59:48,318
+... Christian...
+(continues speaking German)
+
+1052
+00:59:52,189 --> 00:59:53,891
+Okay?
+
+1053
+00:59:53,924 --> 00:59:56,026
+Uh, but it's also...
+
+1054
+00:59:56,060 --> 00:59:57,227
+It's like we're hearing it
+
+1055
+00:59:57,261 --> 00:59:59,864
+from a very, very great
+distance.
+
+1056
+00:59:59,897 --> 01:00:05,269
+So it's... (vocalizing)
+
+1057
+01:00:05,302 --> 01:00:06,503
+Ju... Uh...
+
+1058
+01:00:06,536 --> 01:00:08,205
+Sorry. <i>Ist</i> Harald <i>da?</i> 
+
+1059
+01:00:08,238 --> 01:00:09,606
+(Harald speaks German)
+
+1060
+01:00:09,640 --> 01:00:10,808
+(speaks German)
+
+1061
+01:00:10,841 --> 01:00:13,110
+Harald? I was just wondering
+if you might, um,
+
+1062
+01:00:13,143 --> 01:00:15,713
+uh, quickly rig something up
+for us?
+
+1063
+01:00:16,513 --> 01:00:18,749
+(trumpet solo playing)
+
+1064
+01:00:25,089 --> 01:00:27,324
+*
+
+1065
+01:00:31,696 --> 01:00:33,731
+(playing louder)
+
+1066
+01:00:40,738 --> 01:00:44,174
+(cymbals crash,
+orchestra ends with flourish)
+
+1067
+01:00:46,677 --> 01:00:48,645
+ <i>Gut, gut, gut.</i> (speaks German)
+
+1068
+01:00:48,679 --> 01:00:50,915
+-Harald?
+-(Harald speaks German)
+
+1069
+01:00:50,948 --> 01:00:52,850
+Uh, we'll want the same
+backstage setup
+
+1070
+01:00:52,883 --> 01:00:54,051
+for the live recording.
+
+1071
+01:00:54,084 --> 01:00:55,953
+(quietly):
+One, two, one.
+
+1072
+01:00:55,986 --> 01:00:58,789
+(orchestra playing
+jaunty classical music)
+
+1073
+01:01:15,405 --> 01:01:17,041
+-(speaks indistinctly)
+-(playing stops)
+
+1074
+01:01:17,074 --> 01:01:20,277
+(speaking German)
+
+1075
+01:01:23,647 --> 01:01:26,483
+Okay? Looks great, but...
+(clears throat)
+
+1076
+01:01:26,516 --> 01:01:27,985
+... we need to hear it.
+
+1077
+01:01:28,018 --> 01:01:30,755
+Okay? It's not...
+(vocalizing)
+
+1078
+01:01:30,788 --> 01:01:32,089
+(vocalizing intensifies)
+
+1079
+01:01:32,122 --> 01:01:33,323
+Hey.
+
+1080
+01:01:33,357 --> 01:01:34,725
+-(speaking low)
+-(snaps fingers)
+
+1081
+01:01:34,759 --> 01:01:36,626
+(speaking German)
+
+1082
+01:01:40,464 --> 01:01:42,032
+ <i>Ja?</i> (whooshes)
+
+1083
+01:01:42,066 --> 01:01:44,401
+Okay? (puffing)
+
+1084
+01:01:45,836 --> 01:01:47,805
+(speaks German)
+
+1085
+01:01:50,674 --> 01:01:52,709
+*
+
+1086
+01:01:57,581 --> 01:01:59,750
+No. (speaks German)
+
+1087
+01:01:59,784 --> 01:02:01,218
+Bah! (exhales)
+
+1088
+01:02:02,019 --> 01:02:03,587
+It's-it's much too slow.
+
+1089
+01:02:04,388 --> 01:02:06,490
+(speaking German)
+
+1090
+01:02:10,460 --> 01:02:12,129
+(plays sharp chords)
+
+1091
+01:02:12,162 --> 01:02:13,798
+Mm-hmm.
+
+1092
+01:02:13,831 --> 01:02:16,000
+Okay.
+
+1093
+01:02:16,033 --> 01:02:17,701
+Okay, tutti.
+
+1094
+01:02:17,734 --> 01:02:19,203
+Uh...
+
+1095
+01:02:19,236 --> 01:02:21,205
+(speaking German)
+
+1096
+01:02:21,238 --> 01:02:23,407
+How are things feeling up here?
+
+1097
+01:02:23,440 --> 01:02:24,641
+Fine, yeah.
+
+1098
+01:02:24,674 --> 01:02:26,443
+Yeah, actually great, but, uh,
+
+1099
+01:02:26,476 --> 01:02:28,745
+it's a shame we don't record
+this one direct-to-disk.
+
+1100
+01:02:28,779 --> 01:02:31,681
+(groans): Oh. It's criminal,
+is more like it.
+
+1101
+01:02:32,716 --> 01:02:34,451
+Will you shoot me the MP3s?
+
+1102
+01:02:34,484 --> 01:02:36,286
+Yeah, sure,
+but don't you want WAV files?
+
+1103
+01:02:36,320 --> 01:02:39,924
+No, just think what people
+will actually be streaming.
+
+1104
+01:02:39,957 --> 01:02:41,225
+Uh, what about video?
+
+1105
+01:02:41,258 --> 01:02:43,193
+Yes, yes.
+Uh, stage left A camera.
+
+1106
+01:02:43,227 --> 01:02:44,661
+-Okay.
+-All right. Thanks, guys.
+
+1107
+01:02:44,694 --> 01:02:46,330
+Okay. Uh, bye.
+You're quite welcome.
+
+1108
+01:02:46,363 --> 01:02:48,632
+(speaking German)
+
+1109
+01:02:48,665 --> 01:02:50,100
+-SHARON: There?
+-TÁR: Yeah.
+
+1110
+01:02:50,134 --> 01:02:51,936
+You want us to come,
+to come in stronger there?
+
+1111
+01:02:51,969 --> 01:02:53,437
+-FRANCESCA: Okay, then yeah.
+-TÁR: Yeah.
+
+1112
+01:02:53,470 --> 01:02:54,939
+Here, 'cause the reigning
+dynamic is forte,
+
+1113
+01:02:54,972 --> 01:02:56,540
+-which is not good.
+-(Sebastian clears throat)
+
+1114
+01:02:56,573 --> 01:02:58,075
+-FRANCESCA: Hmm.
+-TÁR: Yeah?
+
+1115
+01:02:58,108 --> 01:03:01,378
+(whispering): Yeah. Um, just
+one small thing, Maestro.
+
+1116
+01:03:01,411 --> 01:03:04,048
+During the scherzo, um,
+
+1117
+01:03:04,081 --> 01:03:07,417
+th-th-the clarinet solo's
+still a bit too loud.
+
+1118
+01:03:07,451 --> 01:03:09,453
+It should really be
+an accompanying figure
+
+1119
+01:03:09,486 --> 01:03:12,522
+-to the first violins.
+-TÁR: Hmm.
+
+1120
+01:03:12,556 --> 01:03:16,026
+But apart from that, I'd say
+we're in very good shape.
+
+1121
+01:03:16,060 --> 01:03:17,694
+Thank you, Sebastian.
+
+1122
+01:03:17,727 --> 01:03:19,930
+Thank you. (clears throat)
+
+1123
+01:03:25,235 --> 01:03:26,904
+Accurate assessment?
+
+1124
+01:03:26,937 --> 01:03:28,705
+I don't think so.
+
+1125
+01:03:28,738 --> 01:03:31,976
+The clarinet is marked piano,
+and we are marked pianissimo.
+
+1126
+01:03:32,009 --> 01:03:34,078
+Sebastian likes to sit
+in the stalls,
+
+1127
+01:03:34,111 --> 01:03:37,581
+but there's no problem
+with the balance in the circle.
+
+1128
+01:03:37,614 --> 01:03:39,583
+TÁR:
+Mm-hmm.
+
+1129
+01:03:40,784 --> 01:03:42,252
+Mm-hmm.
+
+1130
+01:03:42,286 --> 01:03:44,321
+Something a bit more playful.
+
+1131
+01:03:44,354 --> 01:03:45,856
+Mm-hmm.
+
+1132
+01:03:49,793 --> 01:03:52,129
+Oh, and here's something
+Tanya and I did with Gustavo.
+
+1133
+01:03:52,162 --> 01:03:53,730
+I think it's very powerful.
+
+1134
+01:03:53,763 --> 01:03:55,933
+Yes, it's-it's really wonderful
+work, uh, Karl.
+
+1135
+01:03:55,966 --> 01:03:57,767
+I'm just wondering
+if we might try something
+
+1136
+01:03:57,801 --> 01:04:00,905
+a little less, uh, considered.
+
+1137
+01:04:03,540 --> 01:04:06,010
+Something simple like this?
+
+1138
+01:04:06,043 --> 01:04:07,377
+Hmm?
+
+1139
+01:04:07,411 --> 01:04:09,813
+I'm not sure how you would
+want to light it.
+
+1140
+01:04:09,846 --> 01:04:12,716
+Have Harald dim
+the houselights to half.
+
+1141
+01:04:13,583 --> 01:04:16,320
+Houselights down half, please.
+
+1142
+01:04:19,957 --> 01:04:21,791
+KARL:
+I mean, we could make it work,
+
+1143
+01:04:21,825 --> 01:04:23,493
+but we'd have to bring in
+some lights.
+
+1144
+01:04:23,527 --> 01:04:25,562
+TANYA:
+Mm-hmm.
+
+1145
+01:04:28,532 --> 01:04:30,134
+KARL: If we want to do
+something like this,
+
+1146
+01:04:30,167 --> 01:04:32,469
+uh, we'll have to bring
+the hot lights
+
+1147
+01:04:32,502 --> 01:04:34,538
+next week, Tanya--
+forget about the strobes.
+
+1148
+01:04:34,571 --> 01:04:36,840
+-TANYA: Hmm.
+-(departing footsteps)
+
+1149
+01:04:37,641 --> 01:04:39,109
+TÁR:
+Thank you for waiting.
+
+1150
+01:04:39,143 --> 01:04:40,710
+Of course, Maestro.
+
+1151
+01:04:40,744 --> 01:04:43,813
+How are we feeling
+about today's rehearsal?
+
+1152
+01:04:43,847 --> 01:04:47,517
+Well, Sebastian thinks
+your solo in the scherzo
+
+1153
+01:04:47,551 --> 01:04:49,853
+is, uh, a bit loud.
+
+1154
+01:04:49,886 --> 01:04:51,055
+It's possible.
+
+1155
+01:04:51,088 --> 01:04:52,923
+Hmm. I don't agree.
+
+1156
+01:04:52,957 --> 01:04:56,193
+Your dynamic marking is higher
+than that of the first violin.
+
+1157
+01:04:56,226 --> 01:04:57,627
+Yes, that's true.
+
+1158
+01:04:57,661 --> 01:04:59,429
+(sighs heavily) Look.
+
+1159
+01:04:59,463 --> 01:05:03,200
+Sebastian's getting old, Knut.
+
+1160
+01:05:03,233 --> 01:05:04,834
+I'm rotating him out.
+
+1161
+01:05:05,635 --> 01:05:07,871
+You're the first to know.
+
+1162
+01:05:10,941 --> 01:05:13,110
+Well...
+
+1163
+01:05:14,979 --> 01:05:18,315
+Then I will organize a caucus,
+and we'll take a vote.
+
+1164
+01:05:18,348 --> 01:05:21,285
+No. No, you won't.
+
+1165
+01:05:21,318 --> 01:05:23,753
+A vote must be taken.
+
+1166
+01:05:23,787 --> 01:05:25,922
+I am familiar with
+the electoral conclave.
+
+1167
+01:05:25,956 --> 01:05:28,192
+But the appointment
+of the assistant conductor
+
+1168
+01:05:28,225 --> 01:05:30,694
+is entirely my decision.
+
+1169
+01:05:30,727 --> 01:05:32,296
+(Knut inhales deeply)
+
+1170
+01:05:32,329 --> 01:05:33,730
+Yes.
+
+1171
+01:05:33,763 --> 01:05:37,001
+So, I can count on your
+support with the others?
+
+1172
+01:05:37,034 --> 01:05:38,935
+(chuckles softly)
+
+1173
+01:05:38,969 --> 01:05:40,204
+Yes.
+
+1174
+01:05:40,237 --> 01:05:41,571
+Good.
+
+1175
+01:05:41,605 --> 01:05:42,806
+Who will you replace him with?
+
+1176
+01:05:42,839 --> 01:05:44,841
+Oh. I'm considering a few names,
+
+1177
+01:05:44,874 --> 01:05:47,911
+but the main thing is we
+proceed with this immediately.
+
+1178
+01:05:47,944 --> 01:05:50,247
+KNUT:
+I understand.
+
+1179
+01:05:50,280 --> 01:05:52,682
+Maestro, uh, the other players
+would like to know
+
+1180
+01:05:52,716 --> 01:05:54,318
+if you have chosen
+the companion piece.
+
+1181
+01:05:54,351 --> 01:05:56,120
+ <i>Ach!</i> 
+
+1182
+01:05:58,255 --> 01:05:59,956
+KNUT:
+Okay. <i>Danke.</i> 
+
+1183
+01:06:12,469 --> 01:06:14,771
+(panting)
+
+1184
+01:06:24,248 --> 01:06:25,949
+(short whistle)
+
+1185
+01:06:26,916 --> 01:06:27,751
+Oh.
+
+1186
+01:06:27,784 --> 01:06:30,220
+-I...
+-It's okay.
+
+1187
+01:06:30,254 --> 01:06:31,888
+ <i>Danke.</i> 
+
+1188
+01:06:47,337 --> 01:06:49,573
+(playing simple melody)
+
+1189
+01:06:54,744 --> 01:06:56,613
+(light knocking)
+
+1190
+01:06:57,547 --> 01:07:03,220
+* Changing major to minor.
+
+1191
+01:07:04,488 --> 01:07:06,490
+(Francesca clears her throat)
+
+1192
+01:07:06,523 --> 01:07:08,792
+Uh, I'm sorry, I knocked.
+
+1193
+01:07:10,094 --> 01:07:13,130
+I knew you wanted your keys
+back as quickly as possible.
+
+1194
+01:07:13,163 --> 01:07:14,464
+Yes, thanks.
+
+1195
+01:07:14,498 --> 01:07:16,200
+Did you use the company card?
+
+1196
+01:07:16,233 --> 01:07:17,367
+Yeah.
+
+1197
+01:07:17,401 --> 01:07:18,868
+We can use it for your, um...
+
+1198
+01:07:18,902 --> 01:07:20,937
+(clears throat)
+... your taxi home.
+
+1199
+01:07:25,242 --> 01:07:27,077
+Yeah. It's all right.
+
+1200
+01:07:27,111 --> 01:07:28,978
+You can go.
+
+1201
+01:07:30,013 --> 01:07:33,650
+Uh, it wasn't just the keys.
+
+1202
+01:07:36,386 --> 01:07:39,256
+I-I need someone to hold me.
+
+1203
+01:07:41,358 --> 01:07:43,927
+This isn't the place, Francesca.
+
+1204
+01:07:45,229 --> 01:07:47,597
+You're... (stammers)
+That's not about...
+
+1205
+01:07:47,631 --> 01:07:49,032
+(sniffles)
+
+1206
+01:07:49,065 --> 01:07:50,967
+I just...
+
+1207
+01:07:51,000 --> 01:07:54,238
+I just got this from someone
+over at Accordion.
+
+1208
+01:07:56,373 --> 01:07:58,608
+(breath trembling)
+
+1209
+01:08:06,316 --> 01:08:07,784
+Oh, no.
+
+1210
+01:08:07,817 --> 01:08:10,086
+(Francesca's breath trembles)
+
+1211
+01:08:10,120 --> 01:08:11,955
+(sighs):
+When did this happen?
+
+1212
+01:08:11,988 --> 01:08:14,090
+Day before yesterday.
+
+1213
+01:08:15,859 --> 01:08:19,263
+That email she sent you,
+it felt like she was already...
+
+1214
+01:08:19,296 --> 01:08:22,266
+Delete it. And the rest.
+
+1215
+01:08:22,299 --> 01:08:25,569
+There's no reason to get
+caught up in any intrigue.
+
+1216
+01:08:26,603 --> 01:08:29,206
+(sniffles)
+
+1217
+01:08:29,239 --> 01:08:30,574
+(crying)
+
+1218
+01:08:30,607 --> 01:08:32,342
+Now, now.
+
+1219
+01:08:33,943 --> 01:08:38,782
+Come on. There's nothing
+we could have done to stop her.
+
+1220
+01:08:38,815 --> 01:08:41,485
+She wasn't one of us.
+
+1221
+01:08:41,518 --> 01:08:43,753
+(crying continues)
+
+1222
+01:08:52,729 --> 01:08:54,864
+(sniffles)
+
+1223
+01:08:56,833 --> 01:09:00,504
+I can't stop thinking about
+our trip up the Ucayali.
+
+1224
+01:09:00,537 --> 01:09:01,938
+TÁR:
+Hmm.
+
+1225
+01:09:01,971 --> 01:09:03,973
+-The three of us were so close.
+-Yes.
+
+1226
+01:09:04,007 --> 01:09:07,311
+But that was before
+she started making demands.
+
+1227
+01:09:09,179 --> 01:09:14,218
+There was just something
+not quite right about her.
+
+1228
+01:09:14,251 --> 01:09:16,720
+She had so much promise.
+
+1229
+01:09:16,753 --> 01:09:18,522
+She did.
+
+1230
+01:09:18,555 --> 01:09:20,524
+Yes.
+
+1231
+01:09:20,557 --> 01:09:22,892
+Almost as much as you.
+
+1232
+01:09:26,896 --> 01:09:30,133
+Now, we have to forget
+about her.
+
+1233
+01:09:33,670 --> 01:09:35,705
+You understand?
+
+1234
+01:09:40,577 --> 01:09:42,679
+-Right?
+-(sniffles)
+
+1235
+01:09:45,014 --> 01:09:46,583
+-I'm sorry.
+-No.
+
+1236
+01:09:46,616 --> 01:09:47,984
+I know you're working.
+
+1237
+01:09:48,017 --> 01:09:49,619
+-Oh.
+-(sniffles)
+
+1238
+01:09:49,653 --> 01:09:50,987
+Your... (sniffles)
+
+1239
+01:09:51,020 --> 01:09:53,990
+Your keys are on
+the kitchen table.
+
+1240
+01:10:35,365 --> 01:10:37,166
+(inhales sharply)
+
+1241
+01:10:55,385 --> 01:10:57,421
+(gentle melody plays)
+
+1242
+01:10:58,221 --> 01:11:00,256
+SHARON:
+She went straight to sleep.
+
+1243
+01:11:00,290 --> 01:11:02,826
+(liquid pouring)
+
+1244
+01:11:02,859 --> 01:11:05,228
+Didn't even have
+to hold her foot.
+
+1245
+01:11:09,899 --> 01:11:13,269
+And she came home
+in a much better mood.
+
+1246
+01:11:13,303 --> 01:11:15,171
+Oh, attagirl.
+
+1247
+01:11:15,204 --> 01:11:17,240
+*
+
+1248
+01:11:19,843 --> 01:11:22,145
+(Sharon sighs)
+
+1249
+01:11:24,681 --> 01:11:26,683
+Met the new cellist today.
+
+1250
+01:11:26,716 --> 01:11:29,353
+Oh, what was that like?
+
+1251
+01:11:29,386 --> 01:11:31,655
+Olga Metkina.
+
+1252
+01:11:31,688 --> 01:11:33,423
+Russian.
+
+1253
+01:11:33,457 --> 01:11:35,525
+Strong player.
+
+1254
+01:11:35,559 --> 01:11:37,794
+Good.
+
+1255
+01:11:37,827 --> 01:11:40,997
+Her facial posture
+is a bit much.
+
+1256
+01:11:41,030 --> 01:11:42,466
+(chuckles):
+How so?
+
+1257
+01:11:42,499 --> 01:11:44,067
+Her legato.
+
+1258
+01:11:44,100 --> 01:11:46,536
+Looks like she's on
+the verge of climaxing.
+
+1259
+01:11:46,570 --> 01:11:48,104
+(both laughing)
+
+1260
+01:11:50,807 --> 01:11:53,042
+She is young.
+
+1261
+01:11:53,076 --> 01:11:54,978
+Ah, so you've met her.
+
+1262
+01:11:56,813 --> 01:11:58,448
+No, no.
+
+1263
+01:11:58,482 --> 01:12:01,050
+Uh, Francesca
+mentioned something.
+
+1264
+01:12:01,084 --> 01:12:03,887
+I think she's arranging
+a welcome lunch.
+
+1265
+01:12:06,089 --> 01:12:08,925
+You may want to hold off
+on that.
+
+1266
+01:12:08,958 --> 01:12:11,828
+Her invitation is conditional.
+
+1267
+01:12:14,798 --> 01:12:17,467
+You have reservations?
+
+1268
+01:12:17,501 --> 01:12:19,403
+No.
+
+1269
+01:12:19,436 --> 01:12:21,871
+Not really.
+
+1270
+01:12:21,905 --> 01:12:24,474
+We need to see if she fits in.
+
+1271
+01:12:28,244 --> 01:12:30,514
+Did you take your pill?
+
+1272
+01:12:31,548 --> 01:12:34,050
+No.
+
+1273
+01:12:34,083 --> 01:12:37,020
+Thank you for reminding me.
+
+1274
+01:12:43,660 --> 01:12:45,895
+(distant, rhythmic ticking)
+
+1275
+01:13:07,784 --> 01:13:10,019
+(ticking grows louder)
+
+1276
+01:13:20,630 --> 01:13:23,066
+(ticking continues
+to grow louder)
+
+1277
+01:13:40,550 --> 01:13:42,919
+(ticking loudly)
+
+1278
+01:14:04,207 --> 01:14:06,710
+How was Johanna yesterday?
+
+1279
+01:14:06,743 --> 01:14:09,212
+She stays away now.
+
+1280
+01:14:09,245 --> 01:14:11,548
+You let me know if that changes.
+
+1281
+01:14:14,784 --> 01:14:18,522
+Petra, last night, you weren't,
+by any chance, in my study?
+
+1282
+01:14:19,489 --> 01:14:21,324
+-No, Lydia.
+-Because you do know
+
+1283
+01:14:21,357 --> 01:14:23,660
+you're not supposed to be
+in there without me.
+
+1284
+01:14:23,693 --> 01:14:25,194
+I know.
+
+1285
+01:14:27,063 --> 01:14:28,998
+TÁR:
+That's right.
+
+1286
+01:14:29,933 --> 01:14:32,268
+(quiet rattling)
+
+1287
+01:14:32,301 --> 01:14:34,538
+(rattling continues)
+
+1288
+01:14:38,708 --> 01:14:40,610
+(sighs)
+
+1289
+01:14:40,644 --> 01:14:43,079
+ <i>(orchestra playing</i>
+ <i>classical music)</i> 
+
+1290
+01:15:02,331 --> 01:15:03,867
+S...
+
+1291
+01:15:04,634 --> 01:15:06,102
+-It's not so simple.
+-(music stops)
+
+1292
+01:15:06,135 --> 01:15:07,771
+It's got...
+it's got to be messier.
+
+1293
+01:15:07,804 --> 01:15:10,039
+(speaking German)
+
+1294
+01:15:12,075 --> 01:15:13,409
+Okay?
+
+1295
+01:15:13,442 --> 01:15:15,679
+(continues speaking German)
+
+1296
+01:15:22,118 --> 01:15:24,654
+A lot of pressure. Okay?
+
+1297
+01:15:24,688 --> 01:15:27,423
+(speaking German)
+
+1298
+01:15:27,456 --> 01:15:28,992
+-Okay?
+-(musicians chuckling)
+
+1299
+01:15:29,025 --> 01:15:30,694
+S-So familiar to everyone here.
+
+1300
+01:15:30,727 --> 01:15:33,663
+It really doesn't help you to
+know this piece so well. Okay.
+
+1301
+01:15:34,998 --> 01:15:36,733
+Same place.
+
+1302
+01:15:38,234 --> 01:15:40,469
+(classical music resumes)
+
+1303
+01:15:49,946 --> 01:15:52,181
+(speaking German)
+
+1304
+01:16:05,862 --> 01:16:07,363
+Please.
+
+1305
+01:16:07,396 --> 01:16:09,699
+-Please, please, please.
+-(music stops)
+
+1306
+01:16:09,733 --> 01:16:11,768
+You must watch.
+
+1307
+01:16:13,002 --> 01:16:15,238
+(speaking German)
+
+1308
+01:16:16,039 --> 01:16:17,841
+Okay?
+
+1309
+01:16:17,874 --> 01:16:19,208
+It's got to be like, uh,
+
+1310
+01:16:19,242 --> 01:16:22,646
+just one person
+singing their heart out.
+
+1311
+01:16:24,914 --> 01:16:27,150
+And...
+
+1312
+01:16:27,183 --> 01:16:29,418
+(speaking German)
+
+1313
+01:16:32,956 --> 01:16:34,357
+Okay.
+
+1314
+01:16:34,390 --> 01:16:36,626
+(continues speaking German)
+
+1315
+01:16:42,999 --> 01:16:44,500
+(sighs):
+Okay.
+
+1316
+01:16:47,170 --> 01:16:49,272
+SEBASTIAN:
+(grunts) Maestro.
+
+1317
+01:16:49,305 --> 01:16:50,640
+What a surprise.
+
+1318
+01:16:50,674 --> 01:16:52,408
+-I was just having
+a spot of lunch. -Hmm.
+
+1319
+01:16:52,441 --> 01:16:53,777
+C-Can I offer you anything?
+
+1320
+01:16:53,810 --> 01:16:55,611
+-Uh, no, thank you.
+-(pen clicking)
+
+1321
+01:16:55,645 --> 01:16:58,247
+-Mm, well, some tea, perhaps?
+-No, thank you, Sebastian.
+
+1322
+01:16:59,048 --> 01:17:02,185
+You know, I forget sometimes
+just how impressive
+
+1323
+01:17:02,218 --> 01:17:04,020
+your collection is here.
+
+1324
+01:17:04,053 --> 01:17:06,122
+Is that Kalinnikov?
+
+1325
+01:17:06,155 --> 01:17:07,824
+-Yes. (chuckles)
+-Ah.
+
+1326
+01:17:07,857 --> 01:17:09,693
+Isn't he marvelous?
+
+1327
+01:17:09,726 --> 01:17:13,096
+(laughs)
+He belongs in a museum.
+
+1328
+01:17:13,129 --> 01:17:15,564
+I rescued him
+for a hundred rubles
+
+1329
+01:17:15,598 --> 01:17:18,101
+-from a Kyiv street fair
+back in '90. -Huh.
+
+1330
+01:17:18,134 --> 01:17:19,903
+Right after the Wall came down.
+
+1331
+01:17:19,936 --> 01:17:22,371
+(sighs) That must really
+have been something.
+
+1332
+01:17:22,405 --> 01:17:25,541
+-Oh, incredible to have
+lived through it. -Hmm.
+
+1333
+01:17:25,574 --> 01:17:27,911
+I'd only just arrived here
+with Andris,
+
+1334
+01:17:27,944 --> 01:17:31,514
+and suddenly the impossible
+was possible.
+
+1335
+01:17:31,547 --> 01:17:33,116
+Yeah.
+
+1336
+01:17:34,383 --> 01:17:36,753
+I'd like to talk about that.
+
+1337
+01:17:36,786 --> 01:17:38,855
+-The reunification?
+-Uh, no, no.
+
+1338
+01:17:38,888 --> 01:17:40,890
+But please, sit down.
+
+1339
+01:17:40,924 --> 01:17:44,160
+No, uh, about the possibility
+
+1340
+01:17:44,193 --> 01:17:47,663
+of you fronting
+a subscription orchestra.
+
+1341
+01:17:47,697 --> 01:17:49,132
+(chuckles):
+But I already do.
+
+1342
+01:17:49,165 --> 01:17:51,768
+Yes, but not as Kapellmeister.
+
+1343
+01:17:53,136 --> 01:17:56,439
+If not now,
+then when, Sebastian?
+
+1344
+01:17:57,807 --> 01:17:59,408
+You mean leave Berlin?
+
+1345
+01:17:59,442 --> 01:18:02,511
+Well, rotate somewhere, yes.
+
+1346
+01:18:02,545 --> 01:18:04,948
+But this is my home.
+
+1347
+01:18:04,981 --> 01:18:08,151
+Our only home is the podium.
+
+1348
+01:18:08,184 --> 01:18:10,453
+We all live out of a suitcase.
+
+1349
+01:18:10,486 --> 01:18:12,722
+You know that as well as anyone.
+
+1350
+01:18:18,928 --> 01:18:21,530
+Just think about it.
+
+1351
+01:18:21,564 --> 01:18:23,967
+Take your time. Mm?
+
+1352
+01:18:24,000 --> 01:18:27,236
+It's not something
+we need to decide now.
+
+1353
+01:18:29,973 --> 01:18:31,540
+It's the girl, isn't it?
+
+1354
+01:18:31,574 --> 01:18:33,276
+I'm sorry, what girl?
+
+1355
+01:18:33,309 --> 01:18:35,812
+Y-You're not asking.
+
+1356
+01:18:35,845 --> 01:18:37,646
+You're telling.
+
+1357
+01:18:37,680 --> 01:18:42,085
+I knew as soon as she showed up
+that my days here were numbered.
+
+1358
+01:18:42,118 --> 01:18:44,954
+Andris told me not to worry,
+but... (scoffs)
+
+1359
+01:18:44,988 --> 01:18:46,622
+... I knew.
+
+1360
+01:18:46,655 --> 01:18:50,226
+I'm sure I don't know
+what you're talking about.
+
+1361
+01:18:50,259 --> 01:18:51,627
+Oh, please.
+
+1362
+01:18:51,660 --> 01:18:53,629
+Just because
+nobody dares breathe it.
+
+1363
+01:18:53,662 --> 01:18:55,965
+We know the things you do.
+
+1364
+01:18:55,999 --> 01:18:58,968
+The little favors you grant.
+
+1365
+01:18:59,002 --> 01:19:00,403
+I'm...
+
+1366
+01:19:00,436 --> 01:19:03,606
+I really don't know
+what to say, Sebastian.
+
+1367
+01:19:03,639 --> 01:19:05,875
+I mean, you of all people
+
+1368
+01:19:05,909 --> 01:19:08,344
+have the temerity
+to question my integrity?
+
+1369
+01:19:08,377 --> 01:19:09,712
+No, no.
+I-I'm-I'm sorry, Maestro.
+
+1370
+01:19:09,745 --> 01:19:11,614
+I don't, I don't know
+what I'm saying.
+
+1371
+01:19:11,647 --> 01:19:14,117
+No, no, no, it's clear you know
+exactly what you're saying.
+
+1372
+01:19:14,150 --> 01:19:16,419
+I mean, if that's how
+you really feel about me,
+
+1373
+01:19:16,452 --> 01:19:18,287
+then wouldn't you say
+that staying is
+
+1374
+01:19:18,321 --> 01:19:19,622
+entirely out of the question?
+
+1375
+01:19:19,655 --> 01:19:21,724
+No, no, please, Maestro.
+Please forgive me.
+
+1376
+01:19:21,757 --> 01:19:23,059
+(sighs) For what?
+
+1377
+01:19:23,092 --> 01:19:26,662
+Your obsequiousness,
+your hypocrisy, your misogamy?
+
+1378
+01:19:26,695 --> 01:19:29,665
+-I'm not a misogynist!
+-Misogamy.
+
+1379
+01:19:29,698 --> 01:19:32,301
+It's a hatred of marriage.
+
+1380
+01:19:33,769 --> 01:19:36,906
+Andris is still
+very much married.
+
+1381
+01:19:37,907 --> 01:19:42,778
+And you occupy an apartment
+on the same floor, don't you?
+
+1382
+01:19:42,812 --> 01:19:46,215
+I just don't like
+what he's implying.
+
+1383
+01:19:47,016 --> 01:19:50,253
+It could lead to more than
+Chinese whispers.
+
+1384
+01:19:50,286 --> 01:19:52,088
+I know.
+
+1385
+01:19:52,121 --> 01:19:53,589
+We barely survived <i>Der Spiegel</i> 
+
+1386
+01:19:53,622 --> 01:19:55,859
+when you and I
+came out together.
+
+1387
+01:19:57,260 --> 01:20:01,831
+But with Francesca, no one
+could point their finger.
+
+1388
+01:20:01,865 --> 01:20:04,333
+It's not like you two are
+in a relationship.
+
+1389
+01:20:04,367 --> 01:20:05,701
+Yeah, that's true.
+
+1390
+01:20:05,734 --> 01:20:08,037
+I just...
+Turns my stomach to think
+
+1391
+01:20:08,071 --> 01:20:10,874
+the old robot will be right
+about something.
+
+1392
+01:20:12,541 --> 01:20:16,545
+He's probably already run
+to Andris. (scoffs)
+
+1393
+01:20:16,579 --> 01:20:20,116
+Well, is there someone
+other than Francesca
+
+1394
+01:20:20,149 --> 01:20:22,385
+you feel is more qualified?
+
+1395
+01:20:24,988 --> 01:20:27,690
+There are others
+equal to the task.
+
+1396
+01:20:30,226 --> 01:20:32,328
+Hmm?
+
+1397
+01:20:32,361 --> 01:20:34,630
+Maybe wait to decide.
+
+1398
+01:20:43,706 --> 01:20:45,408
+Where are we at with DG?
+
+1399
+01:20:45,441 --> 01:20:49,112
+-Uh, I spoke to an assistant
+in Boyd Muir's office... -Hmm.
+
+1400
+01:20:49,145 --> 01:20:51,915
+... who said they weren't sure
+why they decided
+
+1401
+01:20:51,948 --> 01:20:55,718
+on a digital-only set,
+what the criteria were.
+
+1402
+01:20:55,751 --> 01:20:57,586
+-(sighs)
+-But I do know they just did
+
+1403
+01:20:57,620 --> 01:20:59,255
+a full-vinyl pressing
+for Long Yu.
+
+1404
+01:20:59,288 --> 01:21:01,057
+Of course they did.
+
+1405
+01:21:01,090 --> 01:21:03,292
+The Chinese market's incredible.
+
+1406
+01:21:03,326 --> 01:21:05,294
+All right. Gloves off.
+
+1407
+01:21:05,328 --> 01:21:06,662
+I'm going straight to Lucian.
+
+1408
+01:21:06,695 --> 01:21:08,031
+Maybe he needs to be reminded of
+
+1409
+01:21:08,064 --> 01:21:09,999
+his Annenberg
+Inclusion Initiative.
+
+1410
+01:21:10,033 --> 01:21:11,567
+(chuckles)
+
+1411
+01:21:11,600 --> 01:21:13,002
+You've got
+his contact details, right?
+
+1412
+01:21:13,036 --> 01:21:16,405
+Mm-hmm.
+I'll send it to you right now.
+
+1413
+01:21:17,506 --> 01:21:21,610
+(groans)
+My machine's misbehaving again.
+
+1414
+01:21:21,644 --> 01:21:23,579
+I've already spoken to I.T.
+
+1415
+01:21:23,612 --> 01:21:25,848
+Just here-- let me borrow yours.
+
+1416
+01:21:32,956 --> 01:21:34,790
+Thank you.
+
+1417
+01:21:37,726 --> 01:21:39,662
+Where's the matcha?
+
+1418
+01:21:47,103 --> 01:21:48,938
+(door closes)
+
+1419
+01:21:59,182 --> 01:22:01,417
+(Tár exhales softly)
+
+1420
+01:22:13,496 --> 01:22:15,731
+(grunting)
+
+1421
+01:22:24,040 --> 01:22:26,175
+Ah, I wasn't sure
+where you were.
+
+1422
+01:22:26,209 --> 01:22:27,977
+Was working out a kink.
+
+1423
+01:22:28,011 --> 01:22:30,413
+The-the matcha's cold.
+I-I'll get another.
+
+1424
+01:22:30,446 --> 01:22:31,647
+It's all right.
+I don't need it.
+
+1425
+01:22:31,680 --> 01:22:33,916
+Let's just keep working.
+
+1426
+01:22:35,351 --> 01:22:37,420
+(Tár clears throat)
+
+1427
+01:22:41,290 --> 01:22:43,292
+Francesca, you did as I asked
+
+1428
+01:22:43,326 --> 01:22:47,163
+and deleted any and all
+correspondence with Krista,
+
+1429
+01:22:47,196 --> 01:22:48,797
+correct?
+
+1430
+01:22:50,433 --> 01:22:53,536
+Um, I'm not sure.
+
+1431
+01:22:54,537 --> 01:22:56,205
+Uh, I'm-I'm... I'm not sure.
+
+1432
+01:22:56,239 --> 01:22:58,541
+I-I'll double-check.
+
+1433
+01:23:05,581 --> 01:23:08,551
+You know,
+Sebastian's leaving us,
+
+1434
+01:23:08,584 --> 01:23:10,119
+and I wondered if you might, uh,
+
+1435
+01:23:10,153 --> 01:23:14,123
+compile a list
+of suitable replacements.
+
+1436
+01:23:18,961 --> 01:23:22,131
+Uh, of course, feel free
+to add your own name.
+
+1437
+01:23:25,234 --> 01:23:27,770
+-Thank you.
+-(cell phone vibrates)
+
+1438
+01:23:29,072 --> 01:23:33,008
+Oh, your-your lunch
+with the new cellist.
+
+1439
+01:23:33,042 --> 01:23:34,110
+Oh.
+
+1440
+01:23:34,143 --> 01:23:35,544
+Meant to have you
+reschedule that
+
+1441
+01:23:35,578 --> 01:23:37,380
+'til after the orchestra votes.
+
+1442
+01:23:37,413 --> 01:23:39,482
+I'll text her now.
+
+1443
+01:23:41,250 --> 01:23:43,286
+No, wait. (scoffs)
+
+1444
+01:23:43,319 --> 01:23:46,322
+Might as well
+see what she's made of.
+
+1445
+01:23:46,355 --> 01:23:48,057
+(Tár sniffles)
+
+1446
+01:23:50,259 --> 01:23:52,495
+(dishes clinking quietly)
+
+1447
+01:23:54,597 --> 01:23:56,832
+This food. (chuckles)
+
+1448
+01:23:58,267 --> 01:24:02,405
+The cucumber salad's,
+uh, very good.
+
+1449
+01:24:02,438 --> 01:24:04,607
+It's kind of the only
+real option in this place
+
+1450
+01:24:04,640 --> 01:24:06,242
+if you're vegetarian.
+
+1451
+01:24:06,275 --> 01:24:08,077
+Uh, do you eat fish?
+
+1452
+01:24:08,111 --> 01:24:09,878
+Not really.
+
+1453
+01:24:12,581 --> 01:24:15,818
+You know, we can go
+somewhere else.
+
+1454
+01:24:15,851 --> 01:24:17,553
+L-Like the Store Kitchen.
+
+1455
+01:24:17,586 --> 01:24:20,989
+I mean, it's... uh, it's kind
+of a silly tradition really
+
+1456
+01:24:21,023 --> 01:24:23,126
+that new members
+are brought here
+
+1457
+01:24:23,159 --> 01:24:26,262
+to sup with the ghosts
+of the past.
+
+1458
+01:24:26,295 --> 01:24:29,298
+I mean, at some point,
+everyone from... from Napoleon
+
+1459
+01:24:29,332 --> 01:24:33,302
+to Beethoven tucked in for
+a meal at one of these tables.
+
+1460
+01:24:33,336 --> 01:24:35,671
+Yes, and Clara Zetkin.
+
+1461
+01:24:35,704 --> 01:24:37,173
+I wonder which one.
+
+1462
+01:24:37,206 --> 01:24:40,209
+Who's that?
+It's a, uh, musician?
+
+1463
+01:24:40,243 --> 01:24:42,010
+No. She helped found
+
+1464
+01:24:42,044 --> 01:24:45,013
+Social Democratic
+women's movement in Germany
+
+1465
+01:24:45,047 --> 01:24:48,451
+and KPD until
+Hitler came to power
+
+1466
+01:24:48,484 --> 01:24:51,287
+and she was exiled
+to Soviet Union.
+
+1467
+01:24:51,320 --> 01:24:52,621
+Clara Zetkin?
+
+1468
+01:24:52,655 --> 01:24:54,056
+Yes.
+
+1469
+01:24:54,089 --> 01:24:56,592
+Every March 8th, we place
+flowers at her plaque
+
+1470
+01:24:56,625 --> 01:24:59,228
+in Kremlin Wall Necropolis.
+
+1471
+01:24:59,262 --> 01:25:00,729
+Her birthday?
+
+1472
+01:25:00,763 --> 01:25:02,865
+No, International Women's Day.
+
+1473
+01:25:02,898 --> 01:25:04,933
+(Olga chuckles)
+
+1474
+01:25:06,202 --> 01:25:08,871
+-Are you ready, Maestro?
+-(pen clicks)
+
+1475
+01:25:08,904 --> 01:25:13,209
+-Yes, uh... -Yes,
+first shashlik, then veal.
+
+1476
+01:25:14,042 --> 01:25:16,645
+-For you?
+-Cucumber salad.
+
+1477
+01:25:16,679 --> 01:25:18,046
+-Thank you.
+-Good choice.
+
+1478
+01:25:21,317 --> 01:25:23,386
+Some more bread?
+
+1479
+01:25:23,419 --> 01:25:25,188
+Hmm.
+
+1480
+01:25:30,259 --> 01:25:32,127
+It's good.
+Would you like a bite?
+
+1481
+01:25:32,161 --> 01:25:33,829
+Oh, no.
+
+1482
+01:25:33,862 --> 01:25:35,798
+No. Thank you.
+
+1483
+01:25:36,832 --> 01:25:38,601
+Have you lived in Berlin long?
+
+1484
+01:25:38,634 --> 01:25:40,569
+No, not at all.
+
+1485
+01:25:40,603 --> 01:25:42,104
+I have friends in Wicker I visit
+
+1486
+01:25:42,137 --> 01:25:44,707
+-until I know decision
+of orchestra. -Hmm.
+
+1487
+01:25:45,574 --> 01:25:47,510
+Simonov will hold your place?
+
+1488
+01:25:47,543 --> 01:25:50,313
+Yes, I think so.
+He is my uncle.
+
+1489
+01:25:51,647 --> 01:25:53,182
+Oh.
+
+1490
+01:25:53,216 --> 01:25:55,818
+But my dream has always been
+to play with Berlin.
+
+1491
+01:25:55,851 --> 01:25:57,853
+Oh, me, too.
+
+1492
+01:25:57,886 --> 01:26:00,122
+There's nowhere like it.
+
+1493
+01:26:03,626 --> 01:26:07,296
+I imagine, uh, Rostropovich
+is a hero of yours.
+
+1494
+01:26:08,531 --> 01:26:10,766
+Well, of course, he was great.
+
+1495
+01:26:10,799 --> 01:26:12,901
+We study him
+at Moscow Conservatory,
+
+1496
+01:26:12,935 --> 01:26:17,005
+but growing up, my favorite
+is Jacqueline du Pré.
+
+1497
+01:26:17,039 --> 01:26:19,775
+She made me want to play cello.
+
+1498
+01:26:19,808 --> 01:26:21,277
+Which record was it?
+
+1499
+01:26:21,310 --> 01:26:23,812
+Not record. YouTube.
+
+1500
+01:26:23,846 --> 01:26:25,848
+Elgar Concerto.
+
+1501
+01:26:27,616 --> 01:26:28,917
+Oh, of course.
+
+1502
+01:26:28,951 --> 01:26:31,654
+With Barenboim conducting
+the London Phil.
+
+1503
+01:26:31,687 --> 01:26:34,590
+I don't know who was conducting.
+
+1504
+01:26:34,623 --> 01:26:37,326
+But she did something to me.
+
+1505
+01:26:37,360 --> 01:26:39,194
+That's when I decide
+to learn piece
+
+1506
+01:26:39,228 --> 01:26:41,864
+and play it
+with youth orchestra.
+
+1507
+01:26:41,897 --> 01:26:43,766
+Quite a challenge.
+How old were you?
+
+1508
+01:26:43,799 --> 01:26:45,701
+Thirteen.
+
+1509
+01:26:47,135 --> 01:26:48,737
+Wow.
+
+1510
+01:26:48,771 --> 01:26:50,673
+I'd love to hear it.
+
+1511
+01:26:50,706 --> 01:26:53,342
+They make video.
+I will text to you.
+
+1512
+01:26:55,478 --> 01:26:58,914
+(ensemble playing Elgar's Cello
+Concerto in E minor, Op. 85)
+
+1513
+01:27:21,770 --> 01:27:24,006
+*
+
+1514
+01:27:39,855 --> 01:27:41,990
+(knocking on door)
+
+1515
+01:27:49,932 --> 01:27:52,167
+(knocking on door)
+
+1516
+01:27:54,169 --> 01:27:55,938
+-(pounding on door)
+-(music stops)
+
+1517
+01:28:14,390 --> 01:28:16,825
+(quiet high-pitched tone
+in distance)
+
+1518
+01:28:41,316 --> 01:28:43,552
+(high-pitched tone continues)
+
+1519
+01:28:53,762 --> 01:28:55,998
+(high-pitched tone stops)
+
+1520
+01:29:00,302 --> 01:29:02,337
+(panting)
+
+1521
+01:29:10,446 --> 01:29:12,881
+(orchestra playing
+classical music)
+
+1522
+01:29:42,244 --> 01:29:44,480
+(final note fades slowly)
+
+1523
+01:30:01,664 --> 01:30:03,365
+Beautiful.
+
+1524
+01:30:06,735 --> 01:30:09,371
+(speaking German)
+
+1525
+01:30:13,075 --> 01:30:16,111
+Now, um, just before we break,
+
+1526
+01:30:16,144 --> 01:30:18,180
+I know many of you are wondering
+
+1527
+01:30:18,213 --> 01:30:21,183
+what the companion piece
+will be.
+
+1528
+01:30:21,216 --> 01:30:23,619
+And I have been
+thinking quite a bit about it
+
+1529
+01:30:23,652 --> 01:30:25,588
+and was wondering
+if we could just take
+
+1530
+01:30:25,621 --> 01:30:29,224
+an informal poll about
+possibly pairing the Five
+
+1531
+01:30:29,257 --> 01:30:32,327
+with Elgar's Cello Concerto.
+
+1532
+01:30:34,096 --> 01:30:37,099
+(quiet murmuring)
+
+1533
+01:30:48,076 --> 01:30:50,312
+(bows tapping)
+
+1534
+01:30:54,583 --> 01:30:57,352
+(speaks German)
+
+1535
+01:30:58,220 --> 01:31:02,891
+Oh, and, uh, given what
+we've all been through,
+
+1536
+01:31:02,925 --> 01:31:04,627
+what we're still going through,
+
+1537
+01:31:04,660 --> 01:31:09,197
+and we're finally back
+together as a family, I-I...
+
+1538
+01:31:10,398 --> 01:31:12,400
+... I feel that
+maybe the soloist
+
+1539
+01:31:12,434 --> 01:31:15,170
+should come from
+within our own ranks.
+
+1540
+01:31:15,203 --> 01:31:16,572
+-(excited chatter)
+-MAN: Yeah.
+
+1541
+01:31:16,605 --> 01:31:17,973
+(bows tapping)
+
+1542
+01:31:18,006 --> 01:31:19,407
+TÁR:
+Good. Okay, good.
+
+1543
+01:31:19,441 --> 01:31:22,244
+Just... Sorry. (chuckles)
+One more question.
+
+1544
+01:31:22,277 --> 01:31:24,513
+And this really is
+just for you, Gosia.
+
+1545
+01:31:24,547 --> 01:31:26,148
+I mean... (sighs)
+
+1546
+01:31:26,181 --> 01:31:28,884
+... as a practical matter,
+I mean, this would
+
+1547
+01:31:28,917 --> 01:31:30,886
+normally fall to you.
+
+1548
+01:31:30,919 --> 01:31:33,589
+But given how much is gonna be
+asked of you with the Mahler,
+
+1549
+01:31:33,622 --> 01:31:35,724
+I-I wondered if you'd be
+at all bothered
+
+1550
+01:31:35,758 --> 01:31:38,326
+if we were to hold auditions?
+
+1551
+01:31:47,169 --> 01:31:50,606
+(chuckling):
+Well, that's a bit unorthodox.
+
+1552
+01:31:53,508 --> 01:31:56,612
+But, in theory,
+I have no objection.
+
+1553
+01:31:56,645 --> 01:31:58,280
+My only hesitation
+will depend on
+
+1554
+01:31:58,313 --> 01:31:59,882
+when these auditions
+might take place.
+
+1555
+01:31:59,915 --> 01:32:01,349
+I wouldn't want them in any way
+
+1556
+01:32:01,383 --> 01:32:02,585
+to interfere with
+our sectionals.
+
+1557
+01:32:02,618 --> 01:32:04,486
+No, no, no.
+That's a good point.
+
+1558
+01:32:04,519 --> 01:32:06,188
+I mean, it is gonna
+have to be a... (laughs)
+
+1559
+01:32:06,221 --> 01:32:07,756
+It's gonna have to be a sprint.
+
+1560
+01:32:07,790 --> 01:32:09,357
+Um...
+
+1561
+01:32:10,826 --> 01:32:12,595
+How about Monday?
+
+1562
+01:32:16,632 --> 01:32:18,300
+All right.
+
+1563
+01:32:21,403 --> 01:32:22,738
+TÁR:
+Okay, good.
+
+1564
+01:32:22,771 --> 01:32:26,008
+Knut, would you assemble
+a quorum for Monday?
+
+1565
+01:32:26,041 --> 01:32:27,442
+(speaks quietly)
+
+1566
+01:32:31,814 --> 01:32:34,583
+(quiet murmuring)
+
+1567
+01:32:40,923 --> 01:32:43,191
+WOMAN:
+Let me see what she says.
+
+1568
+01:32:43,225 --> 01:32:45,160
+Okay, I got, I gotta go.
+
+1569
+01:32:46,261 --> 01:32:47,996
+Britta, hi.
+
+1570
+01:32:48,030 --> 01:32:49,231
+Lydia.
+
+1571
+01:32:49,264 --> 01:32:50,899
+-Just caught the end.
+-Ah!
+
+1572
+01:32:50,933 --> 01:32:53,001
+What'd you think? How's it, uh,
+how's it sounding?
+
+1573
+01:32:53,035 --> 01:32:55,303
+Oh, it's fantastic.
+
+1574
+01:32:55,337 --> 01:32:57,439
+I can't wait
+until the live recording.
+
+1575
+01:32:57,472 --> 01:32:59,307
+-Yes, well.
+-(kissing)
+
+1576
+01:32:59,341 --> 01:33:01,844
+I'll be happy when it's over.
+
+1577
+01:33:01,877 --> 01:33:03,646
+It's always that way.
+
+1578
+01:33:03,679 --> 01:33:06,882
+I know you're busy, and I don't
+want to add to your load,
+
+1579
+01:33:06,915 --> 01:33:09,051
+but...
+
+1580
+01:33:09,084 --> 01:33:11,253
+Andris Davis called.
+
+1581
+01:33:11,286 --> 01:33:14,322
+Look, he's upset
+I'm rotating Sebastian.
+
+1582
+01:33:14,356 --> 01:33:15,891
+No, no, no, no, no.
+
+1583
+01:33:15,924 --> 01:33:17,259
+Something else.
+
+1584
+01:33:17,292 --> 01:33:18,661
+But you will please
+let Laura know
+
+1585
+01:33:18,694 --> 01:33:20,062
+as soon as you have chosen
+his replacement
+
+1586
+01:33:20,095 --> 01:33:21,263
+so she can prepare
+a press release.
+
+1587
+01:33:21,296 --> 01:33:22,831
+Yeah, of course.
+
+1588
+01:33:22,865 --> 01:33:24,667
+Uh, so what did he want?
+
+1589
+01:33:24,700 --> 01:33:26,869
+To complain about
+the punctuality of a driver
+
+1590
+01:33:26,902 --> 01:33:29,972
+he seems to believe
+the board supplies him with.
+
+1591
+01:33:30,005 --> 01:33:31,974
+Do you know anything about this?
+
+1592
+01:33:32,007 --> 01:33:33,441
+Yes.
+
+1593
+01:33:33,475 --> 01:33:36,478
+No, it's just... it's just
+something I pay for.
+
+1594
+01:33:36,511 --> 01:33:39,214
+Then why does he believe
+it's the board?
+
+1595
+01:33:39,247 --> 01:33:42,350
+Because he needs
+to believe that.
+
+1596
+01:33:42,384 --> 01:33:44,386
+H-He needs to b...
+
+1597
+01:33:44,419 --> 01:33:46,755
+needs to believe he hasn't
+been forgotten, Britta.
+
+1598
+01:33:46,789 --> 01:33:49,692
+Uh, the academy
+has von Karajan's name on it,
+
+1599
+01:33:49,725 --> 01:33:52,127
+and there are love shrines
+to Abbado all over this place.
+
+1600
+01:33:52,160 --> 01:33:56,732
+But the name of Davis, it's
+essentially nowhere to be seen.
+
+1601
+01:33:56,765 --> 01:33:58,166
+All right.
+
+1602
+01:33:58,200 --> 01:34:01,837
+Then perhaps Francesca could
+have a word with the driver.
+
+1603
+01:34:01,870 --> 01:34:04,106
+Of course.
+
+1604
+01:34:04,139 --> 01:34:06,108
+One other thing.
+
+1605
+01:34:06,141 --> 01:34:07,976
+It's unpleasant.
+
+1606
+01:34:08,010 --> 01:34:09,344
+Oh, is it?
+
+1607
+01:34:09,377 --> 01:34:11,446
+Operational shortfall?
+
+1608
+01:34:11,479 --> 01:34:13,849
+Must I take Mrs. Sewing
+out to drinks again?
+
+1609
+01:34:13,882 --> 01:34:15,851
+No, no, no, nothing to do
+with the orchestra.
+
+1610
+01:34:15,884 --> 01:34:18,220
+Do you remember
+an Accordion Academy fellow
+
+1611
+01:34:18,253 --> 01:34:20,723
+named Krista Taylor?
+
+1612
+01:34:23,892 --> 01:34:25,861
+Yes. Why?
+
+1613
+01:34:25,894 --> 01:34:28,463
+Apparently,
+she committed suicide.
+
+1614
+01:34:28,496 --> 01:34:31,800
+Oh, God. Poor thing.
+
+1615
+01:34:31,834 --> 01:34:33,869
+Her parents mu...
+
+1616
+01:34:34,669 --> 01:34:37,472
+Wait, sorry,
+I'm... I'm confused, Britta.
+
+1617
+01:34:37,505 --> 01:34:39,607
+Why, why were you put
+in the position
+
+1618
+01:34:39,641 --> 01:34:40,976
+to deliver this terrible news?
+
+1619
+01:34:41,009 --> 01:34:43,278
+Why didn't Accordion
+contact me directly?
+
+1620
+01:34:43,311 --> 01:34:45,280
+It's delicate, Lydia.
+
+1621
+01:34:45,313 --> 01:34:46,882
+Mr. Kaplan thought
+it might be best
+
+1622
+01:34:46,915 --> 01:34:48,283
+if you contacted a lawyer
+
+1623
+01:34:48,316 --> 01:34:50,853
+before speaking with anyone
+at Accordion.
+
+1624
+01:34:50,886 --> 01:34:54,256
+Well, presumably, that anyone
+includes Eliot himself.
+
+1625
+01:34:56,091 --> 01:34:59,627
+I'm, I'm sorry, why-why
+would I need to do that?
+
+1626
+01:34:59,661 --> 01:35:03,832
+Apparently, some accusations
+have been made.
+
+1627
+01:35:05,667 --> 01:35:07,669
+Accusations?
+What kind of accusations?
+
+1628
+01:35:07,702 --> 01:35:09,337
+He didn't say.
+
+1629
+01:35:09,371 --> 01:35:11,706
+But they were brought
+to Accordion's counsel.
+
+1630
+01:35:11,740 --> 01:35:14,609
+Mr. Kaplan said he's certain
+nothing will come of it,
+
+1631
+01:35:14,642 --> 01:35:17,379
+but one can't be too careful.
+
+1632
+01:35:24,486 --> 01:35:26,855
+(sighs heavily)
+
+1633
+01:35:31,894 --> 01:35:33,528
+(sniffs)
+
+1634
+01:35:35,931 --> 01:35:38,500
+I'm sorry about the hour.
+It's Lydia Tár calling.
+
+1635
+01:35:38,533 --> 01:35:41,703
+I need to speak to Mr. Singer
+immediately.
+
+1636
+01:35:41,736 --> 01:35:43,138
+Yes.
+
+1637
+01:35:43,171 --> 01:35:44,940
+Yes, it's urgent.
+
+1638
+01:36:09,131 --> 01:36:11,366
+(low, quiet conversations)
+
+1639
+01:36:14,136 --> 01:36:15,971
+Tired?
+
+1640
+01:36:19,241 --> 01:36:21,743
+Sleep's elusive.
+
+1641
+01:36:22,544 --> 01:36:24,947
+I was the same
+before a recording date.
+
+1642
+01:36:26,882 --> 01:36:28,650
+Lydia...
+
+1643
+01:36:28,683 --> 01:36:32,387
+are-are you absolutely
+certain about Sebastian?
+
+1644
+01:36:32,420 --> 01:36:34,656
+TÁR:
+Mm-hmm.
+
+1645
+01:36:34,689 --> 01:36:37,459
+Who will you replace him with?
+
+1646
+01:36:37,492 --> 01:36:39,995
+Possibly Andrew Crust.
+
+1647
+01:36:40,795 --> 01:36:44,232
+He's been assisting
+Otto Tausk at the VSO.
+
+1648
+01:36:44,266 --> 01:36:46,701
+Not the girl?
+
+1649
+01:36:52,007 --> 01:36:54,042
+(Tár sighs)
+
+1650
+01:36:55,310 --> 01:36:57,612
+Andris...
+
+1651
+01:37:00,682 --> 01:37:03,618
+... have you ever had an issue
+
+1652
+01:37:03,651 --> 01:37:06,188
+with a, a student or colleague,
+
+1653
+01:37:06,221 --> 01:37:08,490
+where that person may have
+misinterpreted your intention?
+
+1654
+01:37:08,523 --> 01:37:10,058
+Has someone been complaining
+about me?
+
+1655
+01:37:10,092 --> 01:37:12,127
+-No, no, no, of course not.
+-Because at this point,
+
+1656
+01:37:12,160 --> 01:37:13,661
+they've missed their chance.
+
+1657
+01:37:13,695 --> 01:37:15,864
+-I'm out of the game.
+-Yes, yes, I know, I know.
+
+1658
+01:37:15,898 --> 01:37:17,099
+Course you are.
+
+1659
+01:37:17,132 --> 01:37:19,234
+Thank God I was never pulled
+from the podium
+
+1660
+01:37:19,267 --> 01:37:21,303
+like Jimmy Levine.
+
+1661
+01:37:21,336 --> 01:37:24,940
+Or-or hunted
+like Charles Dutoit.
+
+1662
+01:37:24,973 --> 01:37:27,742
+I take it you're asking
+for a reason.
+
+1663
+01:37:27,775 --> 01:37:30,545
+Well, there's just been
+so much of this sort of thing
+
+1664
+01:37:30,578 --> 01:37:32,214
+in the news lately.
+
+1665
+01:37:32,247 --> 01:37:35,783
+Well, nowadays, to be accused
+is the same as being guilty.
+
+1666
+01:37:36,584 --> 01:37:38,086
+But I suppose
+that was also the case
+
+1667
+01:37:38,120 --> 01:37:41,423
+all those years ago
+with Furtwängler.
+
+1668
+01:37:41,456 --> 01:37:44,526
+A bit with Karajan, too.
+
+1669
+01:37:47,162 --> 01:37:49,864
+Who was the better conductor?
+
+1670
+01:37:50,665 --> 01:37:53,068
+I never played
+under Furtwängler.
+
+1671
+01:37:53,101 --> 01:37:55,637
+Yeah, when I first arrived here,
+the older members
+
+1672
+01:37:55,670 --> 01:37:58,941
+had, uh, hmm, hushed opinions.
+
+1673
+01:37:58,974 --> 01:38:02,344
+At the same time, they wanted
+to leave that era behind.
+
+1674
+01:38:02,377 --> 01:38:03,745
+What, the war?
+
+1675
+01:38:03,778 --> 01:38:05,247
+-No, postwar.
+-Ah.
+
+1676
+01:38:05,280 --> 01:38:07,415
+Denazification.
+
+1677
+01:38:07,449 --> 01:38:09,184
+Someone pointed a finger at you,
+
+1678
+01:38:09,217 --> 01:38:11,319
+process started all over again.
+
+1679
+01:38:11,353 --> 01:38:13,788
+Furtwängler never joined
+the Party.
+
+1680
+01:38:13,821 --> 01:38:15,390
+Refused to give the salute
+
+1681
+01:38:15,423 --> 01:38:17,559
+or to conduct the
+"Horst-Wessel-Lied."
+
+1682
+01:38:17,592 --> 01:38:20,395
+Or to sign his letters,
+"Heil, Hitler."
+
+1683
+01:38:20,428 --> 01:38:23,431
+Even those he wrote to Hitler.
+
+1684
+01:38:23,465 --> 01:38:27,936
+But he was obliged
+to be denazified.
+
+1685
+01:38:27,970 --> 01:38:30,939
+Until then, he was semiretired,
+
+1686
+01:38:30,973 --> 01:38:33,475
+playing corpses.
+
+1687
+01:38:34,276 --> 01:38:36,444
+Playing corpses?
+
+1688
+01:38:36,478 --> 01:38:39,781
+Secretly performing
+in a graveyard.
+
+1689
+01:38:41,149 --> 01:38:43,618
+You're not equating
+sexual impropriety
+
+1690
+01:38:43,651 --> 01:38:45,887
+with being an accused Nazi?
+
+1691
+01:38:46,721 --> 01:38:48,390
+Either way, you had to be ready.
+
+1692
+01:38:48,423 --> 01:38:51,359
+For years, I made sure
+all the hangers in my closet
+
+1693
+01:38:51,393 --> 01:38:53,595
+were facing the same direction.
+
+1694
+01:39:04,006 --> 01:39:07,042
+How many are auditioning
+on Monday?
+
+1695
+01:39:11,313 --> 01:39:12,847
+No one.
+
+1696
+01:39:13,615 --> 01:39:15,450
+No one?
+
+1697
+01:39:17,019 --> 01:39:19,487
+Maybe Martin.
+
+1698
+01:39:19,521 --> 01:39:21,156
+He's never gotten along
+with Gosia.
+
+1699
+01:39:21,189 --> 01:39:23,958
+He would love to sit downstage
+for once.
+
+1700
+01:39:25,493 --> 01:39:27,962
+Well...
+
+1701
+01:39:27,996 --> 01:39:30,465
+he's still gonna
+have to audition.
+
+1702
+01:39:32,267 --> 01:39:34,236
+Of course.
+
+1703
+01:39:34,269 --> 01:39:36,504
+Have to follow the rules.
+
+1704
+01:39:38,140 --> 01:39:40,808
+TÁR: Aren't we being
+a bit formal, Francesca?
+
+1705
+01:39:40,842 --> 01:39:43,478
+From what I understand,
+there's only one player, right?
+
+1706
+01:39:43,511 --> 01:39:46,214
+FRANCESCA:
+No, Maestro, there are two.
+
+1707
+01:39:47,782 --> 01:39:51,019
+(cello and piano playing
+dramatic classical music)
+
+1708
+01:40:09,171 --> 01:40:12,607
+(cello playing Elgar's Cello
+Concerto in E minor, Op. 85)
+
+1709
+01:40:41,669 --> 01:40:44,139
+(cello holding final note)
+
+1710
+01:40:48,610 --> 01:40:50,612
+SHARON:
+Well, it's unanimous.
+
+1711
+01:40:50,645 --> 01:40:53,281
+-Number two.
+-TÁR: Mm-hmm.
+
+1712
+01:40:53,315 --> 01:40:54,716
+And we have a problem.
+
+1713
+01:40:54,749 --> 01:40:56,017
+She's not officially
+been invited
+
+1714
+01:40:56,050 --> 01:40:58,186
+to become a member
+of the orchestra.
+
+1715
+01:40:59,387 --> 01:41:03,024
+Well, she wouldn't need to be
+to solo for us.
+
+1716
+01:41:03,057 --> 01:41:05,227
+KNUT: I believe the criteria
+of the audition
+
+1717
+01:41:05,260 --> 01:41:07,495
+was all section members?
+
+1718
+01:41:07,529 --> 01:41:10,132
+-(grunts) Then her audition
+gets thrown out. -SHARON: No.
+
+1719
+01:41:10,165 --> 01:41:12,634
+Francesca, please ask Martin
+to come back in
+
+1720
+01:41:12,667 --> 01:41:14,736
+so we can give him the news.
+
+1721
+01:41:14,769 --> 01:41:16,971
+Wait. Gosia, let's talk.
+
+1722
+01:41:19,341 --> 01:41:21,676
+Shit! (laughing)
+
+1723
+01:41:21,709 --> 01:41:23,077
+(whooping loudly)
+
+1724
+01:41:23,111 --> 01:41:25,547
+Yeah! (continues laughing
+and whooping)
+
+1725
+01:41:26,914 --> 01:41:30,385
+I'll confirm solo rehearsal
+dates with her.
+
+1726
+01:41:30,418 --> 01:41:32,354
+Thank you.
+
+1727
+01:41:32,387 --> 01:41:34,556
+Have a seat.
+
+1728
+01:41:38,826 --> 01:41:40,862
+(sighs):
+I have made a decision
+
+1729
+01:41:40,895 --> 01:41:43,665
+regarding Sebastian's
+replacement.
+
+1730
+01:41:44,832 --> 01:41:48,336
+And I want you to know
+it wasn't an easy one.
+
+1731
+01:41:49,871 --> 01:41:54,342
+Uh, this position brings with it
+enormous responsibility,
+
+1732
+01:41:54,376 --> 01:41:57,545
+-and my personal affection
+for you aside... -(scoffs)
+
+1733
+01:41:57,579 --> 01:42:02,684
+... I will have to go with
+someone more, more experienced.
+
+1734
+01:42:17,765 --> 01:42:20,001
+(quiet high-pitched tone)
+
+1735
+01:42:25,440 --> 01:42:27,074
+(tone stops)
+
+1736
+01:42:42,857 --> 01:42:45,092
+(playing simple melody)
+
+1737
+01:42:53,000 --> 01:42:55,237
+(bell chiming in distance)
+
+1738
+01:42:59,307 --> 01:43:02,477
+-(knocking on door)
+-(plays note)
+
+1739
+01:43:02,510 --> 01:43:04,512
+Oh, leave me alone.
+
+1740
+01:43:04,546 --> 01:43:06,914
+I don't have your paper.
+
+1741
+01:43:07,715 --> 01:43:09,717
+I've told you before, I...
+
+1742
+01:43:09,751 --> 01:43:11,953
+Oh, I'm sorry. Please come in.
+
+1743
+01:43:16,691 --> 01:43:18,092
+(sighs)
+
+1744
+01:43:18,125 --> 01:43:20,362
+(playing gentle melody)
+
+1745
+01:43:57,799 --> 01:43:59,267
+Good. Good.
+
+1746
+01:43:59,301 --> 01:44:02,136
+I-I think the contrast is,
+it's much better now.
+
+1747
+01:44:02,169 --> 01:44:03,871
+-Don't you think?
+-Hmm.
+
+1748
+01:44:03,905 --> 01:44:05,740
+(sighs)
+How do you take your coffee?
+
+1749
+01:44:05,773 --> 01:44:08,009
+Black. Strong.
+
+1750
+01:44:09,677 --> 01:44:11,346
+Is all right if I play?
+
+1751
+01:44:11,379 --> 01:44:14,115
+Hmm? Oh, yes,
+of course, of course.
+
+1752
+01:44:24,091 --> 01:44:26,328
+(playing gentle melody)
+
+1753
+01:45:02,597 --> 01:45:04,999
+That's as far as I've gotten.
+
+1754
+01:45:05,032 --> 01:45:07,034
+But it's good.
+
+1755
+01:45:07,068 --> 01:45:09,904
+Um, this part here.
+
+1756
+01:45:13,641 --> 01:45:16,043
+Maybe change A to B-flat?
+
+1757
+01:45:19,781 --> 01:45:22,216
+That's better.
+I like that sound.
+
+1758
+01:45:23,851 --> 01:45:25,987
+Come on. Take a break.
+
+1759
+01:45:26,020 --> 01:45:28,155
+Okay. (chuckles)
+
+1760
+01:45:28,923 --> 01:45:30,858
+(door closes)
+
+1761
+01:45:40,602 --> 01:45:42,069
+TÁR:
+ <i>Sharon?</i> 
+
+1762
+01:45:45,373 --> 01:45:47,241
+Hello.
+
+1763
+01:46:02,857 --> 01:46:04,892
+Petra.
+
+1764
+01:46:16,904 --> 01:46:19,140
+(Petra humming rhythmically)
+
+1765
+01:46:23,177 --> 01:46:25,480
+(rhythmic humming continues)
+
+1766
+01:46:27,915 --> 01:46:29,517
+(humming)
+
+1767
+01:46:30,685 --> 01:46:32,420
+What are you doing in here?
+
+1768
+01:46:32,454 --> 01:46:35,657
+(whispering):
+I'm hiding from her.
+
+1769
+01:46:35,690 --> 01:46:37,124
+(whispers):
+Why?
+
+1770
+01:46:37,158 --> 01:46:40,127
+Because she told me
+to put my things in order,
+
+1771
+01:46:40,161 --> 01:46:43,164
+but they already are.
+
+1772
+01:46:45,933 --> 01:46:48,135
+I can see that.
+
+1773
+01:46:48,936 --> 01:46:50,204
+Come on.
+
+1774
+01:46:50,237 --> 01:46:52,373
+They're all waiting for you.
+
+1775
+01:46:52,406 --> 01:46:55,777
+PETRA: I'm going to give
+everyone a pencil.
+
+1776
+01:46:55,810 --> 01:46:57,078
+TÁR:
+All of them?
+
+1777
+01:46:57,111 --> 01:46:58,546
+They can't all conduct, honey.
+
+1778
+01:46:58,580 --> 01:47:02,316
+(chuckles): It's not a,
+it's not a democracy.
+
+1779
+01:47:03,985 --> 01:47:06,220
+*
+
+1780
+01:47:07,955 --> 01:47:10,191
+(orchestra joins)
+
+1781
+01:47:15,062 --> 01:47:17,298
+*
+
+1782
+01:47:43,558 --> 01:47:45,593
+*
+
+1783
+01:48:01,676 --> 01:48:03,110
+(Tár sighs)
+
+1784
+01:48:06,013 --> 01:48:07,849
+(speaking German)
+
+1785
+01:48:07,882 --> 01:48:09,651
+Okay, uh...
+
+1786
+01:48:09,684 --> 01:48:11,719
+(speaking German)
+
+1787
+01:48:14,088 --> 01:48:15,557
+(speaks German)
+
+1788
+01:48:15,590 --> 01:48:18,359
+-Hey, that's good.
+-Yeah. Good.
+
+1789
+01:48:18,392 --> 01:48:19,794
+-You happy?
+-(laughs softly)
+
+1790
+01:48:19,827 --> 01:48:22,063
+(Tár speaking quietly)
+
+1791
+01:48:23,264 --> 01:48:26,167
+How long were you acquainted
+with Miss Taylor?
+
+1792
+01:48:26,200 --> 01:48:30,304
+Oh, I'd have to double-check
+with my assistant,
+
+1793
+01:48:30,337 --> 01:48:33,240
+but cumulatively speaking,
+I'd say
+
+1794
+01:48:33,274 --> 01:48:35,743
+-not more than a few months.
+-Hmm.
+
+1795
+01:48:35,777 --> 01:48:38,580
+-Thank you for your time,
+Maestro. -Not at all.
+
+1796
+01:48:39,547 --> 01:48:41,883
+-This recording will exist on
+a protected server... -Mm-hmm.
+
+1797
+01:48:41,916 --> 01:48:44,385
+... under attorney-client
+privilege with Mr. Singer.
+
+1798
+01:48:44,418 --> 01:48:46,087
+-Great.
+-He will follow up with you
+
+1799
+01:48:46,120 --> 01:48:47,989
+to help prepare
+for the deposition.
+
+1800
+01:48:51,125 --> 01:48:52,994
+Deposition?
+
+1801
+01:48:53,027 --> 01:48:54,662
+Yes.
+
+1802
+01:48:54,696 --> 01:48:56,530
+I assumed you were aware.
+
+1803
+01:48:56,564 --> 01:48:58,700
+Mr. Singer's office said
+they'd been coordinating
+
+1804
+01:48:58,733 --> 01:49:00,768
+with your assistant.
+
+1805
+01:49:00,802 --> 01:49:03,104
+Francesca, you'd better get
+your pretty little ass to work
+
+1806
+01:49:03,137 --> 01:49:04,939
+right now.
+
+1807
+01:49:04,972 --> 01:49:06,507
+(man and woman speaking German)
+
+1808
+01:49:06,540 --> 01:49:08,442
+The only communication
+we've received from Francesca
+
+1809
+01:49:08,475 --> 01:49:10,612
+was an email to my assistant
+in the middle of the night
+
+1810
+01:49:10,645 --> 01:49:12,279
+tendering her immediate
+resignation,
+
+1811
+01:49:12,313 --> 01:49:14,048
+stating she would be in contact
+
+1812
+01:49:14,081 --> 01:49:16,317
+when she had more details
+to provide.
+
+1813
+01:49:16,350 --> 01:49:18,052
+What kind of details?
+
+1814
+01:49:18,085 --> 01:49:19,654
+A new address, I suppose.
+
+1815
+01:49:19,687 --> 01:49:21,989
+In the meantime,
+we've been trying all morning
+
+1816
+01:49:22,023 --> 01:49:23,725
+to find someone suitable
+to assist you
+
+1817
+01:49:23,758 --> 01:49:25,092
+on a temporary basis.
+
+1818
+01:49:25,126 --> 01:49:26,861
+For now, perhaps
+your new assistant conductor
+
+1819
+01:49:26,894 --> 01:49:28,495
+would be the right fit.
+
+1820
+01:49:28,529 --> 01:49:30,965
+No. No. He's not available
+'til after the live Five date.
+
+1821
+01:49:30,998 --> 01:49:33,067
+Yes, I'm ready. Let's go.
+
+1822
+01:49:37,138 --> 01:49:38,973
+I know how much
+you depended on her.
+
+1823
+01:49:39,006 --> 01:49:40,307
+TÁR:
+Two-faced little bitch.
+
+1824
+01:49:40,341 --> 01:49:41,843
+Imagine her hurt, Tár.
+
+1825
+01:49:41,876 --> 01:49:44,345
+-Don't you dare try to
+defend her. -God, slow down!
+
+1826
+01:49:44,378 --> 01:49:46,013
+She'll come galumphing back.
+
+1827
+01:49:46,047 --> 01:49:48,249
+-I mean, I've got a dumb phone
+like every robot. -Tár, s...
+
+1828
+01:49:48,282 --> 01:49:50,484
+-How hard can it be to text
+all day? -(horn blaring)
+
+1829
+01:49:50,517 --> 01:49:53,020
+-(screams) Slow down!
+-(tires screech, horn honks)
+
+1830
+01:49:53,054 --> 01:49:55,356
+Or let me out!
+
+1831
+01:50:04,431 --> 01:50:06,668
+(seat belt unfastens)
+
+1832
+01:50:12,940 --> 01:50:15,176
+(child chattering)
+
+1833
+01:50:16,277 --> 01:50:18,479
+-Francesca!
+-(pounds on door)
+
+1834
+01:50:51,478 --> 01:50:54,215
+-WOMAN: Fräulein?
+-(keys jingling)
+
+1835
+01:50:59,887 --> 01:51:02,156
+(keys jingling)
+
+1836
+01:51:05,659 --> 01:51:07,795
+(low, indistinct whispering)
+
+1837
+01:51:08,763 --> 01:51:12,299
+(indistinct whispering
+continues)
+
+1838
+01:51:19,206 --> 01:51:21,442
+(insects trilling)
+
+1839
+01:51:31,652 --> 01:51:33,254
+-(banging on door)
+-(gasps)
+
+1840
+01:51:33,287 --> 01:51:35,522
+(bell chiming in distance)
+
+1841
+01:51:38,092 --> 01:51:41,295
+(frantically speaking German)
+
+1842
+01:51:43,731 --> 01:51:45,099
+Come.
+
+1843
+01:51:45,132 --> 01:51:47,368
+(chiming continues)
+
+1844
+01:51:56,410 --> 01:51:58,645
+(woman whimpering quietly)
+
+1845
+01:52:04,118 --> 01:52:06,353
+(chiming continues)
+
+1846
+01:52:08,222 --> 01:52:10,457
+(woman continues whimpering)
+
+1847
+01:52:23,905 --> 01:52:25,873
+(woman whimpering)
+
+1848
+01:52:25,907 --> 01:52:27,942
+(chiming continues)
+
+1849
+01:52:31,012 --> 01:52:32,679
+(Tár grunts)
+
+1850
+01:52:35,783 --> 01:52:37,418
+(shushing)
+
+1851
+01:52:37,451 --> 01:52:39,053
+(Tár grunts)
+
+1852
+01:52:39,086 --> 01:52:41,755
+(chiming continues)
+
+1853
+01:52:41,789 --> 01:52:43,825
+(speaking German)
+
+1854
+01:52:45,059 --> 01:52:47,829
+(shushing)
+
+1855
+01:52:47,862 --> 01:52:49,263
+(chiming stops)
+
+1856
+01:52:49,296 --> 01:52:50,731
+(door closes)
+
+1857
+01:52:50,764 --> 01:52:53,901
+(gasping)
+
+1858
+01:52:53,935 --> 01:52:55,970
+(water running)
+
+1859
+01:53:07,148 --> 01:53:09,250
+(knocking on door)
+
+1860
+01:53:09,283 --> 01:53:11,618
+(turns off water)
+
+1861
+01:53:13,487 --> 01:53:15,456
+(knocking continues)
+
+1862
+01:53:17,458 --> 01:53:18,960
+(sighs)
+
+1863
+01:53:20,061 --> 01:53:21,228
+(door opens)
+
+1864
+01:53:21,262 --> 01:53:22,964
+OLGA:
+Sorry I'm late again.
+
+1865
+01:53:22,997 --> 01:53:25,232
+TÁR:
+Oh.
+
+1866
+01:53:25,266 --> 01:53:27,501
+(door closes)
+
+1867
+01:53:29,603 --> 01:53:32,439
+D-Do you live here?
+
+1868
+01:53:32,473 --> 01:53:34,976
+Not normally, no.
+
+1869
+01:53:35,009 --> 01:53:36,510
+Uh, make yourself at home.
+
+1870
+01:53:36,543 --> 01:53:37,945
+I'm just gonna put something on.
+
+1871
+01:53:37,979 --> 01:53:39,413
+Do you have a towel?
+
+1872
+01:53:41,515 --> 01:53:43,885
+-(quietly): Yes.
+-Thank you.
+
+1873
+01:53:48,990 --> 01:53:51,758
+I got caught in the rain.
+
+1874
+01:53:57,498 --> 01:54:00,601
+(both chuckling)
+
+1875
+01:54:02,937 --> 01:54:05,406
+There is small concert
+with musician friends.
+
+1876
+01:54:05,439 --> 01:54:07,008
+You should come.
+
+1877
+01:54:07,942 --> 01:54:11,645
+TÁR: Thanks, but I-I...
+really must get home. (sighs)
+
+1878
+01:54:11,678 --> 01:54:14,615
+-You have child, yes?
+-Mm-hmm.
+
+1879
+01:54:14,648 --> 01:54:16,583
+I will not do that.
+
+1880
+01:54:18,752 --> 01:54:20,721
+Pets are better for some people.
+
+1881
+01:54:23,524 --> 01:54:26,327
+-Oh. (laughs)
+-(laughs)
+
+1882
+01:54:33,400 --> 01:54:34,635
+What... Oh.
+
+1883
+01:54:34,668 --> 01:54:35,970
+-Sorry.
+-Bye.
+
+1884
+01:54:36,003 --> 01:54:37,371
+-(laughs)
+-Oh, yes. Goodbye. Yes.
+
+1885
+01:54:37,404 --> 01:54:38,705
+-Goodbye.
+-Okay.
+
+1886
+01:54:38,739 --> 01:54:40,741
+-Oh.
+-(chuckles) Okay.
+
+1887
+01:54:47,514 --> 01:54:49,383
+Oh, Olga!
+
+1888
+01:54:49,416 --> 01:54:50,684
+Olga!
+
+1889
+01:54:58,492 --> 01:55:00,494
+Olga?
+
+1890
+01:55:02,529 --> 01:55:04,765
+(woman singing in
+foreign language in distance)
+
+1891
+01:55:07,101 --> 01:55:09,036
+Olga?
+
+1892
+01:55:37,364 --> 01:55:39,100
+Hello?
+
+1893
+01:55:49,576 --> 01:55:51,012
+(water dripping)
+
+1894
+01:55:51,045 --> 01:55:52,713
+Olga?
+
+1895
+01:55:54,648 --> 01:55:56,717
+(door closes in distance)
+
+1896
+01:56:11,332 --> 01:56:12,966
+Olga?
+
+1897
+01:56:14,368 --> 01:56:16,603
+(light footsteps running)
+
+1898
+01:56:22,143 --> 01:56:23,610
+Olga?
+
+1899
+01:56:23,644 --> 01:56:25,879
+(light footsteps running)
+
+1900
+01:56:30,251 --> 01:56:32,119
+(light footsteps running)
+
+1901
+01:56:34,388 --> 01:56:37,191
+(growling)
+
+1902
+01:56:48,369 --> 01:56:50,604
+(panting softly)
+
+1903
+01:56:55,909 --> 01:56:58,479
+(panting)
+
+1904
+01:56:59,280 --> 01:57:00,747
+-(gasps)
+-(sharp thud)
+
+1905
+01:57:07,554 --> 01:57:09,156
+(Sharon gasps)
+
+1906
+01:57:10,924 --> 01:57:12,959
+Why didn't you go to the police?
+
+1907
+01:57:12,993 --> 01:57:16,029
+I fought. He ran.
+What's to tell?
+
+1908
+01:57:19,500 --> 01:57:20,867
+Oh, God.
+
+1909
+01:57:20,901 --> 01:57:21,968
+I'm gonna get you something
+for the pain.
+
+1910
+01:57:22,002 --> 01:57:23,003
+No, I don't need anything.
+
+1911
+01:57:23,036 --> 01:57:25,406
+No, I'm gonna get you something.
+
+1912
+01:57:25,439 --> 01:57:27,074
+(sighs)
+
+1913
+01:57:31,478 --> 01:57:33,046
+ <i>Ja.</i> 
+
+1914
+01:57:41,588 --> 01:57:43,224
+(sighs)
+
+1915
+01:57:48,595 --> 01:57:51,098
+PETRA (in distance):
+Lydia!
+
+1916
+01:57:53,534 --> 01:57:54,601
+Lydia!
+
+1917
+01:57:54,635 --> 01:57:55,869
+(gasps)
+
+1918
+01:57:55,902 --> 01:57:58,705
+(breathing heavily)
+
+1919
+01:58:00,474 --> 01:58:02,243
+What is it?
+
+1920
+01:58:04,511 --> 01:58:06,613
+Hold my foot.
+
+1921
+01:58:14,755 --> 01:58:16,390
+Is that better?
+
+1922
+01:58:16,423 --> 01:58:18,024
+Yes.
+
+1923
+01:58:23,397 --> 01:58:25,632
+(Petra whimpering)
+
+1924
+01:58:30,704 --> 01:58:33,106
+(instruments warming up)
+
+1925
+01:58:51,192 --> 01:58:53,194
+-(instruments stop)
+-(quiet murmuring)
+
+1926
+01:58:59,300 --> 01:59:01,134
+Okay.
+
+1927
+01:59:01,168 --> 01:59:03,837
+Let's, uh, shoo the elephant
+from the room.
+
+1928
+01:59:04,971 --> 01:59:07,708
+"What the hell happened
+to her face?"
+
+1929
+01:59:07,741 --> 01:59:10,177
+"Did she, uh, schedule
+a nose and eye job
+
+1930
+01:59:10,211 --> 01:59:12,713
+and bail before the surgeon
+finished the other half?"
+
+1931
+01:59:12,746 --> 01:59:14,080
+(quiet chuckling)
+
+1932
+01:59:18,051 --> 01:59:19,853
+No.
+
+1933
+01:59:19,886 --> 01:59:21,555
+I was, uh, I was attacked.
+
+1934
+01:59:21,588 --> 01:59:23,857
+Thank you.
+
+1935
+01:59:23,890 --> 01:59:26,059
+I'm fine. Really.
+
+1936
+01:59:26,092 --> 01:59:27,828
+-Should've seen the other guy.
+-(quiet laughter)
+
+1937
+01:59:27,861 --> 01:59:28,829
+All right.
+
+1938
+01:59:28,862 --> 01:59:31,097
+(speaking German)
+
+1939
+01:59:35,001 --> 01:59:36,102
+(coughs)
+
+1940
+01:59:37,271 --> 01:59:38,772
+(exhales sharply)
+
+1941
+01:59:40,307 --> 01:59:43,277
+(orchestra begins playing
+light classical music)
+
+1942
+01:59:59,125 --> 02:00:00,894
+-(grunts)
+-(orchestra plays deep note)
+
+1943
+02:00:02,363 --> 02:00:03,397
+(grunts fiercely)
+
+1944
+02:00:03,430 --> 02:00:06,132
+(orchestra playing
+dramatic music)
+
+1945
+02:00:14,241 --> 02:00:15,642
+(gasps) Don't.
+
+1946
+02:00:15,676 --> 02:00:17,544
+It burns.
+
+1947
+02:00:17,578 --> 02:00:19,713
+You must see the doctor.
+
+1948
+02:00:19,746 --> 02:00:21,648
+He's booked 'til next week.
+
+1949
+02:00:21,682 --> 02:00:22,983
+(scoffs) I'll call them again
+
+1950
+02:00:23,016 --> 02:00:24,451
+and tell them how much pain
+you're in.
+
+1951
+02:00:24,485 --> 02:00:27,153
+No, no, let's just,
+let's just finish up here.
+
+1952
+02:00:27,187 --> 02:00:28,722
+Okay?
+
+1953
+02:00:28,755 --> 02:00:30,791
+Overall, the balance
+feels right.
+
+1954
+02:00:30,824 --> 02:00:32,158
+Other than a quick brushup,
+
+1955
+02:00:32,192 --> 02:00:34,661
+we should concentrate
+on the Elgar.
+
+1956
+02:00:34,695 --> 02:00:37,464
+You're certain of that?
+
+1957
+02:00:37,498 --> 02:00:39,933
+I think so. Yes.
+
+1958
+02:00:39,966 --> 02:00:41,602
+TÁR: <i>We're absolutely</i>
+ <i>rock-solid there,</i> 
+
+1959
+02:00:41,635 --> 02:00:46,440
+but I am going to try
+to hold them back here.
+
+1960
+02:00:46,473 --> 02:00:48,442
+Uh, they're just
+getting caught up in the power
+
+1961
+02:00:48,475 --> 02:00:52,379
+of your, uh, glissando
+in there, trying to match it.
+
+1962
+02:00:52,413 --> 02:00:55,282
+Um, probably...
+
+1963
+02:00:55,316 --> 02:00:57,851
+Where were you attacked,
+Maestro?
+
+1964
+02:00:57,884 --> 02:01:00,954
+Oh, doesn't matter.
+
+1965
+02:01:00,987 --> 02:01:02,756
+(chuckles) Here.
+
+1966
+02:01:02,789 --> 02:01:05,859
+(chuckles) Thank you.
+
+1967
+02:01:05,892 --> 02:01:07,628
+There you are.
+
+1968
+02:01:08,395 --> 02:01:10,864
+-When did this fall happen?
+-Uh, it's all a blur.
+
+1969
+02:01:10,897 --> 02:01:13,667
+Three, four days ago.
+
+1970
+02:01:13,700 --> 02:01:15,201
+It's just my shoulder. Yeah.
+
+1971
+02:01:15,235 --> 02:01:18,872
+It kind of burns,
+like I fell asleep by the pool.
+
+1972
+02:01:20,040 --> 02:01:23,076
+Okay, you can
+put your shirt back on.
+
+1973
+02:01:23,109 --> 02:01:24,445
+You've damaged some nerves.
+
+1974
+02:01:24,478 --> 02:01:25,946
+The burning sensation
+you're feeling
+
+1975
+02:01:25,979 --> 02:01:27,614
+is called notalgia paresthetica.
+
+1976
+02:01:27,648 --> 02:01:28,882
+Nostalgia?
+
+1977
+02:01:28,915 --> 02:01:31,217
+"Notalgia." No "S."
+
+1978
+02:01:31,251 --> 02:01:33,720
+-Well, how do we treat it?
+-You don't.
+
+1979
+02:01:33,754 --> 02:01:35,221
+Eventually, it goes away.
+
+1980
+02:01:35,255 --> 02:01:38,459
+An adjustment might help.
+You're somewhat crooked.
+
+1981
+02:01:39,660 --> 02:01:41,094
+(chuckles)
+
+1982
+02:01:43,997 --> 02:01:46,232
+(piano playing gentle melody)
+
+1983
+02:01:56,377 --> 02:01:58,412
+(music stops)
+
+1984
+02:02:14,461 --> 02:02:16,497
+(phone chimes)
+
+1985
+02:02:27,040 --> 02:02:29,009
+TÁR (over video):
+Oh, well, then you must be
+
+1986
+02:02:29,042 --> 02:02:32,446
+a Negro product
+exploited by the Jews.
+
+1987
+02:02:33,747 --> 02:02:36,850
+Now let's turn our gaze back
+to the piano bench up there
+
+1988
+02:02:36,883 --> 02:02:39,119
+to a superhot young woman.
+
+1989
+02:02:40,253 --> 02:02:42,155
+That's-that's...
+th-that was very good.
+
+1990
+02:02:42,188 --> 02:02:44,324
+Now, you could masturbate,
+
+1991
+02:02:44,357 --> 02:02:48,161
+but what are you
+actually doing to me?
+
+1992
+02:02:48,929 --> 02:02:51,164
+(phone chiming)
+
+1993
+02:02:53,767 --> 02:02:55,235
+-Britta.
+-BRITTA: Hi, hi.
+
+1994
+02:02:55,268 --> 02:02:58,138
+-Have you seen it?
+-Yes, yes. I've just seen it.
+
+1995
+02:02:58,171 --> 02:03:01,207
+... gathering this afternoon.
+
+1996
+02:03:01,241 --> 02:03:03,276
+-This afternoon?
+-Is that a problem?
+
+1997
+02:03:03,309 --> 02:03:05,479
+No, just...
+No, it's no problem.
+
+1998
+02:03:08,415 --> 02:03:10,316
+(sighs)
+
+1999
+02:03:38,879 --> 02:03:44,518
+First of all, that class was
+conducted in a tech-free zone.
+
+2000
+02:03:44,551 --> 02:03:48,522
+And second,
+whoever violated that rule
+
+2001
+02:03:48,555 --> 02:03:51,892
+edited what we've all seen
+to create linguistic traps
+
+2002
+02:03:51,925 --> 02:03:53,494
+to completely redefine my words.
+
+2003
+02:03:53,527 --> 02:03:55,562
+I mean, look at the
+reverse shots on the students.
+
+2004
+02:03:55,596 --> 02:03:57,631
+There's no way that was done
+in real time.
+
+2005
+02:03:57,664 --> 02:03:59,032
+It's a hatchet job.
+
+2006
+02:03:59,065 --> 02:04:00,967
+I'm sure that's true, Lydia.
+
+2007
+02:04:01,001 --> 02:04:04,771
+And were it just this video,
+we would not be sitting here.
+
+2008
+02:04:04,805 --> 02:04:06,640
+Unfortunately,
+it's linked to an article in
+
+2009
+02:04:06,673 --> 02:04:09,109
+the <i>New York Post</i> regarding
+Krista Taylor's suicide,
+
+2010
+02:04:09,142 --> 02:04:12,078
+which alludes to
+other Accordion fellows
+
+2011
+02:04:12,112 --> 02:04:14,080
+they claim to have interviewed.
+
+2012
+02:04:14,114 --> 02:04:16,082
+Laura, can you tell us
+about your conversations?
+
+2013
+02:04:16,116 --> 02:04:17,417
+We haven't had any.
+
+2014
+02:04:17,450 --> 02:04:19,285
+Obviously, we gave no response
+
+2015
+02:04:19,319 --> 02:04:21,955
+-as we first wanted to meet
+to discuss strategy. -Mm-hmm.
+
+2016
+02:04:21,988 --> 02:04:24,324
+-Here's the article.
+-Thank you, Laura.
+
+2017
+02:04:26,192 --> 02:04:28,529
+(reading quietly)
+
+2018
+02:04:28,562 --> 02:04:32,098
+"Enticed and groomed
+multiple young women
+
+2019
+02:04:32,132 --> 02:04:34,901
+"to engage in sex acts
+for professional favors.
+
+2020
+02:04:34,935 --> 02:04:37,704
+Blocked opportunities
+to those who didn't comply."
+
+2021
+02:04:37,738 --> 02:04:40,140
+This is total fiction.
+
+2022
+02:04:40,173 --> 02:04:42,408
+And the <i>Post</i> is
+a how-de-do scandal rag.
+
+2023
+02:04:42,442 --> 02:04:45,345
+No serious person reads it.
+
+2024
+02:04:48,181 --> 02:04:51,952
+And so far as
+Krista Taylor goes,
+
+2025
+02:04:51,985 --> 02:04:53,286
+she was disturbed.
+
+2026
+02:04:53,319 --> 02:04:55,622
+I mean, she fixated on me.
+
+2027
+02:04:55,656 --> 02:04:57,323
+In what way?
+
+2028
+02:04:57,357 --> 02:04:58,959
+She sent me weird gifts.
+
+2029
+02:04:58,992 --> 02:05:00,627
+She trolled me online.
+
+2030
+02:05:00,661 --> 02:05:03,530
+-She tried to send me signals.
+-Well, what kind of signals?
+
+2031
+02:05:03,564 --> 02:05:06,633
+She vandalized my Wikipedia
+page to say she was my muse.
+
+2032
+02:05:06,667 --> 02:05:09,169
+I mean,
+that's easily checked, right?
+
+2033
+02:05:09,202 --> 02:05:12,673
+And did you ever report this
+or file a complaint?
+
+2034
+02:05:14,440 --> 02:05:15,809
+No.
+
+2035
+02:05:15,842 --> 02:05:18,712
+No. And I... Look, I probably,
+I probably should have.
+
+2036
+02:05:18,745 --> 02:05:21,214
+I... I felt sorry for her.
+
+2037
+02:05:21,247 --> 02:05:22,749
+Is this something
+you shared with Sharon?
+
+2038
+02:05:22,783 --> 02:05:24,651
+No. I didn't want
+to burden her with it.
+
+2039
+02:05:24,685 --> 02:05:26,887
+-Don't you think
+you should have? -Yes. Yes.
+
+2040
+02:05:26,920 --> 02:05:28,589
+Well, what-what do you advise?
+
+2041
+02:05:28,622 --> 02:05:30,957
+Well, for now, it hasn't gotten
+all that much traction.
+
+2042
+02:05:30,991 --> 02:05:33,727
+None of the trades have linked
+to it or called for comment.
+
+2043
+02:05:33,760 --> 02:05:36,062
+-So I say let's see
+what happens. -Mm-hmm.
+
+2044
+02:05:37,130 --> 02:05:41,034
+We wanted to give you as much
+warning as possible, Lydia,
+
+2045
+02:05:41,067 --> 02:05:43,103
+before this Friday's
+donor meeting.
+
+2046
+02:05:43,136 --> 02:05:45,071
+Well, unfortunately,
+I won't be there.
+
+2047
+02:05:45,105 --> 02:05:47,407
+Well, I very much advise
+that you are.
+
+2048
+02:05:47,440 --> 02:05:49,209
+I have the book launch
+in New York
+
+2049
+02:05:49,242 --> 02:05:51,745
+and apparently a deposition.
+
+2050
+02:05:52,979 --> 02:05:56,182
+Well, we'll fill you in
+upon your return, then.
+
+2051
+02:05:58,785 --> 02:06:00,520
+Enjoy your weekend.
+
+2052
+02:06:02,723 --> 02:06:04,925
+Starving.
+
+2053
+02:06:04,958 --> 02:06:06,693
+Finished my thing today.
+
+2054
+02:06:06,727 --> 02:06:09,663
+SHARON: Congratulations.
+We should go out and celebrate.
+
+2055
+02:06:09,696 --> 02:06:11,464
+I can't. I gotta pack.
+
+2056
+02:06:11,497 --> 02:06:13,399
+-Hi!
+-PETRA: Hi, Lydia.
+
+2057
+02:06:18,872 --> 02:06:20,807
+TÁR:
+Sharon?
+
+2058
+02:06:20,841 --> 02:06:22,843
+SHARON:
+Yeah?
+
+2059
+02:06:22,876 --> 02:06:24,745
+TÁR:
+You seen my performance score?
+
+2060
+02:06:24,778 --> 02:06:27,313
+SHARON: No. Why?
+Isn't it with the other ones?
+
+2061
+02:06:27,347 --> 02:06:29,349
+TÁR:
+No. No, it's not.
+
+2062
+02:06:29,382 --> 02:06:32,052
+Are you sure
+it's not in my office?
+
+2063
+02:06:34,420 --> 02:06:37,157
+Yeah, what about
+the orchestra library?
+
+2064
+02:06:38,625 --> 02:06:41,327
+Yeah, can you
+check again, please?
+
+2065
+02:06:44,097 --> 02:06:46,599
+I don't know. Yes, exactly.
+
+2066
+02:07:03,449 --> 02:07:05,919
+(whispering):
+Lydia?
+
+2067
+02:07:05,952 --> 02:07:08,121
+(Tár sighs)
+
+2068
+02:07:08,154 --> 02:07:09,856
+Yes?
+
+2069
+02:07:09,890 --> 02:07:12,525
+When will you be back?
+
+2070
+02:07:12,558 --> 02:07:15,028
+The day after tomorrow.
+
+2071
+02:07:15,061 --> 02:07:16,897
+Will you promise?
+
+2072
+02:07:16,930 --> 02:07:19,265
+Yes, I promise.
+
+2073
+02:07:29,475 --> 02:07:31,878
+-Good night.
+-Good night.
+
+2074
+02:07:46,259 --> 02:07:48,594
+Thanks.
+Do you have any bottles?
+
+2075
+02:07:48,628 --> 02:07:49,996
+Of course.
+
+2076
+02:07:50,831 --> 02:07:53,199
+Do you need anything else
+before I close the cabin door?
+
+2077
+02:07:53,233 --> 02:07:56,269
+Uh, yes.
+Uh, we're waiting on one more.
+
+2078
+02:08:02,642 --> 02:08:04,310
+WOMAN:
+ <i>To all my questions</i> 
+
+2079
+02:08:04,344 --> 02:08:06,112
+pertaining to
+your communications
+
+2080
+02:08:06,146 --> 02:08:08,648
+with Krista Taylor and others,
+
+2081
+02:08:08,681 --> 02:08:11,417
+your answers have always been
+
+2082
+02:08:11,451 --> 02:08:16,222
+"I don't know"
+or "I don't remember."
+
+2083
+02:08:18,391 --> 02:08:19,860
+Is there anything
+I could show you
+
+2084
+02:08:19,893 --> 02:08:22,863
+that might help refresh
+your recollection?
+
+2085
+02:08:22,896 --> 02:08:25,665
+Any documents,
+such as emails from you
+
+2086
+02:08:25,698 --> 02:08:28,068
+or your personal assistant,
+Miss Lentini,
+
+2087
+02:08:28,101 --> 02:08:32,272
+that might help you recall
+what you did and didn't say?
+
+2088
+02:08:40,346 --> 02:08:41,948
+I guess you heard by now.
+
+2089
+02:08:41,982 --> 02:08:44,918
+Bryant Park bumped you
+to 53rd Street.
+
+2090
+02:08:48,054 --> 02:08:51,291
+This is the Kaplan Fund's
+prepared statement.
+
+2091
+02:08:53,326 --> 02:08:54,795
+I'm sorry to say this is likely
+
+2092
+02:08:54,828 --> 02:08:56,496
+the last time
+we'll see each other.
+
+2093
+02:08:56,529 --> 02:08:58,664
+Well, now I can buy
+my own plane tickets.
+
+2094
+02:08:58,698 --> 02:09:00,400
+And you can bother someone else
+
+2095
+02:09:00,433 --> 02:09:04,004
+to try and teach you
+to crawl to the podium.
+
+2096
+02:09:04,037 --> 02:09:06,272
+(car horns honking)
+
+2097
+02:09:09,943 --> 02:09:11,978
+(crowd chanting faintly)
+
+2098
+02:09:16,249 --> 02:09:18,218
+(chanting continues)
+
+2099
+02:09:18,251 --> 02:09:20,486
+(car horn blaring outside)
+
+2100
+02:09:21,387 --> 02:09:23,857
+Is there a back entrance?
+
+2101
+02:09:23,890 --> 02:09:28,194
+"Indeed, the common metaphors
+used to explain music
+
+2102
+02:09:28,228 --> 02:09:30,396
+"are based on
+the idea that music
+
+2103
+02:09:30,430 --> 02:09:34,868
+"is a language,
+albeit a secret one.
+
+2104
+02:09:34,901 --> 02:09:40,006
+"And in this way,
+holy and unknowable.
+
+2105
+02:09:41,875 --> 02:09:45,545
+"These joyful noises we make
+being the closest thing
+
+2106
+02:09:45,578 --> 02:09:49,549
+"any of us might ever
+experience to the divine...
+
+2107
+02:09:50,817 --> 02:09:55,788
+"... yet something born by
+the mere act of moving air.
+
+2108
+02:09:57,790 --> 02:10:00,593
+No different than birdsong."
+
+2109
+02:10:03,396 --> 02:10:05,565
+(bell dings)
+
+2110
+02:10:09,202 --> 02:10:11,804
+So, meet downstairs
+in half an hour for dinner?
+
+2111
+02:10:11,838 --> 02:10:14,640
+Thank you, but I am jet-lagged.
+I go to sleep now.
+
+2112
+02:10:14,674 --> 02:10:18,744
+Yeah, me, too.
+I'll... probably do the same.
+
+2113
+02:10:38,064 --> 02:10:40,300
+(crowd clamoring)
+
+2114
+02:10:44,570 --> 02:10:46,806
+(phone chiming)
+
+2115
+02:10:52,078 --> 02:10:54,314
+(phone continues chiming)
+
+2116
+02:11:01,487 --> 02:11:03,423
+(chiming stops)
+
+2117
+02:11:13,433 --> 02:11:15,668
+(phone chiming)
+
+2118
+02:11:17,503 --> 02:11:18,972
+TÁR:
+Yes, hello.
+
+2119
+02:11:19,005 --> 02:11:21,807
+Yes, there's no water
+in my room.
+
+2120
+02:11:21,841 --> 02:11:24,010
+Yes, I've checked the minibar.
+
+2121
+02:11:24,044 --> 02:11:26,679
+How long would it take
+to get a bottle of water?
+
+2122
+02:11:26,712 --> 02:11:29,449
+Uh, don't worry.
+I'll just come down.
+
+2123
+02:11:30,583 --> 02:11:32,352
+(elevator bell dings)
+
+2124
+02:11:32,385 --> 02:11:33,954
+OLGA:
+Lobby, please.
+
+2125
+02:12:00,646 --> 02:12:03,549
+(gasps) Oh, Jesus.
+
+2126
+02:12:03,583 --> 02:12:05,818
+(Tár panting)
+
+2127
+02:12:10,590 --> 02:12:12,458
+(shudders)
+
+2128
+02:12:15,761 --> 02:12:18,431
+(sighs) It was Britta.
+
+2129
+02:12:19,332 --> 02:12:21,001
+Right?
+
+2130
+02:12:21,034 --> 02:12:22,935
+I mean, that is
+how you heard about
+
+2131
+02:12:22,969 --> 02:12:25,805
+these millennial robots
+trading in lies.
+
+2132
+02:12:25,838 --> 02:12:28,641
+I couldn't care less about
+the Juilliard thing.
+
+2133
+02:12:28,674 --> 02:12:30,576
+TÁR:
+Too much time on her hands.
+
+2134
+02:12:30,610 --> 02:12:32,145
+She's fringe.
+
+2135
+02:12:32,178 --> 02:12:34,514
+The worst kind.
+
+2136
+02:12:34,547 --> 02:12:36,716
+Every time
+I walk out of this house,
+
+2137
+02:12:36,749 --> 02:12:40,286
+she's in your ear with intrigue
+or she's asking me about
+
+2138
+02:12:40,320 --> 02:12:43,756
+some other piece of fringe,
+like Samantha Hankey.
+
+2139
+02:12:43,789 --> 02:12:46,859
+God, a nobody
+who has nothing better to do
+
+2140
+02:12:46,892 --> 02:12:51,297
+than drop my name at lunch
+and imply things.
+
+2141
+02:12:51,331 --> 02:12:53,033
+I feel sorry for you.
+
+2142
+02:12:53,066 --> 02:12:55,068
+(scoffs) Save it.
+
+2143
+02:12:55,901 --> 02:12:58,438
+I tried calling you last night.
+
+2144
+02:13:00,373 --> 02:13:03,109
+Did you have fun with her?
+
+2145
+02:13:03,143 --> 02:13:06,112
+My back is killing me.
+
+2146
+02:13:06,146 --> 02:13:07,313
+Francesca left,
+
+2147
+02:13:07,347 --> 02:13:09,849
+and I simply needed someone
+to carry my bags.
+
+2148
+02:13:09,882 --> 02:13:12,085
+I mean, who was I
+supposed to ask?
+
+2149
+02:13:12,118 --> 02:13:15,188
+To go with me? Hmm? Knut?
+
+2150
+02:13:15,221 --> 02:13:16,722
+(sighs):
+Jesus fucking...
+
+2151
+02:13:16,756 --> 02:13:18,891
+SHARON: There are many things
+I accept about you.
+
+2152
+02:13:18,924 --> 02:13:20,593
+-(Tár scoffs)
+-And in the end,
+
+2153
+02:13:20,626 --> 02:13:24,264
+I'm sure I could get over
+something like this.
+
+2154
+02:13:24,297 --> 02:13:27,200
+But that's not what
+we're talking about, is it?
+
+2155
+02:13:29,669 --> 02:13:31,104
+These accusations
+
+2156
+02:13:31,137 --> 02:13:34,240
+from the parents of the girl
+who suicided?
+
+2157
+02:13:39,312 --> 02:13:42,082
+You honestly believe
+what they're saying?
+
+2158
+02:13:46,286 --> 02:13:47,920
+They're lies.
+
+2159
+02:13:49,655 --> 02:13:51,491
+Do you understand
+what it was like
+
+2160
+02:13:51,524 --> 02:13:53,626
+to walk into
+my sectional yesterday
+
+2161
+02:13:53,659 --> 02:13:56,429
+and to see everybody
+whispering about me?
+
+2162
+02:13:56,462 --> 02:14:01,234
+It's got nothing to do with
+what they're accusing you of.
+
+2163
+02:14:01,267 --> 02:14:03,169
+It's a simple matter
+
+2164
+02:14:03,203 --> 02:14:06,806
+of not warning me
+that our family is in danger.
+
+2165
+02:14:07,573 --> 02:14:09,809
+And what good
+would that have done?
+
+2166
+02:14:09,842 --> 02:14:12,978
+I mean, what could you possibly
+do to make things better?
+
+2167
+02:14:13,012 --> 02:14:15,281
+(sighs)
+
+2168
+02:14:15,315 --> 02:14:17,650
+Because I deserve that.
+
+2169
+02:14:17,683 --> 02:14:19,819
+Those are the rules.
+
+2170
+02:14:20,686 --> 02:14:23,289
+You are to ask
+for my fucking counsel,
+
+2171
+02:14:23,323 --> 02:14:25,225
+the way you always have.
+
+2172
+02:14:25,258 --> 02:14:27,227
+The way you did
+when you first arrived here
+
+2173
+02:14:27,260 --> 02:14:30,062
+as a guest conductor looking
+for a permanent position.
+
+2174
+02:14:30,096 --> 02:14:32,665
+You asked me
+what were the politics,
+
+2175
+02:14:32,698 --> 02:14:35,568
+what were the moves,
+how could we swing it.
+
+2176
+02:14:35,601 --> 02:14:37,170
+(sighs)
+
+2177
+02:14:38,304 --> 02:14:40,072
+Of course...
+
+2178
+02:14:40,106 --> 02:14:43,643
+these conversations
+took place in another bed.
+
+2179
+02:14:43,676 --> 02:14:46,279
+Or rather, the couch
+
+2180
+02:14:46,312 --> 02:14:48,714
+of that horrible place
+you still can't let go of.
+
+2181
+02:14:48,748 --> 02:14:51,617
+Old sorrow blows in.
+
+2182
+02:14:53,186 --> 02:14:57,623
+How cruel of you to define our
+relationship as transactional.
+
+2183
+02:14:58,658 --> 02:15:00,593
+(sighs)
+
+2184
+02:15:00,626 --> 02:15:04,930
+There's only one relationship
+you've ever had that wasn't.
+
+2185
+02:15:04,964 --> 02:15:08,033
+And she is sleeping
+in the room next door.
+
+2186
+02:15:08,067 --> 02:15:11,137
+Apparently, this hasn't even
+crossed your mind.
+
+2187
+02:15:32,225 --> 02:15:34,960
+(electronic beeping)
+
+2188
+02:15:38,631 --> 02:15:40,866
+(quiet chatter)
+
+2189
+02:15:48,341 --> 02:15:50,075
+(chatter stops)
+
+2190
+02:15:54,847 --> 02:15:57,683
+(woman laughs in distance)
+
+2191
+02:16:12,565 --> 02:16:15,368
+(panting)
+
+2192
+02:16:16,369 --> 02:16:18,404
+(meditative breaths)
+
+2193
+02:16:39,759 --> 02:16:41,627
+(gasps)
+
+2194
+02:16:41,661 --> 02:16:43,363
+(exhales sharply)
+
+2195
+02:16:44,464 --> 02:16:46,699
+(grunting)
+
+2196
+02:17:00,680 --> 02:17:02,915
+(train rumbling)
+
+2197
+02:17:22,134 --> 02:17:23,703
+(kids chattering playfully)
+
+2198
+02:17:23,736 --> 02:17:25,805
+TÁR:
+Petra!
+
+2199
+02:17:28,408 --> 02:17:30,042
+Come here, darling.
+
+2200
+02:17:32,445 --> 02:17:33,779
+-It was good.
+-Was it?
+
+2201
+02:17:33,813 --> 02:17:36,048
+-Yeah.
+-You want to go to the park?
+
+2202
+02:17:36,949 --> 02:17:38,984
+Don't do this.
+Please don't do this.
+
+2203
+02:17:39,018 --> 02:17:40,820
+Please don't.
+
+2204
+02:17:46,258 --> 02:17:48,294
+(panting softly)
+
+2205
+02:17:56,101 --> 02:17:58,904
+(inhales deeply,
+whispers indistinctly)
+
+2206
+02:18:02,375 --> 02:18:04,076
+-(loud knock on door)
+-(gasps)
+
+2207
+02:18:06,846 --> 02:18:09,281
+Hello. I am Anna Franzen.
+
+2208
+02:18:09,315 --> 02:18:12,284
+This is
+my late mother's apartment.
+
+2209
+02:18:13,553 --> 02:18:17,222
+Oh, yeah, I'm so sorry
+about your mother.
+
+2210
+02:18:17,256 --> 02:18:19,492
+Thank you.
+
+2211
+02:18:19,525 --> 02:18:21,427
+How's your sister doing?
+
+2212
+02:18:21,461 --> 02:18:24,830
+Eleanor lives now
+in a facility in Neukölln.
+
+2213
+02:18:24,864 --> 02:18:26,499
+I'm sorry to trouble you,
+
+2214
+02:18:26,532 --> 02:18:30,002
+but my husband and I
+are selling the place
+
+2215
+02:18:30,035 --> 02:18:34,206
+and couldn't help
+hearing the music.
+
+2216
+02:18:34,239 --> 02:18:35,307
+Oh.
+
+2217
+02:18:35,341 --> 02:18:37,009
+I'm glad you enjoyed it.
+(sniffles)
+
+2218
+02:18:37,042 --> 02:18:38,711
+MAN:
+We were wondering if there are
+
+2219
+02:18:38,744 --> 02:18:40,413
+specific hours you rehearse,
+
+2220
+02:18:40,446 --> 02:18:43,349
+so we can schedule showings
+around them.
+
+2221
+02:18:44,350 --> 02:18:47,119
+We don't want to scare
+potential buyers off
+
+2222
+02:18:47,152 --> 02:18:49,822
+with all the noise.
+
+2223
+02:18:49,855 --> 02:18:52,425
+(laughs):
+Oh, no.
+
+2224
+02:18:52,458 --> 02:18:53,593
+No.
+
+2225
+02:18:53,626 --> 02:18:55,661
+(laughing)
+
+2226
+02:18:55,695 --> 02:18:57,730
+No, we wouldn't want that.
+
+2227
+02:18:57,763 --> 02:18:59,399
+(laughing)
+
+2228
+02:19:00,400 --> 02:19:02,435
+(rummaging)
+
+2229
+02:19:05,204 --> 02:19:07,440
+(accordion playing
+discordant music)
+
+2230
+02:19:11,076 --> 02:19:14,079
+(loudly, off-key):
+* Apartment for sale
+
+2231
+02:19:14,113 --> 02:19:17,216
+(laughs):
+* Apartment for sale
+
+2232
+02:19:17,249 --> 02:19:20,052
+* Your mother's buried deep
+
+2233
+02:19:20,085 --> 02:19:22,622
+* And now you're gonna keep
+
+2234
+02:19:22,655 --> 02:19:25,758
+* Her apartment for sale
+
+2235
+02:19:25,791 --> 02:19:27,827
+* Your sister's in jail
+
+2236
+02:19:27,860 --> 02:19:30,996
+* You put your sister in jail
+
+2237
+02:19:31,030 --> 02:19:33,232
+* You're all going to hell
+
+2238
+02:19:33,265 --> 02:19:36,436
+* Your apartment's for sale!
+
+2239
+02:19:36,469 --> 02:19:38,504
+(indistinct chatter)
+
+2240
+02:20:01,226 --> 02:20:03,463
+-(indistinct chatter)
+-(instruments warming up)
+
+2241
+02:20:05,898 --> 02:20:08,133
+(quiet chatter)
+
+2242
+02:20:10,369 --> 02:20:12,605
+-(indistinct chatter)
+-(instruments warming up)
+
+2243
+02:20:24,884 --> 02:20:26,619
+(applause)
+
+2244
+02:20:35,294 --> 02:20:37,530
+(applause continues in distance)
+
+2245
+02:20:40,600 --> 02:20:43,002
+(applause fades)
+
+2246
+02:20:43,035 --> 02:20:45,304
+(Tár breathes sharply)
+
+2247
+02:20:48,007 --> 02:20:50,242
+(playing slow classical fanfare)
+
+2248
+02:21:11,631 --> 02:21:13,666
+(orchestra joins in)
+
+2249
+02:21:22,975 --> 02:21:25,444
+(grunting)
+
+2250
+02:21:25,477 --> 02:21:27,246
+(yells)
+
+2251
+02:21:27,279 --> 02:21:28,748
+-(crowd gasps)
+-(music stops)
+
+2252
+02:21:28,781 --> 02:21:31,050
+(Tár panting)
+
+2253
+02:21:31,083 --> 02:21:32,084
+Okay.
+
+2254
+02:21:32,117 --> 02:21:33,886
+(speaking German)
+
+2255
+02:21:33,919 --> 02:21:35,454
+Give me some eyes.
+
+2256
+02:21:35,487 --> 02:21:36,722
+(crowd murmuring)
+
+2257
+02:21:40,325 --> 02:21:42,127
+-Come on, give me some eyes!
+-(clapping)
+
+2258
+02:21:46,131 --> 02:21:48,033
+ELIOT:
+Lydia.
+
+2259
+02:21:48,834 --> 02:21:51,537
+This is my score.
+
+2260
+02:21:51,571 --> 02:21:53,873
+-Lydia, you're confused.
+-(grunts)
+
+2261
+02:21:53,906 --> 02:21:56,008
+-It's my score!
+-(crowd gasping, murmuring)
+
+2262
+02:21:56,041 --> 02:21:59,444
+-You fucking little nothing!
+-(grunts)
+
+2263
+02:22:02,147 --> 02:22:03,849
+(Eliot grunts)
+
+2264
+02:22:03,883 --> 02:22:06,118
+(panting)
+
+2265
+02:22:07,720 --> 02:22:08,854
+TÁR:
+I'm fine.
+
+2266
+02:22:08,888 --> 02:22:11,123
+(crowd continues murmuring)
+
+2267
+02:22:11,957 --> 02:22:14,493
+(Tár panting)
+
+2268
+02:22:38,417 --> 02:22:41,153
+DRIVER:
+You sign CAMI voucher.
+
+2269
+02:22:41,186 --> 02:22:43,422
+(driver speaking into phone
+in Tamil)
+
+2270
+02:22:52,331 --> 02:22:54,566
+(pile driver rattling
+and thumping)
+
+2271
+02:23:01,841 --> 02:23:03,008
+(phone rings in distance)
+
+2272
+02:23:03,042 --> 02:23:05,577
+MAN:
+Good afternoon. CAMI.
+
+2273
+02:23:05,611 --> 02:23:07,179
+Hold on.
+
+2274
+02:23:08,147 --> 02:23:09,749
+CORY:
+Normally, I'd think Lisa Rich
+
+2275
+02:23:09,782 --> 02:23:12,384
+in our booking department
+would be a great fit for you,
+
+2276
+02:23:12,417 --> 02:23:14,620
+but she's just got
+too much on her plate.
+
+2277
+02:23:14,654 --> 02:23:18,257
+So, I'd like to team you
+with Jake here.
+
+2278
+02:23:18,290 --> 02:23:20,826
+Jake, you want to,
+you want to show Lydia
+
+2279
+02:23:20,860 --> 02:23:22,227
+what you've prepared for her?
+
+2280
+02:23:22,261 --> 02:23:24,797
+Well...
+
+2281
+02:23:24,830 --> 02:23:27,199
+right now it's a reset.
+
+2282
+02:23:27,232 --> 02:23:29,001
+What we're after is less,
+not more.
+
+2283
+02:23:29,034 --> 02:23:30,235
+We want to be selective
+
+2284
+02:23:30,269 --> 02:23:32,271
+and rebuild this
+from the ground up.
+
+2285
+02:23:32,304 --> 02:23:34,273
+That means we need a new story.
+
+2286
+02:23:38,844 --> 02:23:40,646
+TÁR:
+Just here.
+
+2287
+02:23:40,680 --> 02:23:42,347
+Here. Thank you.
+
+2288
+02:23:42,381 --> 02:23:44,216
+(clears throat) Make it 40.
+
+2289
+02:23:44,249 --> 02:23:45,851
+Thank you.
+
+2290
+02:23:53,893 --> 02:23:56,128
+(sighs)
+
+2291
+02:24:05,070 --> 02:24:07,306
+(piano plays note)
+
+2292
+02:24:08,307 --> 02:24:10,542
+(piano playing discordant notes)
+
+2293
+02:24:14,646 --> 02:24:16,682
+(music stops)
+
+2294
+02:24:53,318 --> 02:24:55,554
+(sighs)
+
+2295
+02:25:00,826 --> 02:25:03,262
+(orchestra playing
+lively classical music over TV)
+
+2296
+02:25:18,110 --> 02:25:19,511
+(music ends)
+
+2297
+02:25:19,544 --> 02:25:21,313
+(over TV):
+Didn't you feel triumphant?
+
+2298
+02:25:21,346 --> 02:25:23,582
+(applause over TV)
+
+2299
+02:25:24,984 --> 02:25:28,720
+Now we can really understand
+what the meaning of music is.
+
+2300
+02:25:28,754 --> 02:25:32,825
+It's the way it makes you feel
+when you hear it.
+
+2301
+02:25:32,858 --> 02:25:35,928
+Finally, we've taken
+that last giant step.
+
+2302
+02:25:35,961 --> 02:25:38,630
+And we're there.
+We know what music means now.
+
+2303
+02:25:38,663 --> 02:25:41,466
+And we don't have to know
+a lot of stuff about sharps
+
+2304
+02:25:41,500 --> 02:25:43,936
+and flats and chords
+and all that business
+
+2305
+02:25:43,969 --> 02:25:48,874
+in order to understand music
+if it tells us something.
+
+2306
+02:25:48,908 --> 02:25:52,244
+And the most wonderful thing of
+all is that there's no limit to
+
+2307
+02:25:52,277 --> 02:25:56,681
+the different kinds of feelings
+music can make you have.
+
+2308
+02:25:56,715 --> 02:26:00,619
+And some of those feelings
+are so special and so deep
+
+2309
+02:26:00,652 --> 02:26:03,088
+that they can't even be
+described in words.
+
+2310
+02:26:03,122 --> 02:26:04,456
+You see, we can't always name
+
+2311
+02:26:04,489 --> 02:26:05,858
+-the things we feel.
+-(sobs softly)
+
+2312
+02:26:05,891 --> 02:26:06,926
+Sometimes we can.
+
+2313
+02:26:06,959 --> 02:26:08,460
+We can say we feel joy,
+
+2314
+02:26:08,493 --> 02:26:12,231
+pleasure, peacefulness,
+whatever, love, hate.
+
+2315
+02:26:12,264 --> 02:26:14,499
+But every once in a while,
+
+2316
+02:26:14,533 --> 02:26:17,336
+we have feelings that are
+so deep and so special
+
+2317
+02:26:17,369 --> 02:26:18,904
+that we have no words for them.
+
+2318
+02:26:18,938 --> 02:26:22,107
+And that's where music
+is so marvelous,
+
+2319
+02:26:22,141 --> 02:26:24,409
+because music names them for us,
+
+2320
+02:26:24,443 --> 02:26:27,279
+only in notes
+instead of in words.
+
+2321
+02:26:27,312 --> 02:26:28,881
+It's all in the way music moves.
+
+2322
+02:26:28,914 --> 02:26:31,616
+You must never forget
+that music is movement,
+
+2323
+02:26:31,650 --> 02:26:34,453
+always going somewhere,
+shifting and changing
+
+2324
+02:26:34,486 --> 02:26:38,290
+and flowing
+from one note to another.
+
+2325
+02:26:38,323 --> 02:26:39,791
+-(crying)
+-And that movement can tell us
+
+2326
+02:26:39,825 --> 02:26:42,895
+more about the way we feel
+than a million words can.
+
+2327
+02:26:42,928 --> 02:26:44,629
+And here we're going
+to play you a...
+
+2328
+02:26:44,663 --> 02:26:46,999
+-(VCR clicks)
+-(whimpers)
+
+2329
+02:26:49,668 --> 02:26:51,703
+(door opens in distance)
+
+2330
+02:26:51,736 --> 02:26:53,738
+(exhales sharply, sniffles)
+
+2331
+02:26:59,211 --> 02:27:00,880
+Tony.
+
+2332
+02:27:02,181 --> 02:27:03,849
+Oh.
+
+2333
+02:27:03,883 --> 02:27:05,084
+Hi, Linda.
+
+2334
+02:27:05,117 --> 02:27:06,318
+Sorry.
+
+2335
+02:27:06,351 --> 02:27:08,553
+Lydia.
+
+2336
+02:27:08,587 --> 02:27:11,090
+Ma said you'd be over.
+
+2337
+02:27:11,123 --> 02:27:13,458
+You must be hiding out.
+
+2338
+02:27:14,259 --> 02:27:16,661
+Why would I be hiding out?
+
+2339
+02:27:16,695 --> 02:27:19,064
+Beats the hell out of me.
+
+2340
+02:27:19,098 --> 02:27:21,333
+None of my business anyhow.
+
+2341
+02:27:22,467 --> 02:27:24,937
+Lot of loose ends,
+you got to admit.
+
+2342
+02:27:26,471 --> 02:27:27,940
+What do you mean?
+
+2343
+02:27:27,973 --> 02:27:30,275
+Well, like I said,
+it ain't my business.
+
+2344
+02:27:31,276 --> 02:27:33,645
+But you don't seem to know
+where the hell you came from
+
+2345
+02:27:33,678 --> 02:27:35,547
+or where you're going.
+
+2346
+02:27:40,419 --> 02:27:42,654
+(woman speaking Thai over P.A.)
+
+2347
+02:27:48,360 --> 02:27:50,595
+(water runs, stops)
+
+2348
+02:28:10,382 --> 02:28:12,617
+(traffic passing)
+
+2349
+02:28:18,323 --> 02:28:21,060
+(rooster crowing)
+
+2350
+02:28:21,093 --> 02:28:22,962
+(car horn honking)
+
+2351
+02:28:27,666 --> 02:28:29,601
+May I come inside?
+
+2352
+02:28:30,869 --> 02:28:32,504
+Thank you.
+
+2353
+02:28:34,173 --> 02:28:37,409
+(conversing in Tagalog)
+
+2354
+02:28:44,449 --> 02:28:46,118
+Um, I'm so sorry.
+
+2355
+02:28:46,151 --> 02:28:48,753
+Uh, we just wanted to confirm
+that the composer was in fact
+
+2356
+02:28:48,787 --> 02:28:50,822
+not flying in from Osaka
+to attend the concert.
+
+2357
+02:28:50,855 --> 02:28:52,257
+Oh.
+
+2358
+02:28:52,291 --> 02:28:55,394
+I-I must tell you that I-I
+looked in the music libraries,
+
+2359
+02:28:55,427 --> 02:28:59,364
+uh, for her score,
+but I-I couldn't find anything.
+
+2360
+02:28:59,398 --> 02:29:01,566
+-This just arrived.
+-Ah.
+
+2361
+02:29:01,600 --> 02:29:03,835
+That's great. Thank you.
+
+2362
+02:29:05,070 --> 02:29:07,606
+Shirley and Cirio will be
+most happy to show you
+
+2363
+02:29:07,639 --> 02:29:09,674
+-the sights of our beautiful
+country. -Oh. Thank you.
+
+2364
+02:29:09,708 --> 02:29:11,510
+Thank you so much.
+
+2365
+02:29:11,543 --> 02:29:13,645
+Oh, goodness.
+
+2366
+02:29:13,678 --> 02:29:15,547
+Thank-thank you.
+
+2367
+02:29:21,320 --> 02:29:24,056
+(man howls)
+
+2368
+02:29:39,371 --> 02:29:41,606
+(motor rattling quietly)
+
+2369
+02:29:46,711 --> 02:29:50,682
+Maybe we could stop somewhere
+and take a swim.
+
+2370
+02:29:50,715 --> 02:29:52,484
+Yeah, at the waterfall.
+
+2371
+02:29:52,517 --> 02:29:54,386
+But, mm, not in the river.
+
+2372
+02:29:54,419 --> 02:29:57,189
+Why? Is there something wrong
+with the water?
+
+2373
+02:29:57,222 --> 02:29:59,891
+N-No. There are crocodiles.
+
+2374
+02:29:59,924 --> 02:30:01,893
+Oh.
+
+2375
+02:30:01,926 --> 02:30:04,496
+I didn't think
+they'd be this far inland.
+
+2376
+02:30:04,529 --> 02:30:07,399
+They escaped from
+Marlon Brando movie.
+
+2377
+02:30:07,432 --> 02:30:09,168
+Wow.
+
+2378
+02:30:09,201 --> 02:30:12,104
+That was a long time ago.
+
+2379
+02:30:12,137 --> 02:30:13,905
+They survive.
+
+2380
+02:30:19,911 --> 02:30:22,147
+(playful screaming, laughter)
+
+2381
+02:30:28,587 --> 02:30:30,822
+(Shirley whoops)
+
+2382
+02:30:30,855 --> 02:30:33,092
+(Shirley and Cirio laughing)
+
+2383
+02:30:40,565 --> 02:30:43,802
+(men speaking Tagalog, kissing)
+
+2384
+02:30:48,173 --> 02:30:50,609
+-Lady. Lady.
+-(chatter continues) -(kissing)
+
+2385
+02:30:52,611 --> 02:30:53,945
+Here is prescription.
+
+2386
+02:30:53,978 --> 02:30:55,647
+-Ten dollars.
+-Oh. Thank you.
+
+2387
+02:30:55,680 --> 02:30:57,082
+(pills rattle)
+
+2388
+02:30:57,116 --> 02:31:01,386
+Uh, is there somewhere
+around here-- thank you--
+
+2389
+02:31:01,420 --> 02:31:03,288
+where I could get a massage?
+
+2390
+02:31:03,322 --> 02:31:06,057
+Was hoping it might help me
+with this jet lag.
+
+2391
+02:31:06,091 --> 02:31:08,059
+(sighs)
+
+2392
+02:31:08,093 --> 02:31:10,061
+Hmm.
+
+2393
+02:31:10,095 --> 02:31:11,163
+Yes.
+
+2394
+02:31:11,196 --> 02:31:14,133
+There is
+the very nice place I know.
+
+2395
+02:31:14,166 --> 02:31:15,934
+Thank you.
+
+2396
+02:31:15,967 --> 02:31:18,203
+(relaxing music playing
+over speakers)
+
+2397
+02:31:29,013 --> 02:31:30,115
+Thank you.
+
+2398
+02:31:30,149 --> 02:31:32,184
+Please step over
+to the fishbowl.
+
+2399
+02:31:32,217 --> 02:31:34,052
+The... the fishbowl?
+
+2400
+02:31:34,085 --> 02:31:35,787
+Yes, over there.
+
+2401
+02:31:41,092 --> 02:31:42,661
+Um, I'm sorry, I'm confused.
+
+2402
+02:31:42,694 --> 02:31:44,863
+H-How does this...
+how does it work?
+
+2403
+02:31:45,697 --> 02:31:47,899
+You just pick a number here.
+
+2404
+02:31:49,268 --> 02:31:51,370
+I pick a number?
+
+2405
+02:31:51,403 --> 02:31:53,004
+Yes.
+
+2406
+02:31:53,037 --> 02:31:54,606
+(chuckles)
+
+2407
+02:32:03,915 --> 02:32:06,151
+RECEPTIONIST:
+Number five?
+
+2408
+02:32:11,590 --> 02:32:13,658
+(gasps)
+
+2409
+02:32:18,663 --> 02:32:20,565
+(gagging)
+
+2410
+02:32:20,599 --> 02:32:22,834
+(retching)
+
+2411
+02:32:25,003 --> 02:32:26,371
+(groans)
+
+2412
+02:32:26,405 --> 02:32:27,972
+(panting)
+
+2413
+02:32:34,579 --> 02:32:36,815
+(music playing quietly over TV)
+
+2414
+02:32:43,655 --> 02:32:45,890
+(woman speaking Tagalog)
+
+2415
+02:32:49,561 --> 02:32:51,129
+Good morning.
+
+2416
+02:32:51,162 --> 02:32:52,864
+MUSICIANS:
+Good morning.
+
+2417
+02:32:52,897 --> 02:32:55,267
+Now, before we begin,
+let's-let's talk a bit about
+
+2418
+02:32:55,300 --> 02:32:59,003
+the composer's intent
+with this piece.
+
+2419
+02:33:00,171 --> 02:33:02,374
+And what she might be after.
+
+2420
+02:33:02,407 --> 02:33:04,175
+(busy chatter)
+
+2421
+02:33:04,209 --> 02:33:06,645
+(pop music playing
+over speakers)
+
+2422
+02:33:21,159 --> 02:33:23,194
+-(sighs)
+-MAN: Five minutes.
+
+2423
+02:33:24,729 --> 02:33:26,965
+(instruments warming up
+in distance)
+
+2424
+02:33:31,503 --> 02:33:33,738
+(panting softly)
+
+2425
+02:33:35,507 --> 02:33:37,175
+(gasps)
+
+2426
+02:33:37,208 --> 02:33:38,543
+(exhales sharply)
+
+2427
+02:33:38,577 --> 02:33:40,812
+(applause)
+
+2428
+02:33:49,554 --> 02:33:51,790
+(applause swells)
+
+2429
+02:33:54,759 --> 02:33:56,761
+-Thank you.
+-(applause fades)
+
+2430
+02:34:04,636 --> 02:34:06,471
+(mechanical whirring)
+
+2431
+02:34:10,875 --> 02:34:12,444
+(whirring stops)
+
+2432
+02:34:15,680 --> 02:34:18,750
+(fabric rustling over speakers)
+
+2433
+02:34:18,783 --> 02:34:20,552
+(orchestra playing gentle music)
+
+2434
+02:34:20,585 --> 02:34:24,689
+ANNOUNCER: Sisters and brothers
+of the Fifth Fleet, it's time.
+
+2435
+02:34:24,723 --> 02:34:27,091
+I'll keep my farewell brief.
+
+2436
+02:34:27,125 --> 02:34:29,861
+Never was much with words.
+
+2437
+02:34:29,894 --> 02:34:33,832
+Once you board this ship,
+there's no turning back.
+
+2438
+02:34:33,865 --> 02:34:38,303
+The next ground your feet touch
+will be that of the New World.
+
+2439
+02:34:38,337 --> 02:34:40,772
+(music building)
+
+2440
+02:34:40,805 --> 02:34:42,807
+If any of you
+have lost your nerve,
+
+2441
+02:34:42,841 --> 02:34:46,978
+then step away now
+and let no one judge you.
+
+2442
+02:34:47,011 --> 02:34:49,247
+(music fades)
+
+2443
+02:34:55,354 --> 02:34:57,389
+*
+
+2444
+02:35:25,517 --> 02:35:27,552
+*
+
+2445
+02:35:52,276 --> 02:35:53,912
+*
+
+2446
+02:36:21,740 --> 02:36:23,975
+*
+
+2447
+02:36:53,772 --> 02:36:56,007
+*
+
+2448
+02:37:22,601 --> 02:37:24,636
+*
+
+2449
+02:37:52,163 --> 02:37:54,398
+*
+
+2450
+02:38:04,709 --> 02:38:06,711
+(music ends)
