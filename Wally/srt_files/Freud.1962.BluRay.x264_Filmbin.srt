@@ -1,0 +1,9099 @@
+﻿1
+00:01:51,445 --> 00:01:52,696
+Since ancient times,
+
+2
+00:01:53,238 --> 00:01:54,990
+there have been
+three great changes
+
+3
+00:01:54,990 --> 00:01:57,117
+in man's idea of himself.
+
+4
+00:01:58,160 --> 00:02:01,580
+Three major blows
+dealt us in our vanity.
+
+5
+00:02:02,748 --> 00:02:05,959
+Before Copernicus, we thought we
+were the center of the universe,
+
+6
+00:02:06,877 --> 00:02:10,422
+that all the heavenly bodies
+revolved around our Earth.
+
+7
+00:02:12,090 --> 00:02:14,468
+But the great astronomer
+shattered that conceit,
+
+8
+00:02:15,302 --> 00:02:17,596
+and we were forced
+to admit our planet
+
+9
+00:02:18,096 --> 00:02:20,891
+is but one of many
+which swing around the Sun.
+
+10
+00:02:21,975 --> 00:02:24,686
+That there are other systems
+beyond our solar system
+
+11
+00:02:25,520 --> 00:02:27,105
+in myriad worlds.
+
+12
+00:02:27,731 --> 00:02:29,566
+Before Charles Darwin,
+
+13
+00:02:29,566 --> 00:02:32,486
+man believed he was
+a species unto himself,
+
+14
+00:02:33,070 --> 00:02:35,364
+separate and apart
+from the animal kingdom.
+
+15
+00:02:36,948 --> 00:02:40,535
+But the great biologist made us
+see that our physical organism
+
+16
+00:02:40,535 --> 00:02:43,830
+is the product
+of a vast evolutionary process
+
+17
+00:02:43,830 --> 00:02:46,083
+whose laws
+are no different for us
+
+18
+00:02:46,083 --> 00:02:48,377
+than for any other form
+of animal life.
+
+19
+00:02:49,086 --> 00:02:51,797
+Before Sigmund Freud,
+man believed that what he said
+
+20
+00:02:51,797 --> 00:02:55,592
+and did were the products
+of his conscious will alone.
+
+21
+00:02:56,259 --> 00:02:58,261
+But the great psychologist,
+
+22
+00:02:58,261 --> 00:03:00,764
+demonstrated the existence
+of another part of our mind.
+
+23
+00:03:01,306 --> 00:03:03,642
+Which functions
+in darkest secrecy
+
+24
+00:03:04,518 --> 00:03:06,770
+and can even rule our lives.
+
+25
+00:03:07,479 --> 00:03:10,732
+This is the story of Freud's
+descent into a region
+
+26
+00:03:11,441 --> 00:03:13,985
+almost as black as hell itself.
+
+27
+00:03:14,611 --> 00:03:18,115
+Man's unconscious,
+and how he let in the light.
+
+28
+00:04:24,222 --> 00:04:25,849
+A new patient, Herr Professor.
+
+29
+00:04:27,350 --> 00:04:29,561
+Hysteria.
+Who admitted this patient?
+
+30
+00:04:30,312 --> 00:04:31,813
+| did, Herr Professor.
+
+31
+00:04:32,481 --> 00:04:34,191
+Are you ignorant of my rule
+
+32
+00:04:34,191 --> 00:04:36,318
+barring so-called hysterics
+from my department?
+
+33
+00:04:36,318 --> 00:04:39,946
+| am blind, Herr Professor!
+| can't move my leg!
+
+34
+00:04:41,823 --> 00:04:45,786
+| know the rules, Professor
+Meynert, but this woman is sick.
+
+35
+00:04:46,578 --> 00:04:49,039
+With your permission
+| would like to make some tests.
+
+36
+00:04:49,039 --> 00:04:51,041
+Tests? By all means
+let us conduct tests
+
+37
+00:04:51,041 --> 00:04:52,292
+here and now, Herr Freud.
+
+38
+00:04:53,001 --> 00:04:54,920
+| shall use this occasion
+to enlighten you
+
+39
+00:04:54,920 --> 00:04:56,421
+as the true nature of hysteria.
+
+40
+00:04:57,255 --> 00:04:58,256
+Be quiet.
+
+41
+00:04:58,757 --> 00:05:00,258
+This woman claims
+to be suffering
+
+42
+00:05:00,258 --> 00:05:01,551
+from paralysis of the left leg.
+
+43
+00:05:02,511 --> 00:05:04,054
+In a genuine spastic paralysis,
+
+44
+00:05:04,054 --> 00:05:05,806
+the leg wouldn't be
+so inflexibly rigid.
+
+45
+00:05:06,556 --> 00:05:08,892
+Gentlemen, our paralytic
+is putting on an exhibition
+
+46
+00:05:08,892 --> 00:05:10,519
+more suited to the Volks theater
+
+47
+00:05:10,519 --> 00:05:12,062
+than to a bed in my ward!
+
+48
+00:05:12,813 --> 00:05:15,649
+Her symptoms have been
+assumed with the purpose
+
+49
+00:05:15,649 --> 00:05:18,109
+of attracting attention,
+gaining pity,
+
+50
+00:05:18,527 --> 00:05:20,570
+and escaping
+the responsibilities of life.
+
+51
+00:05:21,863 --> 00:05:24,074
+As for her claim to blindness...
+
+52
+00:05:24,741 --> 00:05:25,742
+A match.
+
+53
+00:05:26,409 --> 00:05:27,410
+Light it.
+
+54
+00:05:35,585 --> 00:05:38,213
+- What do you see?
+- Her pupils are contracting.
+
+55
+00:05:41,508 --> 00:05:44,135
+Do you believe this is
+a genuine case of blindness?
+
+56
+00:05:44,135 --> 00:05:45,428
+No.
+
+57
+00:05:45,428 --> 00:05:46,429
+Ah, uh...
+
+58
+00:05:47,055 --> 00:05:49,891
+Herr Professor, will you
+permit me to make a test?
+
+59
+00:05:52,561 --> 00:05:53,562
+By all means.
+
+60
+00:06:12,914 --> 00:06:13,915
+No reaction.
+
+61
+00:06:15,500 --> 00:06:16,585
+Is this pretending?
+
+62
+00:06:17,794 --> 00:06:20,463
+Anesthesia induced by
+deliberately maintaining the leg
+
+63
+00:06:20,463 --> 00:06:21,965
+in a cramped
+and unnatural position.
+
+64
+00:06:22,716 --> 00:06:24,634
+Hysteria is another
+name for lying.
+
+65
+00:06:24,634 --> 00:06:26,052
+Pity there's no therapy
+for that.
+
+66
+00:06:27,053 --> 00:06:28,805
+You'll see to it personally,
+Herr Freud,
+
+67
+00:06:29,264 --> 00:06:30,724
+that this bed
+is vacated at once.
+
+68
+00:06:39,065 --> 00:06:40,609
+Mother, what should I do?
+
+69
+00:06:41,526 --> 00:06:43,945
+Leave the hospital.
+Go somewhere else.
+
+70
+00:06:46,072 --> 00:06:47,741
+That would mean
+starting all over again.
+
+71
+00:06:49,659 --> 00:06:53,121
+| know how you and father have
+slaved to put me where I am.
+
+72
+00:06:53,997 --> 00:06:55,957
+How my sisters went without.
+
+73
+00:06:55,957 --> 00:06:58,877
+We wanted the honor of having
+a doctor in the family.
+
+74
+00:06:59,502 --> 00:07:02,005
+And Martha?
+| can't ask her to wait forever.
+
+75
+00:07:03,673 --> 00:07:05,842
+Before you and Martha
+were engaged,
+
+76
+00:07:06,885 --> 00:07:08,762
+you thought of applying
+for a Traveling Grant.
+
+77
+00:07:09,220 --> 00:07:10,263
+Could you still get one?
+
+78
+00:07:12,682 --> 00:07:13,683
+Yes, yes.
+
+79
+00:07:15,060 --> 00:07:16,144
+That might be the answer.
+
+80
+00:07:18,355 --> 00:07:19,356
+Maybe.
+
+81
+00:07:23,693 --> 00:07:25,028
+How long would you be away?
+
+82
+00:07:26,029 --> 00:07:28,323
+Six months, a year.
+| don't know.
+
+83
+00:07:30,492 --> 00:07:31,534
+Where would you go?
+
+84
+00:07:32,494 --> 00:07:36,414
+Oh... Berlin,
+perhaps to Charcot.
+
+85
+00:07:37,499 --> 00:07:40,001
+Is Charcot a city or a man?
+
+86
+00:07:40,794 --> 00:07:42,587
+A man, a genius.
+
+87
+00:07:44,089 --> 00:07:46,716
+He's in Paris conducting
+experiments in hysteria.
+
+88
+00:07:48,760 --> 00:07:50,261
+There are certain
+mental phenomena
+
+89
+00:07:50,762 --> 00:07:53,556
+which defy all
+the rules of science.
+
+90
+00:07:54,307 --> 00:07:56,935
+Most of us refuse to admit
+they exist, not Charcot.
+
+91
+00:07:57,936 --> 00:07:59,938
+He's had the courage
+to break with the axiom
+
+92
+00:07:59,938 --> 00:08:02,190
+that thought and consciousness
+are one and the same.
+
+93
+00:08:03,525 --> 00:08:07,362
+He has proven that the mind
+can think in a state of sleep,
+
+94
+00:08:07,362 --> 00:08:09,447
+artificial sleep
+induced by hypnosis.
+
+95
+00:08:10,323 --> 00:08:14,077
+Yes, he dares to use hypnosis,
+a heresy in science.
+
+96
+00:08:15,662 --> 00:08:17,247
+Of course you're
+going to Charcot.
+
+97
+00:08:18,164 --> 00:08:19,290
+| am? How do you know?
+
+98
+00:08:19,958 --> 00:08:21,710
+By your voice,
+when you talk about him.
+
+99
+00:08:23,336 --> 00:08:24,337
+Oh.
+
+100
+00:08:25,380 --> 00:08:29,551
+| think it was decided before
+your disagreement with Meynert.
+
+101
+00:08:32,721 --> 00:08:36,474
+Frau So far away, Paris.
+A day, a night and a day.
+
+102
+00:08:36,474 --> 00:08:38,059
+And trains run after dark now.
+
+103
+00:08:38,059 --> 00:08:39,894
+- Have a nice trip.
+- Goodbye.
+
+104
+00:08:39,894 --> 00:08:43,481
+- Good luck.
+- Goodbye. Thank you.
+
+105
+00:08:43,481 --> 00:08:44,983
+Frau and Sigi cried the whole...
+
+106
+00:08:44,983 --> 00:08:46,651
+You won't forget me, Sigi?
+
+107
+00:08:49,070 --> 00:08:51,364
+- All Aboard!
+- Goodbye.
+
+108
+00:08:51,990 --> 00:08:54,826
+- Mama...
+- All Aboard!
+
+109
+00:08:54,826 --> 00:08:56,286
+To keep you warm this winter.
+
+110
+00:08:56,286 --> 00:08:58,163
+- Thank you.
+- Papa.
+
+111
+00:08:58,163 --> 00:09:02,417
+Sigmund, this watch belonged
+to my father, Alev Ashalom.
+
+112
+00:09:02,417 --> 00:09:05,628
+Now, it's time for you to depart
+from your loved ones,
+
+113
+00:09:05,628 --> 00:09:07,589
+- I present it to you...
+- Thank you.
+
+114
+00:09:07,589 --> 00:09:10,216
+- As a symbol. Bye.
+- Thank you. Goodbye.
+
+115
+00:09:30,945 --> 00:09:33,156
+Oh, what an unhappy accident!
+
+116
+00:09:37,660 --> 00:09:38,661
+Thank you.
+
+117
+00:09:41,748 --> 00:09:44,167
+The word "hysteria"
+
+118
+00:09:44,167 --> 00:09:48,797
+is from the Greek word
+"hysteron", meaning "womb".
+
+119
+00:09:50,381 --> 00:09:53,593
+To this day,
+doctors believe the disease
+
+120
+00:09:53,593 --> 00:09:56,262
+only exists in women if
+
+121
+00:09:56,262 --> 00:09:59,390
+that is, they admit
+its existence at all.
+
+122
+00:10:00,767 --> 00:10:03,478
+There are many who would
+deny it a place
+
+123
+00:10:03,478 --> 00:10:05,814
+in the pages of the
+Encyclopedia Medica.
+
+124
+00:10:07,357 --> 00:10:10,193
+Excellent description of
+hysteria may be found
+
+125
+00:10:10,193 --> 00:10:13,530
+in the records of witchcraft
+trials in former times.
+
+126
+00:10:15,657 --> 00:10:18,451
+Its victims were supposed
+to be possessed by the Devil.
+
+127
+00:10:19,577 --> 00:10:23,248
+There were veritable epidemics
+of this delusion.
+
+128
+00:10:23,248 --> 00:10:25,166
+Whole communities were infected.
+
+129
+00:10:25,583 --> 00:10:30,004
+Yes, it was infectious,
+yet it had no germ.
+
+130
+00:10:30,880 --> 00:10:33,383
+Hysteria violates
+the medical tenet
+
+131
+00:10:33,925 --> 00:10:36,928
+that all bodily symptoms
+must be of organic origin,
+
+132
+00:10:37,679 --> 00:10:39,764
+and the psychological tenet
+
+133
+00:10:39,764 --> 00:10:43,351
+that the mind is capable
+of only one thought at a time.
+
+134
+00:10:44,644 --> 00:10:47,939
+But the facts do not cease
+to exist because they are
+
+135
+00:10:47,939 --> 00:10:50,233
+in contradiction to
+our beloved theories.
+
+136
+00:10:50,775 --> 00:10:53,236
+| intend to prove here,
+by demonstration,
+
+137
+00:10:53,236 --> 00:10:55,697
+that hysteria
+is a purely mental malady
+
+138
+00:10:56,239 --> 00:10:58,616
+and that the mind
+can be divided against itself
+
+139
+00:10:58,616 --> 00:11:01,786
+so that it pursues two lines
+of thought simultaneously.
+
+140
+00:11:14,591 --> 00:11:16,467
+- What do you see?
+- Paralysis.
+
+141
+00:11:17,135 --> 00:11:18,136
+Flaccid paralysis.
+
+142
+00:11:23,141 --> 00:11:25,852
+My dear Jeanne, how long
+have you been unable to walk?
+
+143
+00:11:26,853 --> 00:11:29,898
+- Since 1880.
+- Six years ago.
+
+144
+00:11:29,898 --> 00:11:31,608
+Did anything happen
+to you at that time
+
+145
+00:11:32,192 --> 00:11:33,860
+which might have brought on
+your illness?
+
+146
+00:11:34,652 --> 00:11:35,653
+No.
+
+147
+00:11:36,779 --> 00:11:39,032
+Here is one of the most
+characteristic facts
+
+148
+00:11:39,032 --> 00:11:40,283
+of hysteria.
+
+149
+00:11:40,283 --> 00:11:42,202
+The patient remembers nothing.
+
+150
+00:11:42,827 --> 00:11:44,787
+Yet we've learned
+from her relatives
+
+151
+00:11:44,787 --> 00:11:46,456
+that the appearance
+of her symptoms
+
+152
+00:11:46,456 --> 00:11:48,791
+followed immediately
+upon a railway crash.
+
+153
+00:11:49,542 --> 00:11:51,586
+She wasn't injured physically.
+
+154
+00:11:51,586 --> 00:11:55,673
+Her condition is due solely
+to psychological trauma.
+
+155
+00:12:02,096 --> 00:12:05,308
+And here, we have,
+to all appearances,
+
+156
+00:12:06,184 --> 00:12:09,562
+a classical example
+of paralysis agitans.
+
+157
+00:12:12,607 --> 00:12:16,110
+Servais, when was it
+that you first began to tremble?
+
+158
+00:12:16,110 --> 00:12:18,071
+A... About a month ago.
+
+159
+00:12:18,071 --> 00:12:20,240
+Servais was a
+woodcutter by profession.
+
+160
+00:12:20,698 --> 00:12:23,576
+A cabin, in which he had taken
+refuge from a thunderstorm,
+
+161
+00:12:23,576 --> 00:12:24,911
+was struck by lightning.
+
+162
+00:12:25,536 --> 00:12:28,456
+The incident,
+of which Servais has no memory,
+
+163
+00:12:28,456 --> 00:12:31,084
+took place, not a month,
+but over a year ago.
+
+164
+00:12:32,043 --> 00:12:33,962
+Following the accident,
+
+165
+00:12:33,962 --> 00:12:36,839
+he went into a state which is
+typical for victims of trauma:
+
+166
+00:12:37,382 --> 00:12:40,593
+His color became leaden,
+his eyes vacant,
+
+167
+00:12:40,593 --> 00:12:42,637
+his movements were mechanical.
+
+168
+00:12:42,637 --> 00:12:46,182
+He behaved as though he were
+in a state of hypnotic trance!
+
+169
+00:12:47,892 --> 00:12:49,143
+By means of hypnosis,
+
+170
+00:12:49,852 --> 00:12:52,522
+a practice that science has
+but recently freed from
+
+171
+00:12:52,522 --> 00:12:53,648
+the service of black magic,
+
+172
+00:12:54,315 --> 00:12:58,027
+we are able to produce
+a mental state in the patient
+
+173
+00:12:58,027 --> 00:13:01,531
+similar to that in which
+his symptoms were conceived.
+
+174
+00:13:05,243 --> 00:13:07,120
+I'm going to put you to sleep.
+
+175
+00:13:07,996 --> 00:13:10,707
+Look straight into the flame
+with both your eyes.
+
+176
+00:13:10,707 --> 00:13:12,417
+Straight into the flame.
+
+177
+00:13:13,418 --> 00:13:14,627
+Now you're going to sleep.
+
+178
+00:13:15,503 --> 00:13:17,255
+A very deep sleep.
+
+179
+00:13:18,172 --> 00:13:20,883
+You're going
+deeper and deeper into sleep.
+
+180
+00:13:21,426 --> 00:13:23,219
+A deep and peaceful sleep.
+
+181
+00:13:23,761 --> 00:13:27,390
+You're sleeping. Deeply, deeply.
+
+182
+00:13:30,435 --> 00:13:32,729
+You're now on rapport
+with Professor Charcot.
+
+183
+00:13:33,313 --> 00:13:35,440
+He'll give you orders
+and you'll obey them.
+
+184
+00:13:35,940 --> 00:13:38,943
+| now propose to demonstrate
+to you gentlemen
+
+185
+00:13:39,986 --> 00:13:44,240
+that these two patients are not
+suffering from organic disease,
+
+186
+00:13:44,907 --> 00:13:47,035
+but that their symptoms
+
+187
+00:13:47,660 --> 00:13:51,664
+are the result of ideas
+holding sway in their minds.
+
+188
+00:13:52,957 --> 00:13:54,834
+- Do you hear me, Servais?
+- Yes.
+
+189
+00:13:55,543 --> 00:13:59,881
+You're quite safe.
+You have no fear at all.
+
+190
+00:14:00,923 --> 00:14:03,634
+You're growing calm. Quiet.
+
+191
+00:14:04,260 --> 00:14:06,220
+Completely quiet.
+
+192
+00:14:08,139 --> 00:14:12,143
+When I clap my hands,
+you won't shake anymore.
+
+193
+00:14:15,563 --> 00:14:18,024
+Good, Servais. Very good.
+
+194
+00:14:19,025 --> 00:14:23,488
+We've eliminated the hysterical
+symptom by a spoken command,
+
+195
+00:14:24,197 --> 00:14:27,367
+thereby demonstrating
+that his affliction
+
+196
+00:14:27,367 --> 00:14:29,410
+is not of organic origin.
+
+197
+00:14:33,247 --> 00:14:34,248
+Jeanne.
+
+198
+00:14:37,627 --> 00:14:38,836
+Sleep, Jeanne.
+
+199
+00:14:39,629 --> 00:14:40,630
+Sleep.
+
+200
+00:14:41,255 --> 00:14:43,591
+Deeper and deeper into sleep.
+
+201
+00:14:45,510 --> 00:14:47,678
+A gentle and restful sleep.
+
+202
+00:14:49,055 --> 00:14:53,976
+A sweet, peaceful sleep.
+Deeper, deeper.
+
+203
+00:14:55,228 --> 00:14:56,312
+Sleep.
+
+204
+00:14:58,940 --> 00:15:03,444
+Jeanne, now I give
+you over to Professor Charcot.
+
+205
+00:15:04,654 --> 00:15:06,030
+Do you hear me, Jeanne?
+
+206
+00:15:08,825 --> 00:15:09,826
+Yes.
+
+207
+00:15:11,244 --> 00:15:15,373
+Your legs.
+Sensation is returning to them.
+
+208
+00:15:20,628 --> 00:15:21,629
+Yes.
+
+209
+00:15:23,256 --> 00:15:26,801
+You can feel the blood
+flowing through them.
+
+210
+00:15:29,178 --> 00:15:31,973
+You are cured, cured!
+
+211
+00:15:34,016 --> 00:15:35,726
+You can move your legs.
+
+212
+00:15:39,355 --> 00:15:42,567
+Go ahead and move them.
+
+213
+00:15:44,569 --> 00:15:46,654
+Good, Jeanne. Very good.
+
+214
+00:15:48,072 --> 00:15:50,491
+You can even stand upon them.
+
+215
+00:15:50,908 --> 00:15:52,535
+Yes, you can stand.
+
+216
+00:15:53,202 --> 00:15:56,122
+Rise up and
+stand upon your legs.
+
+217
+00:16:11,929 --> 00:16:13,723
+Splendid, Jeanne. Splendid.
+
+218
+00:16:15,057 --> 00:16:17,268
+Open your eyes, open your eyes!
+
+219
+00:16:18,060 --> 00:16:20,813
+Walk, now. Don't be afraid.
+
+220
+00:16:20,813 --> 00:16:22,315
+Walk around the room.
+
+221
+00:16:23,024 --> 00:16:25,860
+And now, having demonstrated
+
+222
+00:16:25,902 --> 00:16:28,321
+that we can remove symptoms
+by suggestion,
+
+223
+00:16:29,030 --> 00:16:32,366
+let's see if we're able
+to create them as well.
+
+224
+00:16:34,577 --> 00:16:35,828
+When I clap my hands,
+
+225
+00:16:36,621 --> 00:16:38,414
+your legs will go to sleep.
+
+226
+00:16:38,956 --> 00:16:40,750
+They will no longer support you.
+
+227
+00:16:41,209 --> 00:16:45,505
+They will be paralyzed.
+Immovable, without feeling.
+
+228
+00:16:55,973 --> 00:16:56,974
+Stand still, Jeanne.
+
+229
+00:16:59,185 --> 00:17:01,020
+Do you see Servais over there?
+
+230
+00:17:04,398 --> 00:17:06,692
+Remember how he shook?
+
+231
+00:17:09,362 --> 00:17:10,363
+Do you, Jeanne?
+
+232
+00:17:13,282 --> 00:17:14,283
+Like that.
+
+233
+00:17:15,785 --> 00:17:17,119
+Wasn't it, Jeanne?
+
+234
+00:17:19,205 --> 00:17:24,168
+And now, your arm is shaking
+like his did.
+
+235
+00:17:30,424 --> 00:17:32,593
+Now both your arms.
+
+236
+00:17:33,469 --> 00:17:36,597
+Shaking, shaking.
+
+237
+00:17:37,306 --> 00:17:40,643
+And your legs.
+You can't stop, can you?
+
+238
+00:17:41,435 --> 00:17:43,688
+You shake, shake.
+
+239
+00:17:44,397 --> 00:17:49,443
+Gentlemen, you've witnessed the
+birth of a hysterical symptom.
+
+240
+00:17:52,822 --> 00:17:55,950
+Now my assistants are going to
+awaken our patients.
+
+241
+00:17:56,409 --> 00:17:58,452
+They will remember nothing.
+
+242
+00:17:58,452 --> 00:18:00,830
+Servais will regain
+the use of his legs,
+
+243
+00:18:00,830 --> 00:18:02,707
+but his tremor
+will set in again.
+
+244
+00:18:02,707 --> 00:18:06,919
+And Jeanne will cease trembling
+only to be paralyzed as before.
+
+245
+00:18:07,837 --> 00:18:10,715
+The hypnotic state
+is a counterfeit, alas.
+
+246
+00:18:11,257 --> 00:18:13,301
+It enables us to understand,
+but not to cure.
+
+247
+00:18:25,313 --> 00:18:27,732
+- Mazeltov!
+- Mazeltov!
+
+248
+00:18:29,650 --> 00:18:30,901
+Magzeltov, son.
+
+249
+00:18:35,656 --> 00:18:39,368
+Your daughter, and mine now,
+is very beautiful.
+
+250
+00:18:39,368 --> 00:18:43,539
+As beautiful almost as my own
+Amalia was on our wedding day.
+
+251
+00:18:44,373 --> 00:18:45,916
+But Martha is luckier.
+
+252
+00:18:45,916 --> 00:18:48,419
+All Amalia got
+was a humble cloth merchant.
+
+253
+00:18:48,461 --> 00:18:50,796
+But Martha has here a genius,
+
+254
+00:18:50,796 --> 00:18:52,757
+and soon the
+whole world will know it.
+
+255
+00:18:53,299 --> 00:18:55,426
+Whether these alien ideas
+
+256
+00:18:55,426 --> 00:18:57,219
+spring from the subject's
+own mind,
+
+257
+00:18:57,219 --> 00:19:00,848
+as in auto-suggestion following
+a traumatic experience,
+
+258
+00:19:00,848 --> 00:19:03,476
+or by hetero-suggestion
+as in hypnosis,
+
+259
+00:19:03,976 --> 00:19:07,438
+or by the Devil himself,
+as our forefathers thought,
+
+260
+00:19:07,438 --> 00:19:09,106
+is relatively unimportant.
+
+261
+00:19:10,650 --> 00:19:15,738
+Important is that these ideas
+remain unknown to the patient,
+
+262
+00:19:16,489 --> 00:19:18,074
+that is to say
+they are unconscious.
+
+263
+00:19:19,241 --> 00:19:21,994
+There is much talk nowadays
+about the unconscious.
+
+264
+00:19:22,870 --> 00:19:25,706
+So far, it has only been
+a philosophical abstraction,
+
+265
+00:19:26,374 --> 00:19:28,876
+but Professor Charchot
+has enabled us
+
+266
+00:19:28,876 --> 00:19:30,294
+to reach out and touch it.
+
+267
+00:19:31,253 --> 00:19:33,047
+We must now accept the fact that
+
+268
+00:19:33,047 --> 00:19:36,550
+there can be thinking that
+is not on a conscious level.
+
+269
+00:19:37,968 --> 00:19:39,720
+Are these unconscious thoughts
+
+270
+00:19:39,720 --> 00:19:42,139
+the wild products of
+a shattered mind,
+
+271
+00:19:42,765 --> 00:19:46,977
+or are they connected to
+the trauma by a chain of logic
+
+272
+00:19:47,687 --> 00:19:49,647
+whose links we have
+yet to discover?
+
+273
+00:20:04,120 --> 00:20:05,454
+Thank you, Dr. Freud.
+
+274
+00:20:06,956 --> 00:20:09,834
+| believe I reflect the
+sentiments of my colleagues
+
+275
+00:20:10,626 --> 00:20:13,713
+when I assure you of our
+appreciation of your report.
+
+276
+00:20:13,713 --> 00:20:16,298
+It is my personal opinion,
+however,
+
+277
+00:20:16,298 --> 00:20:18,384
+that there's nothing
+in what we've heard
+
+278
+00:20:18,384 --> 00:20:21,137
+that is new to
+Viennese physicians.
+
+279
+00:20:21,554 --> 00:20:23,013
+I'll say a few words.
+
+280
+00:20:24,473 --> 00:20:26,392
+| beg to disagree
+with our esteemed chairman,
+
+281
+00:20:27,435 --> 00:20:31,147
+for I've found in what we've
+been told some new ideas,
+
+282
+00:20:31,147 --> 00:20:32,523
+and some ideas that are true.
+
+283
+00:20:33,566 --> 00:20:36,026
+But the ideas that are true,
+are not new,
+
+284
+00:20:36,819 --> 00:20:39,572
+and those that are new,
+are not true.
+
+285
+00:20:41,115 --> 00:20:43,451
+Some patients
+show nervous disorders
+
+286
+00:20:43,451 --> 00:20:45,077
+similar to those
+presented to us.
+
+287
+00:20:45,578 --> 00:20:46,579
+But that's not new.
+
+288
+00:20:47,413 --> 00:20:49,457
+None of us is unaware
+that violent emotions
+
+289
+00:20:49,457 --> 00:20:51,000
+can affect the
+central nervous system.
+
+290
+00:20:51,834 --> 00:20:55,296
+But why this talk of diabolic
+ideas and the unconscious?
+
+291
+00:20:56,130 --> 00:20:58,466
+Are we theologians
+or physicians?
+
+292
+00:20:59,508 --> 00:21:01,719
+Again, when our colleague
+feels obliged
+
+293
+00:21:01,719 --> 00:21:05,097
+to instruct and enlighten his
+seniors about hypnotism,
+
+294
+00:21:05,097 --> 00:21:06,640
+he forgets in his enthusiasm
+
+295
+00:21:07,099 --> 00:21:08,517
+that he's telling
+us nothing new.
+
+296
+00:21:09,226 --> 00:21:12,521
+It's not true that hypnotism
+is a scientific method.
+
+297
+00:21:13,147 --> 00:21:17,568
+| consider a hypnotist and his
+subject a pair of sick people,
+
+298
+00:21:18,152 --> 00:21:19,737
+of whom the more seriously sick
+
+299
+00:21:19,737 --> 00:21:21,572
+is certainly not
+the one hypnotized.
+
+300
+00:21:23,616 --> 00:21:25,785
+Viennese doctors are satisfied
+
+301
+00:21:25,785 --> 00:21:28,537
+to leave metaphysical
+speculation to the Parisians,
+
+302
+00:21:28,537 --> 00:21:31,207
+and heed humbly and patiently
+
+303
+00:21:31,207 --> 00:21:33,250
+the lessons of
+physiological experiment.
+
+304
+00:21:38,964 --> 00:21:41,008
+Do you wish to reply,
+Dr. Freud?
+
+305
+00:21:41,759 --> 00:21:43,052
+Thank you, no.
+
+306
+00:21:44,762 --> 00:21:48,808
+| believe Professor Meynert
+has expressed our sentiments.
+
+307
+00:21:49,642 --> 00:21:52,061
+With your permission,
+| hereby adjourn the meeting.
+
+308
+00:22:08,702 --> 00:22:12,665
+Herr colleague, I congratulate
+you on a fascinating paper.
+
+309
+00:22:13,541 --> 00:22:15,793
+You're not afraid to touch
+the leper?
+
+310
+00:22:15,793 --> 00:22:18,963
+The man who read that paper is
+too intelligent to be affected
+
+311
+00:22:18,963 --> 00:22:20,381
+by the reception it got.
+
+312
+00:22:20,965 --> 00:22:24,510
+If I won the approval of
+the eminent Dr. Breuer,
+
+313
+00:22:24,510 --> 00:22:25,553
+it's reward enough.
+
+314
+00:22:26,679 --> 00:22:28,264
+I'd have joined the debate,
+
+315
+00:22:28,264 --> 00:22:29,682
+but that would have
+required a confession
+
+316
+00:22:29,682 --> 00:22:31,600
+I'm not prepared to
+make quite yet.
+
+317
+00:22:32,476 --> 00:22:34,728
+| too have been dabbling
+in the Black Art.
+
+318
+00:22:35,604 --> 00:22:37,022
+Hypnosis?
+
+319
+00:22:37,523 --> 00:22:40,985
+A young woman who had
+a nervous breakdown
+
+320
+00:22:40,985 --> 00:22:42,945
+after her father's death.
+
+321
+00:22:42,945 --> 00:22:46,824
+When I took the case, she was
+suffering from some disorders,
+
+322
+00:22:46,824 --> 00:22:48,242
+including insomnia.
+
+323
+00:22:48,701 --> 00:22:50,327
+The first time I hypnotized her,
+
+324
+00:22:50,327 --> 00:22:52,830
+my thought was to get her
+to sleep without drugs.
+
+325
+00:22:52,830 --> 00:22:57,084
+But on entering trance
+she began to talk in random,
+
+326
+00:22:57,084 --> 00:22:58,794
+disconnected phrases.
+
+327
+00:22:58,794 --> 00:23:02,423
+But presently I sensed a meaning
+behind her words
+
+328
+00:23:02,423 --> 00:23:03,757
+and began asking questions.
+
+329
+00:23:04,258 --> 00:23:07,469
+Before long, I discovered
+the reason for her insomnia.
+
+330
+00:23:07,469 --> 00:23:10,723
+She was terrified of
+a recurrent dream
+
+331
+00:23:10,723 --> 00:23:13,851
+in which she saw
+her father's body
+
+332
+00:23:13,851 --> 00:23:15,895
+being devoured
+by the cats of Naples
+
+333
+00:23:15,895 --> 00:23:17,229
+where his death had occurred.
+
+334
+00:23:18,230 --> 00:23:21,650
+Telling me about it seemed
+to relieve her of its horror.
+
+335
+00:23:21,650 --> 00:23:25,696
+She quieted and passed from
+trance into restful sleep.
+
+336
+00:23:25,696 --> 00:23:29,241
+It occurred to me that if one
+symptom could be relieved
+
+337
+00:23:29,241 --> 00:23:31,744
+by such procedure,
+another might.
+
+338
+00:23:31,744 --> 00:23:35,664
+I've been hypnotizing her
+regularly these last few months.
+
+339
+00:23:35,664 --> 00:23:38,709
+| trace back from the symptom
+to its source,
+
+340
+00:23:38,709 --> 00:23:40,377
+make her remember
+
+341
+00:23:40,377 --> 00:23:42,796
+and the act of remembering
+the incident,
+
+342
+00:23:42,796 --> 00:23:45,049
+causes the symptom to disappear.
+
+343
+00:23:45,049 --> 00:23:47,760
+- Surely it comes back.
+- No.
+
+344
+00:23:47,760 --> 00:23:51,555
+- Not one has come back.
+- She's still very ill.
+
+345
+00:23:51,555 --> 00:23:54,099
+Her vision's disturbed,
+she's semi-paralyzed.
+
+346
+00:23:54,600 --> 00:23:56,518
+At the moment I'm working
+on her inability
+
+347
+00:23:56,518 --> 00:23:58,187
+to drink water from a glass.
+
+348
+00:23:59,021 --> 00:24:00,522
+Water is dirty.
+
+349
+00:24:02,274 --> 00:24:04,443
+It looks so pure, so clear.
+
+350
+00:24:05,402 --> 00:24:06,820
+But it is full of vileness.
+
+351
+00:24:08,280 --> 00:24:11,241
+What makes you think
+water is dirty?
+
+352
+00:24:11,241 --> 00:24:13,869
+My father told me so in Naples.
+
+353
+00:24:14,495 --> 00:24:18,374
+In Naples, perhaps,
+but now you're back in Vienna.
+
+354
+00:24:19,083 --> 00:24:21,585
+You drank water here
+until a few days ago.
+
+355
+00:24:22,169 --> 00:24:24,171
+Why did you stop drinking water?
+
+356
+00:24:26,131 --> 00:24:28,300
+The animal!
+
+357
+00:24:28,300 --> 00:24:29,301
+What animal?
+
+358
+00:24:29,760 --> 00:24:30,886
+Filthy!
+
+359
+00:24:31,971 --> 00:24:35,099
+Long black tongue, black nose!
+
+360
+00:24:36,392 --> 00:24:37,977
+Horrible!
+
+361
+00:24:39,937 --> 00:24:42,022
+Cecily, remember.
+
+362
+00:24:42,648 --> 00:24:44,817
+What kind of animal was it?
+
+363
+00:24:45,901 --> 00:24:48,153
+It was a dog. My dog.
+
+364
+00:24:48,153 --> 00:24:50,239
+Your dachshund, Schnapp?
+
+365
+00:24:50,239 --> 00:24:51,365
+Yes.
+
+366
+00:24:52,366 --> 00:24:55,244
+What did Schnapp do? Tell me.
+
+367
+00:24:55,911 --> 00:24:58,205
+You can see it happening now.
+
+368
+00:24:58,205 --> 00:25:02,001
+Schnapp is on my bed.
+At my tray.
+
+369
+00:25:02,001 --> 00:25:06,296
+He is drinking from my golden
+cup. Schnapp is defiling it.
+
+370
+00:25:07,798 --> 00:25:09,216
+The one that father gave me.
+
+371
+00:25:10,968 --> 00:25:15,264
+That nurse, mean, vicious
+creature, she let him do it.
+
+372
+00:25:15,806 --> 00:25:17,599
+| hate all nurses!
+
+373
+00:25:26,984 --> 00:25:27,985
+I'm thirsty.
+
+374
+00:25:30,237 --> 00:25:31,447
+So thirsty.
+
+375
+00:25:36,493 --> 00:25:38,954
+Sit up, Cecily. Sit up.
+
+376
+00:25:40,539 --> 00:25:41,749
+You can drink now.
+
+377
+00:25:43,208 --> 00:25:46,170
+Drink, Cecily.
+You will wake up drinking.
+
+378
+00:25:47,171 --> 00:25:50,007
+As you awaken,
+you will be drinking
+
+379
+00:25:50,007 --> 00:25:51,717
+and you will remember
+everything.
+
+380
+00:25:54,094 --> 00:25:55,095
+Wake up, Cecily.
+
+381
+00:26:07,775 --> 00:26:09,485
+Drink, my dear, drink.
+
+382
+00:26:12,529 --> 00:26:15,199
+Do you remember your dog
+drinking from your cup?
+
+383
+00:26:17,117 --> 00:26:18,869
+And I was so angry
+with the nurse.
+
+384
+00:26:20,329 --> 00:26:21,747
+Is that all there is to it?
+
+385
+00:26:35,469 --> 00:26:37,971
+Yes, Mama. I can drink again.
+
+386
+00:26:42,768 --> 00:26:44,978
+How do you reconcile this
+with Charcot's theory?
+
+387
+00:26:46,230 --> 00:26:48,148
+If her mind had been divided,
+
+388
+00:26:49,191 --> 00:26:51,151
+why would remembering
+the traumatic incident
+
+389
+00:26:51,151 --> 00:26:55,155
+relieve a symptom? The darkened
+part would produce wild ideas.
+
+390
+00:26:55,155 --> 00:26:57,658
+No. Charcot is mistaken.
+
+391
+00:26:57,658 --> 00:27:01,245
+Trauma doesn't divide the mind
+as an axe splits a log.
+
+392
+00:27:01,245 --> 00:27:03,872
+It only causes the memory
+of the incident
+
+393
+00:27:03,872 --> 00:27:05,666
+to be struck off
+from consciousness.
+
+394
+00:27:05,666 --> 00:27:07,709
+But how can unconscious memories
+create symptoms?
+
+395
+00:27:08,168 --> 00:27:10,587
+Because they are surrounded
+by emotions
+
+396
+00:27:10,587 --> 00:27:13,966
+that cannot find their natural
+outlet through consciousness.
+
+397
+00:27:15,008 --> 00:27:17,970
+If you are overcome by grief,
+you shed tears.
+
+398
+00:27:17,970 --> 00:27:20,264
+Angry, you strike a blow.
+Frightened, you run.
+
+399
+00:27:20,848 --> 00:27:23,684
+The emotion aroused in you is
+discharged in physical action.
+
+400
+00:27:24,560 --> 00:27:28,480
+But, what happens if the emotion
+is dammed up, strangulated?
+
+401
+00:27:29,398 --> 00:27:32,442
+There's fire in the fireplace,
+but the chimney is blocked.
+
+402
+00:27:33,318 --> 00:27:35,028
+The fire doesn't go out.
+It smolders,
+
+403
+00:27:35,028 --> 00:27:37,865
+and smoke fills the room,
+the entire house.
+
+404
+00:27:37,865 --> 00:27:41,076
+And finally, it leaks out
+through a pantry window.
+
+405
+00:27:42,202 --> 00:27:45,080
+A morbid symptom is only
+emotional energy
+
+406
+00:27:45,080 --> 00:27:46,248
+coming out the wrong place.
+
+407
+00:27:49,084 --> 00:27:50,669
+Freud, what do you think?
+
+408
+00:27:52,087 --> 00:27:54,464
+| think a door has been opened.
+
+409
+00:27:55,215 --> 00:27:58,177
+You've made a discovery
+as important as Pasteur's.
+
+410
+00:27:58,177 --> 00:28:02,764
+He isolated the germ, you've
+isolated the pathogenic memory.
+
+411
+00:28:02,764 --> 00:28:05,058
+Cecily's may be a unique case.
+
+412
+00:28:05,684 --> 00:28:08,187
+I'm rather inclined to think
+she's a classic case.
+
+413
+00:28:10,189 --> 00:28:11,982
+Would it be possible for you
+
+414
+00:28:11,982 --> 00:28:13,984
+to try out this method
+in the hospital?
+
+415
+00:28:16,486 --> 00:28:17,487
+Yes.
+
+416
+00:28:19,531 --> 00:28:21,158
+You row to the
+middle of the lake,
+
+417
+00:28:23,160 --> 00:28:24,161
+what happens then?
+
+418
+00:28:28,081 --> 00:28:30,918
+- I stand up.
+-Yes?
+
+419
+00:28:33,045 --> 00:28:35,839
+The boat rocks. I'm falling.
+
+420
+00:28:37,549 --> 00:28:41,511
+The boat turns over.
+I'm in the water.
+
+421
+00:28:41,511 --> 00:28:43,096
+My brother calls for help.
+
+422
+00:28:44,097 --> 00:28:47,476
+| swim around the boat,
+but I can't find him.
+
+423
+00:28:48,685 --> 00:28:51,396
+- My brother is gone.
+- Where is he?
+
+424
+00:28:51,396 --> 00:28:52,522
+Drowned.
+
+425
+00:28:54,775 --> 00:28:55,776
+The boat sinks!
+
+426
+00:28:57,361 --> 00:28:59,696
+- I swim for the shore.
+- You swim?
+
+427
+00:29:01,031 --> 00:29:02,282
+| swim.
+
+428
+00:29:06,536 --> 00:29:08,038
+What are you doing, Dr. Freud?
+
+429
+00:29:09,373 --> 00:29:10,916
+| order you to
+stop this at once.
+
+430
+00:29:11,458 --> 00:29:13,293
+Quiet, you fool.
+
+431
+00:29:14,253 --> 00:29:16,964
+In Professor Meynert's absence,
+| am in charge here.
+
+432
+00:29:16,964 --> 00:29:20,008
+- He doesn't approve hypnosis.
+- Damn you both.
+
+433
+00:29:22,010 --> 00:29:24,554
+| shall tell Meynert
+what you said.
+
+434
+00:29:25,430 --> 00:29:27,015
+I'll tell him myself.
+
+435
+00:29:46,118 --> 00:29:47,953
+What can I do for you,
+Herr Freud?
+
+436
+00:29:49,329 --> 00:29:50,539
+Professor Meynert,
+
+437
+00:29:51,331 --> 00:29:53,750
+did you give anyone authority
+to stop me practicing hypnosis?
+
+438
+00:29:55,669 --> 00:29:56,670
+Of course.
+
+439
+00:29:57,337 --> 00:29:59,715
+But the patient was
+from the general ward.
+
+440
+00:29:59,715 --> 00:30:01,133
+He wasn't from your department.
+
+441
+00:30:01,633 --> 00:30:02,634
+You are, Freud.
+
+442
+00:30:03,593 --> 00:30:06,221
+You realize you're forcing me to
+resign my post at the hospital.
+
+443
+00:30:06,847 --> 00:30:09,808
+You renounced science completely
+
+444
+00:30:09,808 --> 00:30:11,935
+the day you rejected my offer
+and went to Paris.
+
+445
+00:30:12,561 --> 00:30:14,479
+Paris, the path
+to fame and fortune.
+
+446
+00:30:15,355 --> 00:30:17,190
+Six easy lessons...
+A la Charcot.
+
+447
+00:30:18,108 --> 00:30:19,693
+How dare you say that?
+
+448
+00:30:20,444 --> 00:30:23,196
+How will you prevent it?
+You'll hypnotize me?
+
+449
+00:30:23,780 --> 00:30:25,407
+At my command, everyone asleep!
+
+450
+00:30:26,283 --> 00:30:28,618
+The blind at attention!
+You are ordered to see!
+
+451
+00:30:29,453 --> 00:30:32,205
+Paralytics, about turn!
+
+452
+00:30:32,205 --> 00:30:34,624
+Quick march one-two, one-two!
+
+453
+00:30:35,792 --> 00:30:39,004
+Heil, Sigmund Freud,
+the conquering here of neurosis.
+
+454
+00:30:40,172 --> 00:30:41,923
+As if you knew
+what a neurosis is.
+
+455
+00:30:43,258 --> 00:30:44,301
+As if your Charcot knew.
+
+456
+00:30:45,385 --> 00:30:48,096
+It's a way of making life
+possible and you rob them of it!
+
+457
+00:30:48,638 --> 00:30:51,266
+You would bring the
+light of understanding
+
+458
+00:30:51,266 --> 00:30:53,226
+into their poor benighted souls.
+
+459
+00:30:53,810 --> 00:30:56,396
+And the evil spirits will fly
+away when the cock crows.
+
+460
+00:30:57,898 --> 00:30:58,982
+Look.
+
+461
+00:31:07,866 --> 00:31:10,619
+Yes, scorpions.
+The fatal kind, from Mexico.
+
+462
+00:31:11,119 --> 00:31:12,662
+I'm testing the effects
+of their poison
+
+463
+00:31:12,662 --> 00:31:14,748
+on the nervous system
+of higher animals.
+
+464
+00:31:15,832 --> 00:31:16,833
+Charming little fellows.
+
+465
+00:31:18,085 --> 00:31:19,086
+Here's the sun test.
+
+466
+00:31:21,838 --> 00:31:23,048
+Well, Freud,
+
+467
+00:31:24,299 --> 00:31:25,842
+do you think light kills
+evil spirits?
+
+468
+00:31:26,802 --> 00:31:28,053
+| rather think it revives them.
+
+469
+00:31:29,554 --> 00:31:31,681
+If the box remains open,
+they'll run about everywhere.
+
+470
+00:31:32,766 --> 00:31:35,227
+The room... the world will be
+alive with them.
+
+471
+00:31:39,106 --> 00:31:40,482
+Back into darkness.
+
+472
+00:31:42,109 --> 00:31:43,151
+There you are.
+
+473
+00:31:43,985 --> 00:31:45,862
+Leave to the night
+what belongs to the night.
+
+474
+00:31:46,780 --> 00:31:49,199
+- Schnapps?
+- Thank you, I don't drink.
+
+475
+00:31:49,825 --> 00:31:53,412
+You don't drink. You'd be too
+afraid of letting yourself go.
+
+476
+00:31:54,037 --> 00:31:55,705
+What would let slip
+if you got drunk?
+
+477
+00:31:56,706 --> 00:31:59,835
+One takes every precaution.
+One walls oneself in.
+
+478
+00:32:01,086 --> 00:32:04,089
+| know what you are. I've been
+observing you for a long time.
+
+479
+00:32:04,923 --> 00:32:07,217
+| am certain that neurosis
+is lying in wait for you.
+
+480
+00:32:07,676 --> 00:32:08,677
+| know the symptoms.
+
+481
+00:32:09,678 --> 00:32:11,555
+| know why you're attracted
+by other people's madness,
+
+482
+00:32:11,555 --> 00:32:13,014
+because it makes you
+forget your own.
+
+483
+00:32:13,765 --> 00:32:15,225
+How would you like
+your old master
+
+484
+00:32:15,225 --> 00:32:16,893
+to be sick of hysteria
+a la Charcot?
+
+485
+00:32:17,352 --> 00:32:19,020
+How well you'd take care of him.
+
+486
+00:32:21,189 --> 00:32:23,692
+No luck.
+I'm as sound as an apple.
+
+487
+00:32:25,026 --> 00:32:27,612
+Goodbye, Freud.
+Leave and don't come back.
+
+488
+00:32:30,198 --> 00:32:32,033
+- How old are you?
+- 30.
+
+489
+00:32:34,161 --> 00:32:36,788
+| was the same age
+when I made my choice
+
+490
+00:32:36,788 --> 00:32:39,166
+between research
+and practicing medicine.
+
+491
+00:32:40,792 --> 00:32:44,629
+In time, you too could become
+a very successful practitioner.
+
+492
+00:32:45,797 --> 00:32:48,467
+Have your own carriage,
+vintage wines,
+
+493
+00:32:48,925 --> 00:32:50,135
+a brightly lighted house.
+
+494
+00:32:51,386 --> 00:32:53,305
+Not that I have any complaints.
+
+495
+00:32:53,305 --> 00:32:55,474
+I'm a better physician than |
+would have been a scientist.
+
+496
+00:32:55,515 --> 00:32:57,893
+Your paper on the vagus nerve
+is a classic.
+
+497
+00:32:58,477 --> 00:33:00,562
+And for that,
+unimportant as it is,
+
+498
+00:33:00,562 --> 00:33:03,982
+rather than for my powers
+as a healer I may be remembered.
+
+499
+00:33:05,775 --> 00:33:09,029
+That and my association
+with you,
+
+500
+00:33:09,613 --> 00:33:12,073
+perhaps, if you choose
+to devote yourself
+
+501
+00:33:12,073 --> 00:33:14,034
+to the study of hysteria.
+
+502
+00:33:14,034 --> 00:33:16,995
+How? I'll be lucky to eke out
+a living in general practice?
+
+503
+00:33:18,205 --> 00:33:19,206
+Hear me out.
+
+504
+00:33:20,165 --> 00:33:23,668
+This is my opportunity to put
+back into the bank of science
+
+505
+00:33:23,668 --> 00:33:26,421
+something more than
+the sum of talent I withdraw.
+
+506
+00:33:27,422 --> 00:33:30,550
+Let me endow us.
+Say 200 guilders a month,
+
+507
+00:33:31,176 --> 00:33:33,428
+and I'll send you
+my hysterical patients.
+
+508
+00:33:34,638 --> 00:33:36,681
+When the time comes,
+we'll publish our findings.
+
+509
+00:33:38,225 --> 00:33:40,519
+Studies on Hysteria,
+by Freud and Breuer.
+
+510
+00:33:44,773 --> 00:33:45,774
+Breuer and Freud.
+
+511
+00:33:46,233 --> 00:33:47,400
+And my wife said:
+
+512
+00:33:49,528 --> 00:33:51,154
+"I'm not jealous
+in the slightest,”
+
+513
+00:33:53,365 --> 00:33:56,034
+but I would like to know
+how you have the nerve
+
+514
+00:33:57,577 --> 00:34:00,455
+to play the ladies' man with
+other women in front of me
+
+515
+00:34:02,040 --> 00:34:05,835
+who knows from bitter experience
+that you're not a man at all...
+
+516
+00:34:09,756 --> 00:34:11,424
+It was like a slap in my face.
+
+517
+00:34:20,350 --> 00:34:21,351
+When you wake up,
+
+518
+00:34:22,477 --> 00:34:24,563
+you'll remember everything
+you've told me.
+
+519
+00:34:26,565 --> 00:34:27,566
+Everything.
+
+520
+00:34:30,026 --> 00:34:31,027
+Wake up.
+
+521
+00:34:35,532 --> 00:34:37,033
+Father has had his heart attack.
+
+522
+00:34:38,577 --> 00:34:40,412
+I'm sitting at his bedside.
+
+523
+00:34:42,038 --> 00:34:43,790
+It's a warm summer evening.
+
+524
+00:34:45,834 --> 00:34:46,876
+Window is open.
+
+525
+00:34:49,421 --> 00:34:50,422
+| hear music.
+
+526
+00:34:52,257 --> 00:34:53,258
+Dance music.
+
+527
+00:34:56,469 --> 00:34:58,638
+It's coming from a house
+across the street.
+
+528
+00:35:01,141 --> 00:35:02,726
+They are dancing on the terrace.
+
+529
+00:35:04,686 --> 00:35:06,062
+| love to dance.
+
+530
+00:35:07,063 --> 00:35:08,356
+| long to be with them.
+
+531
+00:35:10,483 --> 00:35:13,612
+How wicked of me when
+my poor father may be dying.
+
+532
+00:35:16,031 --> 00:35:17,407
+I'm a bad daughter.
+
+533
+00:35:19,701 --> 00:35:21,536
+| close the window to keep
+the music out.
+
+534
+00:35:22,787 --> 00:35:24,331
+Room becomes stifling.
+
+535
+00:35:25,665 --> 00:35:27,917
+| can't breathe.
+
+536
+00:35:29,544 --> 00:35:31,546
+| am going to wake you.
+
+537
+00:35:32,714 --> 00:35:33,965
+And when I do,
+
+538
+00:35:34,924 --> 00:35:37,677
+you'll be able to breathe
+normally again.
+
+539
+00:35:39,220 --> 00:35:40,221
+Wake up.
+
+540
+00:35:41,431 --> 00:35:43,350
+You'll remember
+everything you said.
+
+541
+00:35:44,809 --> 00:35:45,810
+Wake up.
+
+542
+00:35:56,946 --> 00:35:58,782
+Music coming through a window.
+
+543
+00:35:59,324 --> 00:36:00,825
+A wife's scornful words,
+
+544
+00:36:01,701 --> 00:36:04,913
+not cataclysms like railroad
+crashes and lightning bolts.
+
+545
+00:36:05,872 --> 00:36:08,291
+Yet all memory of them, too,
+was struck from consciousness.
+
+546
+00:36:10,251 --> 00:36:12,796
+Could there be
+a psychic mechanism
+
+547
+00:36:12,796 --> 00:36:15,924
+which defends the mind
+against intolerable memories
+
+548
+00:36:17,050 --> 00:36:20,136
+as lymph glands do the body
+against infection?
+
+549
+00:36:21,471 --> 00:36:22,806
+A mechanism of repression
+
+550
+00:36:23,807 --> 00:36:26,267
+which banishes such memories
+to the unconscious?
+
+551
+00:36:28,061 --> 00:36:29,270
+And locks the door.
+
+552
+00:36:38,780 --> 00:36:39,906
+Dr. Freud.
+
+553
+00:37:00,552 --> 00:37:02,220
+How do you do,
+Herr von Schlosser?
+
+554
+00:37:03,638 --> 00:37:04,639
+How do you do?
+
+555
+00:37:29,372 --> 00:37:31,708
+Heine, Beaudelaire, Rambeau.
+
+556
+00:37:33,626 --> 00:37:34,627
+You like poetry?
+
+557
+00:37:36,212 --> 00:37:37,213
+Yes, very much.
+
+558
+00:37:39,215 --> 00:37:40,592
+Do you write verse yourself?
+
+559
+00:37:42,552 --> 00:37:43,762
+| try.
+
+560
+00:37:46,556 --> 00:37:49,434
+| cannot find the rhymes.
+
+561
+00:37:51,519 --> 00:37:52,520
+Thank you.
+
+562
+00:37:55,690 --> 00:37:56,900
+Your tunic?
+
+563
+00:37:57,942 --> 00:38:01,404
+No. It was my father's
+when he was my age.
+
+564
+00:38:02,363 --> 00:38:03,573
+A captain in the Hussars.
+
+565
+00:38:04,908 --> 00:38:09,913
+You can see the rent from a
+saber at the Battle of Custoza.
+
+566
+00:38:12,332 --> 00:38:13,917
+Why do you have it on display?
+
+567
+00:38:17,003 --> 00:38:19,714
+- I'm proud of my father.
+- And yet you attacked him.
+
+568
+00:38:23,843 --> 00:38:24,844
+Yes.
+
+569
+00:38:26,221 --> 00:38:27,806
+And without reason.
+
+570
+00:38:30,558 --> 00:38:31,643
+| must be going mad.
+
+571
+00:38:34,479 --> 00:38:36,356
+Are you going to put me
+in an asylum?
+
+572
+00:38:38,066 --> 00:38:39,234
+Because...
+
+573
+00:38:41,402 --> 00:38:42,779
+Because I shall
+kill myself first.
+
+574
+00:38:47,200 --> 00:38:48,243
+Sit down, would you?
+
+575
+00:38:49,536 --> 00:38:51,788
+There's nothing to be afraid of.
+I'm here to help you.
+
+576
+00:38:53,373 --> 00:38:54,374
+Sit down.
+
+577
+00:39:03,800 --> 00:39:04,801
+Herr Von Schlosser,
+
+578
+00:39:05,677 --> 00:39:08,429
+| want to concentrate
+all your attention
+
+579
+00:39:08,429 --> 00:39:10,014
+on the end of this cigarette.
+
+580
+00:39:11,391 --> 00:39:12,559
+Relax.
+
+581
+00:39:14,018 --> 00:39:15,144
+That's it.
+
+582
+00:39:16,938 --> 00:39:18,398
+I'm going to put you to sleep.
+
+583
+00:39:20,400 --> 00:39:22,110
+Your eyelids are getting heavy.
+
+584
+00:39:24,571 --> 00:39:29,117
+I'm going to count from five to
+one and your eyes will close.
+
+585
+00:39:29,701 --> 00:39:31,870
+Five, four,
+
+586
+00:39:32,745 --> 00:39:34,414
+three, two,
+
+587
+00:39:36,332 --> 00:39:38,918
+one.
+
+588
+00:39:38,918 --> 00:39:40,128
+You're asleep.
+
+589
+00:39:40,879 --> 00:39:44,132
+You're going into a deep,
+deep sleep.
+
+590
+00:39:50,597 --> 00:39:52,056
+It's the day of the incident.
+
+591
+00:39:52,724 --> 00:39:54,350
+You and your
+father are at a table.
+
+592
+00:39:55,768 --> 00:39:56,895
+What are you doing?
+
+593
+00:40:05,820 --> 00:40:08,281
+I'm... watching his hands.
+
+594
+00:40:10,116 --> 00:40:13,328
+- He is carving meat.
+-Yes?
+
+595
+00:40:15,955 --> 00:40:17,123
+The knife flashes.
+
+596
+00:40:20,752 --> 00:40:23,379
+He looks with hatred
+at me across the table.
+
+597
+00:40:25,548 --> 00:40:27,216
+His eyes flash like the knife.
+
+598
+00:40:29,719 --> 00:40:32,096
+He would like to draw the knife
+across my throat.
+
+599
+00:40:34,682 --> 00:40:38,645
+| stare back at him,
+holding his eyes.
+
+600
+00:40:42,732 --> 00:40:45,485
+My look is a challenge.
+
+601
+00:40:48,112 --> 00:40:49,489
+It enrages him.
+
+602
+00:40:53,785 --> 00:40:54,953
+He's going to strike.
+
+603
+00:40:57,246 --> 00:40:58,748
+It is he or I.
+
+604
+00:41:03,753 --> 00:41:06,047
+| strike first.
+
+605
+00:41:12,303 --> 00:41:14,681
+I'll bleed you,
+you filthy swine!
+
+606
+00:41:15,640 --> 00:41:17,392
+Why do you call
+your father a swine?
+
+607
+00:41:20,770 --> 00:41:22,021
+He raped a young girl.
+
+608
+00:41:23,773 --> 00:41:25,483
+He? Your father?
+
+609
+00:41:27,443 --> 00:41:30,530
+- A girl of 17. Every night.
+- What girl?
+
+610
+00:41:34,200 --> 00:41:35,201
+My mother.
+
+611
+00:42:13,072 --> 00:42:14,073
+Mother.
+
+612
+00:42:28,629 --> 00:42:30,923
+You'll remember nothing of this
+when you wake.
+
+613
+00:42:31,883 --> 00:42:33,676
+Nothing, I'm going to wake you.
+
+614
+00:42:34,886 --> 00:42:37,180
+One, two, three, four, five.
+Wake up!
+
+615
+00:42:38,097 --> 00:42:40,433
+<i>Eyes open! Wide awake!</i>
+
+616
+00:42:46,189 --> 00:42:47,231
+Dr. Freud!
+
+617
+00:42:48,191 --> 00:42:49,192
+Dr. Freud!
+
+618
+00:45:06,120 --> 00:45:07,121
+Mother.
+
+619
+00:45:08,539 --> 00:45:09,874
+Mother.
+
+620
+00:45:09,874 --> 00:45:12,668
+No, dear, it's Martha.
+Your wife.
+
+621
+00:45:22,345 --> 00:45:23,346
+Sigi?
+
+622
+00:45:24,138 --> 00:45:27,016
+Sigi. Dr. Breuer is here.
+
+623
+00:45:27,683 --> 00:45:28,684
+Breuer.
+
+624
+00:45:30,436 --> 00:45:32,146
+This is an honor.
+
+625
+00:45:32,146 --> 00:45:34,690
+| was making a call nearby
+and thought I'd stop in.
+
+626
+00:45:34,690 --> 00:45:36,150
+What've you been doing
+with yourself?
+
+627
+00:45:36,692 --> 00:45:39,612
+Between patients
+and chess problems,
+
+628
+00:45:39,612 --> 00:45:41,614
+another article
+for the Neurological Journal.
+
+629
+00:45:45,243 --> 00:45:47,995
+"On the Origin
+of the Acoustic Nerve".
+
+630
+00:45:48,996 --> 00:45:50,122
+But this is pure anatomy.
+
+631
+00:45:50,873 --> 00:45:54,293
+It's good to be back with
+experimentally proven facts.
+
+632
+00:45:54,710 --> 00:45:57,922
+| was homesick for neurology
+and I didn't know it.
+
+633
+00:45:58,631 --> 00:46:00,633
+What about Studies on Hysteria?
+
+634
+00:46:01,717 --> 00:46:04,303
+The discovery is yours.
+| contributed nothing.
+
+635
+00:46:04,303 --> 00:46:06,097
+There's no reason
+you should share the credit.
+
+636
+00:46:09,308 --> 00:46:12,895
+You look a bit peaked.
+How's his appetite, Martha?
+
+637
+00:46:13,562 --> 00:46:14,563
+He eats hardly anything.
+
+638
+00:46:15,314 --> 00:46:17,024
+Sleeping properly?
+
+639
+00:46:17,024 --> 00:46:18,484
+Tosses all night, and cries out.
+
+640
+00:46:20,611 --> 00:46:23,781
+I'm going to examine him
+here and now.
+
+641
+00:46:26,242 --> 00:46:28,452
+- Sit down. Open your shirt.
+- No.
+
+642
+00:46:30,288 --> 00:46:33,249
+No. There's nothing wrong
+with me, I assure you.
+
+643
+00:46:39,088 --> 00:46:40,089
+What is it then?
+
+644
+00:46:40,673 --> 00:46:43,467
+| understand you gave up
+Fraulein Wolf's case.
+
+645
+00:46:43,467 --> 00:46:44,677
+Yes.
+
+646
+00:46:44,677 --> 00:46:46,262
+And Herr Brenner and Frau Jonas.
+
+647
+00:46:46,262 --> 00:46:49,098
+- Yes.
+- Surely they weren't all cured?
+
+648
+00:46:50,099 --> 00:46:54,729
+| couldn't go on prescribing
+cold baths and massage.
+
+649
+00:46:55,980 --> 00:46:58,733
+I'm surprised
+at your prescribing them at all.
+
+650
+00:46:59,483 --> 00:47:02,278
+- What else is there?
+- Need you ask?
+
+651
+00:47:03,195 --> 00:47:05,031
+You should see
+the Koertner girl.
+
+652
+00:47:05,031 --> 00:47:06,991
+She's living proof
+of the effectiveness
+
+653
+00:47:06,991 --> 00:47:08,409
+of our hypnotic method.
+
+654
+00:47:09,994 --> 00:47:11,037
+Tell me, Freud,
+
+655
+00:47:12,496 --> 00:47:14,665
+when was the last time
+you hypnotized a patient?
+
+656
+00:47:17,585 --> 00:47:20,212
+I... I don't remember.
+
+657
+00:47:21,380 --> 00:47:22,506
+Which case was it?
+
+658
+00:47:23,382 --> 00:47:25,134
+Eh... Which...?
+
+659
+00:47:27,094 --> 00:47:28,095
+| know. It was...
+
+660
+00:47:29,138 --> 00:47:31,515
+It was the son of a general.
+His name escapes me.
+
+661
+00:47:31,932 --> 00:47:35,519
+- You never told me about him.
+- There's a little to tell.
+
+662
+00:47:35,519 --> 00:47:37,313
+| saw him once.
+He was psychotic.
+
+663
+00:47:37,313 --> 00:47:38,689
+| was forced to commit him.
+
+664
+00:47:39,398 --> 00:47:42,985
+I'd like to know, why did you
+stop in the middle of our work?
+
+665
+00:47:44,195 --> 00:47:45,237
+Meynert said,
+
+666
+00:47:46,155 --> 00:47:48,282
+"It's better to keep scorpions
+locked up in darkness."
+
+667
+00:47:49,283 --> 00:47:50,534
+I'm forced to agree with him.
+
+668
+00:47:55,039 --> 00:47:58,084
+You were making such strides
+forward, giant strides.
+
+669
+00:48:01,087 --> 00:48:03,422
+Did you know Meynert
+had a heart attack?
+
+670
+00:48:04,423 --> 00:48:06,384
+| was called in yesterday
+on consultation.
+
+671
+00:48:12,056 --> 00:48:13,057
+Will he recover?
+
+672
+00:48:14,183 --> 00:48:15,351
+Matter of weeks or days.
+
+673
+00:48:16,811 --> 00:48:19,772
+- Should I give him any message?
+- No.
+
+674
+00:48:23,109 --> 00:48:26,570
+Well, I must be on my way.
+I've calls to make.
+
+675
+00:48:26,570 --> 00:48:27,571
+Martha.
+
+676
+00:48:30,449 --> 00:48:33,619
+There's nothing wrong
+with him physically.
+
+677
+00:48:33,619 --> 00:48:34,703
+Thank heaven.
+
+678
+00:48:35,246 --> 00:48:37,581
+- How is Mathilda?
+- Very well, thank you.
+
+679
+00:48:37,581 --> 00:48:40,584
+She's been after me
+to take a holiday.
+
+680
+00:48:40,626 --> 00:48:43,879
+| can't even get Sigmund away
+for an afternoon in the country.
+
+681
+00:48:43,879 --> 00:48:46,132
+That's the penalty for being
+a doctor's wife.
+
+682
+00:48:46,966 --> 00:48:48,592
+Let me hear from you.
+
+683
+00:48:57,560 --> 00:48:59,186
+You sent for him, didn't you?
+
+684
+00:49:00,104 --> 00:49:01,188
+Didn't you?
+
+685
+00:49:01,772 --> 00:49:04,400
+Yes. I thought you might be ill.
+
+686
+00:49:05,443 --> 00:49:09,155
+What is it? I can't bear
+to see you so unhappy.
+
+687
+00:49:09,155 --> 00:49:11,407
+- Won't you tell me?
+- There's nothing wrong with me.
+
+688
+00:49:17,413 --> 00:49:18,414
+For Dr. Freud.
+
+689
+00:49:21,959 --> 00:49:25,254
+Sigi, a coachman is waiting.
+
+690
+00:49:37,683 --> 00:49:39,185
+Professor Meynert.
+What does he want?
+
+691
+00:49:40,561 --> 00:49:43,147
+He's critically ill.
+Breuer just told me.
+
+692
+00:49:44,648 --> 00:49:47,526
+The arrogance of the man.
+"Come immediately".
+
+693
+00:49:48,736 --> 00:49:49,904
+He's dying, Sigi.
+
+694
+00:49:52,823 --> 00:49:54,867
+How amazed he must be
+at the thought.
+
+695
+00:49:56,702 --> 00:49:59,163
+He always took himself
+for Jehovah.
+
+696
+00:50:09,089 --> 00:50:10,090
+Freud?
+
+697
+00:50:11,258 --> 00:50:12,259
+Come in.
+
+698
+00:50:17,139 --> 00:50:18,265
+Closer.
+
+699
+00:50:18,933 --> 00:50:20,100
+Come closer.
+
+700
+00:50:22,436 --> 00:50:25,272
+I've read all your pieces
+in the Neurological Journal.
+
+701
+00:50:26,315 --> 00:50:29,568
+Your style has become
+more sober, less belligerent.
+
+702
+00:50:31,070 --> 00:50:33,113
+You've learned how
+to set forth your views
+
+703
+00:50:33,113 --> 00:50:34,240
+without wounding anyone.
+
+704
+00:50:35,699 --> 00:50:38,536
+In short, they're fit
+for the waste basket.
+
+705
+00:50:39,161 --> 00:50:41,455
+- If you asked me here...
+- Spare a dying man.
+
+706
+00:50:42,998 --> 00:50:46,210
+Breuer says that you've
+given up the idea
+
+707
+00:50:46,210 --> 00:50:48,295
+of proving the
+existence of hysteria.
+
+708
+00:50:49,213 --> 00:50:50,214
+A pity.
+
+709
+00:50:50,631 --> 00:50:52,424
+| could have settled
+the question
+
+710
+00:50:52,424 --> 00:50:54,593
+by presenting you with
+a classic case.
+
+711
+00:50:56,595 --> 00:50:57,596
+Who?
+
+712
+00:50:58,847 --> 00:51:00,182
+Myself.
+
+713
+00:51:01,559 --> 00:51:03,269
+| have a whole complex
+of symptoms.
+
+714
+00:51:04,353 --> 00:51:08,732
+Migraines, night terrors,
+even paralysis.
+
+715
+00:51:09,817 --> 00:51:12,111
+Remember how I carried my right
+hand-thumb
+
+716
+00:51:12,111 --> 00:51:13,946
+hooked around a waistcoat button
+
+717
+00:51:14,446 --> 00:51:16,323
+as though I was having
+my portrait painted?
+
+718
+00:51:17,491 --> 00:51:19,034
+You never suspected, did you?
+
+719
+00:51:21,078 --> 00:51:24,081
+Did you know this when you
+drove me away from your clinic?
+
+720
+00:51:24,873 --> 00:51:28,502
+| knew it before Charcot.
+I've known it for 20 years.
+
+721
+00:51:29,003 --> 00:51:33,424
+And yet you held me up to
+ridicule before our colleagues?
+
+722
+00:51:35,009 --> 00:51:37,553
+Ham was accursed by his father
+for seeing him naked.
+
+723
+00:51:41,140 --> 00:51:42,766
+You're my spiritual son.
+
+724
+00:51:45,853 --> 00:51:49,315
+I'm not sleeping.
+I'm gathering my energies.
+
+725
+00:51:51,400 --> 00:51:53,277
+Sit down. Don't interrupt.
+
+726
+00:52:01,285 --> 00:52:02,703
+Neurotics form a brotherhood.
+
+727
+00:52:03,871 --> 00:52:05,956
+They learn to recognize each
+other as I did you.
+
+728
+00:52:07,666 --> 00:52:10,586
+They have only one rule: Silence
+in the presence of the enemy.
+
+729
+00:52:11,754 --> 00:52:12,755
+Our common enemy,
+
+730
+00:52:13,922 --> 00:52:16,508
+the normal people who would
+knock our deformities,
+
+731
+00:52:16,508 --> 00:52:17,509
+torment and degrade us.
+
+732
+00:52:18,802 --> 00:52:20,429
+You belong to the brotherhood.
+
+733
+00:52:21,680 --> 00:52:24,058
+| feared you because you seemed
+determined to betray us.
+
+734
+00:52:25,184 --> 00:52:27,019
+So I did what I could
+to discredit you.
+
+735
+00:52:28,604 --> 00:52:29,938
+My life has been a sham.
+
+736
+00:52:30,898 --> 00:52:32,650
+| misused my talents,
+
+737
+00:52:33,317 --> 00:52:35,069
+hiding the truth
+even from myself.
+
+738
+00:52:36,111 --> 00:52:37,821
+| suppressed my real being.
+
+739
+00:52:39,114 --> 00:52:40,115
+The result,
+
+740
+00:52:41,200 --> 00:52:44,953
+I'm dying in a state of pride
+and ignorance.
+
+741
+00:52:46,205 --> 00:52:47,456
+| don't know who I am.
+
+742
+00:52:48,457 --> 00:52:50,918
+It's not I who lived my life,
+but another,
+
+743
+00:52:52,002 --> 00:52:53,837
+the creation of my vanity.
+
+744
+00:52:56,382 --> 00:52:59,510
+Break the silence.
+Do what you set out to do.
+
+745
+00:53:00,594 --> 00:53:02,971
+Betray us. We need a traitor.
+
+746
+00:53:03,931 --> 00:53:07,434
+Go to the heart of our darkness.
+Hunt out the dragon.
+
+747
+00:53:09,812 --> 00:53:13,816
+Angels and saints slay dragons.
+| am neither.
+
+748
+00:53:14,274 --> 00:53:16,860
+If you lack the strength,
+make a pact with the Devil.
+
+749
+00:53:17,736 --> 00:53:19,780
+What a splendid thing
+to descend to hell
+
+750
+00:53:19,780 --> 00:53:21,490
+and light your torch
+from its fires?
+
+751
+00:53:23,242 --> 00:53:24,326
+Farewell.
+
+752
+00:53:27,454 --> 00:53:28,622
+Farewell.
+
+753
+00:55:01,965 --> 00:55:04,426
+Yes? What is it?
+
+754
+00:55:05,093 --> 00:55:08,347
+| would like to speak
+to His Excellency, the General.
+
+755
+00:55:09,431 --> 00:55:10,557
+This house is closed.
+
+756
+00:55:11,391 --> 00:55:13,519
+His Excellency is living
+in Salzburg now.
+
+757
+00:55:14,436 --> 00:55:15,687
+And his son Carl?
+
+758
+00:55:17,564 --> 00:55:19,024
+Herr Carl is dead.
+
+759
+00:55:21,652 --> 00:55:22,653
+He's dead?
+
+760
+00:55:24,488 --> 00:55:28,659
+Yes, he died of
+pneumonia six months ago.
+
+761
+00:55:32,746 --> 00:55:35,874
+- Did he die here?
+- No.
+
+762
+00:55:36,625 --> 00:55:37,668
+Where?
+
+763
+00:55:39,044 --> 00:55:40,295
+In an asylum?
+
+764
+00:55:41,213 --> 00:55:44,424
+Yes, if it's
+any business of yours.
+
+765
+00:55:52,808 --> 00:55:54,142
+God, no...
+
+766
+00:56:01,275 --> 00:56:03,193
+Forgive me, Carl.
+
+767
+00:56:17,291 --> 00:56:19,001
+What an unpredictable fellow
+you are.
+
+768
+00:56:19,960 --> 00:56:22,838
+You divorce yourself from
+psychology for an entire year,
+
+769
+00:56:23,463 --> 00:56:25,465
+then, two weeks
+after taking it up again.
+
+770
+00:56:25,465 --> 00:56:27,801
+You formulate a general
+theory of neurosis.
+
+771
+00:56:29,094 --> 00:56:31,972
+That on the basis of a single
+experience, your own.
+
+772
+00:56:32,848 --> 00:56:36,143
+No, Breuer. On the basis
+of all the cases we've observed.
+
+773
+00:56:37,644 --> 00:56:40,105
+For instance,
+about Greta Hubner?
+
+774
+00:56:41,565 --> 00:56:44,693
+Music come through the window
+of her dying father's room.
+
+775
+00:56:45,444 --> 00:56:48,697
+She longs to be moving
+to its rhythm in a man's arms.
+
+776
+00:56:49,323 --> 00:56:51,158
+Certainly sexual associations
+
+777
+00:56:51,158 --> 00:56:52,868
+can be found in almost
+every case,
+
+778
+00:56:54,077 --> 00:56:55,621
+if you look for them
+hard enough.
+
+779
+00:56:56,121 --> 00:57:00,250
+I'm not denying the importance
+of sexuality in all our lives
+
+780
+00:57:00,250 --> 00:57:02,586
+as a contributing factor,
+but you'll never convince me
+
+781
+00:57:02,628 --> 00:57:04,338
+it's the one
+and only cause of neurosis.
+
+782
+00:57:05,339 --> 00:57:08,550
+This theory is based on facts.
+
+783
+00:57:09,885 --> 00:57:11,136
+We pursued it together.
+
+784
+00:57:11,803 --> 00:57:14,139
+Now when you see where it's
+leading, you shrink from it.
+
+785
+00:57:16,141 --> 00:57:19,478
+I've been practicing medicine
+for over 15 years.
+
+786
+00:57:19,478 --> 00:57:22,272
+Listening to secrets of the
+bedchamber is a routine chore.
+
+787
+00:57:22,272 --> 00:57:23,523
+Don't take me for a prude.
+
+788
+00:57:24,232 --> 00:57:25,984
+Repression works
+in the unconscious.
+
+789
+00:57:26,652 --> 00:57:28,236
+Against what?
+
+790
+00:57:28,236 --> 00:57:30,155
+Against an instinct
+that nature has given us?
+
+791
+00:57:30,697 --> 00:57:32,074
+Is nature at war with herself?
+
+792
+00:57:32,908 --> 00:57:36,662
+At war with our society
+which would collapse in a day
+
+793
+00:57:36,662 --> 00:57:38,705
+if sexuality were allowed
+free expression.
+
+794
+00:57:39,414 --> 00:57:42,376
+My concern is not
+with the mores of society.
+
+795
+00:57:42,376 --> 00:57:44,044
+I'm a physician.
+
+796
+00:57:44,044 --> 00:57:45,837
+In my mind, facts take
+precedence over theory.
+
+797
+00:57:46,630 --> 00:57:49,216
+The emotional conflicts
+of many of my patients
+
+798
+00:57:49,216 --> 00:57:51,343
+are not sexual in origin.
+That's that.
+
+799
+00:57:52,511 --> 00:57:53,512
+Which patients?
+
+800
+00:57:55,347 --> 00:57:56,431
+Cecily, for one.
+
+801
+00:57:57,265 --> 00:58:00,185
+You'd be hard put to unearth
+an erotic element in her case.
+
+802
+00:58:01,561 --> 00:58:03,689
+Maybe you haven't
+gone far enough.
+
+803
+00:58:04,481 --> 00:58:06,441
+She's completely unaware of
+herself as a woman.
+
+804
+00:58:06,441 --> 00:58:07,484
+Her body's asleep.
+
+805
+00:58:08,819 --> 00:58:13,407
+If this is your challenge to my
+theory, could I see her again?
+
+806
+00:58:16,243 --> 00:58:17,828
+| don't suppose
+it would do any harm.
+
+807
+00:58:18,704 --> 00:58:21,581
+Cecily, I want you to try again.
+
+808
+00:58:22,874 --> 00:58:25,752
+Think back to the first time you
+had trouble with your vision.
+
+809
+00:58:26,795 --> 00:58:27,796
+When was it?
+
+810
+00:58:29,172 --> 00:58:30,173
+| don't remember.
+
+811
+00:58:31,675 --> 00:58:32,676
+You angry with me?
+
+812
+00:58:34,428 --> 00:58:35,429
+Never, Cecily.
+
+813
+00:58:36,138 --> 00:58:38,807
+How could I be? Now...
+
+814
+00:58:39,725 --> 00:58:41,435
+Where were you when
+you had trouble seeing
+
+815
+00:58:41,435 --> 00:58:42,436
+for the first time?
+
+816
+00:58:44,312 --> 00:58:46,648
+Italy, Naples.
+
+817
+00:58:48,567 --> 00:58:49,735
+In that place.
+
+818
+00:58:50,736 --> 00:58:51,737
+Which place?
+
+819
+00:58:55,407 --> 00:58:58,577
+- Hospital, they took me there.
+- What for?
+
+820
+00:59:00,829 --> 00:59:02,039
+To identify...
+
+821
+00:59:03,707 --> 00:59:04,875
+his body.
+
+822
+00:59:06,460 --> 00:59:08,336
+What time did your father die?
+
+823
+00:59:09,463 --> 00:59:10,589
+One o'clock in the morning.
+
+824
+00:59:11,631 --> 00:59:12,632
+Where were you then?
+
+825
+00:59:13,175 --> 00:59:15,844
+| was in my hotel room, alone.
+
+826
+00:59:19,389 --> 00:59:21,767
+They woke me
+with their knocking on the door.
+
+827
+00:59:21,767 --> 00:59:24,227
+Louder. Louder.
+
+828
+00:59:27,814 --> 00:59:29,691
+| thought they'd break down
+the door!
+
+829
+00:59:29,691 --> 00:59:30,692
+Who, Cecily?
+
+830
+00:59:33,111 --> 00:59:34,488
+The doctors.
+
+831
+00:59:36,239 --> 00:59:38,784
+They came to tell me
+about my father.
+
+832
+00:59:42,829 --> 00:59:44,623
+Breuer...
+
+833
+00:59:44,623 --> 00:59:47,125
+Doctors leaving the hospital
+to report a death?
+
+834
+00:59:49,961 --> 00:59:51,505
+Go on, my child.
+
+835
+00:59:52,130 --> 00:59:54,382
+They told me they came
+to take me to the hospital.
+
+836
+01:00:24,913 --> 01:00:27,582
+They took me down
+the hall to his room.
+
+837
+01:00:28,792 --> 01:00:32,963
+They were playing music
+for the patients.
+
+838
+01:00:34,089 --> 01:00:35,090
+| couldn't bear it!
+
+839
+01:00:38,218 --> 01:00:39,845
+There were other doctors there.
+
+840
+01:00:42,722 --> 01:00:46,476
+One of them said that
+my father was dead.
+
+841
+01:00:53,525 --> 01:00:55,610
+There were nurses
+who were staring at me.
+
+842
+01:00:56,444 --> 01:00:58,238
+They looked so funny.
+
+843
+01:00:59,239 --> 01:01:01,116
+The other doctors
+were staring too.
+
+844
+01:01:02,826 --> 01:01:04,202
+“Look at him", they said.
+
+845
+01:01:05,203 --> 01:01:06,663
+"Is this your father?"
+
+846
+01:01:08,373 --> 01:01:09,541
+I couldn't look.
+
+847
+01:01:11,501 --> 01:01:12,627
+| couldn't.
+
+848
+01:01:18,258 --> 01:01:19,426
+Cecily...
+
+849
+01:01:20,510 --> 01:01:21,553
+I'm going to wake you.
+
+850
+01:01:23,972 --> 01:01:26,766
+You'll remember everything
+you told me.
+
+851
+01:01:27,934 --> 01:01:28,935
+When you are awake,
+
+852
+01:01:29,728 --> 01:01:31,938
+your lovely eyes will be able
+to see clearly again.
+
+853
+01:01:34,107 --> 01:01:37,652
+Wake up, Cecily. Wake up. Now.
+
+854
+01:01:44,868 --> 01:01:46,786
+You remember
+what happened in the hospital.
+
+855
+01:01:48,496 --> 01:01:49,915
+Now you can see, can't you?
+
+856
+01:02:07,140 --> 01:02:08,183
+There, there, Cecily.
+
+857
+01:02:09,392 --> 01:02:12,896
+It all... takes time.
+
+858
+01:02:14,648 --> 01:02:15,982
+We'll try again another day.
+
+859
+01:02:18,652 --> 01:02:21,071
+I'll just put you back to sleep
+to calm you.
+
+860
+01:02:22,280 --> 01:02:23,406
+Sleep, Cecily.
+
+861
+01:02:24,699 --> 01:02:26,785
+You are deeply asleep now.
+
+862
+01:02:27,494 --> 01:02:28,662
+At peace.
+
+863
+01:02:31,831 --> 01:02:36,044
+Breuer, I'd like to ask her
+a few questions.
+
+864
+01:02:36,461 --> 01:02:40,090
+These sessions are very tiring.
+We mustn't overdo it.
+
+865
+01:02:40,090 --> 01:02:42,342
+But she's so close
+to the memory.
+
+866
+01:02:45,136 --> 01:02:47,305
+- Very well.
+- Thank you.
+
+867
+01:02:49,599 --> 01:02:50,934
+Cecily,
+
+868
+01:02:51,393 --> 01:02:53,853
+you'll be able to hear
+Dr. Freud.
+
+869
+01:02:53,895 --> 01:02:55,146
+He's going to question you.
+
+870
+01:02:57,315 --> 01:03:00,485
+Because I ask you to,
+you'll answer Dr. Freud.
+
+871
+01:03:03,196 --> 01:03:06,241
+Cecily,
+you're going back in time.
+
+872
+01:03:06,783 --> 01:03:08,159
+Back in time.
+
+873
+01:03:09,077 --> 01:03:12,914
+You're in Naples,
+in your room, at the hotel.
+
+874
+01:03:13,456 --> 01:03:14,791
+It's night time.
+
+875
+01:03:15,875 --> 01:03:17,961
+There's a knock at the door.
+
+876
+01:03:19,546 --> 01:03:20,547
+What do you do?
+
+877
+01:03:21,589 --> 01:03:24,217
+| get up. I light the lamp.
+
+878
+01:03:25,260 --> 01:03:26,261
+I open the door.
+
+879
+01:03:27,178 --> 01:03:29,848
+You open the door,
+without knowing who's outside?
+
+880
+01:03:30,390 --> 01:03:31,850
+But I know they're doctors.
+
+881
+01:03:32,309 --> 01:03:35,895
+How do you know? Are you sure?
+
+882
+01:03:36,563 --> 01:03:38,356
+- Are they saying anything?
+- Yes.
+
+883
+01:03:38,982 --> 01:03:42,152
+- Yes!
+- What are they saying?
+
+884
+01:03:42,736 --> 01:03:46,865
+- Police! Open the door!
+- What happens now?
+
+885
+01:03:47,324 --> 01:03:48,325
+Gently, Freud.
+
+886
+01:03:49,492 --> 01:03:50,535
+What happened?
+
+887
+01:03:51,202 --> 01:03:53,621
+They take me to the hospital.
+
+888
+01:03:53,621 --> 01:03:56,374
+Tell me about the nurses.
+You said they were strange.
+
+889
+01:03:58,251 --> 01:03:59,461
+Their dresses...
+
+890
+01:04:00,253 --> 01:04:03,214
+In Italian hospitals,
+nuns take care of the patients.
+
+891
+01:04:04,632 --> 01:04:07,385
+- It's a protestant hospital.
+- In Naples?
+
+892
+01:04:08,261 --> 01:04:10,555
+- Yes.
+- And they play music?
+
+893
+01:04:11,181 --> 01:04:13,266
+Yes, and it's horrible!
+
+894
+01:04:13,266 --> 01:04:14,893
+In a protestant hospital
+
+895
+01:04:14,893 --> 01:04:16,770
+they played music
+after midnight?
+
+896
+01:04:16,770 --> 01:04:18,980
+Yes, to insult my father!
+
+897
+01:04:18,980 --> 01:04:22,734
+You're not in a hospital.
+Where are you?
+
+898
+01:04:22,734 --> 01:04:24,194
+| told you.
+
+899
+01:04:24,194 --> 01:04:26,321
+You're not in a hospital,
+where are you?
+
+900
+01:04:27,989 --> 01:04:30,158
+It's a brothel! It's a brothel!
+
+901
+01:04:40,960 --> 01:04:43,713
+- My child, you can't...
+- What happens then?
+
+902
+01:04:45,298 --> 01:04:46,424
+What happens?
+
+903
+01:04:47,300 --> 01:04:48,551
+They take me to the room...
+
+904
+01:04:56,643 --> 01:04:58,395
+where woman
+are standing around the bed.
+
+905
+01:04:59,562 --> 01:05:03,817
+| hate them! I can see
+the one who killed him!
+
+906
+01:05:04,818 --> 01:05:07,529
+- How did she kill him?
+- With lust.
+
+907
+01:05:09,280 --> 01:05:10,490
+He died in her arms.
+
+908
+01:05:15,370 --> 01:05:16,955
+They are forcing me
+to look at him.
+
+909
+01:05:18,623 --> 01:05:21,793
+"Is this your father?
+Do you recognize him?"
+
+910
+01:05:24,838 --> 01:05:25,839
+| won't look.
+
+911
+01:05:27,006 --> 01:05:28,216
+They force me.
+
+912
+01:05:32,637 --> 01:05:34,347
+There's lipstick on his mouth.
+
+913
+01:05:34,347 --> 01:05:36,891
+That's enough.
+I'm going to awake you.
+
+914
+01:05:37,350 --> 01:05:39,769
+- Just a minute.
+- She is still my patient.
+
+915
+01:05:39,769 --> 01:05:40,812
+| know.
+
+916
+01:05:41,729 --> 01:05:44,899
+You are in Vienna now.
+
+917
+01:05:46,234 --> 01:05:49,779
+And when you awake, you'll
+remember what you've said.
+
+918
+01:05:51,739 --> 01:05:54,284
+Cecily, wake up.
+
+919
+01:06:09,757 --> 01:06:10,758
+| can see!
+
+920
+01:06:13,720 --> 01:06:14,929
+| can see!
+
+921
+01:06:16,723 --> 01:06:19,017
+Clearly! Clearly!
+
+922
+01:06:23,188 --> 01:06:24,272
+What have I said?
+
+923
+01:06:25,940 --> 01:06:26,941
+Go away!
+
+924
+01:06:28,610 --> 01:06:30,153
+You'd better leave us now.
+
+925
+01:06:32,530 --> 01:06:34,407
+In any case, Fraulein Koertner,
+
+926
+01:06:35,700 --> 01:06:37,785
+your vision will be normal
+from now on.
+
+927
+01:06:38,495 --> 01:06:39,621
+Get out!
+
+928
+01:06:55,178 --> 01:06:57,639
+Venice must be lovely
+in the spring.
+
+929
+01:06:58,181 --> 01:07:00,517
+| do envy Mathilda.
+
+930
+01:07:00,517 --> 01:07:04,312
+We haven't had a vacation in
+two years. I kept promising her.
+
+931
+01:07:04,312 --> 01:07:06,523
+Mathilda finally
+put her foot down.
+
+932
+01:07:06,523 --> 01:07:08,858
+- When are you leaving?
+- Tonight.
+
+933
+01:07:09,692 --> 01:07:10,693
+Tonight?
+
+934
+01:07:12,362 --> 01:07:15,281
+Could you to take over
+my practice for me?
+
+935
+01:07:16,741 --> 01:07:17,742
+Of course, yes.
+
+936
+01:07:18,493 --> 01:07:20,453
+Come with me on my calls,
+
+937
+01:07:20,453 --> 01:07:22,747
+I'll introduce you to the ones
+who need regular attention.
+
+938
+01:07:24,082 --> 01:07:26,960
+Is Fraulein Koertner among them?
+
+939
+01:07:26,960 --> 01:07:28,378
+No.
+
+940
+01:07:28,378 --> 01:07:32,006
+Cecily is cured.
+You'll see for yourself.
+
+941
+01:07:32,006 --> 01:07:33,550
+What a magnificent recovery.
+
+942
+01:07:34,384 --> 01:07:37,262
+The last symptom disappeared
+March 7th, five weeks ago.
+
+943
+01:07:37,262 --> 01:07:40,932
+Now she moves as freely
+and gracefully as a young deer.
+
+944
+01:07:40,932 --> 01:07:44,852
+Thank you, Freud.
+I'll pick you up at two o'clock.
+
+945
+01:07:44,852 --> 01:07:45,937
+Fine.
+
+946
+01:07:54,821 --> 01:07:55,863
+Strange.
+
+947
+01:07:57,031 --> 01:07:58,157
+What's strange?
+
+948
+01:07:59,409 --> 01:08:01,452
+It's not like Breuer
+this sudden departure.
+
+949
+01:08:02,370 --> 01:08:04,539
+He always plans so far ahead.
+
+950
+01:08:06,374 --> 01:08:09,586
+Did you notice the carnation
+in his buttonhole?
+
+951
+01:08:11,296 --> 01:08:14,382
+Mathilda tells me that he gets
+flowers every other day
+
+952
+01:08:14,382 --> 01:08:15,592
+from one of his patients.
+
+953
+01:08:16,259 --> 01:08:19,971
+- Well?
+- Her name is Cecily.
+
+954
+01:08:20,763 --> 01:08:23,600
+- So?
+- Mathilda's no fool.
+
+955
+01:09:08,978 --> 01:09:11,606
+Bravo, Cecily! Magnificent!
+
+956
+01:09:12,023 --> 01:09:13,024
+Thank you, Dr. Breuer.
+
+957
+01:09:14,776 --> 01:09:16,861
+Dr. Freud,
+how nice to see you again.
+
+958
+01:09:16,861 --> 01:09:19,447
+My behavior was unforgivable
+the last time we met.
+
+959
+01:09:19,447 --> 01:09:22,867
+- Not at all.
+- That was before I was cured.
+
+960
+01:09:24,702 --> 01:09:27,038
+Is this your knitting, Cecily?
+
+961
+01:09:27,038 --> 01:09:28,915
+To keep some
+poor baby's feet warm.
+
+962
+01:09:28,915 --> 01:09:32,085
+- One of your charities?
+- Such a cold word, charity.
+
+963
+01:09:33,711 --> 01:09:35,755
+You didn't tell me
+where you were going on holiday.
+
+964
+01:09:37,465 --> 01:09:40,468
+- I'm going to Venice.
+- Alone?
+
+965
+01:09:40,968 --> 01:09:44,514
+- My wife and |I.
+- Venice? You'll love it.
+
+966
+01:09:44,514 --> 01:09:45,973
+My poor father took me there.
+
+967
+01:09:46,599 --> 01:09:48,059
+It will be like a
+second honeymoon.
+
+968
+01:09:49,894 --> 01:09:53,231
+Who knows, doctor,
+for whom these may be.
+
+969
+01:10:00,279 --> 01:10:03,282
+We must be on our way. I only
+stopped in to say goodbye.
+
+970
+01:10:03,950 --> 01:10:05,910
+| wish you happiness
+with all my heart.
+
+971
+01:10:07,662 --> 01:10:08,663
+You have a heart?
+
+972
+01:10:10,623 --> 01:10:12,166
+I'm talking nonsense, Doctor.
+
+973
+01:10:12,667 --> 01:10:14,585
+| know how devotedly
+you took care of me.
+
+974
+01:10:16,546 --> 01:10:17,755
+Won't you kiss me goodbye?
+
+975
+01:10:58,171 --> 01:10:59,172
+Dr. Breuer?
+
+976
+01:11:12,894 --> 01:11:13,978
+Freud...
+
+977
+01:11:34,499 --> 01:11:36,793
+- I'm Dr. Torsch.
+- Breuer.
+
+978
+01:11:36,793 --> 01:11:40,546
+Most unusual. She has
+all the symptoms of labor.
+
+979
+01:11:43,049 --> 01:11:45,259
+She herself believes it.
+
+980
+01:11:45,301 --> 01:11:48,763
+Yet she's not pregnant,
+nor could she be.
+
+981
+01:11:55,853 --> 01:11:56,938
+Cecily.
+
+982
+01:11:57,688 --> 01:12:01,567
+- Cecily, Cecily.
+- I knew you'd come. Help me!
+
+983
+01:12:01,567 --> 01:12:05,071
+Yes, Cecily. Sleep, sleep.
+
+984
+01:12:05,071 --> 01:12:07,824
+Close your eyes,
+close your eyes.
+
+985
+01:12:08,658 --> 01:12:12,578
+You're falling asleep.
+Deeply asleep.
+
+986
+01:12:12,578 --> 01:12:13,579
+A very deep sleep.
+
+987
+01:12:16,374 --> 01:12:19,293
+Cecily, do you know
+what's happening to you?
+
+988
+01:12:21,629 --> 01:12:25,675
+- I'm having a baby.
+- You're not. You couldn't be!
+
+989
+01:12:25,675 --> 01:12:29,387
+| order you to stop thinking
+these false thoughts.
+
+990
+01:12:30,304 --> 01:12:33,933
+You're going to wake, and when
+you do, they will be gone.
+
+991
+01:12:33,933 --> 01:12:34,934
+Forgotten.
+
+992
+01:12:36,561 --> 01:12:39,188
+Wake up, Cecily. Open your eyes.
+
+993
+01:13:07,508 --> 01:13:08,509
+Breuer...
+
+994
+01:13:10,011 --> 01:13:12,054
+- You can't leave her like this.
+- I must.
+
+995
+01:13:12,054 --> 01:13:13,472
+Must?
+
+996
+01:13:13,472 --> 01:13:14,765
+You're her doctor.
+She needs you.
+
+997
+01:13:15,224 --> 01:13:17,059
+It's Mathilda.
+
+998
+01:13:17,059 --> 01:13:18,978
+She imagines there's something
+between Cecily and me.
+
+999
+01:13:18,978 --> 01:13:20,605
+That I'm in love with the girl.
+
+1000
+01:13:20,605 --> 01:13:22,273
+| must go to preserve
+my marriage!
+
+1001
+01:13:37,330 --> 01:13:38,372
+Martha.
+
+1002
+01:13:47,506 --> 01:13:48,633
+What are you doing, dear?
+
+1003
+01:13:49,800 --> 01:13:51,302
+| was reading
+one of your manuscripts.
+
+1004
+01:13:53,054 --> 01:13:54,639
+Is there any reason
+why I shouldn't?
+
+1005
+01:13:55,932 --> 01:13:56,933
+I'd rather you didn't.
+
+1006
+01:13:58,142 --> 01:13:59,226
+Why?
+
+1007
+01:13:59,852 --> 01:14:01,854
+Because of the nature
+of the material.
+
+1008
+01:14:02,605 --> 01:14:04,774
+It's for physicians to read.
+Not one's wife.
+
+1009
+01:14:05,942 --> 01:14:07,401
+Your friends' wives
+know all about it.
+
+1010
+01:14:07,985 --> 01:14:09,820
+| seem to be the only
+one who doesn't.
+
+1011
+01:14:12,531 --> 01:14:13,574
+What are they saying?
+
+1012
+01:14:14,992 --> 01:14:17,411
+It's not so much what they say
+as how they say it.
+
+1013
+01:14:18,329 --> 01:14:19,330
+Slyly, in whispers.
+
+1014
+01:14:21,207 --> 01:14:22,792
+Patients have left you, I know.
+
+1015
+01:14:24,752 --> 01:14:28,464
+Is it because of the kind of
+questions you put to them?
+
+1016
+01:14:29,674 --> 01:14:30,675
+Maybe.
+
+1017
+01:14:31,801 --> 01:14:33,678
+They say you're the
+only doctor in Vienna
+
+1018
+01:14:33,678 --> 01:14:34,679
+who asks such questions.
+
+1019
+01:14:35,972 --> 01:14:37,139
+In the world, perhaps.
+
+1020
+01:14:54,573 --> 01:14:57,451
+Martha, this is not
+for your eyes.
+
+1021
+01:15:01,288 --> 01:15:04,875
+How can you, you of all men...
+
+1022
+01:15:06,961 --> 01:15:10,172
+be interested in such... things?
+
+1023
+01:15:13,467 --> 01:15:16,345
+Dear, I know it's hard
+to understand,
+
+1024
+01:15:17,722 --> 01:15:18,889
+but you must trust me.
+
+1025
+01:15:19,640 --> 01:15:20,641
+| need your trust.
+
+1026
+01:15:22,351 --> 01:15:25,730
+My friends and their wives
+only whisper about me today.
+
+1027
+01:15:26,147 --> 01:15:27,898
+Tomorrow they may stone me
+in the streets.
+
+1028
+01:15:36,615 --> 01:15:37,616
+| trust you.
+
+1029
+01:15:45,541 --> 01:15:48,210
+What is it, dear?
+
+1030
+01:15:48,210 --> 01:15:50,046
+Martha, papa had a stroke!
+
+1031
+01:15:51,464 --> 01:15:53,466
+He fell down in the street.
+
+1032
+01:15:53,466 --> 01:15:54,842
+They brought
+him home unconscious.
+
+1033
+01:15:55,301 --> 01:15:56,761
+I think he's dying.
+
+1034
+01:15:57,344 --> 01:15:59,305
+- Sigi, your father.
+- He's very bad.
+
+1035
+01:15:59,305 --> 01:16:00,890
+He's been calling for you.
+Hurry!
+
+1036
+01:16:02,892 --> 01:16:04,435
+| think papa is dying.
+
+1037
+01:16:10,649 --> 01:16:13,152
+- Dr. Breuer...
+- Yes, Herr. Freud?
+
+1038
+01:16:15,071 --> 01:16:16,822
+Breuer, I'm giving you my son.
+
+1039
+01:16:18,741 --> 01:16:20,326
+| want you to do for him,
+
+1040
+01:16:21,035 --> 01:16:23,079
+as I myself would like
+to have done.
+
+1041
+01:16:24,955 --> 01:16:28,626
+With your help,
+he has nothing to fear.
+
+1042
+01:18:13,814 --> 01:18:16,400
+Sigi, what is it?
+
+1043
+01:18:17,193 --> 01:18:19,862
+I... I couldn't go through
+the gate.
+
+1044
+01:18:21,739 --> 01:18:24,783
+| wasn't... allowed.
+
+1045
+01:18:25,534 --> 01:18:27,912
+Darling, you were dreaming.
+
+1046
+01:18:30,456 --> 01:18:31,665
+Dreaming.
+
+1047
+01:18:36,503 --> 01:18:37,796
+Dr. Breuer is here.
+
+1048
+01:18:42,843 --> 01:18:43,969
+How are you feeling?
+
+1049
+01:18:45,763 --> 01:18:46,764
+| feel...
+
+1050
+01:18:51,185 --> 01:18:52,853
+| was in the midst of a dream.
+
+1051
+01:18:55,481 --> 01:18:57,066
+"The eyes shall be closed".
+
+1052
+01:18:58,400 --> 01:18:59,401
+What does that mean?
+
+1053
+01:19:00,819 --> 01:19:01,820
+Mean?
+
+1054
+01:19:02,696 --> 01:19:04,657
+Nothing, I suppose,
+if it was in a dream.
+
+1055
+01:19:06,325 --> 01:19:08,160
+Except dreams have a meaning.
+
+1056
+01:19:09,161 --> 01:19:10,162
+For whom?
+
+1057
+01:19:11,580 --> 01:19:12,581
+For the dreamer.
+
+1058
+01:19:13,374 --> 01:19:15,000
+To himself about himself.
+
+1059
+01:19:17,711 --> 01:19:18,796
+But they speak in riddles.
+
+1060
+01:19:21,131 --> 01:19:25,344
+Could it be dreams are ideas
+escaping from repression...
+
+1061
+01:19:26,929 --> 01:19:27,930
+in disguise?
+
+1062
+01:19:30,766 --> 01:19:32,768
+Everyone was mourning.
+
+1063
+01:19:33,477 --> 01:19:34,645
+Everyone but me.
+
+1064
+01:19:35,437 --> 01:19:37,690
+| was in shirtsleeves
+at my father's funeral.
+
+1065
+01:19:38,565 --> 01:19:40,442
+Why could I not mourn?
+| loved him.
+
+1066
+01:19:42,987 --> 01:19:43,988
+Or did I?
+
+1067
+01:19:46,031 --> 01:19:47,574
+The dream says I didn't.
+
+1068
+01:19:49,076 --> 01:19:52,246
+Stop torturing yourself.
+Your father died happy.
+
+1069
+01:19:52,246 --> 01:19:54,498
+You honored him.
+You were a good son.
+
+1070
+01:19:54,498 --> 01:19:58,502
+That's not what the sign says.
+"The eyes shall be closed."
+
+1071
+01:19:59,586 --> 01:20:00,838
+Whose eyes? My father's?
+
+1072
+01:20:01,630 --> 01:20:03,299
+| was at his bedside.
+| closed his.
+
+1073
+01:20:04,049 --> 01:20:05,134
+Of course you did.
+
+1074
+01:20:05,718 --> 01:20:07,094
+Well then, whose? Mine?
+
+1075
+01:20:10,514 --> 01:20:11,557
+Mine...
+
+1076
+01:20:12,933 --> 01:20:17,313
+Everybody at the station
+walked about with closed eyes.
+
+1077
+01:20:18,188 --> 01:20:19,773
+Mine were open.
+
+1078
+01:20:21,108 --> 01:20:22,234
+Brazenly open.
+
+1079
+01:20:25,195 --> 01:20:26,322
+That's...
+
+1080
+01:20:27,197 --> 01:20:29,325
+That's why I wasn't allowed
+through the gate.
+
+1081
+01:20:31,410 --> 01:20:32,911
+Now I understand!
+
+1082
+01:20:34,371 --> 01:20:35,622
+Understand what, my friend?
+
+1083
+01:20:36,248 --> 01:20:39,626
+The meaning of those words.
+"The eyes shall be closed.”
+
+1084
+01:20:40,669 --> 01:20:41,670
+Remember?
+
+1085
+01:20:42,171 --> 01:20:44,923
+The sons shall close their eyes
+to the sins of the father.
+
+1086
+01:20:46,884 --> 01:20:47,968
+| broke the law.
+
+1087
+01:20:51,013 --> 01:20:55,768
+But what sin of his
+couldn't I close my eyes to?
+
+1088
+01:20:59,021 --> 01:21:02,316
+Breuer, take me back
+to the cemetery.
+
+1089
+01:21:06,779 --> 01:21:07,780
+What sin?
+
+1090
+01:21:09,907 --> 01:21:11,033
+What sin?
+
+1091
+01:21:11,700 --> 01:21:12,951
+What sin?
+
+1092
+01:21:29,843 --> 01:21:30,844
+It's happening.
+
+1093
+01:21:32,846 --> 01:21:33,847
+My...
+
+1094
+01:21:35,641 --> 01:21:37,518
+my legs won't hold me.
+
+1095
+01:21:40,396 --> 01:21:42,815
+- I can't.
+- Come back to the carriage.
+
+1096
+01:21:51,698 --> 01:21:52,825
+Why?
+
+1097
+01:21:54,284 --> 01:21:57,830
+Why is it when I turn away
+| feel myself again?
+
+1098
+01:21:59,623 --> 01:22:00,624
+Meynert was right.
+
+1099
+01:22:01,500 --> 01:22:04,378
+Yes, I'm a neurotic!
+These are hysterical symptoms.
+
+1100
+01:22:04,378 --> 01:22:05,754
+You're emotionally exhausted.
+
+1101
+01:22:06,630 --> 01:22:08,215
+| wonder... what...
+
+1102
+01:22:09,466 --> 01:22:10,467
+What terror,
+
+1103
+01:22:11,385 --> 01:22:14,888
+what hidden terror keeps me from
+standing by my father's grave,
+
+1104
+01:22:15,639 --> 01:22:17,391
+and threatens my love for him?
+
+1105
+01:22:20,018 --> 01:22:21,437
+What could the good man
+have done?
+
+1106
+01:22:23,522 --> 01:22:26,150
+Once, as a boy,
+| was with him on the street.
+
+1107
+01:22:26,150 --> 01:22:29,361
+When some hoodlums called him
+"dirty Jew"
+
+1108
+01:22:29,361 --> 01:22:30,863
+and knocked his hat off.
+
+1109
+01:22:31,280 --> 01:22:35,659
+You know, all he did was pick it
+up and walk on.
+
+1110
+01:22:37,161 --> 01:22:40,539
+From that moment, I saw him
+less as a God, more as a man,
+
+1111
+01:22:41,915 --> 01:22:43,709
+but I didn't hate him
+for his weakness.
+
+1112
+01:22:44,751 --> 01:22:46,879
+The memory must go further back.
+
+1113
+01:22:47,921 --> 01:22:51,508
+Is it possible for a neurosis
+to begin in childhood?
+
+1114
+01:22:51,508 --> 01:22:52,509
+Why not?
+
+1115
+01:22:53,343 --> 01:22:55,053
+That would put
+the traumatic incident
+
+1116
+01:22:55,053 --> 01:22:57,431
+before the awakening
+of the sexual impulse.
+
+1117
+01:22:57,431 --> 01:22:59,475
+Yes.
+
+1118
+01:22:59,475 --> 01:23:03,270
+Well, if that's true, my sexual
+theory of neurosis collapses.
+
+1119
+01:23:03,937 --> 01:23:05,522
+In which case, I'd be thankful.
+
+1120
+01:23:07,274 --> 01:23:08,859
+You never believed in it,
+did you?
+
+1121
+01:23:09,651 --> 01:23:12,488
+We close our eyes
+to the infinite variety of life,
+
+1122
+01:23:12,488 --> 01:23:15,073
+when we try to reduce it
+to a single law.
+
+1123
+01:23:15,866 --> 01:23:17,743
+It was only a matter of time
+
+1124
+01:23:17,743 --> 01:23:20,245
+before some husband
+appeared with a horsewhip.
+
+1125
+01:23:20,245 --> 01:23:21,497
+I'm not afraid of scandal.
+
+1126
+01:23:22,414 --> 01:23:26,502
+But how can I defend a theory
+which is disproved in myself?
+
+1127
+01:23:27,461 --> 01:23:29,713
+Breuer, hypnotize me.
+
+1128
+01:23:30,339 --> 01:23:32,549
+Bring back the memory
+about my father.
+
+1129
+01:23:32,549 --> 01:23:36,345
+Two weeks in the mountains
+will cure all your ills.
+
+1130
+01:23:36,345 --> 01:23:38,472
+I'm not seeking a cure.
+| want an answer.
+
+1131
+01:23:38,472 --> 01:23:40,390
+It's no use,
+| won't accept the case.
+
+1132
+01:23:41,600 --> 01:23:45,270
+Which reminds me I want you
+to treat Cecily Koertner.
+
+1133
+01:23:46,480 --> 01:23:48,482
+Her mother
+came to see me last week.
+
+1134
+01:23:48,482 --> 01:23:50,234
+She had seen lots of doctors,
+
+1135
+01:23:50,234 --> 01:23:52,236
+but her condition
+hasn't improved.
+
+1136
+01:23:52,277 --> 01:23:54,321
+Frau Koertner wanted me
+to take the case again.
+
+1137
+01:23:55,072 --> 01:23:57,658
+It's out of the question
+for obvious reasons, so |I...
+
+1138
+01:23:58,617 --> 01:24:00,494
+recommended you and she agreed.
+
+1139
+01:24:02,913 --> 01:24:05,207
+Dr. Freud,
+I'm so tired of being sick.
+
+1140
+01:24:08,418 --> 01:24:09,419
+At night, sometimes,
+
+1141
+01:24:10,003 --> 01:24:12,381
+| lie in the dark
+and cry for hours.
+
+1142
+01:24:14,800 --> 01:24:15,801
+It's like a prison.
+
+1143
+01:24:20,430 --> 01:24:21,557
+Tell me, uh...
+
+1144
+01:24:22,975 --> 01:24:25,727
+did you have any illness
+before your father's death?
+
+1145
+01:24:27,020 --> 01:24:29,022
+The usual childhood ones.
+Nothing very serious.
+
+1146
+01:24:29,523 --> 01:24:30,524
+Umhmm.
+
+1147
+01:24:31,358 --> 01:24:33,151
+Once when I was 14,
+| was in bed for several weeks.
+
+1148
+01:24:33,151 --> 01:24:35,112
+- Why?
+- I couldn't walk.
+
+1149
+01:24:35,779 --> 01:24:38,907
+My legs wouldn't support me.
+The doctors didn't know why.
+
+1150
+01:24:40,117 --> 01:24:43,579
+It started after a fainting fit.
+| collapsed on the street.
+
+1151
+01:24:44,079 --> 01:24:45,080
+Yes?
+
+1152
+01:24:46,164 --> 01:24:47,708
+| was out with father.
+
+1153
+01:24:48,250 --> 01:24:50,002
+It was Christmas time.
+
+1154
+01:24:50,002 --> 01:24:51,962
+He made me wait outside
+while he went into a shop.
+
+1155
+01:24:52,421 --> 01:24:53,714
+He left you alone in the street?
+
+1156
+01:24:54,131 --> 01:24:55,841
+Yes.
+
+1157
+01:24:55,841 --> 01:24:58,010
+When he came back,
+| was lying on the pavement.
+
+1158
+01:24:58,635 --> 01:25:00,345
+Had anything happened
+to frighten you?
+
+1159
+01:25:00,971 --> 01:25:02,389
+| don't think so,
+| can't remember.
+
+1160
+01:25:03,015 --> 01:25:04,641
+You could, under hypnosis.
+
+1161
+01:25:14,943 --> 01:25:16,945
+Now I want you to
+think about sleep.
+
+1162
+01:25:17,487 --> 01:25:18,530
+Only about sleep.
+
+1163
+01:25:19,781 --> 01:25:22,284
+Your lids are getting weighted.
+Heavier and heavier.
+
+1164
+01:25:22,993 --> 01:25:25,787
+Your breathing deeper and deeper
+as in sleep.
+
+1165
+01:25:26,330 --> 01:25:28,373
+Sleep. Go to sleep.
+
+1166
+01:25:31,918 --> 01:25:33,045
+It's no use.
+
+1167
+01:25:35,005 --> 01:25:37,424
+Why do you fight it?
+You were almost asleep.
+
+1168
+01:25:40,469 --> 01:25:43,305
+What would Breuer say if he knew
+you'd put me to sleep?
+
+1169
+01:25:46,183 --> 01:25:48,018
+You see him sometimes,
+don't you?
+
+1170
+01:25:48,018 --> 01:25:49,019
+Yes, I do.
+
+1171
+01:25:50,228 --> 01:25:51,480
+Does he ever ask about me?
+
+1172
+01:25:54,149 --> 01:25:55,525
+No.
+
+1173
+01:25:56,610 --> 01:25:59,029
+You must put Dr. Breuer
+out of your thoughts.
+
+1174
+01:25:59,029 --> 01:26:00,405
+He'll never come here again.
+
+1175
+01:26:01,239 --> 01:26:03,492
+So far as you're concerned,
+he doesn't exist.
+
+1176
+01:26:04,660 --> 01:26:06,787
+Dead, like my father.
+
+1177
+01:26:08,664 --> 01:26:10,582
+You were very close
+to your father, weren't you?
+
+1178
+01:26:11,875 --> 01:26:13,627
+Yes, he was a wonderful man.
+
+1179
+01:26:15,379 --> 01:26:17,923
+You were alone with him in
+Naples. Where was your mother?
+
+1180
+01:26:18,507 --> 01:26:20,467
+At home.
+It was spring cleaning time.
+
+1181
+01:26:21,134 --> 01:26:22,344
+She didn't trust the servants.
+
+1182
+01:26:22,636 --> 01:26:24,429
+Mother's got a
+great sense of duty.
+
+1183
+01:26:25,722 --> 01:26:27,724
+Father thought it was
+one's duty to enjoy life.
+
+1184
+01:26:28,517 --> 01:26:30,352
+He took me everywhere.
+We were always together.
+
+1185
+01:26:30,769 --> 01:26:32,896
+| even ran this house
+when mother had her accident.
+
+1186
+01:26:34,106 --> 01:26:35,232
+What accident?
+
+1187
+01:26:38,360 --> 01:26:42,197
+She was out driving one day.
+Her cart overturned.
+
+1188
+01:26:42,197 --> 01:26:44,491
+She hovered for some time
+between life and death.
+
+1189
+01:26:44,491 --> 01:26:46,743
+- How old were you then?
+- Thirteen.
+
+1190
+01:26:48,620 --> 01:26:50,247
+It was the happiest time
+of my life.
+
+1191
+01:26:51,331 --> 01:26:54,918
+| didn't mean it like that!
+Of course I missed mother.
+
+1192
+01:26:55,711 --> 01:26:57,879
+But... I don't know.
+
+1193
+01:26:58,880 --> 01:27:01,383
+Father let me arrange
+the flowers at table
+
+1194
+01:27:01,383 --> 01:27:02,384
+and seat the guests.
+
+1195
+01:27:03,510 --> 01:27:05,387
+| could put up my hair
+and wear jewelry.
+
+1196
+01:27:06,179 --> 01:27:08,098
+We made a very handsome couple
+everybody said.
+
+1197
+01:27:08,932 --> 01:27:11,017
+Six nights of the week
+and up till all hours.
+
+1198
+01:27:11,977 --> 01:27:14,396
+- And the seventh?
+- Father played Tarock.
+
+1199
+01:27:15,147 --> 01:27:16,148
+He loved that.
+
+1200
+01:27:17,065 --> 01:27:19,943
+| suppose a serious man like you
+doesn't approve of card playing.
+
+1201
+01:27:19,985 --> 01:27:21,820
+It happens to be
+my favorite game.
+
+1202
+01:27:22,654 --> 01:27:24,156
+| must revise my idea of you.
+
+1203
+01:27:25,198 --> 01:27:29,202
+You said it was the happiest
+moment in your life.
+
+1204
+01:27:29,202 --> 01:27:30,328
+Then your mother came home.
+
+1205
+01:27:32,539 --> 01:27:33,623
+And everything was changed.
+
+1206
+01:27:35,000 --> 01:27:37,210
+It was back to hair ribbons
+and bed at nine o'clock.
+
+1207
+01:27:38,712 --> 01:27:41,173
+Mother's a German,
+a soldier's daughter.
+
+1208
+01:27:42,090 --> 01:27:44,634
+She and father come
+from quite different worlds.
+
+1209
+01:27:45,218 --> 01:27:46,762
+Not even their religions
+were the same.
+
+1210
+01:27:47,262 --> 01:27:49,139
+She insisted I be brought up
+as a prostitute.
+
+1211
+01:27:51,433 --> 01:27:55,061
+Oh... I meant Protestant.
+
+1212
+01:27:55,061 --> 01:27:56,480
+My tongue got tangled up.
+
+1213
+01:27:58,523 --> 01:28:02,277
+You said the hospital in Naples
+was a Protestant hospital.
+
+1214
+01:28:02,277 --> 01:28:05,405
+When in fact it was
+a house of prostitution.
+
+1215
+01:28:07,449 --> 01:28:11,077
+Do you remember when you first
+heard that word?
+
+1216
+01:28:12,537 --> 01:28:15,165
+How do you know when you first
+heard a word, Dr. Freuer?
+
+1217
+01:28:27,761 --> 01:28:29,346
+Is she in love with you, too?
+
+1218
+01:28:30,555 --> 01:28:32,224
+You could call it that.
+
+1219
+01:28:32,724 --> 01:28:34,434
+What are you going
+to do about it?
+
+1220
+01:28:34,434 --> 01:28:35,560
+Nothing.
+
+1221
+01:28:36,394 --> 01:28:38,104
+Because of her feeling
+for Breuer,
+
+1222
+01:28:38,730 --> 01:28:40,732
+| wasn't able to hypnotize her.
+
+1223
+01:28:40,732 --> 01:28:44,069
+To her, the act has
+erotic significance.
+
+1224
+01:28:44,569 --> 01:28:46,112
+She felt she was
+being unfaithful.
+
+1225
+01:28:47,405 --> 01:28:50,617
+But now, any day, she'll ask me.
+
+1226
+01:28:51,326 --> 01:28:53,286
+How can you lend yourself
+to such a thing
+
+1227
+01:28:53,286 --> 01:28:54,746
+if that's what it means to her?
+
+1228
+01:28:55,664 --> 01:28:57,624
+There is no other way
+than hypnosis
+
+1229
+01:28:57,624 --> 01:28:58,625
+to reach the unconscious.
+
+1230
+01:28:59,751 --> 01:29:01,461
+Dr. Breuer gave up the case.
+
+1231
+01:29:02,379 --> 01:29:04,089
+She's ill. She needs help.
+
+1232
+01:29:05,006 --> 01:29:07,634
+She's only ill
+for a man's attention.
+
+1233
+01:29:08,426 --> 01:29:10,554
+To the extent of blindness
+and paralysis?
+
+1234
+01:29:10,554 --> 01:29:12,222
+No, Martha.
+
+1235
+01:29:12,222 --> 01:29:14,558
+Her attachments
+are also symptoms.
+
+1236
+01:29:16,017 --> 01:29:17,477
+Is falling in love a symptom?
+
+1237
+01:29:19,604 --> 01:29:21,439
+Before me, it was Breuer.
+
+1238
+01:29:23,817 --> 01:29:24,901
+Was he the first?
+
+1239
+01:29:27,028 --> 01:29:30,282
+Maybe we're both reflections
+
+1240
+01:29:31,324 --> 01:29:32,993
+of someone else's image.
+
+1241
+01:29:33,827 --> 01:29:37,289
+An original love, which for some
+reason, she's repressed.
+
+1242
+01:29:38,999 --> 01:29:40,000
+| wonder.
+
+1243
+01:29:41,418 --> 01:29:43,795
+| thought love was between
+a man and a woman
+
+1244
+01:29:43,795 --> 01:29:45,005
+who were meant for each other.
+
+1245
+01:29:45,672 --> 01:29:46,840
+What about us?
+
+1246
+01:29:47,799 --> 01:29:50,552
+Are we reflections
+of others in our past?
+
+1247
+01:29:51,553 --> 01:29:55,807
+It may be you bear a likeness
+to some image in my heart,
+
+1248
+01:29:55,807 --> 01:29:56,808
+some forgotten image.
+
+1249
+01:30:03,273 --> 01:30:06,568
+You said your father gave him to
+you on March the 7th.
+
+1250
+01:30:06,568 --> 01:30:07,736
+Was that a special day?
+
+1251
+01:30:08,695 --> 01:30:11,281
+| don't think so.
+
+1252
+01:30:11,865 --> 01:30:14,284
+| always liked to celebrate
+the day papa gave him to me.
+
+1253
+01:30:15,243 --> 01:30:17,787
+And nothing special
+happened on that day?
+
+1254
+01:30:19,372 --> 01:30:21,625
+- Well...
+- What?
+
+1255
+01:30:22,167 --> 01:30:23,335
+I'd made mother very angry.
+
+1256
+01:30:23,835 --> 01:30:25,337
+Papa had taken me to the ballet.
+
+1257
+01:30:25,879 --> 01:30:27,881
+At intermission,
+we went around backstage
+
+1258
+01:30:27,881 --> 01:30:29,758
+to the dressing room
+of one of the dancers.
+
+1259
+01:30:30,383 --> 01:30:32,677
+She was beautiful
+and smelled so nice.
+
+1260
+01:30:33,678 --> 01:30:35,513
+Papa told her
+| was a dancer too,
+
+1261
+01:30:35,931 --> 01:30:38,683
+and she laughed and said:
+"Your daddy loves dancers."
+
+1262
+01:30:39,476 --> 01:30:41,978
+| couldn't wait to get home
+and paint my face like hers!
+
+1263
+01:30:42,979 --> 01:30:44,272
+| used my watercolors.
+
+1264
+01:30:45,482 --> 01:30:46,483
+Suddenly mother came in.
+
+1265
+01:30:48,902 --> 01:30:50,695
+What are you doing?
+
+1266
+01:30:50,695 --> 01:30:53,031
+Don't you dare paint your face!
+
+1267
+01:30:56,910 --> 01:30:58,119
+| burst into tears.
+
+1268
+01:30:58,787 --> 01:31:00,789
+Papa picked me up,
+and to comfort me,
+
+1269
+01:31:01,247 --> 01:31:02,749
+promised me the doll
+the next day.
+
+1270
+01:31:03,959 --> 01:31:04,960
+It was March the 7th.
+
+1271
+01:31:06,378 --> 01:31:09,631
+What sort of women
+paint their faces?
+
+1272
+01:31:11,132 --> 01:31:13,093
+Actresses, dancers...
+
+1273
+01:31:14,094 --> 01:31:15,220
+And?
+
+1274
+01:31:16,596 --> 01:31:17,639
+Prostitutes?
+
+1275
+01:31:18,390 --> 01:31:20,100
+When did you first
+hear that word?
+
+1276
+01:31:21,393 --> 01:31:23,228
+| was about nine years old,
+| think.
+
+1277
+01:31:24,354 --> 01:31:26,022
+| was coming along the hall
+
+1278
+01:31:26,022 --> 01:31:27,691
+and I heard shouting
+in the drawing room.
+
+1279
+01:31:27,732 --> 01:31:29,359
+Mother was saying to Lucy,
+our maid...
+
+1280
+01:31:29,818 --> 01:31:32,529
+I've got eyes in my head!
+| know what's been going on.
+
+1281
+01:31:32,529 --> 01:31:34,280
+Pack your things
+and get out of here.
+
+1282
+01:31:34,823 --> 01:31:35,907
+Get out of this house!
+
+1283
+01:31:36,408 --> 01:31:38,702
+You're nothing but a prostitute.
+
+1284
+01:31:39,661 --> 01:31:41,371
+Lucy left the same day.
+
+1285
+01:31:41,371 --> 01:31:42,998
+| was sad.
+We were friends, like sisters.
+
+1286
+01:31:43,665 --> 01:31:45,166
+She always had time
+to play with me.
+
+1287
+01:32:08,857 --> 01:32:09,858
+Father liked her too.
+
+1288
+01:32:10,442 --> 01:32:13,069
+He said:
+"You're a dear little girl."
+
+1289
+01:32:13,695 --> 01:32:16,573
+Why do you suppose your
+mother called her that name?
+
+1290
+01:32:17,490 --> 01:32:20,243
+- I don't know.
+- Concentrate.
+
+1291
+01:32:21,119 --> 01:32:22,620
+Your father and Lucy.
+
+1292
+01:32:23,246 --> 01:32:24,372
+Together.
+
+1293
+01:32:25,498 --> 01:32:26,499
+What do you see?
+
+1294
+01:32:30,503 --> 01:32:31,671
+A..
+
+1295
+01:32:32,797 --> 01:32:34,466
+- Tower.
+- A what?
+
+1296
+01:32:35,508 --> 01:32:37,927
+- A red tower.
+-Yes?
+
+1297
+01:32:38,678 --> 01:32:40,305
+Red Tower Street.
+
+1298
+01:32:41,598 --> 01:32:42,766
+Have you been there?
+
+1299
+01:32:43,933 --> 01:32:46,644
+I'm sorry, Dr. Freud.
+I'm being very frivolous.
+
+1300
+01:32:47,103 --> 01:32:49,147
+| don't even know
+why it came to my mind.
+
+1301
+01:32:52,609 --> 01:32:53,902
+Tell me...
+
+1302
+01:32:55,278 --> 01:32:57,614
+what do you know
+about Red Tower Street?
+
+1303
+01:32:59,199 --> 01:33:01,201
+It's the street where
+| fainted that day with papa.
+
+1304
+01:33:08,917 --> 01:33:11,753
+You fainted in Red Tower Street?
+
+1305
+01:33:14,672 --> 01:33:15,965
+It can't be washed out.
+
+1306
+01:33:17,509 --> 01:33:18,760
+What can't be washed out?
+
+1307
+01:33:20,804 --> 01:33:22,555
+That's what mother said.
+
+1308
+01:33:22,555 --> 01:33:24,557
+I'd spilled some wine
+on the counterpane.
+
+1309
+01:33:24,557 --> 01:33:27,102
+She said: "You stupid girl,
+how could you be so careless?"
+
+1310
+01:33:27,102 --> 01:33:28,269
+It can't be washed out."
+
+1311
+01:33:30,105 --> 01:33:31,856
+It looked like blood.
+
+1312
+01:33:35,235 --> 01:33:36,402
+Did that upset you?
+
+1313
+01:33:38,238 --> 01:33:40,865
+I... I suppose it must have,
+
+1314
+01:33:41,366 --> 01:33:44,077
+because I dreamt about it.
+Mother's words.
+
+1315
+01:33:44,994 --> 01:33:47,455
+And the tower!
+That's where I saw the tower!
+
+1316
+01:33:48,248 --> 01:33:49,582
+Can you remember your dream?
+
+1317
+01:33:50,917 --> 01:33:52,502
+| was walking along
+by the seashore,
+
+1318
+01:33:53,253 --> 01:33:55,630
+and suddenly I saw
+a tall, round, red tower.
+
+1319
+01:33:56,089 --> 01:33:58,591
+Above the entrance there was an
+inscription and a coat of arms.
+
+1320
+01:33:59,300 --> 01:34:01,761
+A funny one. A staff with
+a snake wound around it.
+
+1321
+01:34:02,720 --> 01:34:04,889
+- And the inscription?
+- I don't remember.
+
+1322
+01:34:06,349 --> 01:34:08,184
+There was a woman.
+
+1323
+01:34:08,184 --> 01:34:09,894
+Her body was painted
+with marvelous images.
+
+1324
+01:34:10,186 --> 01:34:11,437
+She could have been an Egyptian.
+
+1325
+01:34:17,318 --> 01:34:20,613
+A tall, handsome man came up
+to her in full evening dress.
+
+1326
+01:34:20,613 --> 01:34:21,906
+The woman said...
+
+1327
+01:34:21,906 --> 01:34:23,533
+I'm Frau Putiphar.
+
+1328
+01:34:24,200 --> 01:34:25,869
+She tried to fit on his finger
+
+1329
+01:34:25,869 --> 01:34:27,370
+a wedding band
+of the thinnest metal,
+
+1330
+01:34:27,370 --> 01:34:28,872
+but his own gold one
+prevented it.
+
+1331
+01:34:29,914 --> 01:34:31,249
+Hers slipped off
+and rolled away.
+
+1332
+01:34:32,709 --> 01:34:34,169
+At that, the man turned and ran.
+
+1333
+01:34:34,919 --> 01:34:37,255
+He stumbled and fell
+to the ground as if dead.
+
+1334
+01:34:37,255 --> 01:34:39,132
+| ran to help him.
+
+1335
+01:34:39,132 --> 01:34:41,467
+When I got there, I found
+only a heap of clothes.
+
+1336
+01:34:43,553 --> 01:34:46,014
+A window in the tower opened
+and a woman looked out.
+
+1337
+01:34:46,639 --> 01:34:47,640
+It was my mother.
+
+1338
+01:34:49,434 --> 01:34:51,811
+She pointed threateningly
+to the painted girl and said:
+
+1339
+01:34:52,270 --> 01:34:55,690
+"Blood will tell, my girl.
+It can't be washed out.
+
+1340
+01:34:55,690 --> 01:34:57,275
+No matter what you do."
+
+1341
+01:35:05,742 --> 01:35:09,037
+What did you say that
+the painted woman's name was?
+
+1342
+01:35:10,830 --> 01:35:13,249
+- Frau Putiphar.
+- You say Putiphar.
+
+1343
+01:35:14,125 --> 01:35:16,753
+Isn't Putiphar
+the character in the Bible?
+
+1344
+01:35:18,254 --> 01:35:19,631
+She used the French
+pronunciation.
+
+1345
+01:35:20,173 --> 01:35:22,800
+Can you think of another word
+like Putiphar?
+
+1346
+01:35:22,800 --> 01:35:24,552
+Putain.
+
+1347
+01:35:24,552 --> 01:35:26,804
+Putain. Which means
+"prostitute” in French.
+
+1348
+01:35:28,014 --> 01:35:29,474
+Who was Frau Putiphar?
+
+1349
+01:35:32,101 --> 01:35:33,937
+She tried to seduce Joseph
+in the Bible.
+
+1350
+01:35:35,063 --> 01:35:36,272
+He rejected her and ran away.
+
+1351
+01:35:36,689 --> 01:35:38,483
+- And then?
+- She took revenge.
+
+1352
+01:35:39,692 --> 01:35:40,693
+Who is Joseph?
+
+1353
+01:35:41,444 --> 01:35:42,445
+What do you mean?
+
+1354
+01:35:43,488 --> 01:35:45,490
+Do you know anyone
+by the name of Joseph?
+
+1355
+01:35:47,867 --> 01:35:50,203
+Dr. Joseph Breuer.
+
+1356
+01:35:51,996 --> 01:35:54,749
+The Joseph in your dream didn't
+make love to the painted girl.
+
+1357
+01:35:55,291 --> 01:35:59,128
+Who is she? Do you know
+any girl who paints herself?
+
+1358
+01:36:01,881 --> 01:36:02,882
+She was an Egyptian.
+
+1359
+01:36:04,384 --> 01:36:06,010
+What did your mother say
+to that Egyptian?
+
+1360
+01:36:08,388 --> 01:36:11,140
+"Blood will tell.
+It can't be washed out."
+
+1361
+01:36:12,767 --> 01:36:14,394
+What your mother
+said to you yesterday,
+
+1362
+01:36:15,603 --> 01:36:16,604
+it can't be washed out.
+
+1363
+01:36:18,356 --> 01:36:19,482
+It isn't me.
+
+1364
+01:36:26,406 --> 01:36:27,657
+I'm the painted girl.
+
+1365
+01:36:30,285 --> 01:36:33,037
+Who was rejected by Joseph
+and therefore hates him.
+
+1366
+01:36:34,330 --> 01:36:35,331
+| don't hate him.
+
+1367
+01:36:36,040 --> 01:36:37,959
+You can't admit it to yourself.
+Not yet.
+
+1368
+01:36:38,584 --> 01:36:40,878
+But in your dream
+you made him die.
+
+1369
+01:36:43,881 --> 01:36:45,758
+| can't bear to be this person.
+
+1370
+01:36:46,592 --> 01:36:48,553
+None of us can bear
+facing all our wishes...
+
+1371
+01:36:49,304 --> 01:36:50,305
+so we repress them.
+
+1372
+01:36:51,973 --> 01:36:54,934
+Do you realize what's happened
+in this room today?
+
+1373
+01:36:56,436 --> 01:36:59,480
+You and I have found our way
+
+1374
+01:36:59,480 --> 01:37:02,150
+into the unconscious
+without hypnosis.
+
+1375
+01:37:03,151 --> 01:37:05,111
+Apparent coincidences,
+
+1376
+01:37:05,653 --> 01:37:07,905
+slips of the tongue
+have been the signposts.
+
+1377
+01:37:08,906 --> 01:37:09,907
+Your dream,
+
+1378
+01:37:11,159 --> 01:37:12,744
+with its symbolic language,
+
+1379
+01:37:13,494 --> 01:37:16,164
+has told you the truth about
+your feelings for Dr. Breuer.
+
+1380
+01:37:16,164 --> 01:37:17,832
+But I had this dream long ago
+
+1381
+01:37:18,499 --> 01:37:21,753
+or others like it, long before
+| even met Dr. Breuer.
+
+1382
+01:37:23,171 --> 01:37:26,174
+A tower, and sea and women.
+
+1383
+01:37:27,884 --> 01:37:29,344
+Was there a man in those dreams?
+
+1384
+01:37:31,346 --> 01:37:33,097
+Yes.
+
+1385
+01:37:33,097 --> 01:37:34,098
+There was?
+
+1386
+01:37:36,726 --> 01:37:37,935
+Could you describe him?
+
+1387
+01:37:38,478 --> 01:37:39,520
+No.
+
+1388
+01:37:40,772 --> 01:37:41,773
+No, I can't.
+
+1389
+01:37:44,984 --> 01:37:48,321
+My precious hour gone, so soon.
+
+1390
+01:37:53,368 --> 01:37:54,619
+Ten o'clock, tomorrow.
+
+1391
+01:38:19,435 --> 01:38:20,561
+Her father.
+
+1392
+01:38:22,438 --> 01:38:24,232
+Is it her father's figure
+
+1393
+01:38:24,232 --> 01:38:25,858
+which moves through
+that recurrent dream?
+
+1394
+01:38:28,277 --> 01:38:30,196
+Is he the phantom husband
+
+1395
+01:38:30,196 --> 01:38:33,282
+by whom she bore the doll,
+her imaginary child?
+
+1396
+01:38:35,326 --> 01:38:36,411
+No.
+
+1397
+01:38:38,079 --> 01:38:39,247
+Unthinkable!
+
+1398
+01:38:40,873 --> 01:38:41,999
+Not her father!
+
+1399
+01:38:47,839 --> 01:38:49,132
+You're making progress.
+
+1400
+01:38:49,882 --> 01:38:53,261
+Let's go on. Where did we leave
+off? Where should we start?
+
+1401
+01:38:54,345 --> 01:38:56,305
+Let's go back to
+Red Tower Street.
+
+1402
+01:38:57,014 --> 01:38:59,350
+Christmas time.
+You're waiting for your father.
+
+1403
+01:39:01,978 --> 01:39:03,646
+You said it was important,
+
+1404
+01:39:03,646 --> 01:39:06,107
+my remembering
+what made me faint. But why?
+
+1405
+01:39:06,941 --> 01:39:09,652
+Could remembering that
+help me to walk again?
+
+1406
+01:39:11,279 --> 01:39:13,448
+That was the occasion
+of your first attack.
+
+1407
+01:39:13,948 --> 01:39:15,908
+If we can find the cause
+of that attack,
+
+1408
+01:39:16,325 --> 01:39:18,536
+you will be cured
+once and for all.
+
+1409
+01:39:19,704 --> 01:39:22,874
+Hypnotize me. You may today.
+
+1410
+01:39:23,374 --> 01:39:25,710
+- No.
+- I'll reveal my every secret.
+
+1411
+01:39:25,710 --> 01:39:28,129
+No. No more hypnosis.
+
+1412
+01:39:29,005 --> 01:39:30,465
+We've found a better method.
+
+1413
+01:39:31,674 --> 01:39:35,761
+Think of Red Tower Street.
+Say whatever comes to your mind.
+
+1414
+01:39:35,761 --> 01:39:37,555
+- But I can't see you.
+- I know.
+
+1415
+01:39:38,639 --> 01:39:41,809
+Hold nothing back,
+however trivial it may seem.
+
+1416
+01:39:43,561 --> 01:39:46,606
+Traffic, shops, people.
+
+1417
+01:39:47,773 --> 01:39:48,900
+Where will this lead us?
+
+1418
+01:39:49,358 --> 01:39:51,277
+Nowhere if you censor
+your thoughts.
+
+1419
+01:39:51,944 --> 01:39:53,404
+Take the censor off guard.
+
+1420
+01:39:54,238 --> 01:39:55,531
+Right now,
+what are you thinking?
+
+1421
+01:39:56,282 --> 01:39:58,284
+- Tarock cards.
+-Yes?
+
+1422
+01:39:58,284 --> 01:40:00,411
+Do you play Tarock
+with your wife at home?
+
+1423
+01:40:00,953 --> 01:40:02,497
+No, at the house of a colleague.
+
+1424
+01:40:03,289 --> 01:40:05,458
+And he tells his wife
+that he plays at your house.
+
+1425
+01:40:06,501 --> 01:40:07,502
+All men are alike.
+
+1426
+01:40:08,794 --> 01:40:09,795
+Go on.
+
+1427
+01:40:11,088 --> 01:40:13,257
+- I just thought...
+- What?
+
+1428
+01:40:13,257 --> 01:40:15,843
+No, it's nothing,
+it's not important.
+
+1429
+01:40:16,385 --> 01:40:17,637
+| was just remembering.
+
+1430
+01:40:18,971 --> 01:40:21,224
+Papa once promised
+to take me to the opera.
+
+1431
+01:40:21,224 --> 01:40:22,725
+I'd been looking forward
+to it all day.
+
+1432
+01:40:23,309 --> 01:40:25,311
+He came home
+and said he'd forgotten
+
+1433
+01:40:25,311 --> 01:40:27,647
+and he had to go
+and play Tarock with friends.
+
+1434
+01:40:29,190 --> 01:40:31,567
+| started to cry
+and went upstairs to my room.
+
+1435
+01:40:33,152 --> 01:40:34,153
+That's all.
+
+1436
+01:40:35,154 --> 01:40:36,489
+Surely that's not all.
+
+1437
+01:40:37,657 --> 01:40:40,576
+Close your eyes.
+What do you see?
+
+1438
+01:40:42,411 --> 01:40:44,455
+- Running.
+-Yes?
+
+1439
+01:40:44,455 --> 01:40:47,291
+I'm running through the streets.
+
+1440
+01:40:47,291 --> 01:40:50,628
+I'd been forbidden
+to go outside alone at night.
+
+1441
+01:40:50,628 --> 01:40:53,089
+- You were alone?
+- Yes.
+
+1442
+01:40:53,089 --> 01:40:54,131
+No.
+
+1443
+01:40:54,757 --> 01:40:56,509
+No, there was papa.
+
+1444
+01:40:56,968 --> 01:40:58,469
+| was following papa.
+
+1445
+01:40:59,011 --> 01:41:01,013
+| heard the front door slam.
+
+1446
+01:41:01,639 --> 01:41:03,099
+If he'd been going
+where he'd said,
+
+1447
+01:41:03,099 --> 01:41:04,892
+he would've taken the carriage.
+
+1448
+01:41:08,396 --> 01:41:10,022
+| was so afraid he'd see me,
+
+1449
+01:41:10,022 --> 01:41:11,691
+| kept slipping into doorways.
+
+1450
+01:41:11,691 --> 01:41:14,151
+Where did he go?
+
+1451
+01:41:14,151 --> 01:41:17,405
+| knew I shouldn't
+follow him any farther,
+
+1452
+01:41:17,405 --> 01:41:18,489
+but then I did.
+
+1453
+01:41:18,906 --> 01:41:20,283
+To Red Tower Street?
+
+1454
+01:41:21,993 --> 01:41:25,705
+He held her by the arm
+and smiled into her face.
+
+1455
+01:41:25,705 --> 01:41:27,873
+A shiny, painted creature!
+
+1456
+01:41:28,583 --> 01:41:32,378
+Papa had preferred
+her company to mine!
+
+1457
+01:41:32,378 --> 01:41:35,590
+| felt ill and dizzy
+and then I fainted.
+
+1458
+01:41:37,174 --> 01:41:39,427
+| couldn't face it,
+so I fainted!
+
+1459
+01:41:41,137 --> 01:41:43,055
+The same thing
+had happened in Naples.
+
+1460
+01:41:43,055 --> 01:41:44,390
+He lied to me!
+
+1461
+01:41:47,685 --> 01:41:49,770
+While mother
+was lying in hospital,
+
+1462
+01:41:50,688 --> 01:41:53,232
+he was out making love
+to streetwalkers!
+
+1463
+01:41:54,775 --> 01:41:55,776
+| hated him!
+
+1464
+01:41:56,360 --> 01:41:58,571
+| hate him, I hate men!
+
+1465
+01:42:03,409 --> 01:42:04,994
+You've found it!
+
+1466
+01:42:05,494 --> 01:42:06,662
+You've found the memory!
+
+1467
+01:42:08,414 --> 01:42:09,457
+Walk.
+
+1468
+01:42:53,292 --> 01:42:54,919
+Why is she not cured?
+
+1469
+01:42:55,628 --> 01:42:59,048
+Everything pointed to her
+experience in Red Tower Street
+
+1470
+01:42:59,048 --> 01:43:00,716
+as the cause of her neurosis.
+
+1471
+01:43:01,801 --> 01:43:04,553
+But it could only have
+reflected some earlier trauma.
+
+1472
+01:43:05,554 --> 01:43:06,597
+Earlier?
+
+1473
+01:43:07,306 --> 01:43:08,974
+Before adolescence?
+
+1474
+01:43:09,809 --> 01:43:11,727
+Again, the tormenting
+contradiction.
+
+1475
+01:43:11,727 --> 01:43:12,812
+Breuer pointed out,
+
+1476
+01:43:13,813 --> 01:43:15,773
+How can sexual instinct
+
+1477
+01:43:15,773 --> 01:43:19,360
+become the object of repression
+before it is awakened?
+
+1478
+01:43:20,403 --> 01:43:22,571
+How, in the innocence
+of childhood,
+
+1479
+01:43:22,571 --> 01:43:24,907
+could a sexual experience
+be traumatic?
+
+1480
+01:43:25,700 --> 01:43:28,494
+Say he is the victim
+of an adult's aggression,
+
+1481
+01:43:28,994 --> 01:43:31,122
+unless it entailed pain
+or violence,
+
+1482
+01:43:31,122 --> 01:43:32,915
+it would mean nothing
+to the child
+
+1483
+01:43:33,499 --> 01:43:36,627
+for the good and simple
+reason that he has no sexuality.
+
+1484
+01:43:36,627 --> 01:43:40,297
+But the experience is not
+repressed at the time,
+
+1485
+01:43:40,756 --> 01:43:42,508
+only later, in adolescence.
+
+1486
+01:43:43,551 --> 01:43:46,095
+The memory arouses
+his sexual excitement,
+
+1487
+01:43:46,762 --> 01:43:49,140
+excitement which
+morality condemns.
+
+1488
+01:43:49,140 --> 01:43:51,600
+It is only then that
+he feels shame and guilt...
+
+1489
+01:43:53,352 --> 01:43:56,272
+and the memory
+becomes intolerable.
+
+1490
+01:43:57,982 --> 01:44:00,526
+An elaborate structure,
+and what is it based on?
+
+1491
+01:44:00,526 --> 01:44:01,610
+A half dozen cases?
+
+1492
+01:44:03,195 --> 01:44:04,488
+There will be more.
+
+1493
+01:44:05,322 --> 01:44:06,323
+Two at least.
+
+1494
+01:44:07,491 --> 01:44:08,492
+Whose?
+
+1495
+01:44:09,493 --> 01:44:10,703
+Cecily's for one.
+
+1496
+01:44:14,039 --> 01:44:15,040
+Indeed?
+
+1497
+01:44:16,709 --> 01:44:18,586
+Her father was
+the man she loved.
+
+1498
+01:44:18,586 --> 01:44:21,088
+You only reflected his image.
+
+1499
+01:44:22,339 --> 01:44:25,718
+Such a fixation must have
+sprung from an erotic incident.
+
+1500
+01:44:26,302 --> 01:44:29,346
+Why did she fall ill again
+after you had cured her?
+
+1501
+01:44:29,972 --> 01:44:32,767
+Because the memory of that
+incident never came to light.
+
+1502
+01:44:35,144 --> 01:44:36,145
+And the second case?
+
+1503
+01:44:40,065 --> 01:44:41,066
+Mine.
+
+1504
+01:44:42,860 --> 01:44:46,322
+| can feel it moving inside me
+like a shake.
+
+1505
+01:44:47,948 --> 01:44:52,828
+<i>The memory
+of something I witnessed...</i>
+
+1506
+01:44:54,705 --> 01:44:56,624
+between my father and my sister.
+
+1507
+01:45:00,920 --> 01:45:03,422
+| reach down.
+| almost touch its coils...
+
+1508
+01:45:05,382 --> 01:45:06,884
+and then my courage fails
+
+1509
+01:45:08,260 --> 01:45:11,680
+and it escapes
+into another dark corner.
+
+1510
+01:45:13,140 --> 01:45:15,976
+Freud, I say beware.
+
+1511
+01:45:16,769 --> 01:45:19,647
+Your own morbid imagination,
+that's the snake.
+
+1512
+01:45:20,314 --> 01:45:22,775
+Your sexual theory
+has become an obsession.
+
+1513
+01:45:22,775 --> 01:45:24,693
+To support it, you'd drag your
+father's memory
+
+1514
+01:45:24,693 --> 01:45:26,529
+through the mire.
+
+1515
+01:45:26,529 --> 01:45:28,531
+In the name of whatever
+is holy to you, give it up!
+
+1516
+01:45:28,823 --> 01:45:31,325
+In science, there is nothing
+holy but the truth.
+
+1517
+01:45:31,325 --> 01:45:34,078
+Yes, in science,
+but we are physicians first.
+
+1518
+01:45:36,121 --> 01:45:37,873
+Truth is a dangerous
+prescription,
+
+1519
+01:45:38,374 --> 01:45:41,043
+to be administered with
+the same caution as strychnine.
+
+1520
+01:45:42,419 --> 01:45:43,671
+Its effects can be lethal.
+
+1521
+01:45:45,297 --> 01:45:47,132
+Cecily is your patient now.
+
+1522
+01:45:47,883 --> 01:45:49,593
+It is not my province
+to interfere with
+
+1523
+01:45:49,593 --> 01:45:52,972
+your methods of treatment
+but I plead with you,
+
+1524
+01:45:53,848 --> 01:45:56,809
+do not make this girl
+the touchstone of your theory.
+
+1525
+01:46:09,530 --> 01:46:11,198
+What are you doing?
+
+1526
+01:46:11,198 --> 01:46:13,534
+Don't you dare paint your face!
+
+1527
+01:46:18,330 --> 01:46:19,373
+Let her be!
+
+1528
+01:46:19,999 --> 01:46:22,251
+- Papa! Papa!
+- My baby...
+
+1529
+01:46:26,922 --> 01:46:28,841
+He carried me to his
+room and undressed me.
+
+1530
+01:46:29,258 --> 01:46:31,510
+And he sang to comfort me.
+
+1531
+01:46:44,481 --> 01:46:46,609
+Is that when he promised
+you the doll?
+
+1532
+01:46:46,609 --> 01:46:47,860
+Yes.
+
+1533
+01:46:49,695 --> 01:46:50,696
+No.
+
+1534
+01:46:51,864 --> 01:46:54,366
+No, it was later, during the
+night when I woke up and cried.
+
+1535
+01:46:55,159 --> 01:46:57,328
+- You slept in his bed?
+- Yes.
+
+1536
+01:46:57,953 --> 01:46:59,955
+Why were you crying
+in the middle of the night?
+
+1537
+01:47:01,373 --> 01:47:02,374
+| don't know.
+
+1538
+01:47:03,292 --> 01:47:04,710
+Mama had been angry with me.
+
+1539
+01:47:05,836 --> 01:47:08,005
+- Isn't that why?
+- Is it?
+
+1540
+01:47:08,589 --> 01:47:11,050
+Well, yes. That's surely why.
+
+1541
+01:47:11,050 --> 01:47:13,218
+You woke and cried. Why?
+
+1542
+01:47:15,220 --> 01:47:16,931
+I'd been asleep.
+
+1543
+01:47:16,931 --> 01:47:20,392
+You woke up. You cried.
+Why were you crying?
+
+1544
+01:47:23,771 --> 01:47:24,897
+He'd locked the door.
+
+1545
+01:47:26,732 --> 01:47:28,400
+Water was splashing
+in the bathroom.
+
+1546
+01:47:40,329 --> 01:47:42,289
+Father came towards me
+in his red robe.
+
+1547
+01:47:43,332 --> 01:47:45,459
+Tall, like a tower.
+
+1548
+01:47:47,044 --> 01:47:48,754
+Strong as a god
+when he embraced me.
+
+1549
+01:47:49,546 --> 01:47:53,217
+And he promised you
+a doll if you wouldn't tell?
+
+1550
+01:47:53,217 --> 01:47:55,386
+Yes! Yes! Yes!
+
+1551
+01:48:31,088 --> 01:48:32,172
+| can walk.
+
+1552
+01:48:39,805 --> 01:48:40,806
+| can walk.
+
+1553
+01:48:42,474 --> 01:48:43,559
+You made me walk.
+
+1554
+01:48:54,319 --> 01:48:55,612
+My father was a criminal.
+
+1555
+01:48:57,698 --> 01:48:59,366
+I'm sure he suffered
+for what he did.
+
+1556
+01:49:00,659 --> 01:49:01,660
+I'm tired.
+
+1557
+01:49:03,078 --> 01:49:04,121
+I'm so tired.
+
+1558
+01:49:20,888 --> 01:49:24,308
+- Are you happy for me?
+- I am, yes.
+
+1559
+01:49:26,310 --> 01:49:28,270
+I'll go to sleep now
+if you'll hold my hand.
+
+1560
+01:49:30,564 --> 01:49:31,565
+| must go now.
+
+1561
+01:49:32,566 --> 01:49:33,692
+Of course.
+
+1562
+01:49:34,443 --> 01:49:36,320
+| forget you have
+other patients...
+
+1563
+01:49:37,529 --> 01:49:38,781
+more important than me.
+
+1564
+01:49:39,698 --> 01:49:42,576
+Not more important.
+| have other patients.
+
+1565
+01:49:45,204 --> 01:49:46,747
+Please, don't let me keep you.
+
+1566
+01:49:46,747 --> 01:49:48,373
+I'll call this evening,
+if you like.
+
+1567
+01:50:01,845 --> 01:50:03,639
+She walked.
+
+1568
+01:50:03,639 --> 01:50:05,432
+The aggression was
+remembered and she walked.
+
+1569
+01:50:06,433 --> 01:50:11,063
+Yet something is wrong.
+What about the doll?
+
+1570
+01:50:11,897 --> 01:50:13,774
+It's the evidence of her
+father's crime.
+
+1571
+01:50:14,525 --> 01:50:15,526
+She should hate it,
+
+1572
+01:50:16,110 --> 01:50:17,736
+yet she loves and cherishes it.
+
+1573
+01:50:18,904 --> 01:50:20,489
+Yes, something is wrong.
+
+1574
+01:50:21,990 --> 01:50:26,870
+Perhaps the answer lies still
+further back, as in my own case.
+
+1575
+01:50:32,000 --> 01:50:33,001
+Mother.
+
+1576
+01:50:34,419 --> 01:50:36,171
+When was I first on a train?
+
+1577
+01:50:38,090 --> 01:50:40,384
+When we left Freiberg
+for Leipzig.
+
+1578
+01:50:41,176 --> 01:50:42,678
+Did anything happen
+on that trip?
+
+1579
+01:50:43,345 --> 01:50:44,930
+Nothing in particular.
+
+1580
+01:50:44,930 --> 01:50:45,931
+Nothing?
+
+1581
+01:50:46,849 --> 01:50:49,560
+You were very young and
+a train whistle frightened you.
+
+1582
+01:50:51,812 --> 01:50:52,813
+Yes.
+
+1583
+01:50:53,438 --> 01:50:55,524
+We stopped overnight
+in a hotel in Breslau,
+
+1584
+01:50:55,524 --> 01:50:56,608
+to break the journey.
+
+1585
+01:50:57,568 --> 01:50:59,153
+At dawn, we boarded again.
+
+1586
+01:51:00,028 --> 01:51:03,240
+Every time the train whistle
+blew, you cried with terror.
+
+1587
+01:51:05,284 --> 01:51:07,619
+You said it was
+an animal in pain. A big animal.
+
+1588
+01:51:08,287 --> 01:51:12,082
+| must have heard that same
+whistle on the way to Breslau,
+
+1589
+01:51:13,041 --> 01:51:14,293
+and it didn't frighten me.
+
+1590
+01:51:14,835 --> 01:51:15,836
+No.
+
+1591
+01:51:16,879 --> 01:51:19,548
+You only cried on the second
+half of the journey.
+
+1592
+01:51:20,924 --> 01:51:23,218
+Then it must've happened
+in the compartment.
+
+1593
+01:51:25,179 --> 01:51:26,180
+What?
+
+1594
+01:51:28,515 --> 01:51:29,516
+The trauma.
+
+1595
+01:51:31,018 --> 01:51:33,395
+Whatever incident
+it was I connected.
+
+1596
+01:51:33,395 --> 01:51:35,647
+With the whistle
+that frightened me so.
+
+1597
+01:51:38,233 --> 01:51:40,736
+- But nothing happened.
+- You're sure?
+
+1598
+01:51:42,654 --> 01:51:45,282
+You're sure you never left us
+alone the three of us
+
+1599
+01:51:45,282 --> 01:51:47,868
+in the compartment?
+Mitzi, father and me?
+
+1600
+01:51:47,868 --> 01:51:51,163
+Mitzi?
+Your sister wasn't born then.
+
+1601
+01:51:51,622 --> 01:51:53,707
+- Wasn't born?
+- Not for another six months.
+
+1602
+01:51:57,628 --> 01:51:58,629
+Of course.
+
+1603
+01:52:00,839 --> 01:52:02,007
+But of course.
+
+1604
+01:52:03,800 --> 01:52:06,053
+Yet there she is in my memory.
+
+1605
+01:52:07,179 --> 01:52:08,931
+And not an infant,
+a little girl.
+
+1606
+01:52:10,307 --> 01:52:12,184
+You were only four years old.
+
+1607
+01:52:13,936 --> 01:52:15,812
+Memory plays queer tricks.
+
+1608
+01:52:18,065 --> 01:52:19,691
+And always to a purpose.
+
+1609
+01:52:23,028 --> 01:52:26,240
+When we were in Breslau in the
+hotel, where did I sleep?
+
+1610
+01:52:27,199 --> 01:52:28,200
+In my bed.
+
+1611
+01:52:29,034 --> 01:52:31,161
+To comfort you for your first
+day away from home.
+
+1612
+01:52:32,246 --> 01:52:33,580
+And father?
+
+1613
+01:52:34,706 --> 01:52:35,791
+He was in the next room.
+
+1614
+01:52:37,167 --> 01:52:41,296
+Even so he heard your crying,
+got up and he came in.
+
+1615
+01:52:44,258 --> 01:52:45,467
+Heard me crying...
+
+1616
+01:52:46,802 --> 01:52:50,097
+that night... in the hotel.
+
+1617
+01:52:51,306 --> 01:52:52,516
+Yes.
+
+1618
+01:52:55,185 --> 01:52:56,728
+| gave you this to play with.
+
+1619
+01:52:57,271 --> 01:52:58,522
+Yes, I remember.
+
+1620
+01:52:59,147 --> 01:53:01,984
+And what was it you called me?
+My little...
+
+1621
+01:53:01,984 --> 01:53:03,193
+- Arab.
+- Arab.
+
+1622
+01:53:03,193 --> 01:53:05,237
+Because your hair was so black.
+
+1623
+01:53:06,780 --> 01:53:09,116
+Mother, may I have that?
+
+1624
+01:53:10,867 --> 01:53:11,868
+Yes.
+
+1625
+01:53:13,412 --> 01:53:14,621
+For a few days.
+
+1626
+01:53:30,762 --> 01:53:34,308
+Doctor, I was just coming
+to your house.
+
+1627
+01:53:34,308 --> 01:53:35,726
+Where is Fraulein Koertner?
+
+1628
+01:53:37,102 --> 01:53:38,937
+She's not at home?
+
+1629
+01:53:38,937 --> 01:53:41,189
+She left a message that
+you'd know where to find her.
+
+1630
+01:53:45,652 --> 01:53:47,195
+How long has she been gone?
+
+1631
+01:53:47,195 --> 01:53:49,364
+Over an hour. Shall I drive you?
+
+1632
+01:53:51,533 --> 01:53:52,743
+No.
+
+1633
+01:54:00,459 --> 01:54:01,585
+Where shall we go?
+
+1634
+01:54:02,419 --> 01:54:04,880
+- Let's go to that hotel.
+- Why?
+
+1635
+01:54:04,880 --> 01:54:07,674
+My father was a client there.
+| know that place.
+
+1636
+01:54:09,634 --> 01:54:12,846
+I've never made love.
+You'll have to teach me.
+
+1637
+01:54:12,846 --> 01:54:13,889
+Come.
+
+1638
+01:54:14,598 --> 01:54:17,184
+But you can have me for nothing.
+
+1639
+01:54:17,184 --> 01:54:20,354
+You made me able to walk again.
+You deserve a reward.
+
+1640
+01:54:21,396 --> 01:54:23,357
+I've got nice smooth skin.
+
+1641
+01:54:23,357 --> 01:54:27,027
+- Cecily, stop play acting!
+- Why did you come after me?
+
+1642
+01:54:27,027 --> 01:54:28,737
+| came to take you home.
+
+1643
+01:54:28,737 --> 01:54:31,198
+| belong with those women.
+My blood is bad.
+
+1644
+01:54:31,198 --> 01:54:32,324
+I'm rotten to the core!
+
+1645
+01:54:33,825 --> 01:54:35,494
+I'm my mother's daughter.
+
+1646
+01:54:36,119 --> 01:54:37,829
+| don't deserve
+the father I had.
+
+1647
+01:54:38,372 --> 01:54:40,374
+The most loving father
+that ever lived.
+
+1648
+01:54:41,124 --> 01:54:43,001
+And |, his daughter...
+
+1649
+01:54:44,920 --> 01:54:47,839
+accused him of such
+an unnatural, unspeakable act!
+
+1650
+01:54:48,465 --> 01:54:50,509
+Only a born harlot
+could tell such a lie!
+
+1651
+01:54:52,511 --> 01:54:53,553
+Cecily...
+
+1652
+01:54:54,805 --> 01:54:55,806
+look at me.
+
+1653
+01:54:57,140 --> 01:54:59,434
+What you told me was a lie?
+
+1654
+01:54:59,893 --> 01:55:01,395
+- Of course.
+- Why did you lie?
+
+1655
+01:55:02,145 --> 01:55:04,064
+Because you wanted me too.
+
+1656
+01:55:04,064 --> 01:55:05,816
+It pleased you.
+| could see it in your eyes.
+
+1657
+01:55:08,360 --> 01:55:09,361
+He didn't touch me.
+
+1658
+01:55:10,946 --> 01:55:12,364
+You must believe me.
+
+1659
+01:55:12,906 --> 01:55:13,907
+You must!
+
+1660
+01:55:15,992 --> 01:55:18,120
+- I'll kill myself?!
+- Cecily!
+
+1661
+01:55:21,456 --> 01:55:22,457
+Cecily!
+
+1662
+01:55:29,423 --> 01:55:30,590
+Don't come near me!
+
+1663
+01:55:34,636 --> 01:55:35,804
+You believe me?
+
+1664
+01:55:40,016 --> 01:55:41,017
+| believe you.
+
+1665
+01:55:44,813 --> 01:55:45,897
+Give me a reason.
+
+1666
+01:55:47,107 --> 01:55:49,025
+Give me one reason
+why I shouldn't.
+
+1667
+01:55:49,818 --> 01:55:50,819
+For my sake.
+
+1668
+01:55:51,486 --> 01:55:52,487
+I'm the guilty one.
+
+1669
+01:55:54,072 --> 01:55:55,740
+It was my lie, not yours.
+
+1670
+01:55:56,616 --> 01:55:59,953
+If you destroy yourself,
+that will be my doing too.
+
+1671
+01:57:04,809 --> 01:57:07,646
+| gave you this
+to play with.
+
+1672
+01:57:07,646 --> 01:57:09,773
+Yes, I remember.
+
+1673
+01:57:09,773 --> 01:57:12,275
+What was it you called me?
+My little...
+
+1674
+01:57:12,275 --> 01:57:13,276
+- Arab.
+- Arab.
+
+1675
+01:57:14,236 --> 01:57:15,695
+Because your hair
+was so black.
+
+1676
+01:57:20,242 --> 01:57:21,493
+Arab.
+
+1677
+01:57:57,904 --> 01:58:00,365
+Hold him back, you weakling!
+
+1678
+01:58:00,782 --> 01:58:02,701
+Honor me, your father!
+
+1679
+01:58:14,671 --> 01:58:15,880
+The little Arab...
+
+1680
+01:58:15,880 --> 01:58:18,216
+Sought my mother with his body
+
+1681
+01:58:18,216 --> 01:58:19,593
+and called down
+my father's wrath.
+
+1682
+01:58:20,802 --> 01:58:24,347
+What hidden memory escaped
+its prison in that dream?
+
+1683
+01:58:25,098 --> 01:58:27,642
+It could only be of the night
+in Breslau,
+
+1684
+01:58:27,642 --> 01:58:29,978
+when mother gave me this
+to quiet my sobs.
+
+1685
+01:58:31,271 --> 01:58:33,940
+Why was [ crying?
+
+1686
+01:58:33,940 --> 01:58:36,318
+The answer is cast
+in this metal.
+
+1687
+01:58:37,819 --> 01:58:41,531
+<i>| lay in a big bed,
+watching my mother.</i>
+
+1688
+01:58:42,365 --> 01:58:46,411
+<i>She was naked to the waist,
+| remember.</i>
+
+1689
+01:59:17,651 --> 01:59:19,027
+He took her away from me.
+
+1690
+01:59:20,236 --> 01:59:22,489
+She was going to
+lie down beside me.
+
+1691
+01:59:23,573 --> 01:59:26,493
+| would have cuddled
+against her soft, warm body.
+
+1692
+01:59:27,494 --> 01:59:29,079
+But he drew her into his room.
+
+1693
+01:59:30,747 --> 01:59:34,918
+Souls burn in hell.
+The hell of hatred, of jealousy.
+
+1694
+01:59:36,461 --> 01:59:37,629
+| wished him dead.
+
+1695
+01:59:38,380 --> 01:59:40,465
+To justify that guilty wish,
+
+1696
+01:59:40,465 --> 01:59:42,425
+| conjured up
+the crime against my sister.
+
+1697
+01:59:43,760 --> 01:59:47,889
+| was jealous of my father. |
+wanted my mother all to myself.
+
+1698
+01:59:48,682 --> 01:59:50,141
+| wanted to be rid of him.
+
+1699
+01:59:51,351 --> 01:59:55,146
+I'm the guilty one...
+| dishonored my father.
+
+1700
+01:59:59,150 --> 02:00:00,151
+| saw the light.
+
+1701
+02:00:02,070 --> 02:00:03,071
+It's so late.
+
+1702
+02:00:07,492 --> 02:00:09,536
+Sigi, what is it?
+
+1703
+02:00:14,416 --> 02:00:16,751
+Dear, I want to leave Vienna.
+
+1704
+02:00:17,419 --> 02:00:20,588
+Go anywhere.
+Be a doctor in a small town...
+
+1705
+02:00:21,047 --> 02:00:22,257
+anywhere away from here.
+
+1706
+02:00:23,383 --> 02:00:24,551
+But why, Sigi?
+
+1707
+02:00:25,760 --> 02:00:28,012
+My theory has offended everyone.
+
+1708
+02:00:29,013 --> 02:00:31,266
+And no wonder. It's false.
+
+1709
+02:00:32,308 --> 02:00:35,103
+And destructive. Cecily tried
+to kill herself tonight.
+
+1710
+02:00:35,770 --> 02:00:37,021
+Breuer warned me.
+
+1711
+02:00:37,856 --> 02:00:39,816
+But you didn't mean any harm.
+Why punish yourself?
+
+1712
+02:00:40,191 --> 02:00:41,651
+| deserve to be punished.
+
+1713
+02:00:42,402 --> 02:00:44,863
+| invented a theory
+to dishonor my father.
+
+1714
+02:00:45,530 --> 02:00:48,575
+| desecrated his image
+in the fathers of my patients.
+
+1715
+02:00:50,118 --> 02:00:51,411
+In the country...
+
+1716
+02:00:53,329 --> 02:00:55,832
+we can be close again. I know.
+
+1717
+02:00:56,875 --> 02:00:59,419
+| know you've hated
+the work I've been doing.
+
+1718
+02:01:00,628 --> 02:01:02,213
+It's created a wall between us.
+
+1719
+02:01:03,381 --> 02:01:04,424
+| can't deny that.
+
+1720
+02:01:05,800 --> 02:01:09,012
+When you're in your office
+with a patient, a woman...
+
+1721
+02:01:11,306 --> 02:01:12,891
+| try not to think
+what's happening.
+
+1722
+02:01:14,434 --> 02:01:17,562
+The secrets you're hearing.
+The obscenities.
+
+1723
+02:01:18,897 --> 02:01:20,565
+| hate them and her and you!
+
+1724
+02:01:22,817 --> 02:01:24,277
+And I hate myself
+for failing you.
+
+1725
+02:01:25,695 --> 02:01:28,573
+I'm not a good wife.
+I'm selfish and jealous.
+
+1726
+02:01:33,495 --> 02:01:35,872
+So, it should mean all the more
+when I say you mustn't stop.
+
+1727
+02:01:38,666 --> 02:01:40,126
+You mustn't stop, Sigi.
+
+1728
+02:01:55,809 --> 02:01:56,810
+What are you doing?
+
+1729
+02:02:00,146 --> 02:02:01,606
+Your diary,
+when you were a student.
+
+1730
+02:02:02,941 --> 02:02:03,983
+Listen.
+
+1731
+02:02:05,819 --> 02:02:07,278
+"Progress, like walking,”
+
+1732
+02:02:08,071 --> 02:02:11,407
+is achieved by losing
+then regaining one's balance.
+
+1733
+02:02:12,617 --> 02:02:13,868
+It's a series of mistakes...
+
+1734
+02:02:15,161 --> 02:02:16,162
+Do you remember?
+
+1735
+02:02:16,871 --> 02:02:17,914
+Yes.
+
+1736
+02:02:19,374 --> 02:02:20,375
+Do you remember the end?
+
+1737
+02:02:21,835 --> 02:02:25,505
+"From error to error,
+one discovers the entire truth".
+
+1738
+02:02:28,091 --> 02:02:30,468
+| used to say to myself,
+
+1739
+02:02:30,468 --> 02:02:33,763
+the false is often the truth
+standing on its head.
+
+1740
+02:02:46,317 --> 02:02:47,610
+Reversal.
+
+1741
+02:02:47,610 --> 02:02:48,653
+Yes!
+
+1742
+02:02:50,113 --> 02:02:55,535
+Yes, she claimed
+that her father had seduced her.
+
+1743
+02:02:55,535 --> 02:02:56,536
+False.
+
+1744
+02:02:57,495 --> 02:02:59,622
+It wasn't he who
+desired his daughter,
+
+1745
+02:03:00,164 --> 02:03:01,708
+it was she who wanted him.
+
+1746
+02:03:03,334 --> 02:03:05,545
+And it was not a memory
+that she had repressed.
+
+1747
+02:03:06,212 --> 02:03:07,255
+No!
+
+1748
+02:03:09,382 --> 02:03:10,425
+It was a fantasy.
+
+1749
+02:03:11,926 --> 02:03:12,927
+Yes.
+
+1750
+02:03:13,845 --> 02:03:15,305
+They'd shared the same bed.
+
+1751
+02:03:15,889 --> 02:03:19,642
+The next morning, she had her
+doll, her child by him.
+
+1752
+02:03:20,977 --> 02:03:23,229
+Was she lying to me? No.
+To herself?
+
+1753
+02:03:24,606 --> 02:03:25,690
+No.
+
+1754
+02:03:26,608 --> 02:03:28,568
+The unconscious is pitch dark.
+
+1755
+02:03:29,485 --> 02:03:32,447
+| told myself, in my darkness,
+
+1756
+02:03:32,447 --> 02:03:34,324
+that father had torn
+my mother away from me
+
+1757
+02:03:35,909 --> 02:03:38,161
+because I couldn't bear her
+deserting me for him.
+
+1758
+02:03:41,789 --> 02:03:44,334
+Yes, yes, yes, yes!
+
+1759
+02:03:44,334 --> 02:03:45,501
+It fits.
+
+1760
+02:03:46,169 --> 02:03:49,339
+Cecily loved her father.
+| loved my mother.
+
+1761
+02:03:50,381 --> 02:03:52,675
+She hated her mother.
+| hated my father.
+
+1762
+02:03:55,553 --> 02:03:57,931
+The truth has emerged,
+upside down.
+
+1763
+02:03:58,806 --> 02:04:00,892
+And it will walk on
+one premise alone.
+
+1764
+02:04:01,684 --> 02:04:04,270
+There must be sexuality
+in childhood.
+
+1765
+02:04:04,979 --> 02:04:05,980
+Even in infancy.
+
+1766
+02:04:09,275 --> 02:04:11,486
+Tell it not in Gath, my love,
+
+1767
+02:04:11,486 --> 02:04:14,989
+and above all, hide the good
+news from the Philistines.
+
+1768
+02:04:30,964 --> 02:04:33,841
+Forgive me.
+| haven't cried in a long time.
+
+1769
+02:04:35,927 --> 02:04:36,928
+She...
+
+1770
+02:04:38,221 --> 02:04:40,515
+She talked in her sleep
+last night...
+
+1771
+02:04:42,225 --> 02:04:43,851
+as she did when she was little.
+
+1772
+02:04:45,812 --> 02:04:49,440
+She used to wake up screaming
+and say she had dreamed
+
+1773
+02:04:49,440 --> 02:04:50,608
+that I was dead.
+
+1774
+02:04:52,151 --> 02:04:56,614
+There was a time when I wished
+that she was dead.
+
+1775
+02:04:56,614 --> 02:04:57,615
+When was that?
+
+1776
+02:04:58,157 --> 02:05:00,118
+When I carried her in my womb.
+
+1777
+02:05:01,869 --> 02:05:03,162
+Before I was married,
+
+1778
+02:05:05,540 --> 02:05:08,001
+| was a dancer
+in a cheap cabaret.
+
+1779
+02:05:09,877 --> 02:05:12,046
+One night after
+I'd done my turn...
+
+1780
+02:05:13,381 --> 02:05:15,133
+| went back to my dressing room
+
+1781
+02:05:15,967 --> 02:05:17,301
+and there was
+a man sitting there.
+
+1782
+02:05:19,595 --> 02:05:22,265
+A handsome swell...
+
+1783
+02:05:25,393 --> 02:05:27,478
+with a flower in his buttonhole.
+
+1784
+02:05:30,690 --> 02:05:32,358
+Six weeks later we were married.
+
+1785
+02:05:34,610 --> 02:05:37,030
+We creatures, as everyone knows,
+
+1786
+02:05:38,573 --> 02:05:40,324
+long for respectability.
+
+1787
+02:05:41,576 --> 02:05:43,786
+| wanted only
+to forget the past.
+
+1788
+02:05:45,079 --> 02:05:46,706
+To be a good wife and mother.
+
+1789
+02:05:47,665 --> 02:05:50,293
+| was pregnant before
+the honeymoon was over,
+
+1790
+02:05:50,293 --> 02:05:53,963
+but I waited to tell Joseph
+till our first night home.
+
+1791
+02:05:55,256 --> 02:05:57,175
+I'll never forget
+the look of his face.
+
+1792
+02:06:00,845 --> 02:06:04,182
+Without a word,
+he arose and left the house.
+
+1793
+02:06:06,142 --> 02:06:07,727
+He never touched me again.
+
+1794
+02:06:09,645 --> 02:06:14,650
+He married me only
+to have a harlot in the house.
+
+1795
+02:06:25,912 --> 02:06:29,916
+Well, doctor,
+who is the guilty one?
+
+1796
+02:06:30,875 --> 02:06:32,460
+Must there be a guilty one?
+
+1797
+02:06:33,544 --> 02:06:34,629
+Not even he?
+
+1798
+02:06:35,129 --> 02:06:36,172
+No.
+
+1799
+02:06:37,048 --> 02:06:39,759
+His desire for prostitutes
+was a neurotic symptom.
+
+1800
+02:06:41,302 --> 02:06:42,303
+But what caused it?
+
+1801
+02:06:43,554 --> 02:06:45,014
+He's dead. We shall never know.
+
+1802
+02:06:46,849 --> 02:06:50,311
+Do you remember, as a child,
+dreaming of your mother's death?
+
+1803
+02:06:50,311 --> 02:06:52,730
+Why do you think
+you dreamt such dreams?
+
+1804
+02:06:53,564 --> 02:06:56,943
+Was it to fulfill a wish
+you couldn't consciously admit?
+
+1805
+02:07:00,571 --> 02:07:02,240
+So I was a monster even then?
+
+1806
+02:07:03,074 --> 02:07:05,701
+Whatever stands between
+desire and fulfilment
+
+1807
+02:07:06,244 --> 02:07:07,745
+that the child wishes away.
+
+1808
+02:07:08,287 --> 02:07:11,332
+Your mother stood between
+you and your lover.
+
+1809
+02:07:12,625 --> 02:07:15,545
+My lover? I was four years old.
+
+1810
+02:07:15,545 --> 02:07:18,673
+You loved your father.
+Your mother kept him from you.
+
+1811
+02:07:18,673 --> 02:07:21,551
+- You wanted her out of the way.
+- She snatched me away from him.
+
+1812
+02:07:22,135 --> 02:07:23,719
+Carried me to my bed
+and left me alone
+
+1813
+02:07:23,719 --> 02:07:25,429
+so she could go back to him.
+
+1814
+02:07:25,429 --> 02:07:29,100
+- Put her down!
+- Papa! Papa!
+
+1815
+02:07:29,100 --> 02:07:33,437
+Papa! Papal!
+
+1816
+02:07:33,437 --> 02:07:35,231
+She was keeping him from me.
+
+1817
+02:07:35,731 --> 02:07:37,608
+| wished she was dead.
+| wanted to kill her.
+
+1818
+02:07:40,820 --> 02:07:41,821
+Why?
+
+1819
+02:07:43,531 --> 02:07:45,199
+Why do I hate her so now...
+
+1820
+02:07:46,367 --> 02:07:48,578
+as if it had happened
+yesterday, not those years ago?
+
+1821
+02:07:50,079 --> 02:07:52,790
+Time does not exist
+in the unconscious.
+
+1822
+02:07:54,458 --> 02:07:56,127
+Shall I tell you your story?
+
+1823
+02:07:59,088 --> 02:08:01,841
+Like every child, you
+needed your mother's caresses,
+
+1824
+02:08:02,300 --> 02:08:03,676
+the warmth of her body.
+
+1825
+02:08:04,343 --> 02:08:05,386
+You were denied them.
+
+1826
+02:08:06,179 --> 02:08:09,891
+So you turned to your father
+who did caress you.
+
+1827
+02:08:10,474 --> 02:08:12,393
+You came to depend
+on those caresses.
+
+1828
+02:08:13,060 --> 02:08:15,938
+You threw yourself
+info whatever role
+
+1829
+02:08:15,938 --> 02:08:17,398
+you thought
+would give him pleasure.
+
+1830
+02:08:17,982 --> 02:08:20,651
+You played the dancer,
+the mistress of the house,
+
+1831
+02:08:20,651 --> 02:08:22,653
+you even played
+your father's wife.
+
+1832
+02:08:24,071 --> 02:08:26,532
+Then your mother interfered.
+
+1833
+02:08:26,532 --> 02:08:27,533
+You wished her dead.
+
+1834
+02:08:28,576 --> 02:08:31,078
+Desire for your father,
+the death wish for your mother.
+
+1835
+02:08:31,746 --> 02:08:35,166
+In time you learned this
+two-fold urge was forbidden.
+
+1836
+02:08:35,750 --> 02:08:37,376
+It had to be repressed.
+
+1837
+02:08:38,169 --> 02:08:39,921
+Thereafter,
+whatever happened to you,
+
+1838
+02:08:39,921 --> 02:08:41,756
+whatever misfortunes,
+fanned its fires.
+
+1839
+02:08:43,174 --> 02:08:45,676
+Cecily, no you are not guilty.
+
+1840
+02:08:46,427 --> 02:08:49,305
+Or, if you're, your guilt is
+shared by every human being.
+
+1841
+02:08:50,514 --> 02:08:52,767
+The innocent
+is born into a world
+
+1842
+02:08:52,767 --> 02:08:55,061
+in which it cannot help
+but lose its innocence.
+
+1843
+02:08:56,395 --> 02:08:58,773
+Every child is foredoomed
+to become a sinner.
+
+1844
+02:08:59,482 --> 02:09:02,777
+| sinned too.
+| dreamed of killing my father.
+
+1845
+02:09:04,570 --> 02:09:06,781
+Then you were a monster too.
+
+1846
+02:09:06,781 --> 02:09:09,283
+No, I was a child.
+
+1847
+02:09:13,287 --> 02:09:14,956
+| accept everything
+you say to me,
+
+1848
+02:09:16,749 --> 02:09:19,585
+but you told me that knowing
+the cause of my illness
+
+1849
+02:09:19,585 --> 02:09:20,586
+would cure me,
+
+1850
+02:09:21,045 --> 02:09:22,421
+and I still wish I were dead.
+
+1851
+02:09:26,634 --> 02:09:30,721
+And now I'm cured,
+you'll never see me again.
+
+1852
+02:09:31,889 --> 02:09:35,226
+| will see you again,
+because you're not cured.
+
+1853
+02:09:35,977 --> 02:09:37,395
+My symptoms are gone.
+
+1854
+02:09:38,145 --> 02:09:40,064
+Yes. All but one.
+
+1855
+02:09:41,983 --> 02:09:44,694
+- Which?
+- Your love for me.
+
+1856
+02:09:48,030 --> 02:09:49,490
+That isn't a symptom.
+
+1857
+02:09:50,950 --> 02:09:54,287
+Why do you suppose you went
+to Red Tower Street last night?
+
+1858
+02:09:56,998 --> 02:09:59,333
+To punish myself
+for a lie I told.
+
+1859
+02:09:59,333 --> 02:10:00,459
+No.
+
+1860
+02:10:01,168 --> 02:10:04,338
+You were pursuing your father.
+Pursuing him through me.
+
+1861
+02:10:04,338 --> 02:10:06,507
+You were still seeking
+his caresses
+
+1862
+02:10:07,550 --> 02:10:10,177
+by catering to his desire
+for prostitutes.
+
+1863
+02:10:11,345 --> 02:10:14,515
+Pursuing him through you?
+
+1864
+02:10:14,515 --> 02:10:16,934
+I'm only a reflection
+of his image.
+
+1865
+02:10:17,727 --> 02:10:19,520
+But I love you for yourself!
+
+1866
+02:10:21,522 --> 02:10:23,566
+Did you love Dr. Breuer
+for himself?
+
+1867
+02:10:25,109 --> 02:10:27,778
+| just thought
+| loved Dr. Breuer.
+
+1868
+02:10:27,778 --> 02:10:30,781
+| was wrong!
+And there's no connection.
+
+1869
+02:10:30,781 --> 02:10:33,451
+Yes, there is.
+You told me so yourself.
+
+1870
+02:10:34,785 --> 02:10:36,078
+Describe the tower again.
+
+1871
+02:10:39,123 --> 02:10:40,124
+It was...
+
+1872
+02:10:40,791 --> 02:10:44,503
+round and red... Tall.
+
+1873
+02:10:45,212 --> 02:10:47,340
+And there was
+a coat of arms over the door.
+
+1874
+02:10:47,340 --> 02:10:51,010
+Yes. A staff with a snake.
+
+1875
+02:10:52,678 --> 02:10:54,263
+Isn't that the doctors' emblem?
+
+1876
+02:10:54,263 --> 02:10:55,514
+There was also an inscription.
+
+1877
+02:10:56,223 --> 02:10:58,976
+Can you remember it now? Try.
+
+1878
+02:11:02,313 --> 02:11:03,439
+Uh...
+
+1879
+02:11:04,690 --> 02:11:07,193
+"Royal Ministry of
+Communications".
+
+1880
+02:11:09,111 --> 02:11:10,363
+Communications.
+
+1881
+02:11:11,697 --> 02:11:12,698
+Communicating.
+
+1882
+02:11:13,616 --> 02:11:14,700
+Tell you my secrets.
+
+1883
+02:11:15,743 --> 02:11:16,827
+Am I right?
+
+1884
+02:11:17,370 --> 02:11:18,412
+Yes.
+
+1885
+02:11:19,747 --> 02:11:22,041
+This makes your dream
+an allegory.
+
+1886
+02:11:22,875 --> 02:11:24,627
+Through love, it says,
+
+1887
+02:11:24,627 --> 02:11:26,837
+you'll be able to
+reveal your secrets
+
+1888
+02:11:26,837 --> 02:11:28,589
+to the doctor whose
+emblem is above.
+
+1889
+02:11:29,340 --> 02:11:33,219
+When they're told and
+understood, you'll be cured.
+
+1890
+02:11:34,428 --> 02:11:35,513
+Then you...
+
+1891
+02:11:36,722 --> 02:11:37,765
+accept this love?
+
+1892
+02:11:38,766 --> 02:11:40,059
+As a sacred trust,
+
+1893
+02:11:41,268 --> 02:11:44,605
+until it disappears to make
+room for another love.
+
+1894
+02:11:44,605 --> 02:11:46,649
+A love of your own choice.
+
+1895
+02:11:49,026 --> 02:11:50,820
+Our work
+is only beginning, Cecily.
+
+1896
+02:11:51,487 --> 02:11:54,156
+It will take time to put your
+past in order.
+
+1897
+02:11:54,156 --> 02:11:55,157
+There'll be relapses,
+
+1898
+02:11:56,242 --> 02:12:00,746
+but the day will come when you
+will face life on its terms.
+
+1899
+02:12:02,164 --> 02:12:03,207
+Believe me.
+
+1900
+02:12:06,001 --> 02:12:07,002
+| do.
+
+1901
+02:12:09,130 --> 02:12:13,008
+| shall expect you in my office,
+tomorrow, five o'clock.
+
+1902
+02:12:19,557 --> 02:12:23,060
+Would you please tell Mama
+I'd like to see her?
+
+1903
+02:12:25,312 --> 02:12:26,981
+| marvel at the ease
+
+1904
+02:12:26,981 --> 02:12:29,150
+with which you suit things
+to your own convenience.
+
+1905
+02:12:29,817 --> 02:12:33,821
+Yesterday you condemned parents.
+Today, the children are guilty.
+
+1906
+02:12:35,364 --> 02:12:38,325
+There is no guilt
+in sexuality at its source.
+
+1907
+02:12:38,325 --> 02:12:40,578
+Only after the river
+has passed through cities.
+
+1908
+02:12:41,912 --> 02:12:44,582
+| disapprove of your new theory.
+It repels me.
+
+1909
+02:12:45,291 --> 02:12:47,835
+Do you think I'm going to risk
+my reputation
+
+1910
+02:12:47,835 --> 02:12:50,045
+as a man and physician,
+
+1911
+02:12:50,045 --> 02:12:51,672
+simply to have my name
+on another book?
+
+1912
+02:12:52,673 --> 02:12:55,009
+We could sign our contributions
+separately, if you like.
+
+1913
+02:12:55,009 --> 02:12:57,511
+No! I will not be connected
+with it in any way!
+
+1914
+02:13:01,932 --> 02:13:05,144
+Well, then,
+let's leave the chapter out.
+
+1915
+02:13:06,937 --> 02:13:08,314
+Thank heaven.
+
+1916
+02:13:08,314 --> 02:13:09,315
+In that case,
+
+1917
+02:13:10,191 --> 02:13:13,486
+| shall read it as a paper
+at the next Medical Congress.
+
+1918
+02:13:13,944 --> 02:13:15,905
+And end your career
+in one night.
+
+1919
+02:13:16,697 --> 02:13:17,698
+Freud.
+
+1920
+02:13:18,574 --> 02:13:19,658
+Sigmund.
+
+1921
+02:13:21,285 --> 02:13:23,120
+Your father asked me
+to look after you.
+
+1922
+02:13:23,662 --> 02:13:25,331
+Take his place in your life.
+
+1923
+02:13:26,165 --> 02:13:29,168
+You've accepted me.
+I've loved you as a son.
+
+1924
+02:13:31,670 --> 02:13:33,130
+Yes, and I've loved you.
+
+1925
+02:13:34,173 --> 02:13:38,886
+As your spiritual father,
+| forbid you to read this paper.
+
+1926
+02:13:46,727 --> 02:13:50,231
+The time comes when one
+must give up all one's fathers
+
+1927
+02:13:51,440 --> 02:13:52,441
+and stand alone.
+
+1928
+02:14:02,368 --> 02:14:04,411
+Gentlemen!
+
+1929
+02:14:04,411 --> 02:14:07,081
+"The age of innocence"
+it is called,
+
+1930
+02:14:07,081 --> 02:14:09,833
+because the child
+is not supposed to have
+
+1931
+02:14:09,833 --> 02:14:11,085
+any sexual awareness.
+
+1932
+02:14:11,919 --> 02:14:13,712
+This mistaken belief
+
+1933
+02:14:13,712 --> 02:14:16,590
+reflects society's
+own feelings of fear and guilt.
+
+1934
+02:14:18,717 --> 02:14:21,554
+In infancy, he is a veracious
+young animal
+
+1935
+02:14:21,554 --> 02:14:23,514
+intent on filling his stomach.
+
+1936
+02:14:24,014 --> 02:14:27,518
+Warm milk flows into his mouth.
+It gives him pleasure.
+
+1937
+02:14:28,185 --> 02:14:29,603
+Pleasure he seeks to extend
+
+1938
+02:14:29,603 --> 02:14:31,689
+even when his hunger
+is satisfied.
+
+1939
+02:14:31,689 --> 02:14:34,650
+So he sucks on a false nipple
+or his thumb.
+
+1940
+02:14:36,026 --> 02:14:40,698
+The gratification sensitizes
+the region of his mouth and lips
+
+1941
+02:14:40,698 --> 02:14:42,825
+so that it becomes
+an erogenous zone.
+
+1942
+02:14:45,411 --> 02:14:48,163
+Which, in adult life...
+
+1943
+02:14:49,540 --> 02:14:52,835
+Which in adult life,
+finds pleasure in the kiss.
+
+1944
+02:14:54,753 --> 02:14:56,422
+The infant is bathed.
+
+1945
+02:14:56,422 --> 02:14:58,424
+He is fondled and caressed
+by the mother.
+
+1946
+02:14:58,841 --> 02:15:01,468
+His whole body responds
+to her loving care.
+
+1947
+02:15:02,386 --> 02:15:04,221
+His desire for her breast
+
+1948
+02:15:04,221 --> 02:15:08,559
+gradually extends to a desire
+for the mother herself.
+
+1949
+02:15:29,288 --> 02:15:33,667
+Inevitably, she becomes the
+first love object of the child.
+
+1950
+02:15:33,667 --> 02:15:37,880
+Then he discovers
+that she is not alone.
+
+1951
+02:15:37,880 --> 02:15:40,549
+He has a rival, his father.
+
+1952
+02:15:42,301 --> 02:15:45,763
+So, before he can understand
+or contend with it,
+
+1953
+02:15:45,763 --> 02:15:48,015
+he is consumed with jealousy.
+
+1954
+02:15:48,015 --> 02:15:51,393
+Trapped in a conflict
+between love and hate.
+
+1955
+02:15:54,605 --> 02:15:57,191
+There is little new in this.
+The ancient Greeks
+
+1956
+02:15:57,191 --> 02:15:59,401
+revealed their knowledge
+of these truths
+
+1957
+02:15:59,401 --> 02:16:00,986
+in the story of Oedipus,
+
+1958
+02:16:00,986 --> 02:16:03,906
+who, all unknowing,
+killed his father
+
+1959
+02:16:03,906 --> 02:16:05,658
+and took his mother to wife.
+
+1960
+02:16:09,161 --> 02:16:10,162
+And...
+
+1961
+02:16:11,455 --> 02:16:14,708
+And thereafter, was condemned
+to wander through life,
+
+1962
+02:16:14,708 --> 02:16:16,043
+blind and homeless.
+
+1963
+02:16:16,710 --> 02:16:20,214
+The shadow of this doom
+lies over us all.
+
+1964
+02:16:24,259 --> 02:16:28,138
+Gentlemen! We are not
+in a political meeting.
+
+1965
+02:16:28,138 --> 02:16:30,474
+Dr. Freud must be
+allowed to speak!
+
+1966
+02:16:31,308 --> 02:16:33,143
+It is in the Oedipus Complex.
+
+1967
+02:16:33,143 --> 02:16:36,271
+The child's fixation on the
+parent of the opposite sex
+
+1968
+02:16:36,271 --> 02:16:38,899
+that infantile eroticism
+reaches its climax.
+
+1969
+02:16:40,901 --> 02:16:42,486
+Each...
+
+1970
+02:16:42,486 --> 02:16:45,531
+Each human being
+is confronted with the task
+
+1971
+02:16:45,531 --> 02:16:48,075
+of overcoming this complex
+within himself.
+
+1972
+02:16:48,992 --> 02:16:52,913
+If he succeeds,
+he will be a whole individual.
+
+1973
+02:16:52,913 --> 02:16:56,291
+If he fails,
+he will become a neurotic,
+
+1974
+02:16:56,291 --> 02:17:01,463
+and himself wander forever,
+blind and homeless.
+
+1975
+02:17:01,505 --> 02:17:02,923
+Sit down!
+
+1976
+02:17:06,009 --> 02:17:10,514
+Gentlemen, I am deeply grateful
+for your kind attention.
+
+1977
+02:17:11,598 --> 02:17:15,352
+You have not ceased
+to display the detachment,
+
+1978
+02:17:16,061 --> 02:17:18,439
+the love of truth
+for truth's sake...
+
+1979
+02:17:18,439 --> 02:17:19,565
+What truth?
+
+1980
+02:17:19,565 --> 02:17:21,191
+That ennobles our profession.
+
+1981
+02:17:25,195 --> 02:17:28,782
+Gentlemen, have
+you any questions?
+
+1982
+02:17:28,782 --> 02:17:30,743
+Just one question.
+
+1983
+02:17:31,535 --> 02:17:33,287
+And I shall not ask it
+of the speaker.
+
+1984
+02:17:35,706 --> 02:17:40,419
+Dr. Breuer, you are aware of the
+esteem in which we all hold you.
+
+1985
+02:17:42,004 --> 02:17:44,006
+Do you share
+your collaborator's views?
+
+1986
+02:17:48,343 --> 02:17:51,638
+Sir, my collaborator
+is an eminent man.
+
+1987
+02:17:53,182 --> 02:17:54,641
+He is a zealous worker,
+
+1988
+02:17:55,893 --> 02:17:59,396
+and there are many here
+who would do well to have
+
+1989
+02:17:59,396 --> 02:18:01,899
+his scruples
+and professional conscience.
+
+1990
+02:18:06,570 --> 02:18:08,071
+How dare you?
+
+1991
+02:18:09,114 --> 02:18:12,576
+And how dare you ask me for
+references regarding Dr. Freud?
+
+1992
+02:18:13,786 --> 02:18:17,039
+Who in this hall can say,
+"I am worth more than that man"?
+
+1993
+02:18:17,623 --> 02:18:19,583
+No one is dreaming
+of that, Dr. Breuer.
+
+1994
+02:18:20,167 --> 02:18:22,002
+| would simply like to know
+
+1995
+02:18:22,002 --> 02:18:23,462
+whether you share
+the speaker's views.
+
+1996
+02:18:26,340 --> 02:18:30,969
+To be specific, what do you
+think of infantile sexuality?
+
+1997
+02:18:44,024 --> 02:18:45,359
+| do not believe in it.
+
+1998
+02:18:46,568 --> 02:18:48,320
+| have never believed in it.
+
+1999
+02:18:49,196 --> 02:18:52,199
+| can never accept it.
+Never accept it, never!
+
+2000
+02:19:07,047 --> 02:19:09,675
+Gentlemen,
+the meeting is adjourned!
+
+2001
+02:19:43,750 --> 02:19:44,960
+"Know thyself."
+
+2002
+02:19:47,087 --> 02:19:48,881
+Two thousand years ago,
+
+2003
+02:19:48,881 --> 02:19:51,800
+these words were carved
+on the temple at Delphi.
+
+2004
+02:19:52,593 --> 02:19:53,760
+"Know thyself."
+
+2005
+02:19:55,429 --> 02:19:57,681
+They're the beginning of wisdom.
+
+2006
+02:19:59,182 --> 02:20:02,477
+In them,
+lies the single hope of victory
+
+2007
+02:20:02,936 --> 02:20:06,356
+over man's oldest enemy:
+His vanity.
+
+2008
+02:20:08,775 --> 02:20:12,070
+This knowledge is how
+within our grasp.
+
+2009
+02:20:14,031 --> 02:20:15,240
+Will we use it?
+
+2010
+02:20:17,242 --> 02:20:18,368
+Let us hope.
+

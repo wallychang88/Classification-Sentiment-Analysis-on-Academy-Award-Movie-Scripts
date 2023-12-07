@@ -1,0 +1,7019 @@
+1
+00:01:31,259 --> 00:01:32,198
+<font color="#ffff33">How was my speech?</font>
+Mon discours était bien ?
+
+2
+00:01:32,218 --> 00:01:33,491
+<font color="#ffff33">You were brilliant.</font>
+Vous avez été magistrale.
+
+3
+00:01:33,511 --> 00:01:35,243
+<font color="#ffff33">- Did I lisp? - You don't lisp.</font>
+- Ai-je zozoté ? - Vous ne zozotez pas.
+
+4
+00:01:35,263 --> 00:01:36,911
+<font color="#ffff33">I know. That was what was so troubling about it.</font>
+Je sais. C'est ce qui était troublant.
+
+5
+00:01:36,931 --> 00:01:39,497
+<font color="#ffff33">- The thought that I suddenly did. - No.</font>
+- L'idée de soudain le faire. - Non.
+
+6
+00:01:39,517 --> 00:01:41,332
+<font color="#ffff33">Sarah, you must say hello to the little ones.</font>
+Sarah, vous devez saluer les petits.
+
+7
+00:01:41,352 --> 00:01:44,335
+<font color="#ffff33">No. It is macabre.</font>
+Non. C'est macabre.
+
+8
+00:01:44,355 --> 00:01:45,795
+<font color="#ffff33">Please.</font>
+Je vous en prie.
+
+9
+00:01:45,815 --> 00:01:46,796
+<font color="#ffff33">No.</font>
+Non.
+
+10
+00:01:46,816 --> 00:01:48,673
+<font color="#ffff33">I love you, but that I will not do.</font>
+Je vous adore, mais ça, je refuse.
+
+11
+00:01:48,693 --> 00:01:50,425
+<font color="#ffff33">- If you love me... - Love has limits.</font>
+- Si vous m'aimez... - L'amour a ses limites.
+
+12
+00:01:50,445 --> 00:01:52,385
+<font color="#ffff33">It should not.</font>
+Il ne devrait pas.
+
+13
+00:01:52,405 --> 00:01:59,828
+<font color="#ffff33"></font>
+LA FAVORITE
+
+14
+00:02:18,640 --> 00:02:21,498
+<font color="#ffff33">You do not lisp, but you are mad.</font>
+Vous ne zozotez pas, mais vous êtes folle.
+
+15
+00:02:21,518 --> 00:02:23,750
+<font color="#ffff33">Giving me a palace?</font>
+Vous m'offrez un palais ?
+
+16
+00:02:23,770 --> 00:02:26,461
+<font color="#ffff33">I've been wanting to give you something for quite some time now.</font>
+Je voulais vous faire un cadeau depuis un moment.
+
+17
+00:02:26,481 --> 00:02:29,214
+<font color="#ffff33">Seemed like the perfect opportunity with Marlborough winning.</font>
+La victoire de Marlborough était l'occasion parfaite.
+
+18
+00:02:29,234 --> 00:02:32,550
+<font color="#ffff33">It is a monstrous extravagance, Mrs. Morley. We are at war.</font>
+C'est une affreuse extravagance, Mme Morley. Nous sommes en guerre.
+
+19
+00:02:32,570 --> 00:02:33,802
+<font color="#ffff33">We won.</font>
+Nous avons gagné.
+
+20
+00:02:33,822 --> 00:02:36,928
+<font color="#ffff33">It is not over. We must continue.</font>
+Ce n'est pas terminé. Nous devons continuer.
+
+21
+00:02:36,948 --> 00:02:38,681
+<font color="#ffff33">Oh.</font>
+
+
+22
+00:02:38,701 --> 00:02:40,786
+<font color="#ffff33">Oh, I did not know that.</font>
+Je l'ignorais.
+
+23
+00:02:43,540 --> 00:02:48,502
+<font color="#ffff33"></font>
+CETTE BOUE EMPESTE
+
+24
+00:03:37,677 --> 00:03:39,803
+<font color="#ffff33">Take a hunk of bread.</font>
+Prenez un morceau de pain.
+
+25
+00:03:42,056 --> 00:03:47,310
+<font color="#ffff33">And then Sally will take you to clean up and then to Her Ladyship.</font>
+Sally vous emmènera faire votre toilette avant de rencontrer madame.
+
+26
+00:04:01,951 --> 00:04:04,183
+<font color="#ffff33">This mud stinks.</font>
+Cette boue empeste.
+
+27
+00:04:04,203 --> 00:04:06,352
+<font color="#ffff33">They shit in the streets round here.</font>
+Les gens chient dans les rues par ici.
+
+28
+00:04:06,372 --> 00:04:08,354
+<font color="#ffff33">"Political commentary," they call it.</font>
+"Une déclaration politique", disent-ils.
+
+29
+00:04:08,374 --> 00:04:09,439
+<font color="#ffff33">Go through here.</font>
+Par ici.
+
+30
+00:04:09,459 --> 00:04:11,376
+<font color="#ffff33">Clean yourself up.</font>
+Lavez-vous.
+
+31
+00:04:11,544 --> 00:04:13,543
+<font color="#ffff33">Thank you so much.</font>
+Merci.
+
+32
+00:04:22,180 --> 00:04:24,097
+<font color="#ffff33">Lady Marlborough.</font>
+Lady Marlborough.
+
+33
+00:04:24,766 --> 00:04:27,707
+<font color="#ffff33">I didn't know the new sewer ended in here.</font>
+J'ignorais que le nouvel égout aboutissait ici.
+
+34
+00:04:27,727 --> 00:04:30,843
+<font color="#ffff33">It is I, Abigail.</font>
+C'est moi, Abigail.
+
+35
+00:04:30,897 --> 00:04:32,932
+<font color="#ffff33">Dear cousin.</font>
+Chère cousine.
+
+36
+00:04:32,941 --> 00:04:35,350
+<font color="#ffff33">I have a letter from our aunt...</font>
+J'ai une lettre de notre tante
+
+37
+00:04:35,360 --> 00:04:37,358
+<font color="#ffff33">and...</font>
+et...
+
+38
+00:04:38,571 --> 00:04:41,471
+<font color="#ffff33">I'm sorry, I did not mean to present as a...</font>
+Pardon, je ne voulais pas me présenter comme...
+
+39
+00:04:41,491 --> 00:04:44,076
+<font color="#ffff33">I fell out of a carriage.</font>
+Je suis tombée d'une voiture.
+
+40
+00:04:48,706 --> 00:04:50,624
+<font color="#ffff33">And a man was pulling his...</font>
+Et un homme se tripotait le...
+
+41
+00:04:53,753 --> 00:04:55,735
+<font color="#ffff33">Never mind the man.</font>
+Peu importe.
+
+42
+00:04:55,755 --> 00:04:57,835
+<font color="#ffff33">The letter from our aunt.</font>
+La lettre de notre tante.
+
+43
+00:04:59,926 --> 00:05:01,783
+<font color="#ffff33">Friends of yours?</font>
+Des amis à vous ?
+
+44
+00:05:01,803 --> 00:05:03,660
+<font color="#ffff33">I'm sorry.</font>
+Excusez-moi.
+
+45
+00:05:03,680 --> 00:05:05,536
+<font color="#ffff33">Your name, girl. If we are blood, name it.</font>
+Votre nom. Si nous sommes du même sang, dites-le.
+
+46
+00:05:05,556 --> 00:05:06,621
+<font color="#ffff33">I did not?</font>
+Je ne l'ai pas fait ?
+
+47
+00:05:06,641 --> 00:05:08,581
+<font color="#ffff33">- Abigail Hill. - The Somerset Hills?</font>
+- Abigail Hill. - Des Hill du Somerset ?
+
+48
+00:05:08,601 --> 00:05:11,834
+<font color="#ffff33">The one who went mad and burnt his own house down, himself in it?</font>
+Celui qui a perdu la tête et a brûlé avec sa maison ?
+
+49
+00:05:11,854 --> 00:05:13,753
+<font color="#ffff33">Lost all his money at whist.</font>
+Il a perdu tout son argent au whist.
+
+50
+00:05:13,773 --> 00:05:15,380
+<font color="#ffff33">No one bets on whist.</font>
+Personne ne parie au whist.
+
+51
+00:05:15,400 --> 00:05:16,965
+<font color="#ffff33">My uncle was one of a kind.</font>
+Mon oncle était un original.
+
+52
+00:05:16,985 --> 00:05:18,758
+<font color="#ffff33">I apologize for my appearance.</font>
+Excusez mon apparence.
+
+53
+00:05:18,778 --> 00:05:22,095
+<font color="#ffff33">The staff led me here. A harmless prank of some sort, I suspect.</font>
+Les domestiques m'ont menée ici. C'était sûrement une plaisanterie.
+
+54
+00:05:22,115 --> 00:05:23,638
+<font color="#ffff33">And you want...</font>
+Et vous désirez...
+
+55
+00:05:23,658 --> 00:05:27,266
+<font color="#ffff33">I hoped I might be employed here by you... as something.</font>
+J'espérais que vous m'embauchiez pour un travail ou un autre.
+
+56
+00:05:27,286 --> 00:05:30,853
+<font color="#ffff33">A monster for the children to play with, perhaps?</font>
+Un monstre pour amuser les enfants, par exemple ?
+
+57
+00:05:30,873 --> 00:05:32,953
+<font color="#ffff33">Yes, if you like.</font>
+Oui, si vous voulez.
+
+58
+00:06:30,725 --> 00:06:31,706
+<font color="#ffff33">A palace.</font>
+Un palais.
+
+59
+00:06:31,726 --> 00:06:34,751
+<font color="#ffff33">You seem angry at my good fortune and I thought we were friends.</font>
+Ma chance semble vous fâcher. Je nous croyais amis.
+
+60
+00:06:34,771 --> 00:06:36,627
+<font color="#ffff33">I really doubt you've made that mistake.</font>
+Je doute que vous ayez commis cette erreur.
+
+61
+00:06:36,647 --> 00:06:39,547
+<font color="#ffff33">I was actually just teasing. I thought you'd see that.</font>
+Je vous taquinais. Je croyais que vous le saviez.
+
+62
+00:06:39,567 --> 00:06:41,174
+<font color="#ffff33">It will not stand.</font>
+Ça ne tient pas debout.
+
+63
+00:06:41,194 --> 00:06:44,969
+<font color="#ffff33">Well, it will if I build it using the finest craftsmen in the land.</font>
+Ça tiendra si les meilleurs artisans du coin le construisent.
+
+64
+00:06:44,989 --> 00:06:46,637
+<font color="#ffff33">I hope it will stand for 100 years</font>
+J'espère qu'il sera, pendant 100 ans,
+
+65
+00:06:46,657 --> 00:06:48,973
+<font color="#ffff33">as a symbol of my husband's gallant victory.</font>
+le symbole de la victoire de mon mari.
+
+66
+00:06:48,993 --> 00:06:50,933
+<font color="#ffff33">Listen, I applaud your husband's gallant victory,</font>
+J'applaudis la victoire de votre mari,
+
+67
+00:06:50,953 --> 00:06:53,019
+<font color="#ffff33">but considering the parlous state of the treasury,</font>
+mais vu l'état désastreux de nos finances,
+
+68
+00:06:53,039 --> 00:06:56,022
+<font color="#ffff33">it seems something the queen should've taken advice from her loyal opposition on.</font>
+la reine aurait dû consulter sa loyale opposition.
+
+69
+00:06:56,042 --> 00:06:59,192
+<font color="#ffff33">Oh, but then it would've lost its delightful surprise element.</font>
+Nous aurions perdu ce délicieux élément de surprise.
+
+70
+00:06:59,212 --> 00:07:00,568
+<font color="#ffff33">Cunt!</font>
+Garce !
+
+71
+00:07:00,588 --> 00:07:02,153
+<font color="#ffff33">Horatio has done it again.</font>
+Une autre victoire pour Horatio.
+
+72
+00:07:02,173 --> 00:07:04,614
+<font color="#ffff33">Prime Minister, we need to discuss who will go to the French</font>
+M. le Premier ministre, discutons de qui présentera aux Français
+
+73
+00:07:04,634 --> 00:07:07,492
+<font color="#ffff33">- with the peace treaty proposal. - We do not need a peace treaty proposal.</font>
+- la proposition de traité de paix. - C'est inutile.
+
+74
+00:07:07,512 --> 00:07:08,743
+<font color="#ffff33">We have them on the run.</font>
+Ils sont en fuite.
+
+75
+00:07:08,763 --> 00:07:10,078
+<font color="#ffff33">So they will give in to us.</font>
+Ils se rendront.
+
+76
+00:07:10,098 --> 00:07:11,662
+<font color="#ffff33">One battle will not win the war.</font>
+Une bataille ne suffit pas pour gagner la guerre.
+
+77
+00:07:11,682 --> 00:07:14,165
+<font color="#ffff33">I have held my party together, as we the country landowners</font>
+J'ai unifié mon parti alors que nous, propriétaires terriens,
+
+78
+00:07:14,185 --> 00:07:16,042
+<font color="#ffff33">have essentially paid for this entire war...</font>
+payions pour cette guerre...
+
+79
+00:07:16,062 --> 00:07:17,293
+<font color="#ffff33">And grateful we are, too.</font>
+Nous en sommes reconnaissants.
+
+80
+00:07:17,313 --> 00:07:19,587
+<font color="#ffff33">...while city merchants enrich themselves from it.</font>
+... pendant qu'elle enrichissait les marchants.
+
+81
+00:07:19,607 --> 00:07:23,883
+<font color="#ffff33">And yet I do not see your fat tweedy dead when I look out upon the battlefield.</font>
+Je ne vois pourtant pas vos semblables morts sur le champ de bataille.
+
+82
+00:07:23,903 --> 00:07:25,301
+<font color="#ffff33">We're out of money. My point.</font>
+Le fait est que nous n'avons plus d'argent.
+
+83
+00:07:25,321 --> 00:07:27,845
+<font color="#ffff33">The French are chastened, but not defeated, Harley.</font>
+Les Français sont abattus, mais non vaincus, Harley.
+
+84
+00:07:27,865 --> 00:07:29,347
+<font color="#ffff33">We must destroy them.</font>
+Nous devons les anéantir.
+
+85
+00:07:29,367 --> 00:07:32,809
+<font color="#ffff33">Make them sue for peace with broken hearts and begging backs.</font>
+Ils nous supplieront de faire la paix, à genoux, le cœur brisé.
+
+86
+00:07:32,829 --> 00:07:35,436
+<font color="#ffff33">- How sweet your wife is, Marlborough. - Sweet and right.</font>
+- Votre femme est charmante, Marlborough. - Et elle a raison.
+
+87
+00:07:35,456 --> 00:07:37,563
+<font color="#ffff33">I cannot agree. We must take it to the queen.</font>
+Je ne suis pas d'accord. Parlons à la reine.
+
+88
+00:07:37,583 --> 00:07:40,149
+<font color="#ffff33">If you'd be kind enough to arrange a time, Lady Marlborough.</font>
+Ayez l'amabilité d'organiser un rendez-vous, Lady Marlborough.
+
+89
+00:07:40,169 --> 00:07:42,003
+<font color="#ffff33">Of course.</font>
+Bien sûr.
+
+90
+00:08:33,681 --> 00:08:36,789
+<font color="#ffff33">I'm ready for the Russian ambassador.</font>
+Je suis prête à recevoir l'ambassadeur de Russie.
+
+91
+00:08:36,809 --> 00:08:37,957
+<font color="#ffff33">Who did your makeup?</font>
+Qui vous a maquillée ?
+
+92
+00:08:37,977 --> 00:08:40,751
+<font color="#ffff33">We went for something dramatic. Do you like it?</font>
+Je voulais que ce soit dramatique. Vous aimez ?
+
+93
+00:08:40,771 --> 00:08:42,794
+<font color="#ffff33">You look like a badger.</font>
+Vous ressemblez à un blaireau.
+
+94
+00:08:42,814 --> 00:08:44,814
+<font color="#ffff33">Oh.</font>
+
+
+95
+00:08:45,318 --> 00:08:48,729
+<font color="#ffff33">Are you going to cry? Really?</font>
+Allez-vous pleurer ? Vraiment ?
+
+96
+00:08:48,821 --> 00:08:52,278
+<font color="#ffff33">Well, what do you think you look like?</font>
+À quoi croyez-vous ressembler ?
+
+97
+00:08:55,912 --> 00:08:57,910
+<font color="#ffff33">A badger.</font>
+À un blaireau.
+
+98
+00:08:58,122 --> 00:09:02,565
+<font color="#ffff33">Do you really think you can meet the Russian delegation looking like that?</font>
+Croyez-vous pouvoir rencontrer les Russes avec cette mine-là ?
+
+99
+00:09:02,585 --> 00:09:03,941
+<font color="#ffff33">No.</font>
+Non.
+
+100
+00:09:03,961 --> 00:09:06,041
+<font color="#ffff33">I will manage it.</font>
+Je m'en occuperai.
+
+101
+00:09:06,214 --> 00:09:08,248
+<font color="#ffff33">Get back to your rooms.</font>
+Retournez dans votre chambre.
+
+102
+00:09:08,257 --> 00:09:10,256
+<font color="#ffff33">Thank you.</font>
+Merci.
+
+103
+00:09:18,476 --> 00:09:21,125
+<font color="#ffff33">Did you just look at me? Did you?</font>
+Venez-vous de me regarder ? Hein ?
+
+104
+00:09:21,145 --> 00:09:23,544
+<font color="#ffff33">Look at me! Look at me!</font>
+Regardez-moi ! Regardez-moi !
+
+105
+00:09:23,564 --> 00:09:26,555
+<font color="#ffff33">How dare you? Close your eyes!</font>
+Comment osez-vous ? Fermez les yeux !
+
+106
+00:09:41,874 --> 00:09:43,356
+<font color="#ffff33">Hello.</font>
+Bonjour.
+
+107
+00:09:43,376 --> 00:09:44,357
+<font color="#ffff33">Hello.</font>
+Bonjour.
+
+108
+00:09:44,377 --> 00:09:46,776
+<font color="#ffff33">Mrs. Meg says you are to scrub the floor</font>
+Mme Meg dit que tu dois laver le plancher
+
+109
+00:09:46,796 --> 00:09:49,654
+<font color="#ffff33">until she can see her toothless, fat face in it.</font>
+jusqu'à ce qu'elle y voie son gros visage édenté.
+
+110
+00:09:49,674 --> 00:09:51,672
+<font color="#ffff33">Sorry.</font>
+Je regrette.
+
+111
+00:10:20,621 --> 00:10:22,270
+<font color="#ffff33">You might need gloves.</font>
+Il te faudra des gants.
+
+112
+00:10:22,290 --> 00:10:25,655
+<font color="#ffff33">Lye is dangerous. It burns bad.</font>
+La soude, c'est dangereux. Ça brûle.
+
+113
+00:10:40,725 --> 00:10:42,039
+<font color="#ffff33">Sarah!</font>
+Sarah !
+
+114
+00:10:42,059 --> 00:10:43,207
+<font color="#ffff33">I'm here.</font>
+Je suis là.
+
+115
+00:10:43,227 --> 00:10:45,186
+<font color="#ffff33"></font>
+Je suis là.
+
+116
+00:10:46,647 --> 00:10:49,547
+<font color="#ffff33">You! Grab the bandage box off the shelf.</font>
+Toi ! Prends les pansements sur l'étagère.
+
+117
+00:10:49,567 --> 00:10:52,808
+<font color="#ffff33">The queen's had an attack of gout. Hurry!</font>
+La reine a une attaque de goutte. Vite !
+
+118
+00:11:13,966 --> 00:11:16,251
+<font color="#ffff33">Mrs. Meg, brandy.</font>
+Mme Meg, du brandy.
+
+119
+00:11:19,430 --> 00:11:20,745
+<font color="#ffff33">It hurts.</font>
+Ça fait mal.
+
+120
+00:11:20,765 --> 00:11:23,925
+<font color="#ffff33">My dearest, I know.</font>
+Je sais, ma chère.
+
+121
+00:11:28,773 --> 00:11:30,978
+<font color="#ffff33">Cousin, the beef.</font>
+Cousine, le bœuf.
+
+122
+00:11:32,318 --> 00:11:34,008
+<font color="#ffff33">Tell me a story.</font>
+Racontez-moi une histoire.
+
+123
+00:11:34,028 --> 00:11:35,175
+<font color="#ffff33">I can't.</font>
+Je ne peux pas.
+
+124
+00:11:35,195 --> 00:11:36,093
+<font color="#ffff33">Ow!</font>
+
+
+125
+00:11:36,113 --> 00:11:38,112
+<font color="#ffff33">Gently.</font>
+Doucement.
+
+126
+00:11:39,200 --> 00:11:41,682
+<font color="#ffff33">- I can't. - Yes, you can.</font>
+- Je ne peux pas. - Mais oui.
+
+127
+00:11:41,702 --> 00:11:43,782
+<font color="#ffff33">Cousin, start wrapping.</font>
+Cousine, faites un bandage.
+
+128
+00:11:44,413 --> 00:11:46,653
+<font color="#ffff33">Everyone else, leave please.</font>
+Les autres, sortez.
+
+129
+00:11:50,669 --> 00:11:53,171
+<font color="#ffff33">How we first met. Tell me that.</font>
+Racontez-moi notre première rencontre.
+
+130
+00:11:55,174 --> 00:11:59,200
+<font color="#ffff33">The wretched Cheever boy had me on the ground</font>
+Ce garnement de Cheever m'avait poussée au sol
+
+131
+00:11:59,220 --> 00:12:02,078
+<font color="#ffff33">and he was holding me and dropping spittle in my face.</font>
+et me retenait en me bavant au visage.
+
+132
+00:12:02,098 --> 00:12:04,557
+<font color="#ffff33">He is still a pig. Then what?</font>
+C'est toujours un porc. Et après ?
+
+133
+00:12:09,063 --> 00:12:11,678
+<font color="#ffff33">And then I heard footsteps.</font>
+J'ai entendu des pas.
+
+134
+00:12:12,483 --> 00:12:14,689
+<font color="#ffff33">Fast footsteps.</font>
+Des pas rapides.
+
+135
+00:12:15,526 --> 00:12:17,562
+<font color="#ffff33">Ow, ow!</font>
+
+
+136
+00:12:20,908 --> 00:12:25,945
+<font color="#ffff33">And I saw these pink shoes running towards me.</font>
+Des chaussures roses couraient vers moi.
+
+137
+00:12:26,747 --> 00:12:29,078
+<font color="#ffff33">And then they disappeared.</font>
+Puis, elles ont disparu.
+
+138
+00:12:37,299 --> 00:12:39,834
+<font color="#ffff33">And then I heard a crack.</font>
+Et j'ai entendu un craquement.
+
+139
+00:12:40,386 --> 00:12:42,637
+<font color="#ffff33">And then he fell off me.</font>
+Il est tombé de sur moi.
+
+140
+00:12:46,684 --> 00:12:50,292
+<font color="#ffff33">And you held my hand and said, "Hello. I'm Sarah.</font>
+Vous avez tendu la main en disant : "Je m'appelle Sarah.
+
+141
+00:12:50,312 --> 00:12:54,644
+<font color="#ffff33">You're covered in spittle. Let's wash you off."</font>
+"Tu es couverte de salive. Allons te nettoyer."
+
+142
+00:12:57,820 --> 00:13:00,469
+<font color="#ffff33">Do you remember how his jawjust hung there?</font>
+Vous rappelez-vous sa bouche grande ouverte ?
+
+143
+00:13:00,489 --> 00:13:02,482
+<font color="#ffff33">I do.</font>
+Oui.
+
+144
+00:13:04,577 --> 00:13:06,828
+<font color="#ffff33">You must try to sleep.</font>
+Essayez de dormir.
+
+145
+00:13:10,040 --> 00:13:11,772
+<font color="#ffff33">You may go.</font>
+Vous pouvez partir.
+
+146
+00:13:11,792 --> 00:13:15,085
+<font color="#ffff33">- Don't leave me! - I won't.</font>
+- Ne me quittez pas ! - Mais non.
+
+147
+00:13:19,216 --> 00:13:22,547
+<font color="#ffff33">- Are you still there? - Yes.</font>
+- Êtes-vous toujours là ? - Oui.
+
+148
+00:13:29,810 --> 00:13:33,016
+<font color="#ffff33">- Are you still there? - Yes.</font>
+- Êtes-vous toujours là ? - Oui.
+
+149
+00:14:15,356 --> 00:14:18,255
+<font color="#ffff33">For the queen. The doctor's ordered it immediately.</font>
+Pour la reine. Ordres du médecin.
+
+150
+00:14:18,275 --> 00:14:19,965
+<font color="#ffff33">It's a matter of extreme urgency.</font>
+C'est extrêmement urgent.
+
+151
+00:14:19,985 --> 00:14:22,065
+<font color="#ffff33">She's sleeping.</font>
+Elle dort.
+
+152
+00:14:23,364 --> 00:14:25,429
+<font color="#ffff33">Shall I tell the doctor you imperiled the queen's health</font>
+Dois-je dire au médecin que vous avez mis la reine en danger
+
+153
+00:14:25,449 --> 00:14:28,235
+<font color="#ffff33">and let you rue the ramifications?</font>
+et vous laisser pâtir des conséquences ?
+
+154
+00:14:28,536 --> 00:14:31,143
+<font color="#ffff33">What does "ramific..."</font>
+Que signifie "pâtir des con..."
+
+155
+00:14:31,163 --> 00:14:33,869
+<font color="#ffff33">It means he will have you whipped.</font>
+Qu'il vous fera fouetter.
+
+156
+00:15:10,536 --> 00:15:12,142
+<font color="#ffff33">What are you doing?</font>
+Que faites-vous ?
+
+157
+00:15:12,162 --> 00:15:14,937
+<font color="#ffff33">This is peleatis, the herb.</font>
+C'est une herbe médicinale.
+
+158
+00:15:14,957 --> 00:15:16,522
+<font color="#ffff33">I cut some this morning.</font>
+J'en ai cueilli ce matin.
+
+159
+00:15:16,542 --> 00:15:19,316
+<font color="#ffff33">It reduces swelling and inflammation. I thought it may help the queen.</font>
+Ça soulage l'enflure et l'inflammation. Ça pourrait aider la reine.
+
+160
+00:15:19,336 --> 00:15:21,527
+<font color="#ffff33">You cannot just walk in here.</font>
+Vous ne pouvez pas entrer ici.
+
+161
+00:15:21,547 --> 00:15:24,863
+<font color="#ffff33">Why did the footman let you through?</font>
+Pourquoi le valet vous a-t-il laissée passer ?
+
+162
+00:15:24,883 --> 00:15:26,740
+<font color="#ffff33">It's not his fault. I lied to him.</font>
+Ce n'est pas de sa faute. Je lui ai menti.
+
+163
+00:15:26,760 --> 00:15:29,618
+<font color="#ffff33">The prime minister and Mr. Marlborough. I just wanted to help her. She seemed to suffer so much.</font>
+- Le Premier ministre et M. Marlborough. - Je voulais l'aider.
+
+164
+00:15:29,638 --> 00:15:31,370
+<font color="#ffff33"></font>
+Elle semblait tant souffrir.
+
+165
+00:15:31,390 --> 00:15:32,746
+<font color="#ffff33">Footman.</font>
+Valet.
+
+166
+00:15:32,766 --> 00:15:34,206
+<font color="#ffff33">Take her downstairs.</font>
+Accompagnez-la en bas.
+
+167
+00:15:34,226 --> 00:15:38,544
+<font color="#ffff33">Tell Mrs. Meg she is to receive six of the birch. Go.</font>
+Dites à Mme Meg qu'elle mérite six coups de baguette. Allez.
+
+168
+00:15:38,564 --> 00:15:41,395
+<font color="#ffff33">It's peleatis, the herb.</font>
+C'est une herbe médicinale.
+
+169
+00:15:46,196 --> 00:15:49,847
+<font color="#ffff33">Anne, you must focus.</font>
+Anne, concentrez-vous.
+
+170
+00:15:49,867 --> 00:15:54,727
+<font color="#ffff33">We gather our forces here. The Austrians mass here.</font>
+Nos forces seront rassemblées ici. Celles des Autrichiens, là.
+
+171
+00:15:54,747 --> 00:15:56,395
+<font color="#ffff33">Which country is that again?</font>
+Quel est ce pays, déjà ?
+
+172
+00:15:56,415 --> 00:15:58,480
+<font color="#ffff33">Listen. Marlborough.</font>
+Écoutez. Marlborough.
+
+173
+00:15:58,500 --> 00:16:00,566
+<font color="#ffff33">This is the town of Lille,</font>
+C'est la ville de Lille,
+
+174
+00:16:00,586 --> 00:16:03,694
+<font color="#ffff33">in a valley in France.</font>
+dans une vallée en France.
+
+175
+00:16:03,714 --> 00:16:06,905
+<font color="#ffff33">We lure them in by sending a small force to engage them.</font>
+Nous les attirerons en envoyant un bataillon les occuper.
+
+176
+00:16:06,925 --> 00:16:08,157
+<font color="#ffff33">They give chase.</font>
+Ils se mettront en chasse.
+
+177
+00:16:08,177 --> 00:16:10,576
+<font color="#ffff33">We descend in numbers from above.</font>
+Nous arriverons d'en haut, en masse.
+
+178
+00:16:10,596 --> 00:16:13,245
+<font color="#ffff33">- Hear, hear! - Hear, hear! It is an excellent plan.</font>
+- Bien dit ! - Bien dit ! Excellent plan.
+
+179
+00:16:13,265 --> 00:16:15,247
+<font color="#ffff33">Queen Anne, do you agree?</font>
+Reine Anne, êtes-vous d'accord ?
+
+180
+00:16:15,267 --> 00:16:17,499
+<font color="#ffff33">The people expect it to be over.</font>
+Le peuple veut que ce soit terminé.
+
+181
+00:16:17,519 --> 00:16:21,378
+<font color="#ffff33">Well, we all want it to be over, but wishing does not make it so.</font>
+Comme nous tous, mais le vouloir n'en fait pas une réalité.
+
+182
+00:16:21,398 --> 00:16:25,132
+<font color="#ffff33">We could sue for peace, but we will not get it.</font>
+Nous n'obtiendrons pas la paix en la réclamant.
+
+183
+00:16:25,152 --> 00:16:27,151
+<font color="#ffff33">It does help.</font>
+Ça fait du bien.
+
+184
+00:16:28,906 --> 00:16:29,887
+<font color="#ffff33">What?</font>
+Pardon ?
+
+185
+00:16:29,907 --> 00:16:33,682
+<font color="#ffff33">There's something soothing on my legs, it takes the burn out. What is it?</font>
+Il y a quelque chose d'apaisant sur mes jambes. Qu'est-ce que c'est ?
+
+186
+00:16:33,702 --> 00:16:36,199
+<font color="#ffff33">Oh, herbs, of some sort.</font>
+Des herbes.
+
+187
+00:16:40,876 --> 00:16:43,662
+<font color="#ffff33">Please, please.</font>
+Je vous en prie.
+
+188
+00:16:45,798 --> 00:16:46,779
+<font color="#ffff33">What is going on?</font>
+Que se passe-t-il ?
+
+189
+00:16:46,799 --> 00:16:49,448
+<font color="#ffff33">Do her in the barn, if that's what it is, not in my kitchen.</font>
+Va la trousser dans la grange, pas dans ma cuisine.
+
+190
+00:16:49,468 --> 00:16:53,800
+<font color="#ffff33">Her Ladyship says six of the birch for this one.</font>
+Madame a dit de lui donner six coups de baguette.
+
+191
+00:17:06,944 --> 00:17:08,778
+<font color="#ffff33">Stop.</font>
+Arrêtez.
+
+192
+00:17:08,779 --> 00:17:10,469
+<font color="#ffff33">Let her go.</font>
+Relâchez-la.
+
+193
+00:17:10,489 --> 00:17:12,448
+<font color="#ffff33">Come with me.</font>
+Suivez-moi.
+
+194
+00:17:18,038 --> 00:17:21,522
+<font color="#ffff33">So, you are perhaps too kind for your own good.</font>
+Vous êtes peut-être trop bonne pour votre propre bien.
+
+195
+00:17:21,542 --> 00:17:23,565
+<font color="#ffff33">It has been said.</font>
+Certains ont déjà dit ça.
+
+196
+00:17:23,585 --> 00:17:25,870
+<font color="#ffff33">Which leads to stupidity.</font>
+Cela conduit à la stupidité.
+
+197
+00:17:27,506 --> 00:17:30,239
+<font color="#ffff33">The queen is soothed somewhat, so I thank you.</font>
+La reine se sent mieux, alors merci.
+
+198
+00:17:30,259 --> 00:17:32,741
+<font color="#ffff33">You will get me some more of those herbs</font>
+Trouvez-moi encore de ces herbes
+
+199
+00:17:32,761 --> 00:17:35,092
+<font color="#ffff33">and not overstep again.</font>
+et ne prenez plus de libertés.
+
+200
+00:17:36,598 --> 00:17:39,384
+<font color="#ffff33">My father always spoke highly of you.</font>
+Mon père vous tenait en haute estime.
+
+201
+00:17:40,060 --> 00:17:41,750
+<font color="#ffff33">I liked your father.</font>
+J'ai toujours aimé votre père.
+
+202
+00:17:41,770 --> 00:17:44,180
+<font color="#ffff33">He had charm to burn.</font>
+Il avait du charme à revendre.
+
+203
+00:17:44,481 --> 00:17:46,480
+<font color="#ffff33">Then I guess he did.</font>
+On peut dire ça.
+
+204
+00:17:48,610 --> 00:17:50,850
+<font color="#ffff33">You have fallen far.</font>
+Vous êtes tombée de haut.
+
+205
+00:17:51,989 --> 00:17:55,097
+<font color="#ffff33">When I was 15, my father lost me in a card game.</font>
+Quand j'avais 15 ans, mon père m'a perdue aux cartes.
+
+206
+00:17:55,117 --> 00:17:57,410
+<font color="#ffff33">You are not serious.</font>
+Vous n'êtes pas sérieuse.
+
+207
+00:17:57,828 --> 00:17:59,393
+<font color="#ffff33">This one here.</font>
+Par ici.
+
+208
+00:17:59,413 --> 00:18:01,979
+<font color="#ffff33">He was very upset about it.</font>
+Ça l'a bouleversé.
+
+209
+00:18:01,999 --> 00:18:03,105
+<font color="#ffff33">Took off into the forest</font>
+Il est parti dans les bois
+
+210
+00:18:03,125 --> 00:18:06,316
+<font color="#ffff33">with nothing but a scullery maid and a dozen bottles for solace.</font>
+avec une soubrette et 12 bouteilles pour se consoler.
+
+211
+00:18:06,336 --> 00:18:07,985
+<font color="#ffff33">And you went?</font>
+Et vous avez consenti ?
+
+212
+00:18:08,005 --> 00:18:10,487
+<font color="#ffff33">I wanted to do right by my father.</font>
+Je voulais faire honneur à mon père.
+
+213
+00:18:10,507 --> 00:18:14,950
+<font color="#ffff33">The debt was to a balloon-shaped German man with a thin cock.</font>
+Le gagnant était un Allemand obèse avec une petite bite.
+
+214
+00:18:14,970 --> 00:18:20,553
+<font color="#ffff33">Thankfully, I managed to convince him a woman has her blood in 28 days a month.</font>
+Heureusement, j'ai su lui faire croire qu'une femme saigne 28 jours par mois.
+
+215
+00:18:23,562 --> 00:18:25,730
+<font color="#ffff33">What happened to your hand?</font>
+Qu'avez-vous à la main ?
+
+216
+00:18:26,523 --> 00:18:32,186
+<font color="#ffff33">Some of my... colleagues are immune to my charms.</font>
+Certaines de mes... collègues sont insensibles à mes charmes.
+
+217
+00:18:38,952 --> 00:18:43,831
+<font color="#ffff33"></font>
+JE CRAINS LA CONFUSION ET LES ACCIDENTS
+
+218
+00:18:44,500 --> 00:18:46,607
+<font color="#ffff33">Earl Stratford, do not come near me whining today</font>
+Earl Stratford, si vous vous plaignez à moi aujourd'hui,
+
+219
+00:18:46,627 --> 00:18:49,583
+<font color="#ffff33">or I will crush your tiny heart to liver.</font>
+j'écrabouillerai votre petit cœur.
+
+220
+00:18:49,838 --> 00:18:53,739
+<font color="#ffff33">Madame Tournee. You may have the tapestry budget you asked for.</font>
+Mme Tournee. Vous aurez le budget de tapisserie que vous avez demandé.
+
+221
+00:18:53,759 --> 00:18:57,033
+<font color="#ffff33">Spend one penny more and I will take your fingernails in lieu.</font>
+Dépensez un penny de plus, et je vous arracherai les ongles.
+
+222
+00:18:57,053 --> 00:18:59,053
+<font color="#ffff33">Merci.</font>
+
+
+223
+00:18:59,723 --> 00:19:04,082
+<font color="#ffff33">Abigail, get a platter of oysters sent to the Dutch ambassador.</font>
+Abigail, envoyez un plateau d'huîtres à l'ambassadeur de Hollande.
+
+224
+00:19:04,102 --> 00:19:05,793
+<font color="#ffff33">Yes, Your Ladyship.</font>
+Oui, madame.
+
+225
+00:19:05,813 --> 00:19:07,972
+<font color="#ffff33">Colonel Masham.</font>
+Colonel Masham.
+
+226
+00:19:08,565 --> 00:19:09,797
+<font color="#ffff33">Lady Marlborough.</font>
+Lady Marlborough.
+
+227
+00:19:09,817 --> 00:19:12,257
+<font color="#ffff33">The queen will ride on Wednesday.</font>
+La reine montera à cheval mercredi.
+
+228
+00:19:12,277 --> 00:19:14,529
+<font color="#ffff33">Yes, Lady Marlborough.</font>
+Oui, Lady Marlborough.
+
+229
+00:19:14,738 --> 00:19:18,857
+<font color="#ffff33">Would you like a bite of my new maid before you leave?</font>
+Ma nouvelle domestique vous met l'eau à la bouche ?
+
+230
+00:19:32,464 --> 00:19:34,795
+<font color="#ffff33">Must the duck be here?</font>
+Le canard doit-il être ici ?
+
+231
+00:19:36,009 --> 00:19:38,033
+<font color="#ffff33">Fastest duck in the city.</font>
+C'est le plus rapide en ville.
+
+232
+00:19:38,053 --> 00:19:41,537
+<font color="#ffff33">Horatio is a prize worth stealing. He does not leave my side.</font>
+Certains voudraient me voler Horatio. Je le garde à mes côtés.
+
+233
+00:19:41,557 --> 00:19:42,621
+<font color="#ffff33">Keep him away from me,</font>
+Éloignez-le de moi,
+
+234
+00:19:42,641 --> 00:19:46,041
+<font color="#ffff33">or I will pull his liver out and eat it with a cornichon.</font>
+autrement je lui arracherai le foie pour le manger avec un cornichon.
+
+235
+00:19:46,061 --> 00:19:47,751
+<font color="#ffff33">Charming.</font>
+Charmant.
+
+236
+00:19:47,771 --> 00:19:49,461
+<font color="#ffff33">You should know I've canvassed my party.</font>
+J'ai consulté les membres de mon parti.
+
+237
+00:19:49,481 --> 00:19:52,464
+<font color="#ffff33">They're waiting for us to announce an attempt at peace.</font>
+Ils attendent qu'on annonce des pourparlers de paix.
+
+238
+00:19:52,484 --> 00:19:54,550
+<font color="#ffff33">We shall both make our case to the queen.</font>
+Nous plaiderons tous deux notre cause devant la reine.
+
+239
+00:19:54,570 --> 00:19:57,052
+<font color="#ffff33">Yes, where is the queen? We've been waiting an hour.</font>
+Où est-elle, d'ailleurs ? Nous attendons depuis une heure.
+
+240
+00:19:57,072 --> 00:19:59,096
+<font color="#ffff33">- Lady Sarah Marlborough. - I'm here.</font>
+- Lady Sarah Marlborough. - Me voici.
+
+241
+00:19:59,116 --> 00:20:01,139
+<font color="#ffff33">Might I remind you you're not the queen?</font>
+Puis-je vous rappeler que vous n'êtes pas la reine ?
+
+242
+00:20:01,159 --> 00:20:04,059
+<font color="#ffff33">No, she has sent me to speak for her. She is unwell.</font>
+Elle m'envoie en son nom. Elle ne se sent pas bien.
+
+243
+00:20:04,079 --> 00:20:05,102
+<font color="#ffff33">What says she?</font>
+Que dit-elle ?
+
+244
+00:20:05,122 --> 00:20:08,813
+<font color="#ffff33">That Harley is a fop and a prat and smells like a 96-year-old French whore's vajuju.</font>
+Que Harley est un scélérat et un idiot qui sent le vajoujou de vieille putain.
+
+245
+00:20:08,833 --> 00:20:09,898
+<font color="#ffff33">Oh?</font>
+
+
+246
+00:20:09,918 --> 00:20:11,400
+<font color="#ffff33">Well, I really doubt you're quoting.</font>
+Je doute que vous la citiez directement.
+
+247
+00:20:11,420 --> 00:20:13,318
+<font color="#ffff33">She has decided to continue with the war.</font>
+Elle veut que la guerre continue.
+
+248
+00:20:13,338 --> 00:20:16,697
+<font color="#ffff33">She feels another victory in will put us in a stronger position for a treaty.</font>
+Une autre victoire nous mettra en posture plus avantageuse pour signer un traité.
+
+249
+00:20:16,717 --> 00:20:18,716
+<font color="#ffff33">Her letters.</font>
+Ses lettres.
+
+250
+00:20:18,844 --> 00:20:22,619
+<font color="#ffff33">And how are we going to pay for this? The land tax is to be doubled.</font>
+- Comment financerons-nous ceci ? - En doublant l'impôt foncier.
+
+251
+00:20:22,639 --> 00:20:24,638
+<font color="#ffff33">This is madness.</font>
+C'est de la folie.
+
+252
+00:20:24,766 --> 00:20:27,666
+<font color="#ffff33">The war you will be fighting will be in our own countryside.</font>
+Nos propriétaires terriens déclareront la guerre à leur tour.
+
+253
+00:20:27,686 --> 00:20:30,794
+<font color="#ffff33">She relies on you and your love of England to hold the Tories together.</font>
+Elle compte sur vous et votre amour de la patrie pour rallier le parti tory.
+
+254
+00:20:30,814 --> 00:20:32,963
+<font color="#ffff33">- There are limits. - The love of your country?</font>
+- Il y a des limites. - À votre amour pour la patrie ?
+
+255
+00:20:32,983 --> 00:20:34,673
+<font color="#ffff33">To me, there is no limit on that.</font>
+Selon moi, ça ne se limite pas.
+
+256
+00:20:34,693 --> 00:20:37,134
+<font color="#ffff33">Our last farthing to protect England if we must.</font>
+Nous donnerons notre dernier farthing pour défendre l'Angleterre.
+
+257
+00:20:37,154 --> 00:20:38,594
+<font color="#ffff33">And our last man, too?</font>
+Et notre dernier homme aussi ?
+
+258
+00:20:38,614 --> 00:20:41,138
+<font color="#ffff33">Look, the dead pile up, as do the resentments.</font>
+Les morts s'accumulent, ainsi que le ressentiment.
+
+259
+00:20:41,158 --> 00:20:43,348
+<font color="#ffff33">- Or that does not concern you? - I grieve them all.</font>
+- Ça ne vous inquiète pas ? - Les morts me bouleversent.
+
+260
+00:20:43,368 --> 00:20:47,102
+<font color="#ffff33">In my heart, a scar for each, and I send my own beloved with them, chest bared.</font>
+Mon cœur saigne pour chacun d'eux. Mon propre mari est à leurs côtés.
+
+261
+00:20:47,122 --> 00:20:48,854
+<font color="#ffff33">So do not lecture me on the cost.</font>
+Ne me faites pas la leçon sur le coût.
+
+262
+00:20:48,874 --> 00:20:52,608
+<font color="#ffff33">A treaty would save money and lives. A win for all Englishmen.</font>
+Un traité nous épargnerait vies et argent. Tous les Anglais y gagneraient.
+
+263
+00:20:52,628 --> 00:20:55,736
+<font color="#ffff33">We go to them after one victory, they know we are scared.</font>
+Négocier après une seule victoire, c'est admettre sa peur.
+
+264
+00:20:55,756 --> 00:20:58,196
+<font color="#ffff33">We bury more of them, they know we have them.</font>
+Si nous enterrons plus des leurs, ils admettront notre force.
+
+265
+00:20:58,216 --> 00:20:59,990
+<font color="#ffff33">The queen has decided, Harley.</font>
+La reine a pris sa décision, Harley.
+
+266
+00:21:00,010 --> 00:21:02,009
+<font color="#ffff33">I disagree.</font>
+Je ne suis pas d'accord.
+
+267
+00:21:02,012 --> 00:21:05,287
+<font color="#ffff33">A lot. I'd like an audience with the queen where I may state my case.</font>
+Du tout. J'aimerais voir la reine et présenter mes arguments.
+
+268
+00:21:05,307 --> 00:21:08,790
+<font color="#ffff33">State it to me. I love a comedy. Is there cake?</font>
+Présentez-les-moi. J'aime la comédie. Y a-t-il du gâteau ?
+
+269
+00:21:08,810 --> 00:21:11,793
+<font color="#ffff33">This is a disgusting distortion of the system.</font>
+C'est une affreuse manipulation du système.
+
+270
+00:21:11,813 --> 00:21:13,253
+<font color="#ffff33">You have no place in this.</font>
+Votre place n'est pas ici.
+
+271
+00:21:13,273 --> 00:21:14,504
+<font color="#ffff33">Your mascara is running.</font>
+Votre mascara coule.
+
+272
+00:21:14,524 --> 00:21:19,152
+<font color="#ffff33">If you'd like to go fix yourself, we can continue this later.</font>
+Allez vous nettoyer, et nous continuerons cette discussion.
+
+273
+00:21:27,663 --> 00:21:29,561
+<font color="#ffff33">You will need to pay for the repair of that.</font>
+Vous devrez payer pour les réparations.
+
+274
+00:21:29,581 --> 00:21:32,356
+<font color="#ffff33">We have a war to finance. Every penny counts.</font>
+Nous avons une guerre à financer. Chaque penny compte.
+
+275
+00:21:32,376 --> 00:21:35,252
+<font color="#ffff33">Come on, old bean. One more victory.</font>
+Allez, mon vieux. Une autre victoire.
+
+276
+00:21:45,138 --> 00:21:47,204
+<font color="#ffff33">Must you rub it in?</font>
+Devez-vous tourner le fer ?
+
+277
+00:21:47,224 --> 00:21:50,874
+<font color="#ffff33">A man's dignity is the one thing that holds him back from running amok.</font>
+La dignité d'un homme est ce qui le retient d'agir en dépravé.
+
+278
+00:21:50,894 --> 00:21:54,601
+<font color="#ffff33">Sometimes a lady likes to have some fun.</font>
+Une dame aime parfois s'amuser.
+
+279
+00:21:55,315 --> 00:21:57,881
+<font color="#ffff33">We need to be careful, Sarah.</font>
+Nous devons être prudents, Sarah.
+
+280
+00:21:57,901 --> 00:22:03,109
+<font color="#ffff33">He's a useful ally, but a dangerous enemy.</font>
+C'est un allié utile, mais un ennemi dangereux.
+
+281
+00:22:05,367 --> 00:22:07,368
+<font color="#ffff33">Borrow anything you want.</font>
+Empruntez ce que vous voulez.
+
+282
+00:22:07,411 --> 00:22:08,976
+<font color="#ffff33">Thank you.</font>
+Merci.
+
+283
+00:22:08,996 --> 00:22:11,075
+<font color="#ffff33">And thank you for the job.</font>
+Et merci pour l'emploi.
+
+284
+00:22:11,415 --> 00:22:12,896
+<font color="#ffff33">I have a thing for the weak.</font>
+J'ai un faible pour les démunis.
+
+285
+00:22:12,916 --> 00:22:14,064
+<font color="#ffff33">Lord Marlborough.</font>
+Lord Marlborough.
+
+286
+00:22:14,084 --> 00:22:16,083
+<font color="#ffff33">It is time.</font>
+C'est l'heure.
+
+287
+00:22:18,672 --> 00:22:20,612
+<font color="#ffff33">You must be safe.</font>
+Soyez prudent.
+
+288
+00:22:20,632 --> 00:22:23,031
+<font color="#ffff33">You must not be foolish and brave.</font>
+Ne soyez pas sot et brave.
+
+289
+00:22:23,051 --> 00:22:25,367
+<font color="#ffff33">Be smart and safe, I beg you.</font>
+Soyez astucieux et prudent, je vous implore.
+
+290
+00:22:25,387 --> 00:22:26,368
+<font color="#ffff33">I will.</font>
+Je le serai.
+
+291
+00:22:26,388 --> 00:22:28,514
+<font color="#ffff33">Stay with me tonight.</font>
+Restez avec moi ce soir.
+
+292
+00:22:28,515 --> 00:22:33,382
+<font color="#ffff33">I must sleep with my men. It is only right.</font>
+Je dois dormir auprès de mes hommes. C'est la chose à faire.
+
+293
+00:22:40,819 --> 00:22:41,883
+<font color="#ffff33">I had a dream</font>
+J'ai rêvé
+
+294
+00:22:41,903 --> 00:22:45,595
+<font color="#ffff33">that this very small Frenchman covered in blood...</font>
+qu'un tout petit Français couvert de sang
+
+295
+00:22:45,615 --> 00:22:50,322
+<font color="#ffff33">was carrying Marlborough's head around, feeding it Brie.</font>
+se promenait avec la tête de Marlborough en lui faisant manger du brie.
+
+296
+00:22:55,667 --> 00:22:58,032
+<font color="#ffff33">He's a great soldier.</font>
+C'est un grand soldat.
+
+297
+00:22:58,086 --> 00:22:59,985
+<font color="#ffff33">He will be fine.</font>
+Il se tirera d'affaire.
+
+298
+00:23:00,005 --> 00:23:04,507
+<font color="#ffff33">We will prevail. Of course we will, Mrs. Freeman.</font>
+- Nous vaincrons. - Bien sûr, Mme Freeman.
+
+299
+00:23:17,481 --> 00:23:19,607
+<font color="#ffff33">I'm sorry, Your Majesty.</font>
+Pardon, Votre Majesté.
+
+300
+00:23:19,733 --> 00:23:22,632
+<font color="#ffff33">I think I caught a chill picking the herbs for your leg.</font>
+J'ai pris froid en cueillant des herbes pour votre jambe.
+
+301
+00:23:22,652 --> 00:23:26,358
+<font color="#ffff33">- That was you? - Abigail.</font>
+- C'était vous ? - Abigail.
+
+302
+00:23:36,166 --> 00:23:38,417
+<font color="#ffff33">Let's shoot something.</font>
+Allons tirer sur quelque chose.
+
+303
+00:23:42,005 --> 00:23:46,800
+<font color="#ffff33">It's sad really. They're so pretty.</font>
+C'est triste. Ils sont si jolis.
+
+304
+00:23:53,975 --> 00:23:55,893
+<font color="#ffff33">Throw.</font>
+Lancez.
+
+305
+00:23:58,814 --> 00:24:01,463
+<font color="#ffff33">You're only doing damage to the sky.</font>
+Vous endommagez le ciel.
+
+306
+00:24:01,483 --> 00:24:03,048
+<font color="#ffff33">Can I ask you something?</font>
+Puis-je vous poser une question ?
+
+307
+00:24:03,068 --> 00:24:05,842
+<font color="#ffff33">As long as you are aware that I have a gun.</font>
+Tant que vous êtes consciente que je suis armée.
+
+308
+00:24:05,862 --> 00:24:10,180
+<font color="#ffff33">You fought hard for this war and your husband is at the front of it.</font>
+Vous avez voulu cette guerre et votre mari est au front.
+
+309
+00:24:10,200 --> 00:24:12,440
+<font color="#ffff33">His life is at risk.</font>
+Sa vie est en danger.
+
+310
+00:24:12,911 --> 00:24:13,934
+<font color="#ffff33">How can you do that?</font>
+Comment pouvez-vous faire cela ?
+
+311
+00:24:13,954 --> 00:24:15,060
+<font color="#ffff33">It is right.</font>
+C'est nécessaire.
+
+312
+00:24:15,080 --> 00:24:17,354
+<font color="#ffff33">If we don't do it, they will gather force and be over here</font>
+Autrement, ils rassembleront leurs forces et viendront
+
+313
+00:24:17,374 --> 00:24:19,523
+<font color="#ffff33">cutting us all into chops within the year.</font>
+nous massacrer d'ici un an.
+
+314
+00:24:19,543 --> 00:24:23,026
+<font color="#ffff33">You are of a sweet disposition and have suffered blows,</font>
+Vous êtes gentille et avez souffert,
+
+315
+00:24:23,046 --> 00:24:27,197
+<font color="#ffff33">so desire safety and favor above all else.</font>
+vous désirez donc la sécurité et la bonne entente avant tout.
+
+316
+00:24:27,217 --> 00:24:29,216
+<font color="#ffff33">If he dies?</font>
+Et s'il meurt ?
+
+317
+00:24:29,845 --> 00:24:34,663
+<font color="#ffff33">Did you not sacrifice your cunt to fatty German to save your father?</font>
+Vous avez bien sacrifié votre chatte à un gros Allemand pour sauver votre père.
+
+318
+00:24:34,683 --> 00:24:35,664
+<font color="#ffff33">Yes.</font>
+Oui.
+
+319
+00:24:35,684 --> 00:24:39,751
+<font color="#ffff33">There's always a price to pay. I am prepared to pay it.</font>
+Il y a toujours un prix à payer. Je suis prête à le faire.
+
+320
+00:24:39,771 --> 00:24:41,605
+<font color="#ffff33">Throw.</font>
+Lancez.
+
+321
+00:24:47,529 --> 00:24:49,530
+<font color="#ffff33">Just relax and aim.</font>
+Détendez-vous et visez.
+
+322
+00:24:50,407 --> 00:24:54,272
+<font color="#ffff33">When it crosses your eye, pull the trigger.</font>
+Quand il croisera votre regard, tirez.
+
+323
+00:24:56,788 --> 00:24:58,622
+<font color="#ffff33">Throw.</font>
+Lancez.
+
+324
+00:25:01,918 --> 00:25:03,836
+<font color="#ffff33">Perfect.</font>
+Parfait.
+
+325
+00:25:03,837 --> 00:25:06,452
+<font color="#ffff33">I will make a killer of you yet.</font>
+Je ferai de vous une tueuse.
+
+326
+00:25:23,231 --> 00:25:25,316
+<font color="#ffff33">Are you following me?</font>
+Me suivez-vous ?
+
+327
+00:25:27,694 --> 00:25:28,967
+<font color="#ffff33">I said, are you following me?</font>
+Je vous demande si vous me suivez.
+
+328
+00:25:28,987 --> 00:25:33,854
+<font color="#ffff33">You seem to be following me, sir, as I am in front of you.</font>
+C'est plutôt vous qui me suivez, monsieur, puisque je suis devant.
+
+329
+00:25:36,870 --> 00:25:39,519
+<font color="#ffff33">That was you I saw on the horse that morning.</font>
+C'est vous que j'ai vue à cheval ce matin.
+
+330
+00:25:39,539 --> 00:25:43,064
+<font color="#ffff33">I am a servant. Where would I get a horse?</font>
+Je suis une servante. Où trouverais-je un cheval ?
+
+331
+00:25:43,084 --> 00:25:44,733
+<font color="#ffff33">Perhaps you dreamt of me?</font>
+Peut-être avez-vous rêvé à moi.
+
+332
+00:25:44,753 --> 00:25:48,028
+<font color="#ffff33">Perhaps it was you, and I should have you stripped and whipped.</font>
+Peut-être que c'était vous et que je devrais vous faire fouetter.
+
+333
+00:25:48,048 --> 00:25:50,083
+<font color="#ffff33">I'm waiting.</font>
+J'attends.
+
+334
+00:25:58,308 --> 00:26:00,843
+<font color="#ffff33">Going to ride that one, are we?</font>
+Allez-vous la monter ?
+
+335
+00:26:01,394 --> 00:26:03,975
+<font color="#ffff33">She does make my blood hot.</font>
+Elle m'émoustille, c'est vrai.
+
+336
+00:26:04,356 --> 00:26:06,671
+<font color="#ffff33">She's Lady Marlborough's new one.</font>
+C'est la nouvelle pouliche de Lady Marlborough.
+
+337
+00:26:06,691 --> 00:26:08,215
+<font color="#ffff33">Indeed.</font>
+Ah bon ?
+
+338
+00:26:08,235 --> 00:26:10,069
+<font color="#ffff33">Interesting.</font>
+Intéressant.
+
+339
+00:26:23,959 --> 00:26:26,107
+<font color="#ffff33">Excuse me. Move. Excuse me.</font>
+Excusez-moi. Laissez-moi passer.
+
+340
+00:26:26,127 --> 00:26:29,277
+<font color="#ffff33">Your Majesty. How lovely to see you.</font>
+Votre Majesté. C'est un plaisir de vous voir.
+
+341
+00:26:29,297 --> 00:26:31,112
+<font color="#ffff33">It seems you have allocated even more money</font>
+Vous avez donc alloué davantage de fonds
+
+342
+00:26:31,132 --> 00:26:33,782
+<font color="#ffff33">into the abyss that is this fool's errand. Oh, uh, yes. We will win. Sarah's sure we will win.</font>
+à cette aventure malavisée.
+
+343
+00:26:33,802 --> 00:26:36,868
+<font color="#ffff33"></font>
+Oui. Nous vaincrons. Sarah en est certaine.
+
+344
+00:26:36,888 --> 00:26:37,994
+<font color="#ffff33">It's the landholders' tax.</font>
+L'impôt foncier
+
+345
+00:26:38,014 --> 00:26:40,997
+<font color="#ffff33">You have no idea the firestorm of rage you have set loose in the countryside. - Really? Are they angry? - Dearest queen.</font>
+a déclenché un tollé d'indignation dans les campagnes.
+
+346
+00:26:41,017 --> 00:26:43,458
+<font color="#ffff33"></font>
+- Vraiment ? Les gens sont fâchés ? - Très chère reine.
+
+347
+00:26:43,478 --> 00:26:45,085
+<font color="#ffff33">How do you like my stockings?</font>
+Aimez-vous mes bas ?
+
+348
+00:26:45,105 --> 00:26:46,628
+<font color="#ffff33">Festive.</font>
+Ils sont festifs.
+
+349
+00:26:46,648 --> 00:26:50,423
+<font color="#ffff33">Very. I was just explaining to the queen the mistake this tax is. The war as well.</font>
+J'expliquais justement à la reine que l'impôt et la guerre sont des erreurs.
+
+350
+00:26:50,443 --> 00:26:51,466
+<font color="#ffff33">We should sue for peace.</font>
+Nous devrions demander la paix.
+
+351
+00:26:51,486 --> 00:26:53,385
+<font color="#ffff33">Oh, Harley, you are such a bore.</font>
+Harley, vous m'ennuyez.
+
+352
+00:26:53,405 --> 00:26:56,263
+<font color="#ffff33">That is for parliament. A ball is for dancing and eating those horseradish and venison puffs.</font>
+Gardez cela pour le parlement. Les bals sont faits pour danser
+
+353
+00:26:56,283 --> 00:26:58,640
+<font color="#ffff33"></font>
+et manger des feuilletés au raifort et au gibier.
+
+354
+00:26:58,660 --> 00:27:00,392
+<font color="#ffff33">Have you tried them?</font>
+Y avez-vous goûté ?
+
+355
+00:27:00,412 --> 00:27:03,395
+<font color="#ffff33">I'm having trouble swallowing at the moment. Your Majesty...</font>
+J'ai du mal à avaler en ce moment. Votre Majesté...
+
+356
+00:27:03,415 --> 00:27:08,948
+<font color="#ffff33">I'd like to enjoy the music now. Oh, yes. I love this music. I must dance.</font>
+- J'aimerais profiter de la musique. - Je l'adore. Je dois danser.
+
+357
+00:28:47,852 --> 00:28:49,250
+<font color="#ffff33">Stop it!</font>
+Arrêtez !
+
+358
+00:28:49,270 --> 00:28:52,056
+<font color="#ffff33">Stop it! Stop!</font>
+Arrêtez.
+
+359
+00:28:55,985 --> 00:28:59,677
+<font color="#ffff33">- What has happened? - I would like to go back to my room now.</font>
+- Que s'est-il passé ? - Je veux retourner à ma chambre.
+
+360
+00:28:59,697 --> 00:29:02,241
+<font color="#ffff33">Stop. Mr. Harley.</font>
+Arrêtez. M. Harley.
+
+361
+00:29:03,368 --> 00:29:06,142
+<font color="#ffff33">I agree I went too far with the tax for the war.</font>
+Je suis allée trop loin avec l'impôt finançant la guerre.
+
+362
+00:29:06,162 --> 00:29:09,020
+<font color="#ffff33">- What? - It will stay as it was.</font>
+- Quoi ? - Il restera tel qu'il était.
+
+363
+00:29:09,040 --> 00:29:11,496
+<font color="#ffff33">We are your servants, my queen.</font>
+Nous sommes vos serviteurs, ma reine.
+
+364
+00:29:26,474 --> 00:29:28,434
+<font color="#ffff33">Anne.</font>
+Anne.
+
+365
+00:29:28,601 --> 00:29:30,600
+<font color="#ffff33">I'm sorry.</font>
+Je regrette.
+
+366
+00:29:42,740 --> 00:29:44,820
+<font color="#ffff33">It's okay.</font>
+Ça va.
+
+367
+00:29:46,453 --> 00:29:48,942
+<font color="#ffff33">Shall we go fast?</font>
+On roule vite ?
+
+368
+00:31:07,867 --> 00:31:09,785
+<font color="#ffff33">Fuck me.</font>
+Baisez-moi.
+
+369
+00:32:39,500 --> 00:32:40,940
+<font color="#ffff33">Abigail, isn't it?</font>
+Abigail, c'est cela ?
+
+370
+00:32:40,960 --> 00:32:42,794
+<font color="#ffff33">Yes, sir.</font>
+Oui, monsieur.
+
+371
+00:32:43,588 --> 00:32:45,653
+<font color="#ffff33">Stolen a book, I see.</font>
+Vous avez volé un livre.
+
+372
+00:32:45,673 --> 00:32:47,739
+<font color="#ffff33">Why, one could be stripped and whipped for that.</font>
+Vous pourriez être fouettée pour cela.
+
+373
+00:32:47,759 --> 00:32:50,293
+<font color="#ffff33">My mistress lent it to me.</font>
+Ma maîtresse me l'a prêté.
+
+374
+00:32:50,637 --> 00:32:51,618
+<font color="#ffff33">Shall we go ask her?</font>
+Et si on allait lui demander ?
+
+375
+00:32:51,638 --> 00:32:53,411
+<font color="#ffff33">No.</font>
+Non.
+
+376
+00:32:53,431 --> 00:32:55,265
+<font color="#ffff33">No.</font>
+Non.
+
+377
+00:32:56,643 --> 00:32:59,257
+<font color="#ffff33">Come and take the night air with me.</font>
+Venez prendre l'air du soir avec moi.
+
+378
+00:33:03,232 --> 00:33:06,549
+<font color="#ffff33">So, you once were a lady, and now you are nothing.</font>
+Donc, vous étiez autrefois une dame, et voilà que vous n'êtes rien.
+
+379
+00:33:06,569 --> 00:33:08,426
+<font color="#ffff33">A bit of scullery scraps.</font>
+Une simple bonniche.
+
+380
+00:33:08,446 --> 00:33:09,844
+<font color="#ffff33">How very sad.</font>
+C'est d'une tristesse !
+
+381
+00:33:09,864 --> 00:33:12,513
+<font color="#ffff33">Well, I'm still the lady I was, in my heart.</font>
+Je suis toujours une dame au fond de mon cœur.
+
+382
+00:33:12,533 --> 00:33:16,851
+<font color="#ffff33">No doubt. It is important to make new friends, is it not?</font>
+Nul doute. Il est important de se faire de nouveaux amis, non ?
+
+383
+00:33:16,871 --> 00:33:17,852
+<font color="#ffff33">Yes.</font>
+Oui.
+
+384
+00:33:17,872 --> 00:33:20,063
+<font color="#ffff33">If that's what's actually happening here,</font>
+Si c'est bien ce qui est en train d'arriver,
+
+385
+00:33:20,083 --> 00:33:22,857
+<font color="#ffff33">and not veiled threats under the guise of civility.</font>
+plutôt que des menaces voilées déguisées en politesses.
+
+386
+00:33:22,877 --> 00:33:24,942
+<font color="#ffff33">Am I to understand you are smart?</font>
+Dois-je comprendre que vous êtes maligne ?
+
+387
+00:33:24,962 --> 00:33:26,611
+<font color="#ffff33">You want something.</font>
+Vous voulez quelque chose.
+
+388
+00:33:26,631 --> 00:33:28,112
+<font color="#ffff33">To fuck me?</font>
+Me baiser ?
+
+389
+00:33:28,132 --> 00:33:31,324
+<font color="#ffff33">I will leave that to my friend Masham, who is completely cunt-struck by you.</font>
+Je laisserai cela à mon ami Masham, qui suivrait votre chatte n'importe où.
+
+390
+00:33:31,344 --> 00:33:35,244
+<font color="#ffff33">So, tell me about Lady Marlborough, Godolphin, the queen.</font>
+Parlez-moi de Lady Marlborough, de Godolphin, de la reine.
+
+391
+00:33:35,264 --> 00:33:37,038
+<font color="#ffff33">Anything going on?</font>
+Que se passe-t-il ?
+
+392
+00:33:37,058 --> 00:33:38,623
+<font color="#ffff33">I love gossip.</font>
+J'adore le commérage.
+
+393
+00:33:38,643 --> 00:33:40,678
+<font color="#ffff33">It's a failing, I know.</font>
+C'est un défaut, je sais.
+
+394
+00:33:40,687 --> 00:33:43,378
+<font color="#ffff33">Lady Marlborough has been good to me.</font>
+Lady Marlborough a été bonne pour moi.
+
+395
+00:33:43,398 --> 00:33:45,213
+<font color="#ffff33">She saved me.</font>
+Elle m'a sauvée.
+
+396
+00:33:45,233 --> 00:33:47,048
+<font color="#ffff33">I will not breach her confidence.</font>
+Je ne trahirai pas sa confiance.
+
+397
+00:33:47,068 --> 00:33:49,634
+<font color="#ffff33">Of course. You are in favor.</font>
+Bien sûr. Vous avez sa faveur.
+
+398
+00:33:49,654 --> 00:33:52,261
+<font color="#ffff33">But favor is a breeze that shifts direction all the time.</font>
+Mais c'est une chose bien frivole, jamais constante.
+
+399
+00:33:52,281 --> 00:33:55,223
+<font color="#ffff33">Then in an instant, you're back sleeping with a bunch of scabrous whores</font>
+En un clin d'œil, vous êtes de retour parmi les vulgaires putains,
+
+400
+00:33:55,243 --> 00:33:57,600
+<font color="#ffff33">wondering whose finger's in your ass.</font>
+le doigt d'un étranger dans le troufignon.
+
+401
+00:33:57,620 --> 00:33:59,977
+<font color="#ffff33">You cannot have too many friends in court.</font>
+On n'a jamais trop d'amis à la cour.
+
+402
+00:33:59,997 --> 00:34:01,896
+<font color="#ffff33">I need a friend, Abigail.</font>
+J'ai besoin d'une amie, Abigail.
+
+403
+00:34:01,916 --> 00:34:04,899
+<font color="#ffff33">One with cute ears and wide eyes.</font>
+Avec de mignonnes oreilles et de grands yeux.
+
+404
+00:34:04,919 --> 00:34:07,902
+<font color="#ffff33">I'm often blindsided by the distorted situation at court.</font>
+Je suis souvent surpris par les machinations de la cour.
+
+405
+00:34:07,922 --> 00:34:11,322
+<font color="#ffff33">As leader of the opposition, I should not be.</font>
+En tant que chef de l'opposition, je ne devrais pas l'être.
+
+406
+00:34:11,342 --> 00:34:13,533
+<font color="#ffff33">I would merely like to know of any plans</font>
+Je veux seulement être mis au courant des plans
+
+407
+00:34:13,553 --> 00:34:16,911
+<font color="#ffff33">Her Ladyship, Godolphin, or the queen may have.</font>
+que madame, Godolphin ou la reine pourraient avoir.
+
+408
+00:34:16,931 --> 00:34:21,263
+<font color="#ffff33">I will not betray my mistress's trust.</font>
+Je ne trahirai pas la confiance de ma maîtresse.
+
+409
+00:34:22,019 --> 00:34:25,852
+<font color="#ffff33">Oh, look. A wren. How cute.</font>
+Regardez. Un roitelet. C'est adorable.
+
+410
+00:34:31,738 --> 00:34:33,736
+<font color="#ffff33">You all right?</font>
+Ça va ?
+
+411
+00:34:38,619 --> 00:34:40,518
+<font color="#ffff33">Anyway, think on it.</font>
+Réfléchissez-y.
+
+412
+00:34:40,538 --> 00:34:42,537
+<font color="#ffff33">There's no pressure.</font>
+Sans pression.
+
+413
+00:34:47,128 --> 00:34:50,945
+<font color="#ffff33">You will have to tell Harley you've changed your mind about the tax.</font>
+Vous devez dire à Harley que vous avez changé d'idée pour l'impôt.
+
+414
+00:34:50,965 --> 00:34:52,947
+<font color="#ffff33">Are the people really angry about the land tax?</font>
+Les gens sont-ils si fâchés à propos de cet impôt ?
+
+415
+00:34:52,967 --> 00:34:55,366
+<font color="#ffff33">They'll be angrier when the French are sodomizing their wives</font>
+Ils le seront davantage quand les Français sodomiseront leur femme
+
+416
+00:34:55,386 --> 00:34:56,993
+<font color="#ffff33">and planting their fields with garlic.</font>
+et planteront de l'ail dans leurs champs.
+
+417
+00:34:57,013 --> 00:34:59,495
+<font color="#ffff33">The Tories must not be rode roughshod over, though.</font>
+Il ne faut toutefois pas rudoyer le parti tory.
+
+418
+00:34:59,515 --> 00:35:01,038
+<font color="#ffff33">And more dead if we do it.</font>
+Il y aura davantage de morts.
+
+419
+00:35:01,058 --> 00:35:04,625
+<font color="#ffff33">It is painful to lose men, but we cannot be halfhearted in this</font>
+Perdre des hommes est pénible, mais il faut se montrer déterminés,
+
+420
+00:35:04,645 --> 00:35:09,505
+<font color="#ffff33">or they will see our weakness and take us and we will lose thousands more.</font>
+autrement l'ennemi verra notre faiblesse et le carnage continuera.
+
+421
+00:35:09,525 --> 00:35:10,965
+<font color="#ffff33">None for the queen.</font>
+Pas pour la reine.
+
+422
+00:35:10,985 --> 00:35:11,966
+<font color="#ffff33">What?</font>
+Quoi ?
+
+423
+00:35:11,986 --> 00:35:13,926
+<font color="#ffff33">You cannot have hot chocolate.</font>
+Vous ne devez pas boire de chocolat chaud.
+
+424
+00:35:13,946 --> 00:35:15,887
+<font color="#ffff33">Your stomach, the sugar inflames it.</font>
+Le sucre irrite votre estomac.
+
+425
+00:35:15,907 --> 00:35:17,805
+<font color="#ffff33">- Abigail, hand me that cup. - Do not.</font>
+- Abigail, donnez-moi cette tasse. - Non.
+
+426
+00:35:17,825 --> 00:35:20,475
+<font color="#ffff33">I'm sorry, I do not know what to do.</font>
+Pardon, je ne sais pas quoi faire.
+
+427
+00:35:20,495 --> 00:35:21,768
+<font color="#ffff33">Fine, give it to her.</font>
+Très bien, donnez-la-lui.
+
+428
+00:35:21,788 --> 00:35:26,244
+<font color="#ffff33">Then you can get a bucket and a mop for the aftermath.</font>
+Allez chercher un seau et une vadrouille pour plus tard.
+
+429
+00:35:42,600 --> 00:35:44,518
+<font color="#ffff33">Take me back.</font>
+Ramenez-moi.
+
+430
+00:36:01,702 --> 00:36:06,739
+<font color="#ffff33">You will pronounce the tax in parliament. I will set the date.</font>
+Vous annoncerez l'impôt au parlement. Je fixerai la date.
+
+431
+00:36:26,310 --> 00:36:28,668
+<font color="#ffff33">I must tell you something.</font>
+J'ai quelque chose à vous dire.
+
+432
+00:36:28,688 --> 00:36:30,522
+<font color="#ffff33">Go on.</font>
+J'écoute.
+
+433
+00:36:32,066 --> 00:36:34,006
+<font color="#ffff33">Mr. Harley came to me</font>
+M. Harley est venu me voir
+
+434
+00:36:34,026 --> 00:36:35,633
+<font color="#ffff33">and asked me to betray your confidence</font>
+et m'a demandé de trahir votre confiance
+
+435
+00:36:35,653 --> 00:36:39,929
+<font color="#ffff33">about what goes on between you and the queen and Godolphin.</font>
+et de révéler ce qui se passe entre la reine, Godolphin et vous.
+
+436
+00:36:39,949 --> 00:36:41,783
+<font color="#ffff33">I see.</font>
+Je vois.
+
+437
+00:36:41,993 --> 00:36:44,823
+<font color="#ffff33">And what will you do?</font>
+Et que ferez-vous ?
+
+438
+00:36:45,121 --> 00:36:47,603
+<font color="#ffff33">I'm not going to, obviously.</font>
+Je ne lui dirai rien, évidemment.
+
+439
+00:36:47,623 --> 00:36:50,481
+<font color="#ffff33">Not obviously.</font>
+Ce n'est pas si évident.
+
+440
+00:36:50,501 --> 00:36:54,193
+<font color="#ffff33">You may tell me of his approach to encourage my trust</font>
+Vous pourriez me parler de sa demande, consolider ma confiance
+
+441
+00:36:54,213 --> 00:36:57,295
+<font color="#ffff33">and still work both sides of the street.</font>
+et quand même tout lui raconter.
+
+442
+00:36:58,342 --> 00:37:01,951
+<font color="#ffff33">I am a person of honor, even if my station is not.</font>
+Je suis une personne honorable bien que mon travail ne le soit pas.
+
+443
+00:37:01,971 --> 00:37:04,161
+<font color="#ffff33">Even if I were the last one left in this wretched place,</font>
+Même s'il ne restait que moi dans ce misérable endroit,
+
+444
+00:37:04,181 --> 00:37:06,421
+<font color="#ffff33">I would remain a lady.</font>
+je resterais une dame.
+
+445
+00:37:06,893 --> 00:37:09,382
+<font color="#ffff33">You're pretty when outraged.</font>
+Vous êtes jolie quand vous vous fâchez.
+
+446
+00:37:09,937 --> 00:37:11,919
+<font color="#ffff33">So my secrets are safe with you?</font>
+Vous garderez donc mes secrets ?
+
+447
+00:37:11,939 --> 00:37:13,773
+<font color="#ffff33">All of them.</font>
+Tous.
+
+448
+00:37:14,525 --> 00:37:16,359
+<font color="#ffff33">Good.</font>
+Tant mieux.
+
+449
+00:37:17,820 --> 00:37:20,113
+<font color="#ffff33">Even your biggest secret.</font>
+Même votre plus grand secret.
+
+450
+00:37:24,035 --> 00:37:25,869
+<font color="#ffff33">Abigail.</font>
+Abigail.
+
+451
+00:37:28,581 --> 00:37:30,438
+<font color="#ffff33">If you forget to load the pellet,</font>
+Si on oublie de charger la balle,
+
+452
+00:37:30,458 --> 00:37:34,108
+<font color="#ffff33">the gun fires, makes the sound, but releases no shot.</font>
+le fusil tire en faisant du bruit, mais ne projette rien.
+
+453
+00:37:34,128 --> 00:37:36,611
+<font color="#ffff33">It is a great jape. Do you agree?</font>
+C'est une bonne blague, n'est-ce pas ?
+
+454
+00:37:36,631 --> 00:37:38,029
+<font color="#ffff33">Yes.</font>
+Oui.
+
+455
+00:37:38,049 --> 00:37:41,657
+<font color="#ffff33">Maybe we will think of a use for it one day.</font>
+Nous lui trouverons peut-être une utilité un jour.
+
+456
+00:37:41,677 --> 00:37:45,202
+<font color="#ffff33">Sometimes, it is hard to remember whether you have loaded the pellet or not.</font>
+Il est parfois difficile de se rappeler si on a chargé une balle ou non.
+
+457
+00:37:45,222 --> 00:37:49,081
+<font color="#ffff33">I do fear confusion and accidents.</font>
+Je crains la confusion et les accidents.
+
+458
+00:37:49,101 --> 00:37:51,603
+<font color="#ffff33">I'm sure people will be careful.</font>
+Les gens seront sûrement prudents.
+
+459
+00:39:09,807 --> 00:39:12,790
+<font color="#ffff33">Beef, 12 guineas.</font>
+Bœuf, 12 guinées.
+
+460
+00:39:12,810 --> 00:39:14,208
+<font color="#ffff33">Cream.</font>
+Crème.
+
+461
+00:39:14,228 --> 00:39:15,876
+<font color="#ffff33">Mrs. Meg, your cream bill is outrageous.</font>
+Mme Meg, votre facture de crème est ridicule.
+
+462
+00:39:15,896 --> 00:39:17,670
+<font color="#ffff33">Are you bathing in it to help your hemorrhoids?</font>
+Vous baignez-vous dedans pour soigner vos hémorroïdes ?
+
+463
+00:39:17,690 --> 00:39:19,422
+<font color="#ffff33">No, Your Ladyship.</font>
+Non, madame.
+
+464
+00:39:19,442 --> 00:39:20,756
+<font color="#ffff33">May I examine?</font>
+Puis-je réviser le tout ?
+
+465
+00:39:20,776 --> 00:39:22,610
+<font color="#ffff33">Of course.</font>
+Bien sûr.
+
+466
+00:39:23,821 --> 00:39:27,304
+<font color="#ffff33">It's perfect, Lady Marlborough, as always.</font>
+C'est parfait, Lady Marlborough, comme toujours.
+
+467
+00:39:27,324 --> 00:39:31,157
+<font color="#ffff33">The queen. It is rather urgent.</font>
+La reine. C'est plutôt urgent.
+
+468
+00:39:31,912 --> 00:39:33,686
+<font color="#ffff33">Shall we sign off?</font>
+Signons donc les comptes.
+
+469
+00:39:33,706 --> 00:39:35,540
+<font color="#ffff33">Of course.</font>
+Bien sûr.
+
+470
+00:40:00,483 --> 00:40:01,922
+<font color="#ffff33">Aim for the flagstones.</font>
+Visez les pierres.
+
+471
+00:40:01,942 --> 00:40:03,799
+<font color="#ffff33">The lawn might break your fall.</font>
+La pelouse pourrait amortir votre chute.
+
+472
+00:40:03,819 --> 00:40:05,217
+<font color="#ffff33">You do not care.</font>
+Vous vous en fichez.
+
+473
+00:40:05,237 --> 00:40:07,261
+<font color="#ffff33">Mrs. Morley.</font>
+Mme Morley.
+
+474
+00:40:07,281 --> 00:40:10,240
+<font color="#ffff33">- Please! - No!</font>
+- Je vous en prie ! - Non.
+
+475
+00:40:15,122 --> 00:40:16,812
+<font color="#ffff33">Stay a while.</font>
+Restez un moment.
+
+476
+00:40:16,832 --> 00:40:18,856
+<font color="#ffff33">No! Take the day off. I command it.</font>
+Non ! Prenez une journée de congé. Je l'ordonne.
+
+477
+00:40:18,876 --> 00:40:20,900
+<font color="#ffff33">Someone must run things.</font>
+Quelqu'un doit bien gérer les choses.
+
+478
+00:40:20,920 --> 00:40:22,359
+<font color="#ffff33">I am not food.</font>
+Je ne suis pas un aliment.
+
+479
+00:40:22,379 --> 00:40:23,778
+<font color="#ffff33">You cannot just eat and eat.</font>
+Vous ne pouvez pas m'engloutir.
+
+480
+00:40:23,798 --> 00:40:26,958
+<font color="#ffff33">Yet you are tasty and salty.</font>
+Vous êtes pourtant savoureuse et salée.
+
+481
+00:40:28,302 --> 00:40:31,077
+<font color="#ffff33">If I grilled you, you'd make a delightful meal.</font>
+Grillée, vous feriez un excellent repas.
+
+482
+00:40:31,097 --> 00:40:32,161
+<font color="#ffff33">Very well.</font>
+Très bien.
+
+483
+00:40:32,181 --> 00:40:37,139
+<font color="#ffff33">I will come and see you this afternoon, and we can play whist.</font>
+Je viendrai vous voir cet après-midi pour jouer au whist.
+
+484
+00:40:38,354 --> 00:40:42,524
+<font color="#ffff33"></font>
+TOUT UN COSTUME
+
+485
+00:40:46,529 --> 00:40:50,304
+<font color="#ffff33">The opposition asks us</font>
+l'opposition nous demande
+
+486
+00:40:50,324 --> 00:40:53,599
+<font color="#ffff33">to be halfhearted in this war!</font>
+de faire la guerre à moitié !
+
+487
+00:40:53,619 --> 00:40:57,663
+<font color="#ffff33">- We will not! - Hear, hear!</font>
+- C'est inacceptable ! - Bien dit !
+
+488
+00:40:58,999 --> 00:41:01,315
+<font color="#ffff33">We must wear our griefs,</font>
+Nous devons assumer nos peines,
+
+489
+00:41:01,335 --> 00:41:04,610
+<font color="#ffff33">for England is worth our all,</font>
+car l'Angleterre vaut tout ce que nous sommes,
+
+490
+00:41:04,630 --> 00:41:07,488
+<font color="#ffff33">and suffer we must for her!</font>
+et nous devons souffrir pour elle !
+
+491
+00:41:07,508 --> 00:41:09,073
+<font color="#ffff33">Mr. Harley,</font>
+M. Harley,
+
+492
+00:41:09,093 --> 00:41:11,886
+<font color="#ffff33">control your rabble!</font>
+maîtrisez votre racaille !
+
+493
+00:41:12,346 --> 00:41:15,746
+<font color="#ffff33">I am, therefore, announcing today</font>
+J'annonce donc aujourd'hui
+
+494
+00:41:15,766 --> 00:41:18,560
+<font color="#ffff33">that, at Her Majesty's...</font>
+qu'à la demande de Sa Majesté...
+
+495
+00:41:18,769 --> 00:41:21,961
+<font color="#ffff33">About time, Mrs. Freeman. This fucking leg.</font>
+Il était temps, Mme Freeman. Cette fichue jambe,
+
+496
+00:41:21,981 --> 00:41:24,130
+<font color="#ffff33">It's like a monster attacking me.</font>
+on dirait un monstre qui m'attaque.
+
+497
+00:41:24,150 --> 00:41:25,422
+<font color="#ffff33">Cut it off for me, will you?</font>
+Pourriez-vous me l'amputer ?
+
+498
+00:41:25,442 --> 00:41:27,986
+<font color="#ffff33">I don't think so, Your Majesty.</font>
+Je ne crois pas, Votre Majesté.
+
+499
+00:41:29,822 --> 00:41:31,821
+<font color="#ffff33">Why are you here?</font>
+Que faites-vous ici ?
+
+500
+00:41:33,242 --> 00:41:35,891
+<font color="#ffff33">Lady Marlborough sent me, as I am an excellent whist player</font>
+Lady Marlborough m'envoie, car j'excelle au whist.
+
+501
+00:41:35,911 --> 00:41:38,686
+<font color="#ffff33">and she has been unavoidably detained with business of state,</font>
+Elle est malheureusement retardée par des affaires d'État,
+
+502
+00:41:38,706 --> 00:41:39,979
+<font color="#ffff33">but will be here posthaste.</font>
+mais viendra le plus vite possible.
+
+503
+00:41:39,999 --> 00:41:41,980
+<font color="#ffff33">It's my state.</font>
+C'est mon État.
+
+504
+00:41:42,000 --> 00:41:45,274
+<font color="#ffff33">I am the business of state. Did she actually send me her maid?</font>
+Les affaires d'État, c'est moi. Elle m'envoie sa domestique ?
+
+505
+00:41:45,294 --> 00:41:47,110
+<font color="#ffff33">Your Majesty, I wasn't always a maid.</font>
+Je n'ai pas toujours été domestique, Votre Majesté.
+
+506
+00:41:47,130 --> 00:41:49,696
+<font color="#ffff33">I'm educated, I speak Latin, French.</font>
+Je suis instruite, je parle le latin et le français.
+
+507
+00:41:49,716 --> 00:41:51,531
+<font color="#ffff33">My family fell on hard times.</font>
+Ma famille a eu un revers de fortune.
+
+508
+00:41:51,551 --> 00:41:53,741
+<font color="#ffff33">- I'm also her cousin. - It's all very fascinating.</font>
+- Je suis sa cousine. - C'est fascinant.
+
+509
+00:41:53,761 --> 00:41:57,798
+<font color="#ffff33">You shall leave, regardless, and tell her to come.</font>
+Néanmoins, partez et dites-lui de venir.
+
+510
+00:41:58,225 --> 00:42:00,059
+<font color="#ffff33">They're gorgeous.</font>
+Ils sont superbes.
+
+511
+00:42:01,270 --> 00:42:04,105
+<font color="#ffff33">They're my babies. Let them out, please.</font>
+Ce sont mes bébés. Laissez-les sortir.
+
+512
+00:42:08,444 --> 00:42:09,967
+<font color="#ffff33">How many are there?</font>
+Combien y en a-t-il ?
+
+513
+00:42:09,987 --> 00:42:12,102
+<font color="#ffff33">Seventeen.</font>
+Dix-sept.
+
+514
+00:42:12,531 --> 00:42:14,896
+<font color="#ffff33">It's Hildebrand's day today.</font>
+C'est le jour d'Hildebrand aujourd'hui.
+
+515
+00:42:16,118 --> 00:42:17,892
+<font color="#ffff33">Which one is he?</font>
+Lequel ?
+
+516
+00:42:17,912 --> 00:42:21,277
+<font color="#ffff33">That one there. Shy, but stubborn.</font>
+Celui-ci. Timide, mais têtu.
+
+517
+00:42:21,832 --> 00:42:23,666
+<font color="#ffff33">May I?</font>
+Puis-je ?
+
+518
+00:42:28,672 --> 00:42:30,671
+<font color="#ffff33">He likes you.</font>
+Il vous aime bien.
+
+519
+00:42:32,843 --> 00:42:35,834
+<font color="#ffff33">I lost some 17 children.</font>
+J'ai perdu 17 enfants.
+
+520
+00:42:40,267 --> 00:42:42,291
+<font color="#ffff33">Some were born as blood,</font>
+Certains avortés,
+
+521
+00:42:42,311 --> 00:42:44,391
+<font color="#ffff33">some without breath...</font>
+certains morts-nés,
+
+522
+00:42:44,855 --> 00:42:48,846
+<font color="#ffff33">and some were with me for a very brief time.</font>
+et d'autres qui sont restés très brièvement avec moi.
+
+523
+00:42:52,404 --> 00:42:54,403
+<font color="#ffff33">Oh, my dear.</font>
+Oh, ma chère.
+
+524
+00:42:57,409 --> 00:42:59,774
+<font color="#ffff33">Today is Hildebrand's day.</font>
+Aujourd'hui, c'est le jour d'Hildebrand.
+
+525
+00:42:59,954 --> 00:43:01,988
+<font color="#ffff33">The day you lost him.</font>
+Le jour où vous l'avez perdu.
+
+526
+00:43:02,539 --> 00:43:04,104
+<font color="#ffff33">Yes.</font>
+Oui.
+
+527
+00:43:04,124 --> 00:43:08,661
+<font color="#ffff33">Each one that dies, a little bit of you goes with them.</font>
+Une partie de moi est morte avec chacun d'eux.
+
+528
+00:43:11,423 --> 00:43:13,466
+<font color="#ffff33">Would you like to join me?</font>
+Voulez-vous vous joindre à moi ?
+
+529
+00:43:17,012 --> 00:43:19,252
+<font color="#ffff33">Oh. Lovely cake.</font>
+Un merveilleux gâteau.
+
+530
+00:43:19,682 --> 00:43:21,413
+<font color="#ffff33">Yum.</font>
+Miam.
+
+531
+00:43:21,433 --> 00:43:23,432
+<font color="#ffff33">You like it?</font>
+Aimes-tu ça ?
+
+532
+00:43:24,687 --> 00:43:27,044
+<font color="#ffff33">- Delish. - You do like it.</font>
+- C'est délicieux. - Mais oui, tu aimes ça.
+
+533
+00:43:27,064 --> 00:43:29,046
+<font color="#ffff33">Hello, Sussy.</font>
+Bonjour, Sussy.
+
+534
+00:43:29,066 --> 00:43:31,674
+<font color="#ffff33">Happy birthday.</font>
+Bon anniversaire.
+
+535
+00:43:31,694 --> 00:43:33,425
+<font color="#ffff33">Come on. There's some for you, too.</font>
+Viens. Il y en a pour toi aussi.
+
+536
+00:43:33,445 --> 00:43:35,525
+<font color="#ffff33">Don't eat Mummy's foot.</font>
+Ne mange pas le pied de maman.
+
+537
+00:43:43,914 --> 00:43:46,029
+<font color="#ffff33">What an outfit.</font>
+Tout un costume.
+
+538
+00:43:46,375 --> 00:43:48,374
+<font color="#ffff33">Thank you.</font>
+Merci.
+
+539
+00:43:48,794 --> 00:43:50,859
+<font color="#ffff33">I thought it might be too much.</font>
+Je craignais que ce soit exagéré.
+
+540
+00:43:50,879 --> 00:43:53,870
+<font color="#ffff33">Have you come to seduce me or rape me?</font>
+Venez-vous me séduire ou me violer ?
+
+541
+00:43:54,091 --> 00:43:55,948
+<font color="#ffff33">I am a gentleman.</font>
+Je suis un gentilhomme.
+
+542
+00:43:55,968 --> 00:43:57,825
+<font color="#ffff33">So rape, then.</font>
+Me violer, alors.
+
+543
+00:43:57,845 --> 00:43:58,826
+<font color="#ffff33">No.</font>
+Non.
+
+544
+00:43:58,846 --> 00:44:01,889
+<font color="#ffff33">No, you are...</font>
+Non, vous êtes...
+
+545
+00:44:02,057 --> 00:44:05,389
+<font color="#ffff33">You have intrigued me.</font>
+Vous m'intriguez.
+
+546
+00:44:06,687 --> 00:44:08,686
+<font color="#ffff33">And you, me.</font>
+C'est réciproque.
+
+547
+00:44:09,356 --> 00:44:13,813
+<font color="#ffff33">I'm intrigued by what you look like under all this.</font>
+Je me demande de quoi vous avez l'air sous tout ceci.
+
+548
+00:44:30,127 --> 00:44:32,126
+<font color="#ffff33">You're handsome.</font>
+Vous êtes séduisant.
+
+549
+00:44:32,336 --> 00:44:34,069
+<font color="#ffff33">No wonder you cover it up.</font>
+Pas étonnant que vous le cachiez.
+
+550
+00:44:34,089 --> 00:44:35,570
+<font color="#ffff33">Who are you?</font>
+Qui êtes-vous ?
+
+551
+00:44:35,590 --> 00:44:36,947
+<font color="#ffff33">No ordinary maid.</font>
+Une servante peu ordinaire.
+
+552
+00:44:36,967 --> 00:44:39,992
+<font color="#ffff33">It could be said I have fallen far.</font>
+On pourrait dire que je suis tombée de haut.
+
+553
+00:44:40,012 --> 00:44:41,327
+<font color="#ffff33">It could be said I aim to catch you.</font>
+On pourrait dire
+
+554
+00:44:41,347 --> 00:44:43,931
+<font color="#ffff33"></font>
+que je suis là pour vous attraper.
+
+555
+00:44:46,934 --> 00:44:48,250
+<font color="#ffff33">Ow!</font>
+
+
+556
+00:44:48,270 --> 00:44:50,269
+<font color="#ffff33">I might allow it.</font>
+Je pourrais vous laisser faire.
+
+557
+00:44:50,773 --> 00:44:53,182
+<font color="#ffff33">Now good night, sir.</font>
+Bonne nuit, monsieur.
+
+558
+00:44:57,571 --> 00:44:59,405
+<font color="#ffff33">Progress?</font>
+Des progrès ?
+
+559
+00:45:00,032 --> 00:45:01,858
+<font color="#ffff33">Uh... She, uh...</font>
+Elle...
+
+560
+00:45:01,950 --> 00:45:04,725
+<font color="#ffff33">- She bit me. - Oh.</font>
+Elle m'a mordu.
+
+561
+00:45:04,745 --> 00:45:07,076
+<font color="#ffff33">This wig's ridiculous.</font>
+Cette perruque est ridicule.
+
+562
+00:45:07,373 --> 00:45:09,271
+<font color="#ffff33">A man must look pretty.</font>
+Un homme doit se faire beau.
+
+563
+00:45:09,291 --> 00:45:11,997
+<font color="#ffff33">I'm not entirely sure she approves.</font>
+Je ne suis pas sûr qu'elle approuve.
+
+564
+00:45:12,169 --> 00:45:15,080
+<font color="#ffff33">Try again in your own way, old boy.</font>
+Ressayez à votre façon, mon cher.
+
+565
+00:46:10,686 --> 00:46:13,043
+<font color="#ffff33">Apologies regarding sending Abigail in my stead.</font>
+Excusez-moi d'avoir envoyé Abigail à ma place.
+
+566
+00:46:13,063 --> 00:46:14,420
+<font color="#ffff33">She was perfectly darling.</font>
+Elle a été adorable.
+
+567
+00:46:14,440 --> 00:46:16,046
+<font color="#ffff33">Hildebrand really took to her.</font>
+Elle a beaucoup plu à Hildebrand.
+
+568
+00:46:16,066 --> 00:46:18,067
+<font color="#ffff33">Is that a rabbit?</font>
+C'est un lapin ?
+
+569
+00:46:19,570 --> 00:46:21,802
+<font color="#ffff33">Anne, you are too sensitive.</font>
+Anne, vous êtes trop sensible.
+
+570
+00:46:21,822 --> 00:46:24,263
+<font color="#ffff33">And you are too mean and uncaring, some days.</font>
+Et vous êtes trop froide et méchante, certains jours.
+
+571
+00:46:24,283 --> 00:46:28,809
+<font color="#ffff33">Some days, I'm quite lovely, though. Let's think on them.</font>
+D'autres jours, je suis charmante. Pensons plutôt à ceux-là.
+
+572
+00:46:28,829 --> 00:46:30,663
+<font color="#ffff33">Anne.</font>
+Anne.
+
+573
+00:46:31,081 --> 00:46:33,412
+<font color="#ffff33">You're such a child.</font>
+Vous êtes puérile.
+
+574
+00:46:47,347 --> 00:46:48,745
+<font color="#ffff33"></font>
+UN PETIT PÉPIN
+
+575
+00:46:48,765 --> 00:46:52,624
+<font color="#ffff33">I guess all the rapes were the hardest.</font>
+Les viols, c'était le plus dur.
+
+576
+00:46:52,644 --> 00:46:55,054
+<font color="#ffff33">Made me feel at their mercy.</font>
+Je me sentais à leur merci.
+
+577
+00:46:55,230 --> 00:46:57,171
+<font color="#ffff33">That I was nothing.</font>
+Comme si je n'étais rien.
+
+578
+00:46:57,191 --> 00:47:00,090
+<font color="#ffff33">You are not nothing. You're a dear person.</font>
+Vous n'êtes pas rien. Vous êtes adorable.
+
+579
+00:47:00,110 --> 00:47:02,109
+<font color="#ffff33">Thank you.</font>
+Merci.
+
+580
+00:47:03,238 --> 00:47:05,179
+<font color="#ffff33">You're so beautiful.</font>
+Vous êtes magnifique.
+
+581
+00:47:05,199 --> 00:47:07,389
+<font color="#ffff33">Stop it. You mock me.</font>
+Arrêtez. Vous vous moquez de moi.
+
+582
+00:47:07,409 --> 00:47:09,266
+<font color="#ffff33">I do not.</font>
+Pas du tout.
+
+583
+00:47:09,286 --> 00:47:12,936
+<font color="#ffff33">If I were a man, I would ravish you.</font>
+Si j'étais un homme, je vous posséderais.
+
+584
+00:47:12,956 --> 00:47:14,563
+<font color="#ffff33">- Ravish. - Enough.</font>
+- Je vous posséderais. - Ça suffit.
+
+585
+00:47:14,583 --> 00:47:17,539
+<font color="#ffff33">I'm sorry. I'm sorry.</font>
+Excusez-moi.
+
+586
+00:47:18,337 --> 00:47:20,372
+<font color="#ffff33">Oh, look.</font>
+Regardez.
+
+587
+00:47:45,989 --> 00:47:47,679
+<font color="#ffff33">Make them stop.</font>
+Faites-les cesser.
+
+588
+00:47:47,699 --> 00:47:48,805
+<font color="#ffff33">What?</font>
+Quoi ?
+
+589
+00:47:48,825 --> 00:47:50,660
+<font color="#ffff33">Stop!</font>
+Arrêtez !
+
+590
+00:47:50,911 --> 00:47:51,892
+<font color="#ffff33">Enough!</font>
+Ça suffit !
+
+591
+00:47:51,912 --> 00:47:53,560
+<font color="#ffff33">Stop!</font>
+Arrêtez !
+
+592
+00:47:53,580 --> 00:47:54,811
+<font color="#ffff33">Be gone!</font>
+Partez !
+
+593
+00:47:54,831 --> 00:47:57,189
+<font color="#ffff33">I command it!</font>
+Je l'ordonne !
+
+594
+00:47:57,209 --> 00:47:59,289
+<font color="#ffff33">Leave!</font>
+Partez !
+
+595
+00:47:59,628 --> 00:48:02,493
+<font color="#ffff33">I don't want to hear it!</font>
+Je ne veux rien entendre !
+
+596
+00:48:04,258 --> 00:48:06,073
+<font color="#ffff33">- Your Majesty? - Now I must rest.</font>
+- Votre Majesté ? - Je dois me reposer.
+
+597
+00:48:06,093 --> 00:48:09,333
+<font color="#ffff33">- Shall I... - Leave me be!</font>
+- Dois-je... - Laissez-moi tranquille !
+
+598
+00:48:40,627 --> 00:48:42,626
+<font color="#ffff33">Give me that.</font>
+Donnez-le-moi.
+
+599
+00:48:43,088 --> 00:48:45,087
+<font color="#ffff33">Give me that.</font>
+Donnez-le-moi.
+
+600
+00:48:48,218 --> 00:48:51,012
+<font color="#ffff33">Thank you, Your Majesty.</font>
+Merci, Votre Majesté.
+
+601
+00:49:01,189 --> 00:49:03,304
+<font color="#ffff33">Where am I?</font>
+Où suis-je ?
+
+602
+00:49:04,484 --> 00:49:06,008
+<font color="#ffff33">Where am I?</font>
+Où suis-je ?
+
+603
+00:49:06,028 --> 00:49:09,636
+<font color="#ffff33">Your Majesty, you are in the west hallway.</font>
+Dans le couloir ouest, Votre Majesté.
+
+604
+00:49:09,656 --> 00:49:12,237
+<font color="#ffff33">Don't speak to me like that!</font>
+Ne me parlez pas comme ça !
+
+605
+00:49:13,869 --> 00:49:15,868
+<font color="#ffff33">Your Majesty.</font>
+Votre Majesté.
+
+606
+00:49:15,871 --> 00:49:17,436
+<font color="#ffff33">- Stupid girl! Where have you been? - I'm sorry.</font>
+Idiote ! Où étiez-vous ?
+
+607
+00:49:17,456 --> 00:49:19,373
+<font color="#ffff33"></font>
+Excusez-moi.
+
+608
+00:49:22,419 --> 00:49:24,418
+<font color="#ffff33">Take me back.</font>
+Ramenez-moi.
+
+609
+00:50:04,378 --> 00:50:06,587
+<font color="#ffff33">Perhaps we should dance.</font>
+Peut-être devrions-nous danser.
+
+610
+00:50:08,131 --> 00:50:09,404
+<font color="#ffff33">You mock me.</font>
+Vous vous moquez de moi.
+
+611
+00:50:09,424 --> 00:50:11,531
+<font color="#ffff33">No. I just believe you can.</font>
+Non, je vous en crois capable.
+
+612
+00:50:11,551 --> 00:50:13,666
+<font color="#ffff33">That it would be cheery.</font>
+Ce serait joyeux.
+
+613
+00:50:13,887 --> 00:50:16,548
+<font color="#ffff33">I would dearly like to dance with you.</font>
+J'aimerais beaucoup danser avec vous.
+
+614
+00:50:24,272 --> 00:50:26,107
+<font color="#ffff33">Back.</font>
+Reculez.
+
+615
+00:50:28,026 --> 00:50:30,561
+<font color="#ffff33">Together. And click.</font>
+Ensemble. Et clic.
+
+616
+00:50:33,240 --> 00:50:35,074
+<font color="#ffff33">Throw.</font>
+Lancez.
+
+617
+00:50:35,325 --> 00:50:38,911
+<font color="#ffff33">Back, front, back.</font>
+Arrière, avant, arrière.
+
+618
+00:50:40,122 --> 00:50:41,956
+<font color="#ffff33">Throw.</font>
+Lancez.
+
+619
+00:50:42,541 --> 00:50:47,374
+<font color="#ffff33">Off with her head and off with her head.</font>
+Qu'on lui coupe la tête et qu'on lui coupe la tête.
+
+620
+00:50:50,424 --> 00:50:54,050
+<font color="#ffff33">Throw. Spin, spin, spin, spin.</font>
+- Lancez. - Tournez, tournez, tournez.
+
+621
+00:51:08,024 --> 00:51:09,923
+<font color="#ffff33">It's 12-11.</font>
+C'est 12 à 11.
+
+622
+00:51:09,943 --> 00:51:12,134
+<font color="#ffff33">You're shooting exceptionally well, Abigail.</font>
+Vous tirez exceptionnellement bien.
+
+623
+00:51:12,154 --> 00:51:14,238
+<font color="#ffff33">You've taught me well.</font>
+Vous m'avez bien enseigné.
+
+624
+00:51:14,865 --> 00:51:18,098
+<font color="#ffff33">I hope you haven't found your time with the queen too tedious.</font>
+J'espère que vous ne vous ennuyez pas auprès de la reine.
+
+625
+00:51:18,118 --> 00:51:22,102
+<font color="#ffff33">Oh, not at all. And if it gives you rest, I'm happy.</font>
+Pas du tout. Je suis heureuse de vous offrir ce répit.
+
+626
+00:51:22,122 --> 00:51:24,396
+<font color="#ffff33">- Did you sleep well? - Like a shot badger.</font>
+- Avez-vous bien dormi ? - Comme un loir.
+
+627
+00:51:24,416 --> 00:51:26,106
+<font color="#ffff33">Excellent.</font>
+Tant mieux.
+
+628
+00:51:26,126 --> 00:51:28,125
+<font color="#ffff33">The queen is...</font>
+La reine est...
+
+629
+00:51:29,337 --> 00:51:31,702
+<font color="#ffff33">an extraordinary person...</font>
+une personne extraordinaire,
+
+630
+00:51:31,757 --> 00:51:34,364
+<font color="#ffff33">even if it's not readily apparent.</font>
+même si ça ne saute pas aux yeux.
+
+631
+00:51:34,384 --> 00:51:36,116
+<font color="#ffff33">She's been stalked by tragedy.</font>
+La tragédie l'a affligée.
+
+632
+00:51:36,136 --> 00:51:38,368
+<font color="#ffff33">She seems quite lovely.</font>
+Elle me semble charmante.
+
+633
+00:51:38,388 --> 00:51:40,806
+<font color="#ffff33">I will not burden you again.</font>
+Je ne vous imposerai plus ce fardeau.
+
+634
+00:51:41,183 --> 00:51:43,623
+<font color="#ffff33">- I'm quite happy to... - I know you are.</font>
+- Cela ne m'ennuie pas de... - Je sais.
+
+635
+00:51:43,643 --> 00:51:47,169
+<font color="#ffff33">She will be angry if I do not appear soon.</font>
+Elle se fâchera si elle ne me voit pas bientôt.
+
+636
+00:51:47,189 --> 00:51:49,148
+<font color="#ffff33">Take your shot.</font>
+À vous de tirer.
+
+637
+00:51:57,866 --> 00:51:59,742
+<font color="#ffff33">Throw.</font>
+Lancez.
+
+638
+00:52:03,830 --> 00:52:05,664
+<font color="#ffff33">Thirteen.</font>
+Treize.
+
+639
+00:52:12,255 --> 00:52:13,779
+<font color="#ffff33">The queen?</font>
+La reine ?
+
+640
+00:52:13,799 --> 00:52:15,913
+<font color="#ffff33">I will be there directly.</font>
+Je la rejoins à l'instant.
+
+641
+00:52:20,096 --> 00:52:23,553
+<font color="#ffff33">The queen... asked for her.</font>
+C'est... elle que la reine demande.
+
+642
+00:52:29,773 --> 00:52:32,631
+<font color="#ffff33">I have sent for some lobsters. I thought we could race them and then eat them.</font>
+J'ai commandé des homards. Ils feront la course avant d'être mangés.
+
+643
+00:52:32,651 --> 00:52:34,841
+<font color="#ffff33">- Oh, hello. - Oh, hello.</font>
+- Bonjour. - Bonjour.
+
+644
+00:52:34,861 --> 00:52:36,510
+<font color="#ffff33">I hope you have three.</font>
+J'espère qu'il y en a trois.
+
+645
+00:52:36,530 --> 00:52:39,304
+<font color="#ffff33">You sent for Abigail to try and make me jealous, I think.</font>
+Vous avez demandé Abigail pour me rendre jalouse, je crois.
+
+646
+00:52:39,324 --> 00:52:41,158
+<font color="#ffff33">Perhaps.</font>
+Peut-être.
+
+647
+00:52:42,828 --> 00:52:44,643
+<font color="#ffff33">They'll be in with the lobsters.</font>
+Ils arrivent avec les homards.
+
+648
+00:52:44,663 --> 00:52:46,573
+<font color="#ffff33">You scared?</font>
+Avez-vous peur ?
+
+649
+00:52:46,915 --> 00:52:52,108
+<font color="#ffff33">Oh, I think a moat is a bad idea. It's just... It's too old-fashioned.</font>
+Les douves, c'est une mauvaise idée. C'est démodé.
+
+650
+00:52:52,128 --> 00:52:55,278
+<font color="#ffff33">Your lobsters, ma'am. Where should I put them?</font>
+Vos homards, madame. Où dois-je les mettre ?
+
+651
+00:52:55,298 --> 00:52:57,128
+<font color="#ffff33">Uh... here.</font>
+Ici.
+
+652
+00:53:10,105 --> 00:53:13,213
+<font color="#ffff33">Hello. Remember me?</font>
+Bonjour. Vous souvenez-vous de moi ?
+
+653
+00:53:13,233 --> 00:53:15,006
+<font color="#ffff33">Mr. Harley.</font>
+M. Harley.
+
+654
+00:53:15,026 --> 00:53:17,175
+<font color="#ffff33">You always unbalance me.</font>
+Vous me déstabilisez toujours.
+
+655
+00:53:17,195 --> 00:53:19,363
+<font color="#ffff33">So what's been happening?</font>
+Que se passe-t-il ?
+
+656
+00:53:19,948 --> 00:53:23,014
+<font color="#ffff33">The queen and Lady Marlborough are to race lobsters and then eat them.</font>
+La reine et Lady Marlborough vont faire courir des homards et les manger.
+
+657
+00:53:23,034 --> 00:53:25,365
+<font color="#ffff33">Do you want to get punched?</font>
+Voulez-vous que je vous frappe ?
+
+658
+00:53:25,453 --> 00:53:26,726
+<font color="#ffff33">The queen is going to announce</font>
+La reine va annoncer
+
+659
+00:53:26,746 --> 00:53:28,520
+<font color="#ffff33">the doubling of the landholders' tax to parliament.</font>
+au parlement qu'elle double l'impôt foncier.
+
+660
+00:53:28,540 --> 00:53:29,855
+<font color="#ffff33">Do you jest?</font>
+Est-ce une blague ?
+
+661
+00:53:29,875 --> 00:53:31,815
+<font color="#ffff33">I don't think she's certain of it, though.</font>
+Je crois qu'elle a des doutes.
+
+662
+00:53:31,835 --> 00:53:33,984
+<font color="#ffff33">But Lady Marlborough is providing that certainty.</font>
+Mais Lady Marlborough la rassure.
+
+663
+00:53:34,004 --> 00:53:35,652
+<font color="#ffff33">Yes.</font>
+Oui.
+
+664
+00:53:35,672 --> 00:53:37,112
+<font color="#ffff33">And?</font>
+Et ?
+
+665
+00:53:37,132 --> 00:53:39,131
+<font color="#ffff33">That is all.</font>
+C'est tout.
+
+666
+00:53:39,551 --> 00:53:42,094
+<font color="#ffff33">Why do I feel that is not all?</font>
+J'ai l'impression que non.
+
+667
+00:53:43,513 --> 00:53:46,015
+<font color="#ffff33">I'm trying my best.</font>
+Je fais de mon mieux.
+
+668
+00:53:46,349 --> 00:53:48,183
+<font color="#ffff33">I am.</font>
+Sincèrement.
+
+669
+00:53:48,560 --> 00:53:53,730
+<font color="#ffff33">All right, turn off the tears. Thank you. Have a pleasant evening.</font>
+Arrêtez de pleurer. Merci. Passez une bonne soirée.
+
+670
+00:54:01,114 --> 00:54:05,730
+<font color="#ffff33">May I speak a moment, with Her Majesty's pleasure?</font>
+Puis-je parler un moment avec la permission de Sa Majesté ?
+
+671
+00:54:06,912 --> 00:54:10,812
+<font color="#ffff33">May I exhort the chamber to roar a mighty hurrah for Her Majesty</font>
+J'invite la chambre à dire hourra à Sa Majesté
+
+672
+00:54:10,832 --> 00:54:14,232
+<font color="#ffff33">in her brilliant decision to not raise the land tax.</font>
+pour sa judicieuse décision de ne pas hausser l'impôt foncier.
+
+673
+00:54:14,252 --> 00:54:16,401
+<font color="#ffff33">- Hurrah! - For the doubling</font>
+- Hourra ! - Doubler
+
+674
+00:54:16,421 --> 00:54:19,821
+<font color="#ffff33">of the tax would have been a disaster, and the fields would have run with blood</font>
+cet impôt aurait été une catastrophe. Les champs auraient été inondés de sang
+
+675
+00:54:19,841 --> 00:54:22,657
+<font color="#ffff33">as the countryside rose up against our city friends,</font>
+alors que la campagne se serait soulevée contre la ville,
+
+676
+00:54:22,677 --> 00:54:27,370
+<font color="#ffff33">to add to the piling dead of our sons already on the field of this war.</font>
+ajoutant aux morts déjà survenues sur le champ de bataille.
+
+677
+00:54:27,390 --> 00:54:30,290
+<font color="#ffff33">Again, to our queen, for her deep wisdom</font>
+Notre reine, dans sa grande sagesse,
+
+678
+00:54:30,310 --> 00:54:33,585
+<font color="#ffff33">in knowing where to draw the line in holding our country together.</font>
+a su où tracer la ligne pour préserver l'unité du pays.
+
+679
+00:54:33,605 --> 00:54:36,254
+<font color="#ffff33">For there is no point winning a war abroad</font>
+Ce serait insensé de gagner une guerre à l'étranger
+
+680
+00:54:36,274 --> 00:54:38,006
+<font color="#ffff33">if we are to start one at home.</font>
+en en déclenchant une chez nous.
+
+681
+00:54:38,026 --> 00:54:39,716
+<font color="#ffff33">- Hear, hear! - Hurrah!</font>
+- Bien dit. - Hourra !
+
+682
+00:54:39,736 --> 00:54:42,093
+<font color="#ffff33">I apologize for the interruption, Your Majesty.</font>
+Pardon de l'interruption, Votre Majesté.
+
+683
+00:54:42,113 --> 00:54:44,054
+<font color="#ffff33">The floor is yours, of course.</font>
+La parole est à vous.
+
+684
+00:54:44,074 --> 00:54:48,155
+<font color="#ffff33">We look forward to hearing what you have to say.</font>
+Nous avons hâte de vous entendre.
+
+685
+00:55:33,123 --> 00:55:34,980
+<font color="#ffff33">Men should not sneak up on women.</font>
+Un homme ne devrait pas surprendre une femme ainsi.
+
+686
+00:55:35,000 --> 00:55:36,314
+<font color="#ffff33">You look scared.</font>
+On dirait que vous avez peur.
+
+687
+00:55:36,334 --> 00:55:38,333
+<font color="#ffff33">I'm hurt.</font>
+Je suis blessé.
+
+688
+00:55:56,563 --> 00:55:58,731
+<font color="#ffff33">Wait, wait!</font>
+Attendez !
+
+689
+00:55:59,232 --> 00:56:01,392
+<font color="#ffff33">Kiss me properly first.</font>
+Embrassez-moi d'abord pour de vrai.
+
+690
+00:56:12,746 --> 00:56:14,978
+<font color="#ffff33">I have just now decided to marry you, Masham.</font>
+J'ai décidé de vous épouser, Masham.
+
+691
+00:56:14,998 --> 00:56:16,855
+<font color="#ffff33">I cannot marry a servant.</font>
+Je ne peux pas épouser une servante.
+
+692
+00:56:16,875 --> 00:56:19,035
+<font color="#ffff33">I can enjoy one, though.</font>
+Mais je peux me divertir avec elle.
+
+693
+00:56:23,173 --> 00:56:25,030
+<font color="#ffff33">I know it would ruin you to marry me.</font>
+Je sais que cela vous ruinerait de m'épouser.
+
+694
+00:56:25,050 --> 00:56:27,255
+<font color="#ffff33">I will fix things for us.</font>
+J'arrangerai les choses pour nous.
+
+695
+00:56:36,061 --> 00:56:38,293
+<font color="#ffff33">Don't you think we are a good match?</font>
+Ne trouvez-vous pas que nous sommes bien assortis ?
+
+696
+00:56:38,313 --> 00:56:40,678
+<font color="#ffff33">I think a very good match.</font>
+Tout à fait.
+
+697
+00:57:35,745 --> 00:57:37,477
+<font color="#ffff33">I looked like a fool.</font>
+J'ai eu l'air d'une idiote.
+
+698
+00:57:37,497 --> 00:57:38,895
+<font color="#ffff33">They were all staring, weren't they?</font>
+Ils me fixaient tous, n'est-ce pas ?
+
+699
+00:57:38,915 --> 00:57:41,940
+<font color="#ffff33">I can tell even if I can't see, and I heard the word "fat." Fat.</font>
+Je le sais même si je ne vois pas. J'ai entendu le mot "grosse". Grosse.
+
+700
+00:57:41,960 --> 00:57:43,650
+<font color="#ffff33">- And ugly. - Anne.</font>
+- Et laide. - Anne.
+
+701
+00:57:43,670 --> 00:57:46,277
+<font color="#ffff33">No one but me would dare, and I did not.</font>
+Personne n'oserait sauf moi, et je n'ai rien dit.
+
+702
+00:57:46,297 --> 00:57:48,988
+<font color="#ffff33">I felt for you. He set you up. It is our fault.</font>
+Je me sentais mal pour vous. Il vous a piégée. C'est de notre faute.
+
+703
+00:57:49,008 --> 00:57:51,491
+<font color="#ffff33">I didn't know what else to do. I couldn't go through with it.</font>
+Je ne savais pas quoi faire. Je n'ai pas pu aller de l'avant.
+
+704
+00:57:51,511 --> 00:57:54,923
+<font color="#ffff33">It's fine, Anne. It's fine.</font>
+Ça va, Anne.
+
+705
+00:58:00,979 --> 00:58:02,544
+<font color="#ffff33">He was ready for us.</font>
+Il nous attendait de pied ferme.
+
+706
+00:58:02,564 --> 00:58:05,964
+<font color="#ffff33">He probably just assumed that you've been working on her.</font>
+Il a dû présumer que vous l'aviez préparée.
+
+707
+00:58:05,984 --> 00:58:07,507
+<font color="#ffff33">A minor hitch.</font>
+C'est un petit pépin.
+
+708
+00:58:07,527 --> 00:58:09,937
+<font color="#ffff33">We will reset the date.</font>
+Nous changerons la date.
+
+709
+00:58:22,250 --> 00:58:24,410
+<font color="#ffff33">What are you doing?</font>
+Que faites-vous ?
+
+710
+00:58:25,628 --> 00:58:27,625
+<font color="#ffff33">Oh, Your Majesty.</font>
+Votre Majesté.
+
+711
+00:58:28,715 --> 00:58:32,657
+<font color="#ffff33">Lady Marlborough asked me to wait for you, and I was...</font>
+Lady Marlborough m'a demandé de vous attendre et je...
+
+712
+00:58:32,677 --> 00:58:36,077
+<font color="#ffff33">The bed looked so beautiful, and I was overcome...</font>
+Le lit était si invitant, et j'ai été prise...
+
+713
+00:58:36,097 --> 00:58:38,587
+<font color="#ffff33">with foolishness. I'm sorry.</font>
+d'un accès de sottise. Pardon.
+
+714
+00:58:41,269 --> 00:58:43,554
+<font color="#ffff33">Well, you may get out now.</font>
+Vous pouvez vous lever.
+
+715
+00:58:57,327 --> 00:58:59,893
+<font color="#ffff33">Apologies again, Your Majesty.</font>
+Toutes mes excuses, Votre Majesté.
+
+716
+00:58:59,913 --> 00:59:02,072
+<font color="#ffff33">What happened to your dress?</font>
+Qu'est-il arrivé à votre robe ?
+
+717
+00:59:03,249 --> 00:59:05,248
+<font color="#ffff33">Wolves.</font>
+Des loups.
+
+718
+00:59:30,735 --> 00:59:32,734
+<font color="#ffff33">Her legs.</font>
+Ses jambes.
+
+719
+00:59:46,084 --> 00:59:48,083
+<font color="#ffff33">Rub my legs.</font>
+Frottez mes jambes.
+
+720
+01:00:11,609 --> 01:00:13,894
+<font color="#ffff33">Does it hurt a lot?</font>
+Est-ce très douloureux ?
+
+721
+01:00:14,404 --> 01:00:16,402
+<font color="#ffff33">They're agony.</font>
+Je suis à l'agonie.
+
+722
+01:00:54,402 --> 01:00:56,562
+<font color="#ffff33">Oh, the pain.</font>
+C'est un supplice.
+
+723
+01:01:00,408 --> 01:01:01,889
+<font color="#ffff33">Marlborough has written.</font>
+Marlborough a écrit.
+
+724
+01:01:01,909 --> 01:01:03,766
+<font color="#ffff33">He's in position.</font>
+Il est en position.
+
+725
+01:01:03,786 --> 01:01:06,401
+<font color="#ffff33">The battle will begin any time.</font>
+La bataille commencera à tout moment.
+
+726
+01:01:09,250 --> 01:01:10,982
+<font color="#ffff33">He will prevail.</font>
+Il triomphera.
+
+727
+01:01:11,002 --> 01:01:12,650
+<font color="#ffff33">Of course.</font>
+Bien sûr.
+
+728
+01:01:12,670 --> 01:01:16,070
+<font color="#ffff33">I imagine you will not sleep tonight. I can stay and sit with you.</font>
+Vous ne dormirez sûrement pas ce soir. Je peux rester avec vous.
+
+729
+01:01:16,090 --> 01:01:18,250
+<font color="#ffff33">I'm all right.</font>
+Ça ira.
+
+730
+01:03:02,447 --> 01:03:04,679
+<font color="#ffff33">Good morning, Lady Marlborough.</font>
+Bonjour, Lady Marlborough.
+
+731
+01:03:04,699 --> 01:03:07,306
+<font color="#ffff33">Did you see that book of poetry from the Dryden fellow?</font>
+Avez-vous vu le livre de poèmes de Dryden ?
+
+732
+01:03:07,326 --> 01:03:09,142
+<font color="#ffff33">I... have not.</font>
+Je ne l'ai pas vu.
+
+733
+01:03:09,162 --> 01:03:10,476
+<font color="#ffff33">No.</font>
+Non.
+
+734
+01:03:10,496 --> 01:03:12,145
+<font color="#ffff33">No.</font>
+Non.
+
+735
+01:03:12,165 --> 01:03:13,999
+<font color="#ffff33">No.</font>
+Non.
+
+736
+01:03:14,292 --> 01:03:15,940
+<font color="#ffff33">No.</font>
+Non.
+
+737
+01:03:15,960 --> 01:03:17,794
+<font color="#ffff33">No.</font>
+Non.
+
+738
+01:03:18,546 --> 01:03:19,569
+<font color="#ffff33">I don't understand.</font>
+Je ne comprends pas.
+
+739
+01:03:19,589 --> 01:03:21,737
+<font color="#ffff33">Did you take it? My book.</font>
+Avez-vous pris mon livre ?
+
+740
+01:03:21,757 --> 01:03:22,780
+<font color="#ffff33">No.</font>
+Non.
+
+741
+01:03:22,800 --> 01:03:26,367
+<font color="#ffff33">I think you are a pretty little liar that I have misjudged.</font>
+Vous êtes une jolie petite menteuse que j'ai mal jugée.
+
+742
+01:03:26,387 --> 01:03:28,995
+<font color="#ffff33">I did not mean for this to happen.</font>
+Je ne voulais pas que cela arrive.
+
+743
+01:03:29,015 --> 01:03:30,496
+<font color="#ffff33">The queen, she's forceful.</font>
+C'est la reine qui décide.
+
+744
+01:03:30,516 --> 01:03:32,957
+<font color="#ffff33">You are dismissed from my service.</font>
+Vous êtes congédiée.
+
+745
+01:03:32,977 --> 01:03:35,418
+<font color="#ffff33">Go back to Mrs. Meg and tell her to find you a position in the scullery.</font>
+Allez voir Mme Meg et dites-lui de vous trouver un poste en cuisine.
+
+746
+01:03:35,438 --> 01:03:38,671
+<font color="#ffff33">And if she asks why, tell her "Because I am a disloyal little bitch."</font>
+Si elle demande pourquoi, dites : "Parce que je suis une garce déloyale."
+
+747
+01:03:38,691 --> 01:03:40,840
+<font color="#ffff33">Yes, Your Ladyship.</font>
+Oui, madame.
+
+748
+01:03:40,860 --> 01:03:42,341
+<font color="#ffff33">It has been an honor and privilege...</font>
+Ce fut un honneur et un privilège...
+
+749
+01:03:42,361 --> 01:03:48,195
+<font color="#ffff33">If you do not go, I will start kicking you and I will not stop.</font>
+Partez tout de suite avant que je vous roue de coups de pied.
+
+750
+01:05:10,700 --> 01:05:12,306
+<font color="#ffff33">You have become close to Abigail.</font>
+Vous vous êtes rapprochée d'Abigail.
+
+751
+01:05:12,326 --> 01:05:13,391
+<font color="#ffff33">She's been a dear. Yes.</font>
+Elle a été charmante, oui.
+
+752
+01:05:13,411 --> 01:05:16,352
+<font color="#ffff33">It is such a shame, but I've had to dismiss her for theft.</font>
+J'ai malheureusement dû la renvoyer pour vol.
+
+753
+01:05:16,372 --> 01:05:18,953
+<font color="#ffff33">She's a liar and a thief.</font>
+C'est une voleuse et une menteuse.
+
+754
+01:05:25,548 --> 01:05:27,863
+<font color="#ffff33">Your tongue seems uncharacteristically still.</font>
+Votre langue est bien tranquille pour une fois.
+
+755
+01:05:27,883 --> 01:05:29,115
+<font color="#ffff33">I heard you.</font>
+Je vous ai entendue.
+
+756
+01:05:29,135 --> 01:05:31,075
+<font color="#ffff33">She's my servant. She's not dismissed.</font>
+C'est ma servante. Je ne l'ai pas renvoyée.
+
+757
+01:05:31,095 --> 01:05:32,577
+<font color="#ffff33">I've made her my maid of the bedchamber.</font>
+Je l'ai nommée femme de chambre.
+
+758
+01:05:32,597 --> 01:05:34,203
+<font color="#ffff33">Did you not hear what I said?</font>
+N'avez-vous pas entendu ce que j'ai dit ?
+
+759
+01:05:34,223 --> 01:05:36,038
+<font color="#ffff33">Yes, you regard her as a liar and a thief.</font>
+Vous croyez que c'est une menteuse et une voleuse.
+
+760
+01:05:36,058 --> 01:05:40,219
+<font color="#ffff33">- Yes. - I do not, obviously.</font>
+- Oui. - Pas moi.
+
+761
+01:05:40,813 --> 01:05:42,336
+<font color="#ffff33">You will dismiss her.</font>
+Renvoyez-la.
+
+762
+01:05:42,356 --> 01:05:43,963
+<font color="#ffff33">I don't want to.</font>
+Je ne veux pas.
+
+763
+01:05:43,983 --> 01:05:48,315
+<font color="#ffff33">I like it when she puts her tongue inside me.</font>
+J'aime sentir sa langue en moi.
+
+764
+01:06:25,775 --> 01:06:32,488
+<font color="#ffff33"></font>
+ET SI JE TOMBAIS ENDORMIE ET M'Y ENFONÇAIS ?
+
+765
+01:06:40,581 --> 01:06:42,730
+<font color="#ffff33">It feels so strange to be in this.</font>
+Ça fait tout drôle d'être là-dedans.
+
+766
+01:06:42,750 --> 01:06:44,023
+<font color="#ffff33">It's good for you.</font>
+C'est bon pour vous.
+
+767
+01:06:44,043 --> 01:06:46,984
+<font color="#ffff33">The doctor says it'll leach the toxins.</font>
+Le médecin dit que ça éliminera les toxines.
+
+768
+01:06:47,004 --> 01:06:49,820
+<font color="#ffff33">What if I should fall asleep and slip under?</font>
+Et si je m'endormais et m'y enfonçais ?
+
+769
+01:06:49,840 --> 01:06:51,989
+<font color="#ffff33">Just imagine it's hot chocolate.</font>
+Imaginez que c'est du chocolat chaud.
+
+770
+01:06:52,009 --> 01:06:54,844
+<font color="#ffff33">Oh, then I shall die happy.</font>
+Dans ce cas, je mourrais heureuse.
+
+771
+01:07:03,604 --> 01:07:07,004
+<font color="#ffff33">After you left, I thought, "What a grand idea to take to the mud."</font>
+Après votre départ, j'ai pensé : "Quelle bonne idée, le bain de boue."
+
+772
+01:07:07,024 --> 01:07:11,735
+<font color="#ffff33">To get whatever poisons one carries with one out.</font>
+Faire sortir le poison qu'on porte en soi.
+
+773
+01:07:15,574 --> 01:07:18,599
+<font color="#ffff33">Abigail, could you fetch me some refreshment?</font>
+Abigail, m'apporteriez-vous un rafraîchissement ?
+
+774
+01:07:18,619 --> 01:07:20,685
+<font color="#ffff33">I would like to, of course, but...</font>
+J'aimerais bien, évidemment, mais...
+
+775
+01:07:20,705 --> 01:07:23,479
+<font color="#ffff33">I must be at the queen's side and behest at all times.</font>
+Je dois être auprès de la reine pour la servir en tout temps.
+
+776
+01:07:23,499 --> 01:07:25,398
+<font color="#ffff33">It is my role.</font>
+C'est mon rôle.
+
+777
+01:07:25,418 --> 01:07:27,024
+<font color="#ffff33">Such loyalty.</font>
+Une telle loyauté.
+
+778
+01:07:27,044 --> 01:07:30,820
+<font color="#ffff33">How delightful it is when one tries to cultivate a new trait in one's character.</font>
+C'est admirable de cultiver un nouveau trait de caractère.
+
+779
+01:07:30,840 --> 01:07:33,216
+<font color="#ffff33">Do not scratch at her.</font>
+Ne la provoquez pas.
+
+780
+01:07:40,349 --> 01:07:42,839
+<font color="#ffff33">Mr. Freeman.</font>
+M. Freeman.
+
+781
+01:07:46,021 --> 01:07:48,087
+<font color="#ffff33">Mr. Morley.</font>
+M. Morley.
+
+782
+01:07:48,107 --> 01:07:51,776
+<font color="#ffff33">Oh, how handsome you are.</font>
+Vous êtes très bel homme.
+
+783
+01:07:51,777 --> 01:07:55,018
+<font color="#ffff33">How handsome you are, Mr. Freeman.</font>
+Et vous donc, M. Freeman.
+
+784
+01:07:55,740 --> 01:07:57,430
+<font color="#ffff33">Oh... But I...</font>
+Mais je...
+
+785
+01:07:57,450 --> 01:08:00,189
+<font color="#ffff33">I forgot my glasses.</font>
+J'ai oublié mes lunettes.
+
+786
+01:08:12,882 --> 01:08:16,213
+<font color="#ffff33">You will be back in the street.</font>
+Vous retournerez à la rue.
+
+787
+01:08:24,643 --> 01:08:29,170
+<font color="#ffff33">Do you remember when we were young, and we were not allowed out in the snow,</font>
+Rappelez-vous quand nous étions enfants et que jouer dans la neige était interdit.
+
+788
+01:08:29,190 --> 01:08:31,213
+<font color="#ffff33">and we opened all the windows in the ballroom</font>
+Nous avons ouvert toutes les fenêtres de la salle de bal
+
+789
+01:08:31,233 --> 01:08:33,674
+<font color="#ffff33">and sat there as the snow flurries just wafted in?</font>
+et sommes restées assises à admirer les flocons qui entraient.
+
+790
+01:08:33,694 --> 01:08:38,679
+<font color="#ffff33">And when your governess came in, we were making a snowman and our hands were blue. - Oh, it was such fun. - Sounds marvelous.</font>
+Votre gouvernante nous a surprises en train de faire un bonhomme de neige.
+
+791
+01:08:38,699 --> 01:08:40,931
+<font color="#ffff33"></font>
+- C'était si amusant. - Ça semble merveilleux.
+
+792
+01:08:40,951 --> 01:08:42,600
+<font color="#ffff33">So many things we have done together.</font>
+Nous avons fait tant de choses ensemble.
+
+793
+01:08:42,620 --> 01:08:45,201
+<font color="#ffff33">I do love ancient history.</font>
+J'adore l'histoire ancienne.
+
+794
+01:08:45,581 --> 01:08:47,188
+<font color="#ffff33">Sorry, Abigail, did you say something?</font>
+Avez-vous parlé, Abigail ?
+
+795
+01:08:47,208 --> 01:08:50,149
+<font color="#ffff33">Oh, I was singing. I cannot get a tune out of my head.</font>
+Je chantais. J'ai un air dans la tête.
+
+796
+01:08:50,169 --> 01:08:53,486
+<font color="#ffff33">Well, there is so much room for it.</font>
+Ça occupe un peu tout cet espace vide.
+
+797
+01:08:53,506 --> 01:08:55,946
+<font color="#ffff33">Lady Marlborough, you're such a wit.</font>
+Lady Marlborough, vous êtes si spirituelle.
+
+798
+01:08:55,966 --> 01:08:57,823
+<font color="#ffff33">Oh, Abigail, you are a dear.</font>
+Abigail, vous êtes charmante.
+
+799
+01:08:57,843 --> 01:09:00,034
+<font color="#ffff33">I think I shall retire for the evening.</font>
+Je vais me retirer pour la nuit.
+
+800
+01:09:00,054 --> 01:09:02,620
+<font color="#ffff33">Shall I prepare your bed, Queen Anne?</font>
+Dois-je préparer votre lit, reine Anne ?
+
+801
+01:09:02,640 --> 01:09:06,080
+<font color="#ffff33">Or shall you and I adjourn to your apartments for some sherry?</font>
+Ou prendrons-nous le xérès dans vos appartements ?
+
+802
+01:09:06,100 --> 01:09:07,333
+<font color="#ffff33">Oh!</font>
+
+
+803
+01:09:07,353 --> 01:09:09,418
+<font color="#ffff33">Sherry sounds just the ticket.</font>
+Le xérès, c'est une excellente idée.
+
+804
+01:09:09,438 --> 01:09:10,419
+<font color="#ffff33">Good night, Abigail.</font>
+Bonne nuit, Abigail.
+
+805
+01:09:10,439 --> 01:09:13,600
+<font color="#ffff33">Yes, good night, dear Abigail.</font>
+Oui, bonne nuit, chère Abigail.
+
+806
+01:09:17,571 --> 01:09:20,888
+<font color="#ffff33">You are enjoying all of this, aren't you?</font>
+Tout ceci vous plaît, n'est-ce pas ?
+
+807
+01:09:20,908 --> 01:09:22,723
+<font color="#ffff33">To be beloved? Of course.</font>
+Être aimée ? Bien sûr.
+
+808
+01:09:22,743 --> 01:09:26,393
+<font color="#ffff33">To see you trying to win me. Why, what is not to love, my dear?</font>
+Vous voir essayer de me conquérir. Pourquoi cela ne me plairait-il pas ?
+
+809
+01:09:26,413 --> 01:09:31,524
+<font color="#ffff33">You will stop this ridiculous infatuation. You have made your point.</font>
+Cessez cette lubie ridicule. J'ai compris le message.
+
+810
+01:09:31,544 --> 01:09:35,625
+<font color="#ffff33">Perhaps I was not making a point.</font>
+Je n'essayais pas de vous envoyer un message.
+
+811
+01:09:48,269 --> 01:09:50,626
+<font color="#ffff33">Perhaps because of my past,</font>
+Peut-être à cause de mon passé,
+
+812
+01:09:50,646 --> 01:09:53,796
+<font color="#ffff33">perhaps a malformation of my heart.</font>
+peut-être une malformation du cœur.
+
+813
+01:09:53,816 --> 01:09:57,307
+<font color="#ffff33">I blame my father, of course. Cunt.</font>
+Je blâme mon père, évidemment. Ce chien.
+
+814
+01:09:57,778 --> 01:10:01,110
+<font color="#ffff33">I must take control of my circumstance.</font>
+Je dois maîtriser ma situation.
+
+815
+01:10:01,156 --> 01:10:05,898
+<font color="#ffff33">I will need to act in a way that meets with the edges of my morality.</font>
+Je dois agir d'une façon qui concorde avec ma moralité.
+
+816
+01:10:06,120 --> 01:10:09,353
+<font color="#ffff33">And when I end up on the street selling my asshole to syphilitic soldiers,</font>
+Quand je me retrouverai à la rue, vendant mon cul à des soldats vérolés,
+
+817
+01:10:09,373 --> 01:10:13,440
+<font color="#ffff33">steadfast morality will be a fucking nonsense that will mock me daily.</font>
+la moralité sera une absurdité qu'on me ramènera en plein visage.
+
+818
+01:10:13,460 --> 01:10:14,357
+<font color="#ffff33">I'm not quite following.</font>
+Je ne vous suis pas.
+
+819
+01:10:14,377 --> 01:10:16,377
+<font color="#ffff33">Shh.</font>
+
+
+820
+01:10:17,006 --> 01:10:20,961
+<font color="#ffff33">I apologize. But do "shh" when I'm thinking.</font>
+Excusez-moi, mais taisez-vous quand je réfléchis.
+
+821
+01:10:22,636 --> 01:10:25,217
+<font color="#ffff33">Your hair is so lustrous.</font>
+Vos cheveux sont si lustrés.
+
+822
+01:10:25,347 --> 01:10:27,454
+<font color="#ffff33">It's something people in court comment on.</font>
+Les gens de la cour en parlent.
+
+823
+01:10:27,474 --> 01:10:29,373
+<font color="#ffff33">- Really? - Mm-hmm.</font>
+- Ah bon ? - Oui.
+
+824
+01:10:29,393 --> 01:10:31,458
+<font color="#ffff33">I always thought of it as rather nest-like.</font>
+J'ai toujours trouvé qu'ils ressemblaient à un nid.
+
+825
+01:10:31,478 --> 01:10:33,593
+<font color="#ffff33">Not at all.</font>
+Pas du tout.
+
+826
+01:10:34,023 --> 01:10:35,337
+<font color="#ffff33">Lady Marlborough.</font>
+Lady Marlborough.
+
+827
+01:10:35,357 --> 01:10:37,381
+<font color="#ffff33">I shall make you tea.</font>
+Je vais vous préparer du thé.
+
+828
+01:10:37,401 --> 01:10:39,758
+<font color="#ffff33">- What a lovely idea. Thank you, Abigail. - Of course.</font>
+- Merveilleuse idée. Merci, Abigail. - Mais bien sûr.
+
+829
+01:10:39,778 --> 01:10:41,343
+<font color="#ffff33">Pat the kids hello.</font>
+Caressez les enfants pour les saluer.
+
+830
+01:10:41,363 --> 01:10:43,362
+<font color="#ffff33">Of course.</font>
+Bien sûr.
+
+831
+01:10:57,129 --> 01:11:01,572
+<font color="#ffff33">You will give that speech on the tax increase in parliament next week.</font>
+Vous annoncerez l'augmentation d'impôt au parlement la semaine prochaine.
+
+832
+01:11:01,592 --> 01:11:04,325
+<font color="#ffff33">I dreamed of the man on the roadside with one eye.</font>
+J'ai rêvé de l'homme au bord de la route qui n'a qu'un œil.
+
+833
+01:11:04,345 --> 01:11:05,951
+<font color="#ffff33">What man?</font>
+Quel homme ?
+
+834
+01:11:05,971 --> 01:11:07,912
+<font color="#ffff33">We drove through town.</font>
+Nous passions en ville.
+
+835
+01:11:07,932 --> 01:11:10,998
+<font color="#ffff33">He looked at me in such a way, it made my blood chill.</font>
+Il m'a jeté un regard qui m'a glacé le sang.
+
+836
+01:11:11,018 --> 01:11:12,207
+<font color="#ffff33">So kind.</font>
+Si aimable.
+
+837
+01:11:12,227 --> 01:11:14,084
+<font color="#ffff33">Abigail, do you think the people are angry?</font>
+Abigail, croyez-vous que le peuple est en colère ?
+
+838
+01:11:14,104 --> 01:11:16,295
+<font color="#ffff33">Anne, she does not know.</font>
+Anne, elle n'en sait rien.
+
+839
+01:11:16,315 --> 01:11:19,882
+<font color="#ffff33">We should ask people. Get some people in from the villages and ask them.</font>
+Consultons le peuple. Demandons à des gens du village.
+
+840
+01:11:19,902 --> 01:11:22,051
+<font color="#ffff33">That is not how matters of state are dealt with.</font>
+On ne gère pas les affaires de l'État ainsi.
+
+841
+01:11:22,071 --> 01:11:24,428
+<font color="#ffff33">People are led. They do not lead.</font>
+Le peuple est dirigé. Il ne décide rien.
+
+842
+01:11:24,448 --> 01:11:26,180
+<font color="#ffff33">Would you leave Marlborough exposed?</font>
+Laisseriez-vous Marlborough vulnérable ?
+
+843
+01:11:26,200 --> 01:11:28,474
+<font color="#ffff33">He needs another battalion ready to join him, and that means money.</font>
+Il a besoin d'un autre bataillon, et donc d'argent.
+
+844
+01:11:28,494 --> 01:11:30,017
+<font color="#ffff33">Do not shout at me. I am the queen.</font>
+Ne criez pas contre moi. Je suis la reine.
+
+845
+01:11:30,037 --> 01:11:32,572
+<font color="#ffff33">Then for once act like one.</font>
+Agissez comme telle pour une fois.
+
+846
+01:12:06,365 --> 01:12:08,013
+<font color="#ffff33">Is the queen not riding today?</font>
+La reine ne montera pas aujourd'hui ?
+
+847
+01:12:08,033 --> 01:12:10,032
+<font color="#ffff33">Do not speak to me.</font>
+Ne me parlez pas.
+
+848
+01:13:57,184 --> 01:14:00,000
+<font color="#ffff33">I have thought on the terms of our friendship.</font>
+J'ai réfléchi aux conditions de notre amitié.
+
+849
+01:14:00,020 --> 01:14:01,835
+<font color="#ffff33">I thought it was unconditional love.</font>
+Je croyais que c'était un amour inconditionnel.
+
+850
+01:14:01,855 --> 01:14:05,047
+<font color="#ffff33">I will get you an audience with the queen if you ask her a favor for me.</font>
+Je vous ferai rencontrer la reine si vous lui demandez une faveur pour moi.
+
+851
+01:14:05,067 --> 01:14:08,175
+<font color="#ffff33">- Wench. You... - Harley, you do not need me as an enemy.</font>
+- Jeune fille, vous... - Vous ne voulez pas de moi comme ennemie.
+
+852
+01:14:08,195 --> 01:14:10,928
+<font color="#ffff33">As it turns out, I am capable of much unpleasantness.</font>
+Je sais me montrer très désagréable.
+
+853
+01:14:10,948 --> 01:14:11,929
+<font color="#ffff33">As am I.</font>
+Moi aussi.
+
+854
+01:14:11,949 --> 01:14:14,473
+<font color="#ffff33">You're so tiring, being like this.</font>
+Vous êtes épuisant.
+
+855
+01:14:14,493 --> 01:14:16,433
+<font color="#ffff33">The queen has taken a shine to me,</font>
+La reine a un faible pour moi,
+
+856
+01:14:16,453 --> 01:14:19,394
+<font color="#ffff33">and I will drip poison into her ear regarding you</font>
+et je lui emplirai la cervelle de méchancetés à votre sujet
+
+857
+01:14:19,414 --> 01:14:21,396
+<font color="#ffff33">until she is mad with hatred for you.</font>
+jusqu'à ce qu'elle soit folle de haine envers vous.
+
+858
+01:14:21,416 --> 01:14:24,817
+<font color="#ffff33">Or we could have a mutually advantageous friendship.</font>
+À moins que nous entretenions une amitié mutuellement avantageuse.
+
+859
+01:14:24,837 --> 01:14:26,902
+<font color="#ffff33">Count of three. Yes or no?</font>
+Je compterai jusqu'à trois. Oui ou non ?
+
+860
+01:14:26,922 --> 01:14:29,738
+<font color="#ffff33">Well, if you're so close to the queen, why not just ask this favor yourself?</font>
+Si vous êtes si proche de la reine, demandez-lui cette faveur vous-même.
+
+861
+01:14:29,758 --> 01:14:32,825
+<font color="#ffff33">I do not want her to ever think I want anything from her.</font>
+Je ne veux pas qu'elle croie que je demande la moindre chose d'elle.
+
+862
+01:14:32,845 --> 01:14:35,452
+<font color="#ffff33">- Have you counseled her for our side? - No.</font>
+- Lui avez-vous promu notre cause ? - Non.
+
+863
+01:14:35,472 --> 01:14:37,704
+<font color="#ffff33">The country's future hangs in the balance. Mm-hmm. My thing is what I wish to talk about.</font>
+L'avenir du pays est en jeu.
+
+864
+01:14:37,724 --> 01:14:39,456
+<font color="#ffff33"></font>
+C'est de mon affaire que je veux discuter.
+
+865
+01:14:39,476 --> 01:14:40,874
+<font color="#ffff33">You do not care?</font>
+Cela ne vous préoccupe pas ?
+
+866
+01:14:40,894 --> 01:14:42,626
+<font color="#ffff33">I thought you were on our side.</font>
+Je vous croyais de notre côté.
+
+867
+01:14:42,646 --> 01:14:44,419
+<font color="#ffff33">I'm on my side.</font>
+Je suis de mon propre côté.
+
+868
+01:14:44,439 --> 01:14:45,921
+<font color="#ffff33">Always.</font>
+Toujours.
+
+869
+01:14:45,941 --> 01:14:48,590
+<font color="#ffff33">Sometimes, it's a happy coincidence for you.</font>
+Parfois, c'est une heureuse coïncidence pour vous.
+
+870
+01:14:48,610 --> 01:14:54,068
+<font color="#ffff33">Like now. You'll get a chance to save the country.</font>
+Maintenant, par exemple. C'est votre chance de sauver le pays.
+
+871
+01:15:14,386 --> 01:15:17,744
+<font color="#ffff33"></font>
+IL FAUT ARRÊTER L'INFECTION
+
+872
+01:15:17,764 --> 01:15:20,038
+<font color="#ffff33">What tremendous luck to find you in the garden.</font>
+Quelle chance de vous trouver dans le jardin !
+
+873
+01:15:20,058 --> 01:15:21,623
+<font color="#ffff33">We were taking the air.</font>
+Nous prenions l'air.
+
+874
+01:15:21,643 --> 01:15:24,209
+<font color="#ffff33">You do not like the war, I know that.</font>
+Vous n'aimez pas la guerre, je le sais.
+
+875
+01:15:24,229 --> 01:15:28,088
+<font color="#ffff33">No, I do not, but we must fight for what we fight for.</font>
+Non, mais c'est un combat nécessaire.
+
+876
+01:15:28,108 --> 01:15:30,174
+<font color="#ffff33">Godolphin and Lady Marlborough seem to have corralled you</font>
+Godolphin et Lady Marlborough vous ont isolée
+
+877
+01:15:30,194 --> 01:15:32,384
+<font color="#ffff33">so you do not get to hear from your loyal opposition.</font>
+pour que vous n'entendiez pas votre loyale opposition.
+
+878
+01:15:32,404 --> 01:15:33,677
+<font color="#ffff33">I am briefed appropriately.</font>
+Je suis bien renseignée.
+
+879
+01:15:33,697 --> 01:15:35,804
+<font color="#ffff33">Were it in person, I'd believe it.</font>
+Si c'était fait en personne, j'y croirais.
+
+880
+01:15:35,824 --> 01:15:38,056
+<font color="#ffff33">- I am often ill. - True.</font>
+- Je suis souvent malade. - C'est vrai.
+
+881
+01:15:38,076 --> 01:15:39,725
+<font color="#ffff33">Sadly true.</font>
+Malheureusement.
+
+882
+01:15:39,745 --> 01:15:42,269
+<font color="#ffff33">The war with the French will bleed us dry even if we win.</font>
+Même si nous gagnons, la guerre contre la France nous saignera à blanc.
+
+883
+01:15:42,289 --> 01:15:43,770
+<font color="#ffff33">We are in our strongest position now.</font>
+Nous sommes en position dominante.
+
+884
+01:15:43,790 --> 01:15:48,358
+<font color="#ffff33">If Marlborough loses this next battle, we could lose all.</font>
+Si Marlborough perd la prochaine bataille, nous risquons tout.
+
+885
+01:15:48,378 --> 01:15:50,611
+<font color="#ffff33">The people hate the war, you realize,</font>
+Le peuple hait cette guerre, vous savez,
+
+886
+01:15:50,631 --> 01:15:52,665
+<font color="#ffff33">they begin to hate you.</font>
+et commence à vous détester.
+
+887
+01:15:53,592 --> 01:15:56,491
+<font color="#ffff33">Lady Marlborough has not told you of the riots in Leeds?</font>
+Lady Marlborough ne vous a pas parlé des émeutes à Leeds ?
+
+888
+01:15:56,511 --> 01:15:58,510
+<font color="#ffff33">No, she has not.</font>
+Non.
+
+889
+01:15:58,805 --> 01:16:01,538
+<font color="#ffff33">- All I ask is that you search your heart. - Of course.</font>
+- Sondez votre cœur. - Bien sûr.
+
+890
+01:16:01,558 --> 01:16:03,916
+<font color="#ffff33">Not Lady Marlborough's heart, your own.</font>
+Pas celui de Lady Marlborough, mais le vôtre.
+
+891
+01:16:03,936 --> 01:16:06,210
+<font color="#ffff33">I must talk to you of your maid also.</font>
+Je dois aussi vous parler de votre servante.
+
+892
+01:16:06,230 --> 01:16:08,294
+<font color="#ffff33">- Abigail? - I believe that is her name.</font>
+- Abigail ? - C'est son nom, je crois.
+
+893
+01:16:08,314 --> 01:16:11,757
+<font color="#ffff33">It seems Colonel Masham has fallen for her. He wishes to marry.</font>
+Le colonel Masham s'est épris d'elle. Il veut l'épouser.
+
+894
+01:16:11,777 --> 01:16:13,217
+<font color="#ffff33">She's just a maid.</font>
+Ce n'est qu'une servante.
+
+895
+01:16:13,237 --> 01:16:15,427
+<font color="#ffff33">It is irregular and inexplicable,</font>
+C'est inhabituel et inexplicable,
+
+896
+01:16:15,447 --> 01:16:19,859
+<font color="#ffff33">but being sentimental, I am moved to help if possible.</font>
+mais ma nature sentimentale me pousse à l'aider si possible.
+
+897
+01:16:22,621 --> 01:16:24,770
+<font color="#ffff33">What do you mean she's not been seen?</font>
+Comment, personne ne l'a vue ?
+
+898
+01:16:24,790 --> 01:16:29,441
+<font color="#ffff33">She took a horse, Your Majesty. It did not come back and nor did she.</font>
+Elle a pris un cheval, Votre Majesté. Ni lui ni elle ne sont rentrés.
+
+899
+01:16:29,461 --> 01:16:31,792
+<font color="#ffff33">I shall send riders.</font>
+J'enverrai des cavaliers.
+
+900
+01:16:33,715 --> 01:16:35,405
+<font color="#ffff33">No.</font>
+Non.
+
+901
+01:16:35,425 --> 01:16:38,492
+<font color="#ffff33">I think she means to vex me. Do not send riders.</font>
+Elle fait cela pour me vexer. N'envoyez personne.
+
+902
+01:16:38,512 --> 01:16:41,578
+<font color="#ffff33">In case she has fallen, though. She's too good a rider for that.</font>
+- Elle a pu faire une chute. - Elle monte trop bien pour ça.
+
+903
+01:16:41,598 --> 01:16:45,884
+<font color="#ffff33">I know what she is. Do not seek her.</font>
+Je sais ce qu'elle est. Ne la cherchez pas.
+
+904
+01:16:59,408 --> 01:17:01,265
+<font color="#ffff33">Where am I?</font>
+Où suis-je ?
+
+905
+01:17:01,285 --> 01:17:03,283
+<font color="#ffff33">You're in heaven.</font>
+Au paradis.
+
+906
+01:17:03,495 --> 01:17:07,656
+<font color="#ffff33">That's God. You'll meet him later.</font>
+C'est Dieu. Vous le rencontrerez plus tard.
+
+907
+01:17:09,418 --> 01:17:10,607
+<font color="#ffff33">- I must go. - I don't think that's happening.</font>
+Je dois partir.
+
+908
+01:17:10,627 --> 01:17:12,878
+<font color="#ffff33"></font>
+Ce ne sera pas possible.
+
+909
+01:17:17,884 --> 01:17:19,883
+<font color="#ffff33">Lie back.</font>
+Étendez-vous.
+
+910
+01:17:24,933 --> 01:17:27,048
+<font color="#ffff33">Stop infection.</font>
+Il faut arrêter l'infection.
+
+911
+01:17:37,946 --> 01:17:40,186
+<font color="#ffff33">Get Lady Marlborough.</font>
+Allez chercher Lady Marlborough.
+
+912
+01:17:40,574 --> 01:17:43,617
+<font color="#ffff33">Now! Take me to her!</font>
+Conduisez-moi vite à elle !
+
+913
+01:17:53,253 --> 01:17:55,459
+<font color="#ffff33">Find her.</font>
+Trouvez-la.
+
+914
+01:17:58,508 --> 01:18:01,635
+<font color="#ffff33">Find her!</font>
+Trouvez-la !
+
+915
+01:18:14,024 --> 01:18:15,964
+<font color="#ffff33">There are wolves out there, are there not?</font>
+Il y a des loups dans les parages, non ?
+
+916
+01:18:15,984 --> 01:18:18,633
+<font color="#ffff33">No, Your Majesty. I don't think so.</font>
+Non, Votre Majesté, je ne crois pas.
+
+917
+01:18:18,653 --> 01:18:21,178
+<font color="#ffff33">Perhaps she's gone to Blenheim, her palace?</font>
+Elle est peut-être allée à Blenheim, son palais ?
+
+918
+01:18:21,198 --> 01:18:23,472
+<font color="#ffff33">There is no palace yet. It is the woods.</font>
+Il n'y a pas encore de palais. C'est la forêt.
+
+919
+01:18:23,492 --> 01:18:25,057
+<font color="#ffff33">We should check in the trees, just to be sure.</font>
+Vérifions dans les arbres, pour être certains.
+
+920
+01:18:25,077 --> 01:18:26,391
+<font color="#ffff33">Mr. Harley!</font>
+M. Harley !
+
+921
+01:18:26,411 --> 01:18:27,684
+<font color="#ffff33">I apologize.</font>
+Mes excuses.
+
+922
+01:18:27,704 --> 01:18:29,895
+<font color="#ffff33">I hope we find her, and she's not dead in a ditch.</font>
+J'espère qu'on la retrouvera et qu'elle n'est pas morte dans un fossé.
+
+923
+01:18:29,915 --> 01:18:31,605
+<font color="#ffff33">The business of state, however, cannot stop.</font>
+Les affaires de l'État n'attendront pas.
+
+924
+01:18:31,625 --> 01:18:35,859
+<font color="#ffff33">Your Majesty, there has been no word from the front in two weeks.</font>
+Votre Majesté, nous sommes sans nouvelles du front depuis deux semaines.
+
+925
+01:18:35,879 --> 01:18:38,695
+<font color="#ffff33">There is no doubt that Marlborough is in trouble.</font>
+Nul doute que Marlborough a des ennuis.
+
+926
+01:18:38,715 --> 01:18:41,114
+<font color="#ffff33">We need to send a division immediately to help him.</font>
+Nous devons envoyer une division à son secours.
+
+927
+01:18:41,134 --> 01:18:44,576
+<font color="#ffff33">Costing a fortune, built on your paranoia, and walking into God knows what.</font>
+Votre paranoïa nous coûtera une fortune. Dieu sait ce que nous trouverons.
+
+928
+01:18:44,596 --> 01:18:46,411
+<font color="#ffff33">We need to wait.</font>
+Il faut attendre.
+
+929
+01:18:46,431 --> 01:18:48,538
+<font color="#ffff33">I will think on it for a while.</font>
+Il faut réfléchir un instant.
+
+930
+01:18:48,558 --> 01:18:50,123
+<font color="#ffff33">This cannot wait.</font>
+Ça ne peut pas attendre.
+
+931
+01:18:50,143 --> 01:18:52,292
+<font color="#ffff33">We need to act now.</font>
+Il faut agir maintenant.
+
+932
+01:18:52,312 --> 01:18:55,143
+<font color="#ffff33">Is it a bit like going late to your party?</font>
+Est-ce comme arriver tard à la fête ?
+
+933
+01:18:55,273 --> 01:18:58,173
+<font color="#ffff33">If the party's going well, they did not need you, and they resent the intrusion.</font>
+Si la fête se passe bien, les convives seront agacés de l'intrusion.
+
+934
+01:18:58,193 --> 01:19:00,592
+<font color="#ffff33">But if it's going badly, you cannot save it,</font>
+S'il se passe mal, rien ne pourra le sauver,
+
+935
+01:19:00,612 --> 01:19:04,262
+<font color="#ffff33">and you tend to regret ever putting on your nice gown for it.</font>
+et on regrette d'avoir pris la peine de mettre une jolie robe.
+
+936
+01:19:04,282 --> 01:19:06,306
+<font color="#ffff33">It is not like a party.</font>
+Ça n'a rien à voir.
+
+937
+01:19:06,326 --> 01:19:08,058
+<font color="#ffff33">I'm sorry, Prime Minister, a passing thought.</font>
+Pardon, Premier ministre, c'était juste une idée.
+
+938
+01:19:08,078 --> 01:19:09,476
+<font color="#ffff33">I think it is like a party.</font>
+Je trouve que c'est comme une fête.
+
+939
+01:19:09,496 --> 01:19:11,686
+<font color="#ffff33">- A perfect analogy. - We will wait.</font>
+- Une analogie parfaite. - Nous attendrons.
+
+940
+01:19:11,706 --> 01:19:14,688
+<font color="#ffff33">Make sure they have their best dresses on so they're ready at a moment's notice.</font>
+Qu'ils enfilent leurs plus beaux atours et soient prêts à tout moment.
+
+941
+01:19:14,708 --> 01:19:19,041
+<font color="#ffff33">Shift a division to the coast and have a boat at the ready.</font>
+Envoyez une division à la côte et préparez un navire.
+
+942
+01:19:23,176 --> 01:19:25,175
+<font color="#ffff33">Abigail.</font>
+Abigail.
+
+943
+01:19:25,512 --> 01:19:27,661
+<font color="#ffff33">I worry something has befallen her.</font>
+Je m'inquiète de ce qui lui est arrivé.
+
+944
+01:19:27,681 --> 01:19:30,137
+<font color="#ffff33">It's night. Out there alone.</font>
+Il fait noir. Elle est seule.
+
+945
+01:19:30,183 --> 01:19:32,124
+<font color="#ffff33">She's strong.</font>
+Elle est forte.
+
+946
+01:19:32,144 --> 01:19:34,793
+<font color="#ffff33">- And she'll be fine. - Yes.</font>
+- Elle se débrouillera. - Oui.
+
+947
+01:19:34,813 --> 01:19:37,254
+<font color="#ffff33">She saved me my whole life.</font>
+Elle m'a sauvée toute ma vie.
+
+948
+01:19:37,274 --> 01:19:38,672
+<font color="#ffff33">Without her, I'm nothing.</font>
+Sans elle, je ne suis rien.
+
+949
+01:19:38,692 --> 01:19:40,882
+<font color="#ffff33">That is not true.</font>
+Ce n'est pas vrai.
+
+950
+01:19:40,902 --> 01:19:43,427
+<font color="#ffff33">- You are the queen. - I'm tired.</font>
+- Vous êtes la reine. - Je suis épuisée.
+
+951
+01:19:43,447 --> 01:19:45,512
+<font color="#ffff33">It hurts. Everything hurts.</font>
+J'ai mal partout.
+
+952
+01:19:45,532 --> 01:19:47,817
+<font color="#ffff33">Everyone leaves me.</font>
+Tout le monde m'abandonne.
+
+953
+01:19:48,201 --> 01:19:49,349
+<font color="#ffff33">Dies.</font>
+Meurt.
+
+954
+01:19:49,369 --> 01:19:51,529
+<font color="#ffff33">Finally her.</font>
+Et finalement, elle.
+
+955
+01:19:52,998 --> 01:19:55,439
+<font color="#ffff33">If she's not dead, I will cut her throat.</font>
+Si elle n'est pas morte, je lui trancherai la gorge.
+
+956
+01:19:55,459 --> 01:19:57,524
+<font color="#ffff33">She may be doing this to hurt me,</font>
+Elle fait peut-être cela pour me blesser,
+
+957
+01:19:57,544 --> 01:19:59,776
+<font color="#ffff33">make me dissolve and dissemble. I will not.</font>
+pour m'amenuiser, m'anéantir. Je refuse.
+
+958
+01:19:59,796 --> 01:20:02,696
+<font color="#ffff33">She will be fine. They will find her.</font>
+Elle s'en sortira. On la retrouvera.
+
+959
+01:20:02,716 --> 01:20:04,072
+<font color="#ffff33">I don't care.</font>
+Je m'en fiche.
+
+960
+01:20:04,092 --> 01:20:07,451
+<font color="#ffff33">You are a beautiful person.</font>
+Vous êtes magnifique.
+
+961
+01:20:07,471 --> 01:20:10,051
+<font color="#ffff33">You glow with loveliness.</font>
+Vous êtes radieuse de beauté.
+
+962
+01:20:11,349 --> 01:20:12,914
+<font color="#ffff33">We will marry you.</font>
+Nous vous marierons.
+
+963
+01:20:12,934 --> 01:20:15,417
+<font color="#ffff33">- What? - Colonel Masham wishes to marry you.</font>
+- Quoi ? - Le colonel Masham veut vous épouser.
+
+964
+01:20:15,437 --> 01:20:18,920
+<font color="#ffff33">- He does? - Yes, you've quite captured him.</font>
+- Ah bon ? - Oui, vous l'avez conquis.
+
+965
+01:20:18,940 --> 01:20:21,020
+<font color="#ffff33">That is absurd.</font>
+C'est absurde.
+
+966
+01:20:21,526 --> 01:20:23,008
+<font color="#ffff33">I have nothing to offer.</font>
+Je n'ai rien à offrir.
+
+967
+01:20:23,028 --> 01:20:26,094
+<font color="#ffff33">I'm a penniless servant. It would be career suicide for him.</font>
+Je suis une servante sans le sou. Ce serait un suicide professionnel.
+
+968
+01:20:26,114 --> 01:20:28,638
+<font color="#ffff33">Your first thought is for him? Oh, you are a darling.</font>
+Vous pensez à lui avant tout ? Vous êtes si attentionnée.
+
+969
+01:20:28,658 --> 01:20:30,818
+<font color="#ffff33">I care for him.</font>
+Je tiens à lui.
+
+970
+01:20:31,369 --> 01:20:33,412
+<font color="#ffff33">Not in the way I care for you,</font>
+Pas comme je tiens à vous,
+
+971
+01:20:33,580 --> 01:20:35,660
+<font color="#ffff33">but enough to marry.</font>
+mais assez pour l'épouser.
+
+972
+01:20:35,665 --> 01:20:38,023
+<font color="#ffff33">I will not lie, I would like to be a lady again.</font>
+Je ne mentirai pas, j'aimerais redevenir une dame.
+
+973
+01:20:38,043 --> 01:20:39,649
+<font color="#ffff33">Yes, yes, this is right.</font>
+Oui, c'est la chose à faire.
+
+974
+01:20:39,669 --> 01:20:40,650
+<font color="#ffff33">While she is gone.</font>
+En son absence.
+
+975
+01:20:40,670 --> 01:20:43,487
+<font color="#ffff33">If we wait, she'll return and yell and stomp about it.</font>
+Si nous attendons son retour, elle protestera.
+
+976
+01:20:43,507 --> 01:20:45,989
+<font color="#ffff33">But you must have this. This is my gift to you, and I demand you take it.</font>
+Je vous fais ce cadeau et je vous ordonne de l'accepter.
+
+977
+01:20:46,009 --> 01:20:46,990
+<font color="#ffff33">Of course. When...</font>
+Bien sûr. Quand...
+
+978
+01:20:47,010 --> 01:20:49,009
+<font color="#ffff33">Let's... Now.</font>
+Tout de suite.
+
+979
+01:20:50,305 --> 01:20:56,124
+<font color="#ffff33">I, Abigail Hill, take thee, Samuel Masham, to be my lawful wedded husband.</font>
+Je, Abigail Hill, vous prends, Samuel Masham, pour légitime époux.
+
+980
+01:20:56,144 --> 01:21:04,105
+<font color="#ffff33">I, Samuel Masham, take thee, Abigail Hill, to be my lawful wedded wife.</font>
+Je, Samuel Masham, vous prends, Abigail Hill, pour légitime épouse.
+
+981
+01:21:05,612 --> 01:21:07,219
+<font color="#ffff33">It is most generous.</font>
+C'est très généreux.
+
+982
+01:21:07,239 --> 01:21:08,386
+<font color="#ffff33">I am overwhelmed.</font>
+J'en suis bouleversée.
+
+983
+01:21:08,406 --> 01:21:10,263
+<font color="#ffff33">Shall we say "gambling debts," Mr. Harley?</font>
+Disons, pour "dettes de jeu", M. Harley ?
+
+984
+01:21:10,283 --> 01:21:11,348
+<font color="#ffff33">Excellent.</font>
+Excellent.
+
+985
+01:21:11,368 --> 01:21:13,225
+<font color="#ffff33">Oh, and you are to take apartments in the east wing.</font>
+Vous aurez des appartements dans l'aile est.
+
+986
+01:21:13,245 --> 01:21:15,227
+<font color="#ffff33">- Thank you, Your Majesty. - Thank you.</font>
+- Merci, Votre Majesté. - Merci.
+
+987
+01:21:15,247 --> 01:21:17,395
+<font color="#ffff33">Oh, it is fun to be queen sometimes. Hmm. One can only imagine.</font>
+C'est parfois agréable d'être reine.
+
+988
+01:21:17,415 --> 01:21:19,625
+<font color="#ffff33"></font>
+On ne peut qu'imaginer.
+
+989
+01:21:20,460 --> 01:21:22,484
+<font color="#ffff33">You're looking the wrong way.</font>
+Vous regardez du mauvais côté.
+
+990
+01:21:22,504 --> 01:21:25,195
+<font color="#ffff33">Where could she have gone? You sent riders looking for her?</font>
+Où peut-elle être ? Des cavaliers la cherchent-ils ?
+
+991
+01:21:25,215 --> 01:21:27,030
+<font color="#ffff33">I have told you before.</font>
+Je vous l'ai dit.
+
+992
+01:21:27,050 --> 01:21:29,533
+<font color="#ffff33">She would be sick for several days, but she would be near recovered by now.</font>
+Il lui arrive d'être malade des jours, mais elle a dû se rétablir.
+
+993
+01:21:29,553 --> 01:21:31,785
+<font color="#ffff33">She probably went back to Southampton.</font>
+Elle a dû retourner à Southampton.
+
+994
+01:21:31,805 --> 01:21:34,371
+<font color="#ffff33">To do what? To plan what? To get ready?</font>
+Pour faire quoi ? Planifier quoi ? Se préparer ?
+
+995
+01:21:34,391 --> 01:21:39,561
+<font color="#ffff33">I am as hard as a rock, and it is our wedding night.</font>
+Je suis dur comme le roc, et c'est notre nuit de noces.
+
+996
+01:21:44,568 --> 01:21:46,527
+<font color="#ffff33">Lie still.</font>
+Ne bougez pas.
+
+997
+01:21:58,540 --> 01:22:02,983
+<font color="#ffff33">Now that she is gone, I find myself more concerned than when she was here.</font>
+Je m'inquiète davantage maintenant qu'elle est partie.
+
+998
+01:22:03,003 --> 01:22:05,569
+<font color="#ffff33">For it is like she could strike from anywhere at any time,</font>
+Elle pourrait frapper de n'importe où, n'importe quand,
+
+999
+01:22:05,589 --> 01:22:08,044
+<font color="#ffff33">and I will not see it coming.</font>
+et je ne verrai rien venir.
+
+1000
+01:22:10,719 --> 01:22:12,753
+<font color="#ffff33">I must be calm.</font>
+Je dois me calmer.
+
+1001
+01:22:12,804 --> 01:22:14,369
+<font color="#ffff33">She's gone.</font>
+Elle est partie.
+
+1002
+01:22:14,389 --> 01:22:16,388
+<font color="#ffff33">I'm married.</font>
+Je suis mariée.
+
+1003
+01:22:17,392 --> 01:22:18,373
+<font color="#ffff33">But I must be ready.</font>
+Mais je dois me tenir prête.
+
+1004
+01:22:18,393 --> 01:22:22,877
+<font color="#ffff33">And yet, how to be ready when I do not know where my enemy is?</font>
+Comment être prête quand j'ignore où est mon ennemie ?
+
+1005
+01:22:22,897 --> 01:22:26,756
+<font color="#ffff33">My life is like a maze I continually think I have gotten out of,</font>
+Ma vie est un labyrinthe. Quand je crois avoir trouvé la sortie,
+
+1006
+01:22:26,776 --> 01:22:31,062
+<font color="#ffff33">only to find another corner right in front of me.</font>
+je me heurte à un autre mur.
+
+1007
+01:22:45,170 --> 01:22:48,161
+<font color="#ffff33">Boy, fetch me a carriage.</font>
+Garçon, allez me chercher une voiture.
+
+1008
+01:22:48,340 --> 01:22:50,614
+<font color="#ffff33">Mae says no.</font>
+Mae dit non.
+
+1009
+01:22:50,634 --> 01:22:53,965
+<font color="#ffff33">I'm leaving. Help me up.</font>
+Je pars. Aidez-moi à me lever.
+
+1010
+01:22:58,224 --> 01:23:00,339
+<font color="#ffff33">Mae says no.</font>
+Mae dit non.
+
+1011
+01:23:03,563 --> 01:23:04,878
+<font color="#ffff33">Are you feeling better, then?</font>
+Vous vous sentez mieux, alors ?
+
+1012
+01:23:04,898 --> 01:23:07,047
+<font color="#ffff33">Is my horse alive, or did you eat it?</font>
+Mon cheval est-il en vie ou l'avez-vous mangé ?
+
+1013
+01:23:07,067 --> 01:23:09,049
+<font color="#ffff33">I sold it.</font>
+Je l'ai vendu.
+
+1014
+01:23:09,069 --> 01:23:11,353
+<font color="#ffff33">You still owe me, though.</font>
+Vous avez une dette envers moi.
+
+1015
+01:23:12,029 --> 01:23:14,054
+<font color="#ffff33">You can suck for your supper from now on.</font>
+Vous taillerez des pipes pour votre souper.
+
+1016
+01:23:14,074 --> 01:23:16,563
+<font color="#ffff33">I'll take 20%.</font>
+Je garde 20 %.
+
+1017
+01:23:16,826 --> 01:23:20,060
+<font color="#ffff33">You seem posh. Gents will like that.</font>
+Vous êtes élégante. Ça plaira aux hommes.
+
+1018
+01:23:20,080 --> 01:23:22,729
+<font color="#ffff33">Have you ever seen ten gold sovereigns?</font>
+Avez-vous déjà vu dix souverains d'or ?
+
+1019
+01:23:22,749 --> 01:23:24,230
+<font color="#ffff33">In my dreams.</font>
+Dans mes rêves.
+
+1020
+01:23:24,250 --> 01:23:26,441
+<font color="#ffff33">Go to Hyde Park fountain at 9:00 in the morning,</font>
+Allez à la fontaine de Hyde Park à neuf heures, le matin,
+
+1021
+01:23:26,461 --> 01:23:30,254
+<font color="#ffff33">and you will see a man walking a duck.</font>
+et vous verrez un homme promener un canard.
+
+1022
+01:23:35,345 --> 01:23:37,661
+<font color="#ffff33">What happened? Are you all right?</font>
+Que s'est-il passé ? Est-ce que ça va ?
+
+1023
+01:23:37,681 --> 01:23:40,372
+<font color="#ffff33">That cunt, Abigail, poisoned me.</font>
+Cette garce d'Abigail m'a empoisonnée.
+
+1024
+01:23:40,392 --> 01:23:43,427
+<font color="#ffff33">Mary Magdalene here found me.</font>
+Marie-Madeleine ici présente m'a trouvée.
+
+1025
+01:23:44,104 --> 01:23:45,710
+<font color="#ffff33">Did they rape you?</font>
+Avez-vous été violée ?
+
+1026
+01:23:45,730 --> 01:23:47,921
+<font color="#ffff33">No, they didn't.</font>
+Non.
+
+1027
+01:23:47,941 --> 01:23:50,465
+<font color="#ffff33">But gainful employment is on offer should I need it.</font>
+Mais on m'a offert un emploi, si jamais j'en ai besoin.
+
+1028
+01:23:50,485 --> 01:23:52,342
+<font color="#ffff33">Abigail did this?</font>
+Abigail a fait ça ?
+
+1029
+01:23:52,362 --> 01:23:54,196
+<font color="#ffff33">Yes.</font>
+Oui.
+
+1030
+01:23:54,280 --> 01:23:55,344
+<font color="#ffff33">How goes the kingdom?</font>
+Comment vont les affaires du royaume ?
+
+1031
+01:23:55,364 --> 01:23:59,732
+<font color="#ffff33">♪ Music ♪</font>
+
+
+1032
+01:24:00,661 --> 01:24:07,272
+<font color="#ffff33">♪ Music for a while ♪</font>
+
+
+1033
+01:24:07,292 --> 01:24:12,361
+<font color="#ffff33">♪ Shall all your cares beguile ♪</font>
+
+
+1034
+01:24:12,381 --> 01:24:14,613
+<font color="#ffff33">♪ Shall all ♪</font>
+
+
+1035
+01:24:14,633 --> 01:24:16,865
+<font color="#ffff33">♪ All, all ♪</font>
+
+
+1036
+01:24:16,885 --> 01:24:19,326
+<font color="#ffff33">♪ Shall all ♪</font>
+
+
+1037
+01:24:19,346 --> 01:24:21,662
+<font color="#ffff33">♪ All, all ♪</font>
+
+
+1038
+01:24:21,682 --> 01:24:27,125
+<font color="#ffff33">♪ Shall all your cares beguile ♪</font>
+
+
+1039
+01:24:27,145 --> 01:24:31,922
+<font color="#ffff33">♪ Wondering ♪</font>
+
+
+1040
+01:24:31,942 --> 01:24:35,467
+<font color="#ffff33">♪ Wondering ♪</font>
+
+
+1041
+01:24:35,487 --> 01:24:41,306
+<font color="#ffff33">♪ How your pains were eased ♪</font>
+
+
+1042
+01:24:41,326 --> 01:24:46,061
+<font color="#ffff33">♪ Eased ♪</font>
+
+
+1043
+01:24:46,081 --> 01:24:52,067
+<font color="#ffff33">♪ And disdaining to be pleased ♪</font>
+
+
+1044
+01:24:52,087 --> 01:24:59,074
+<font color="#ffff33">♪ From their eternal ♪</font>
+
+
+1045
+01:24:59,094 --> 01:25:04,580
+<font color="#ffff33">♪ Eternal ♪</font>
+
+
+1046
+01:25:04,600 --> 01:25:07,791
+<font color="#ffff33">♪ Eternal bands ♪</font>
+
+
+1047
+01:25:07,811 --> 01:25:10,168
+<font color="#ffff33">♪ Till the snakes ♪</font>
+
+
+1048
+01:25:10,188 --> 01:25:17,856
+<font color="#ffff33">♪ Drop, drop ♪</font>
+
+
+1049
+01:25:23,536 --> 01:25:25,412
+<font color="#ffff33">Lady Marlborough.</font>
+Lady Marlborough.
+
+1050
+01:25:25,955 --> 01:25:27,479
+<font color="#ffff33">Oh, dear.</font>
+Oh, Seigneur.
+
+1051
+01:25:27,499 --> 01:25:32,025
+<font color="#ffff33">The servant is dressed in the clothes of a lady. How... whimsical.</font>
+Cette servante porte les vêtements d'une dame. C'est... fantaisiste.
+
+1052
+01:25:32,045 --> 01:25:34,527
+<font color="#ffff33">My dear friend and cousin,</font>
+Ma chère amie et cousine,
+
+1053
+01:25:34,547 --> 01:25:36,070
+<font color="#ffff33">how good to see you've returned from...</font>
+quel bonheur de vous voir revenue de...
+
+1054
+01:25:36,090 --> 01:25:37,238
+<font color="#ffff33">Hell.</font>
+L'enfer.
+
+1055
+01:25:37,258 --> 01:25:39,949
+<font color="#ffff33">I'm sure you shall pass through it one day.</font>
+Vous passerez sûrement par là un jour.
+
+1056
+01:25:39,969 --> 01:25:41,576
+<font color="#ffff33">You've missed a few things.</font>
+Vous avez raté une chose ou deux.
+
+1057
+01:25:41,596 --> 01:25:43,495
+<font color="#ffff33">My marriage.</font>
+Mon mariage.
+
+1058
+01:25:43,515 --> 01:25:47,846
+<font color="#ffff33">It was a simple affair, but beautifully done.</font>
+Simple, mais merveilleusement exécuté.
+
+1059
+01:25:47,936 --> 01:25:50,141
+<font color="#ffff33">Everyone leave.</font>
+Que tout le monde sorte.
+
+1060
+01:25:53,733 --> 01:25:59,010
+<font color="#ffff33">If you offer me tea, you will forgive me if I don't accept.</font>
+Si vous m'offrez du thé, pardonnez-moi de ne pas l'accepter.
+
+1061
+01:25:59,030 --> 01:26:03,473
+<font color="#ffff33">I have searched my heart, and I did not have trust in it, and that is my shame.</font>
+J'ai sondé mon cœur et je n'avais pas confiance. J'en ai honte.
+
+1062
+01:26:03,493 --> 01:26:06,559
+<font color="#ffff33">I could not just stand by and let you destroy me.</font>
+Je ne pouvais pas vous laisser me détruire.
+
+1063
+01:26:06,579 --> 01:26:09,103
+<font color="#ffff33">You have perhaps taught me that.</font>
+C'est peut-être vous qui m'avez enseigné ça.
+
+1064
+01:26:09,123 --> 01:26:11,122
+<font color="#ffff33">But it's over now.</font>
+C'est terminé à présent.
+
+1065
+01:26:11,167 --> 01:26:14,275
+<font color="#ffff33">I have won. I am safe.</font>
+J'ai gagné. Je suis en sûreté.
+
+1066
+01:26:14,295 --> 01:26:17,904
+<font color="#ffff33">We do not have to fight anymore. Is that not grand?</font>
+Nous n'avons plus à nous battre. N'est-ce pas merveilleux ?
+
+1067
+01:26:17,924 --> 01:26:21,884
+<font color="#ffff33">If you just forgive me, we can be happy together.</font>
+Si vous pouvez me pardonner, nous serons heureuses.
+
+1068
+01:26:26,516 --> 01:26:30,583
+<font color="#ffff33">Obviously, you still have some anger to expiate.</font>
+Il vous reste évidemment de la colère à expier.
+
+1069
+01:26:30,603 --> 01:26:32,710
+<font color="#ffff33">I'll allow it this once.</font>
+Je le tolérerai pour cette fois.
+
+1070
+01:26:32,730 --> 01:26:37,096
+<font color="#ffff33">Congratulations on your wedded bliss.</font>
+Félicitations pour votre heureux mariage.
+
+1071
+01:26:44,492 --> 01:26:46,432
+<font color="#ffff33">Your face.</font>
+Votre visage.
+
+1072
+01:26:46,452 --> 01:26:47,767
+<font color="#ffff33">Do I look that bad?</font>
+Est-ce si grave ?
+
+1073
+01:26:47,787 --> 01:26:50,562
+<font color="#ffff33">If I were a man, it'd be quite dashing, a scar like this.</font>
+Si j'étais un homme, cette cicatrice me donnerait de la prestance.
+
+1074
+01:26:50,582 --> 01:26:53,690
+<font color="#ffff33">Where have you been, Sarah? Why did you leave like that?</font>
+Où étiez-vous, Sarah ? Pourquoi êtes-vous partie comme ça ?
+
+1075
+01:26:53,710 --> 01:26:55,233
+<font color="#ffff33">I went riding.</font>
+Je suis partie à cheval.
+
+1076
+01:26:55,253 --> 01:26:57,110
+<font color="#ffff33">Some bandits attacked me.</font>
+Des bandits m'ont attaquée.
+
+1077
+01:26:57,130 --> 01:26:59,070
+<font color="#ffff33">It took me a while to fight them off.</font>
+J'ai mis un moment à les repousser.
+
+1078
+01:26:59,090 --> 01:27:00,196
+<font color="#ffff33">Oh, your poor face.</font>
+Votre pauvre visage.
+
+1079
+01:27:00,216 --> 01:27:01,865
+<font color="#ffff33">You should see them.</font>
+Vous devriez voir les leurs.
+
+1080
+01:27:01,885 --> 01:27:04,158
+<font color="#ffff33">And you've been well taken care of, I trust.</font>
+Vous avez été bien soignée, j'imagine ?
+
+1081
+01:27:04,178 --> 01:27:07,245
+<font color="#ffff33">Some men were eventually sent to find me, I hear.</font>
+Des hommes ont fini par venir à ma recherche.
+
+1082
+01:27:07,265 --> 01:27:09,971
+<font color="#ffff33">I was worried for you. I thought you...</font>
+Je m'inquiétais pour vous. Je croyais...
+
+1083
+01:27:10,226 --> 01:27:12,375
+<font color="#ffff33">You did not do it to try and hurt me?</font>
+Vous n'avez pas fait ça pour me blesser ?
+
+1084
+01:27:12,395 --> 01:27:14,919
+<font color="#ffff33">I do not play games with you.</font>
+Je ne joue pas à ces jeux avec vous.
+
+1085
+01:27:14,939 --> 01:27:16,963
+<font color="#ffff33">No, I know, I know.</font>
+Non, je sais.
+
+1086
+01:27:16,983 --> 01:27:18,982
+<font color="#ffff33">Look at me.</font>
+Regardez-moi.
+
+1087
+01:27:19,986 --> 01:27:22,927
+<font color="#ffff33">I will say this once and plainly, my dearest one.</font>
+Je ne le dirai qu'une fois, très chère :
+
+1088
+01:27:22,947 --> 01:27:24,846
+<font color="#ffff33">You must send Abigail away.</font>
+vous devez renvoyer Abigail.
+
+1089
+01:27:24,866 --> 01:27:27,765
+<font color="#ffff33">From my heart, Mrs. Morley, do it.</font>
+Je vous implore de le faire, Mme Morley.
+
+1090
+01:27:27,785 --> 01:27:29,684
+<font color="#ffff33">I do not want to.</font>
+Je n'en ai pas envie.
+
+1091
+01:27:29,704 --> 01:27:31,864
+<font color="#ffff33">She is a viper.</font>
+C'est une vipère.
+
+1092
+01:27:32,999 --> 01:27:34,355
+<font color="#ffff33">You're jealous.</font>
+Vous êtes jalouse.
+
+1093
+01:27:34,375 --> 01:27:36,274
+<font color="#ffff33">You will do as I say.</font>
+Vous ferez ce que je dis.
+
+1094
+01:27:36,294 --> 01:27:37,859
+<font color="#ffff33">The prime minister and Mr. Harley.</font>
+Le Premier ministre et M. Harley.
+
+1095
+01:27:37,879 --> 01:27:38,943
+<font color="#ffff33">What is it?</font>
+Qu'y a-t-il ?
+
+1096
+01:27:38,963 --> 01:27:41,154
+<font color="#ffff33">A thousand pardons, Your Majesty, but word from the front.</font>
+Mille pardons, Votre Majesté. Des nouvelles du front.
+
+1097
+01:27:41,174 --> 01:27:42,196
+<font color="#ffff33">What has happened?</font>
+Que s'est-il passé ?
+
+1098
+01:27:42,216 --> 01:27:45,116
+<font color="#ffff33">Marlborough is ready. He has them outflanked.</font>
+Marlborough est prêt. Il les a encerclés.
+
+1099
+01:27:45,136 --> 01:27:47,368
+<font color="#ffff33">He needs a garrison to attack the coast.</font>
+Il a besoin de troupes pour attaquer la côte.
+
+1100
+01:27:47,388 --> 01:27:49,037
+<font color="#ffff33">Let them go to the party now.</font>
+Qu'elles se joignent à la fête.
+
+1101
+01:27:49,057 --> 01:27:50,121
+<font color="#ffff33">Of course, Your Majesty.</font>
+Bien sûr, Votre Majesté.
+
+1102
+01:27:50,141 --> 01:27:51,706
+<font color="#ffff33">What party?</font>
+Quelle fête ?
+
+1103
+01:27:51,726 --> 01:27:53,416
+<font color="#ffff33">It happened while you were gone.</font>
+C'est arrivé pendant que vous étiez partie.
+
+1104
+01:27:53,436 --> 01:27:56,169
+<font color="#ffff33">Thank you, gentlemen. Keep me informed of progress.</font>
+Merci, messieurs. Tenez-moi au courant des progrès.
+
+1105
+01:27:56,189 --> 01:28:00,896
+<font color="#ffff33">It is good to see you home and looking so well, Lady Marlborough.</font>
+Heureux de vous retrouver en splendide forme, Lady Marlborough.
+
+1106
+01:28:06,282 --> 01:28:08,264
+<font color="#ffff33">Now, you did very well with the divisions.</font>
+Vous avez eu un grand succès avec les divisions.
+
+1107
+01:28:08,284 --> 01:28:09,265
+<font color="#ffff33">Yes, I know I did.</font>
+Oui, je sais.
+
+1108
+01:28:09,285 --> 01:28:12,936
+<font color="#ffff33">However, the two new cabinet positions, they must stay with the Whigs.</font>
+Mais les deux nouveaux postes au cabinet doivent rester aux whigs.
+
+1109
+01:28:12,956 --> 01:28:15,855
+<font color="#ffff33">I am the queen. Do not try to do that thing you do.</font>
+C'est moi, la reine. N'essayez pas ces manigances.
+
+1110
+01:28:15,875 --> 01:28:18,358
+<font color="#ffff33">Do not try to manage this, as you cannot.</font>
+Vous ne pouvez pas gérer cela.
+
+1111
+01:28:18,378 --> 01:28:20,485
+<font color="#ffff33">I know that Harley has been in your ear and Abigail in your bed.</font>
+Harley a joué dans votre tête, et Abigail, dans votre lit.
+
+1112
+01:28:20,505 --> 01:28:21,694
+<font color="#ffff33">Enough!</font>
+Ça suffit !
+
+1113
+01:28:21,714 --> 01:28:24,572
+<font color="#ffff33">You will be as I wish you to be from now on. Do you understand?</font>
+Vous ferez ce que je veux désormais. C'est compris ?
+
+1114
+01:28:24,592 --> 01:28:25,782
+<font color="#ffff33">Anne.</font>
+Anne.
+
+1115
+01:28:25,802 --> 01:28:28,034
+<font color="#ffff33">Don't. No, don't.</font>
+Non, arrêtez.
+
+1116
+01:28:28,054 --> 01:28:30,760
+<font color="#ffff33">No, your face frightens me. Don't!</font>
+Votre visage me fait peur. Non !
+
+1117
+01:28:31,391 --> 01:28:33,600
+<font color="#ffff33">Good night, Lady Marlborough.</font>
+Bonne nuit, Lady Marlborough.
+
+1118
+01:28:34,852 --> 01:28:39,106
+<font color="#ffff33"></font>
+LAISSEZ ÇA, ÇA ME PLAÎT
+
+1119
+01:28:40,775 --> 01:28:42,649
+<font color="#ffff33">Morning.</font>
+Bonjour.
+
+1120
+01:28:44,404 --> 01:28:46,135
+<font color="#ffff33">Morning.</font>
+Bonjour.
+
+1121
+01:28:46,155 --> 01:28:48,221
+<font color="#ffff33">What a strange sight you are, my dear.</font>
+Vous êtes drôle à voir, ma chère.
+
+1122
+01:28:48,241 --> 01:28:50,356
+<font color="#ffff33">It is better, though.</font>
+Mais cela s'améliore.
+
+1123
+01:29:00,628 --> 01:29:03,319
+<font color="#ffff33">I think I'm becoming quite sentimental as I get older.</font>
+Je deviens sentimentale avec l'âge.
+
+1124
+01:29:03,339 --> 01:29:07,830
+<font color="#ffff33">Didn't think you had the capacity for sentimentality.</font>
+Je ne croyais pas que vous en aviez la capacité.
+
+1125
+01:29:08,678 --> 01:29:10,918
+<font color="#ffff33">I didn't think so either...</font>
+Je ne le croyais pas non plus,
+
+1126
+01:29:11,139 --> 01:29:13,871
+<font color="#ffff33">but so much is surprising me lately.</font>
+mais tant de choses m'étonnent ces jours-ci.
+
+1127
+01:29:13,891 --> 01:29:18,334
+<font color="#ffff33">I started looking over some of the many, many, many letters you've written me.</font>
+J'ai relu les nombreuses lettres que vous m'avez écrites.
+
+1128
+01:29:18,354 --> 01:29:20,837
+<font color="#ffff33">"I long for your embrace.</font>
+"Vos étreintes me manquent.
+
+1129
+01:29:20,857 --> 01:29:23,506
+<font color="#ffff33">I long for the heat from your naked body on mine."</font>
+"La chaleur de votre corps nu contre le mien me manque."
+
+1130
+01:29:23,526 --> 01:29:26,926
+<font color="#ffff33">It's very intense, very explicit.</font>
+C'est très intense et très explicite.
+
+1131
+01:29:26,946 --> 01:29:31,180
+<font color="#ffff33">I thought I'd misplaced some of them the other day. It was quite a fright.</font>
+J'ai cru les avoir égarées l'autre jour. J'ai eu toute une frousse.
+
+1132
+01:29:31,200 --> 01:29:34,225
+<font color="#ffff33">What if, say, that son of a bitch, Jonathan Swift, got his hands on them?</font>
+Imaginez que ce salaud de Jonathan Swift mette la main dessus ?
+
+1133
+01:29:34,245 --> 01:29:36,561
+<font color="#ffff33">In his newspaper the next day.</font>
+Elles seraient publiées dès le lendemain.
+
+1134
+01:29:36,581 --> 01:29:38,229
+<font color="#ffff33">You would be ruined.</font>
+Vous seriez ruinée.
+
+1135
+01:29:38,249 --> 01:29:39,814
+<font color="#ffff33">You would never.</font>
+Vous n'oseriez pas.
+
+1136
+01:29:39,834 --> 01:29:44,861
+<font color="#ffff33">You have no idea what I would do for my country...</font>
+Vous n'avez pas idée de ce que je ferais pour mon pays
+
+1137
+01:29:44,881 --> 01:29:46,715
+<font color="#ffff33">and for you.</font>
+et pour vous.
+
+1138
+01:29:47,300 --> 01:29:49,198
+<font color="#ffff33">Ruin me? You would do that?</font>
+Me ruiner ? Vous feriez cela ?
+
+1139
+01:29:49,218 --> 01:29:50,992
+<font color="#ffff33">I will use these letters,</font>
+Je me servirai de ces lettres
+
+1140
+01:29:51,012 --> 01:29:54,203
+<font color="#ffff33">unless you announce the tax rise, change the cabinet as I wish,</font>
+à moins que vous annonciez l'impôt, changiez le cabinet selon mon vœu
+
+1141
+01:29:54,223 --> 01:29:56,600
+<font color="#ffff33">and get rid of Abigail.</font>
+et renvoyiez Abigail.
+
+1142
+01:30:19,707 --> 01:30:22,231
+<font color="#ffff33">Do you not wish to know what I've decided?</font>
+Ne voulez-vous pas savoir ce que j'ai décidé ?
+
+1143
+01:30:22,251 --> 01:30:24,776
+<font color="#ffff33">I wish to know that you are happy,</font>
+Je veux savoir que vous êtes heureuse
+
+1144
+01:30:24,796 --> 01:30:29,207
+<font color="#ffff33">and that your spirit will lighten once this is done.</font>
+et que votre esprit s'allégera une fois le devoir accompli.
+
+1145
+01:31:28,151 --> 01:31:31,050
+<font color="#ffff33">The queen requests the return of your key.</font>
+La reine veut que vous rendiez votre clé.
+
+1146
+01:31:31,070 --> 01:31:35,138
+<font color="#ffff33">You will return it and vacate court today.</font>
+Vous la rendrez et quitterez la cour aujourd'hui.
+
+1147
+01:31:35,158 --> 01:31:36,139
+<font color="#ffff33">Where is she?</font>
+Où est-elle ?
+
+1148
+01:31:36,159 --> 01:31:37,890
+<font color="#ffff33">You will hand over the key.</font>
+Remettez-moi votre clé.
+
+1149
+01:31:37,910 --> 01:31:41,652
+<font color="#ffff33">The queen will not grant you an audience.</font>
+La reine ne vous accordera pas d'audience.
+
+1150
+01:32:01,893 --> 01:32:03,166
+<font color="#ffff33">Anne?</font>
+Anne ?
+
+1151
+01:32:03,186 --> 01:32:05,766
+<font color="#ffff33">I handed over my key.</font>
+J'ai remis ma clé.
+
+1152
+01:32:10,276 --> 01:32:13,801
+<font color="#ffff33">Mrs. Morley, you are angry, I know.</font>
+Mme Morley, vous êtes fâchée, je sais.
+
+1153
+01:32:13,821 --> 01:32:15,678
+<font color="#ffff33">I am sorry.</font>
+Je suis désolée.
+
+1154
+01:32:15,698 --> 01:32:17,680
+<font color="#ffff33">I went quite mad for a moment.</font>
+J'ai perdu la tête un moment.
+
+1155
+01:32:17,700 --> 01:32:19,860
+<font color="#ffff33">Just open the door.</font>
+Ouvrez la porte.
+
+1156
+01:32:22,747 --> 01:32:25,707
+<font color="#ffff33">Please, just... Could you just...</font>
+Je vous en prie, si vous pouviez...
+
+1157
+01:32:26,167 --> 01:32:29,032
+<font color="#ffff33">Mrs. Morley, open the door.</font>
+Mme Morley, ouvrez la porte.
+
+1158
+01:32:38,387 --> 01:32:42,174
+<font color="#ffff33">I burned the letters. I burned them.</font>
+J'ai brûlé les lettres.
+
+1159
+01:32:46,187 --> 01:32:48,347
+<font color="#ffff33">Oh, do what you will.</font>
+Faites comme vous voudrez.
+
+1160
+01:33:08,918 --> 01:33:11,829
+<font color="#ffff33">But I will not come back.</font>
+Je ne reviendrai pas.
+
+1161
+01:33:12,588 --> 01:33:15,029
+<font color="#ffff33">Do you understand?</font>
+Comprenez-vous ?
+
+1162
+01:33:15,049 --> 01:33:17,914
+<font color="#ffff33">I will go and be gone.</font>
+Je partirai et resterai au loin.
+
+1163
+01:33:21,681 --> 01:33:24,295
+<font color="#ffff33">Abigail has done this.</font>
+C'est Abigail qui a fait ça.
+
+1164
+01:33:24,684 --> 01:33:27,124
+<font color="#ffff33">She does not love you.</font>
+Elle ne vous aime pas.
+
+1165
+01:33:27,144 --> 01:33:29,043
+<font color="#ffff33">Because how could anyone?</font>
+Personne ne peut m'aimer, c'est ça ?
+
+1166
+01:33:29,063 --> 01:33:32,088
+<font color="#ffff33">She wants nothing from me, unlike you.</font>
+Elle ne veut rien de moi, contrairement à vous.
+
+1167
+01:33:32,108 --> 01:33:33,965
+<font color="#ffff33">She wants nothing from you,</font>
+Elle ne veut rien de vous,
+
+1168
+01:33:33,985 --> 01:33:38,302
+<font color="#ffff33">and yet somehow she is a lady, with 2,000 a year,</font>
+et pourtant elle reçoit 2 000 livres par an,
+
+1169
+01:33:38,322 --> 01:33:40,429
+<font color="#ffff33">and Harley sits on your knee most nights.</font>
+et Harley vous tient compagnie chaque soir.
+
+1170
+01:33:40,449 --> 01:33:43,349
+<font color="#ffff33">I wish you could love me as she does.</font>
+J'aimerais que vous m'aimiez comme elle le fait.
+
+1171
+01:33:43,369 --> 01:33:46,030
+<font color="#ffff33">You wish me to lie to you?</font>
+Vous voudriez que je vous mente ?
+
+1172
+01:33:46,496 --> 01:33:47,728
+<font color="#ffff33">Oh.</font>
+
+
+1173
+01:33:47,748 --> 01:33:52,608
+<font color="#ffff33">"You look like a... a... an angel fell from heaven, Your Majesty."</font>
+"Vous ressemblez à un ange tombé du paradis, Votre Majesté."
+
+1174
+01:33:52,628 --> 01:33:53,985
+<font color="#ffff33">No.</font>
+Non.
+
+1175
+01:33:54,005 --> 01:33:56,612
+<font color="#ffff33">Sometimes, you look like a badger.</font>
+Parfois, vous ressemblez à un blaireau.
+
+1176
+01:33:56,632 --> 01:33:58,823
+<font color="#ffff33">- And you can rely on me to tell you. - Why?</font>
+- Et je suis là pour vous le dire. - Pourquoi ?
+
+1177
+01:33:58,843 --> 01:34:03,380
+<font color="#ffff33">Because I will not lie! That is love!</font>
+Parce que je ne vous mens pas ! C'est ça, l'amour !
+
+1178
+01:34:15,401 --> 01:34:18,107
+<font color="#ffff33">I have my duties to attend to.</font>
+Je dois m'occuper de mes devoirs.
+
+1179
+01:34:50,144 --> 01:34:52,143
+<font color="#ffff33">I have...</font>
+Je suis...
+
+1180
+01:34:58,402 --> 01:35:03,596
+<font color="#ffff33">I have, over the last several months, been unhappy with the government.</font>
+Je suis, depuis plusieurs mois, insatisfaite du gouvernement.
+
+1181
+01:35:03,616 --> 01:35:06,982
+<font color="#ffff33">Lord Godolphin has lost my confidence.</font>
+Lord Godolphin n'a plus ma confiance.
+
+1182
+01:35:08,287 --> 01:35:12,313
+<font color="#ffff33">Therefore, I am announcing a new prime minister...</font>
+C'est pourquoi je nomme un nouveau Premier ministre...
+
+1183
+01:35:12,333 --> 01:35:14,823
+<font color="#ffff33">will be Mr. Harley.</font>
+M. Harley.
+
+1184
+01:35:17,213 --> 01:35:18,861
+<font color="#ffff33">Godolphin,</font>
+Godolphin,
+
+1185
+01:35:18,881 --> 01:35:21,542
+<font color="#ffff33">I thank you for your service.</font>
+merci pour votre service.
+
+1186
+01:35:21,592 --> 01:35:25,034
+<font color="#ffff33">We will sue for peace with France immediately.</font>
+Nous demanderons immédiatement un traité de paix avec la France.
+
+1187
+01:35:25,054 --> 01:35:27,036
+<font color="#ffff33">I have spoken!</font>
+J'ai parlé !
+
+1188
+01:35:27,056 --> 01:35:29,421
+<font color="#ffff33">All depart!</font>
+Sortez tous !
+
+1189
+01:35:40,778 --> 01:35:43,344
+<font color="#ffff33">Leave that. I like it.</font>
+Laissez ça, ça me plaît.
+
+1190
+01:35:43,364 --> 01:35:45,615
+<font color="#ffff33">The mirrors stay, too.</font>
+Les miroirs restent aussi.
+
+1191
+01:35:45,991 --> 01:35:49,993
+<font color="#ffff33">Oh, my God. You actually think you have won.</font>
+Mon Dieu. Vous croyez avoir gagné.
+
+1192
+01:35:51,038 --> 01:35:53,037
+<font color="#ffff33">Haven't I?</font>
+N'est-ce pas le cas ?
+
+1193
+01:35:53,290 --> 01:35:56,201
+<font color="#ffff33">We were playing very different games.</font>
+Nous jouions à des jeux très différents.
+
+1194
+01:35:56,377 --> 01:35:59,193
+<font color="#ffff33">All I know is, your carriage awaits,</font>
+Je sais seulement que votre voiture vous attend,
+
+1195
+01:35:59,213 --> 01:36:03,920
+<font color="#ffff33">and my maid is on her way up with something called a pineapple.</font>
+et que ma servante m'apporte ce qu'on appelle un ananas.
+
+1196
+01:36:33,831 --> 01:36:35,665
+<font color="#ffff33">Go?</font>
+Nous partons ?
+
+1197
+01:36:42,673 --> 01:36:44,507
+<font color="#ffff33">Go.</font>
+Nous partons.
+
+1198
+01:36:58,606 --> 01:37:04,842
+<font color="#ffff33"></font>
+J'AI RÊVÉ QUE JE VOUS POIGNARDAIS À L'ŒIL
+
+1199
+01:37:04,862 --> 01:37:06,861
+<font color="#ffff33">Do it again!</font>
+Recommencez !
+
+1200
+01:38:04,004 --> 01:38:05,838
+<font color="#ffff33">I'm here.</font>
+Je suis là.
+
+1201
+01:38:11,387 --> 01:38:13,577
+<font color="#ffff33">Will you do my legs, please?</font>
+Occupez-vous de mes jambes, s'il vous plaît.
+
+1202
+01:38:13,597 --> 01:38:15,704
+<font color="#ffff33">Of course.</font>
+Mais bien sûr.
+
+1203
+01:38:15,724 --> 01:38:18,055
+<font color="#ffff33">Hot towels, now.</font>
+Des serviettes chaudes, vite.
+
+1204
+01:38:23,399 --> 01:38:25,339
+<font color="#ffff33">Are you drunk?</font>
+Êtes-vous ivre ?
+
+1205
+01:38:25,359 --> 01:38:27,216
+<font color="#ffff33">I've had wine.</font>
+J'ai bu du vin.
+
+1206
+01:38:27,236 --> 01:38:29,396
+<font color="#ffff33">Very good wine.</font>
+Du très bon vin.
+
+1207
+01:38:29,405 --> 01:38:32,263
+<font color="#ffff33">You should have some. I'll get you some. It would ease you.</font>
+Je vous en apporterai. Cela vous détendra.
+
+1208
+01:38:32,283 --> 01:38:34,117
+<font color="#ffff33">No.</font>
+Non.
+
+1209
+01:38:34,910 --> 01:38:37,571
+<font color="#ffff33">I don't understand these papers.</font>
+Je ne comprends pas ces documents.
+
+1210
+01:38:42,501 --> 01:38:44,500
+<font color="#ffff33">I'm feeling unwell.</font>
+Je me sens mal.
+
+1211
+01:38:45,129 --> 01:38:47,244
+<font color="#ffff33">Excuse me a moment, please.</font>
+Excusez-moi un instant.
+
+1212
+01:39:01,520 --> 01:39:03,419
+<font color="#ffff33">Sorry. I am unwell.</font>
+Pardon, je me sens mal.
+
+1213
+01:39:03,439 --> 01:39:06,589
+<font color="#ffff33">Why, lay down. I'll call the doctor for you, my love.</font>
+Étendez-vous. Je vous appelle un médecin.
+
+1214
+01:39:06,609 --> 01:39:09,147
+<font color="#ffff33">Thank you, thank you.</font>
+Merci.
+
+1215
+01:39:12,323 --> 01:39:14,321
+<font color="#ffff33">Doctor.</font>
+Le médecin.
+
+1216
+01:39:32,718 --> 01:39:34,074
+<font color="#ffff33">What goes on?</font>
+Que se passe-t-il ?
+
+1217
+01:39:34,094 --> 01:39:37,828
+<font color="#ffff33">They've brokered a peace with the French, giving up too much, of course.</font>
+Un accord de paix avec les Français. Nous avons trop fait de concessions.
+
+1218
+01:39:37,848 --> 01:39:38,829
+<font color="#ffff33">Of course.</font>
+Évidemment.
+
+1219
+01:39:38,849 --> 01:39:40,956
+<font color="#ffff33">Marlborough returns in a week.</font>
+Marlborough rentrera dans une semaine.
+
+1220
+01:39:40,976 --> 01:39:42,791
+<font color="#ffff33">Harley will move to have him replaced.</font>
+Harley tentera de le faire remplacer.
+
+1221
+01:39:42,811 --> 01:39:46,378
+<font color="#ffff33">Now that peace with France has been made...</font>
+La paix avec la France étant chose faite...
+
+1222
+01:39:46,398 --> 01:39:48,964
+<font color="#ffff33">Marlborough's return back to England is imminent.</font>
+Le retour de Marlborough en Angleterre est imminent.
+
+1223
+01:39:48,984 --> 01:39:50,049
+<font color="#ffff33">I wonder, Your Majesty,</font>
+Je me demande, Votre Majesté,
+
+1224
+01:39:50,069 --> 01:39:52,509
+<font color="#ffff33">whether it is right that he is left as head of our forces?</font>
+s'il est approprié de le garder comme chef de notre armée.
+
+1225
+01:39:52,529 --> 01:39:56,263
+<font color="#ffff33">I will rip his mole from his face. You must stop it, Godolphin.</font>
+Je lui arracherai son grain de beauté. Arrêtez-le, Godolphin.
+
+1226
+01:39:56,283 --> 01:39:58,766
+<font color="#ffff33">He is a hero who won the peace for us.</font>
+Il est question d'un héros qui a fait la paix pour nous.
+
+1227
+01:39:58,786 --> 01:40:01,018
+<font color="#ffff33">Indeed, but he would have launched us into a bloody war</font>
+Et qui nous aurait entraînés dans une guerre sanglante
+
+1228
+01:40:01,038 --> 01:40:02,686
+<font color="#ffff33">that would have ruined us, so there's that.</font>
+qui nous aurait ruinés, ne l'oublions pas.
+
+1229
+01:40:02,706 --> 01:40:05,564
+<font color="#ffff33">It would be easier to pull my strings if you were back at court.</font>
+Vous tireriez plus aisément mes ficelles si vous étiez à la cour.
+
+1230
+01:40:05,584 --> 01:40:08,275
+<font color="#ffff33">A new era of peace and prosperity, a new day,</font>
+Une nouvelle ère de paix et de prospérité, un nouveau jour,
+
+1231
+01:40:08,295 --> 01:40:10,152
+<font color="#ffff33">a door to a new future.</font>
+un tremplin vers un nouvel avenir.
+
+1232
+01:40:10,172 --> 01:40:11,320
+<font color="#ffff33">There's metaphors abound.</font>
+Les métaphores pleuvent.
+
+1233
+01:40:11,340 --> 01:40:13,989
+<font color="#ffff33">I'm tired. I will think on it.</font>
+Je suis fatiguée. J'y réfléchirai.
+
+1234
+01:40:14,009 --> 01:40:16,008
+<font color="#ffff33">Thank you, all.</font>
+Merci à tous.
+
+1235
+01:40:18,681 --> 01:40:22,039
+<font color="#ffff33">Obviously, you have chosen to keep the particulars of your dismissal from me.</font>
+Vous avez choisi de me cacher les motifs de votre renvoi.
+
+1236
+01:40:22,059 --> 01:40:27,347
+<font color="#ffff33">I shall leave a gap in the conversation for you to remedy that.</font>
+Je ferai une pause dans la conversation pour que vous y remédiiez.
+
+1237
+01:40:33,237 --> 01:40:35,636
+<font color="#ffff33">I do not know of women and their feelings,</font>
+Je ne connais rien aux femmes et à leurs sentiments,
+
+1238
+01:40:35,656 --> 01:40:38,889
+<font color="#ffff33">but I know they nurse their hurts like wailing newborns.</font>
+mais je sais qu'elles nourrissent leur ressentiment comme un nouveau-né.
+
+1239
+01:40:38,909 --> 01:40:43,102
+<font color="#ffff33">Godolphin, I feel a surge of desire to see your nose broken.</font>
+Godolphin, j'ai soudain très envie que votre nez soit cassé.
+
+1240
+01:40:43,122 --> 01:40:44,687
+<font color="#ffff33">Your point?</font>
+Où voulez-vous en venir ?
+
+1241
+01:40:44,707 --> 01:40:48,190
+<font color="#ffff33">Your Majesty, may I broach the matter of Lady Marlborough?</font>
+Votre Majesté, puis-je vous parler de Lady Marlborough ?
+
+1242
+01:40:48,210 --> 01:40:49,274
+<font color="#ffff33">No, you may not.</font>
+Non, vous ne pouvez pas.
+
+1243
+01:40:49,294 --> 01:40:52,945
+<font color="#ffff33">A breach in a dear friendship. Surely this could be healed.</font>
+Une si belle amitié brisée. Aucune réconciliation en vue ?
+
+1244
+01:40:52,965 --> 01:40:55,322
+<font color="#ffff33">Some wounds do not close.</font>
+Certaines blessures ne guérissent jamais.
+
+1245
+01:40:55,342 --> 01:40:56,990
+<font color="#ffff33">I have many such.</font>
+J'en ai de nombreuses.
+
+1246
+01:40:57,010 --> 01:40:58,325
+<font color="#ffff33">One just walks around with them,</font>
+On fait son chemin en les portant,
+
+1247
+01:40:58,345 --> 01:41:01,412
+<font color="#ffff33">and sometimes one can feel them filling with blood.</font>
+et parfois, on les sent se remplir de sang.
+
+1248
+01:41:01,432 --> 01:41:02,663
+<font color="#ffff33">A letter.</font>
+Une lettre.
+
+1249
+01:41:02,683 --> 01:41:06,208
+<font color="#ffff33">An apology of some sort that facilitates your return.</font>
+Des excuses, pour faciliter votre retour.
+
+1250
+01:41:06,228 --> 01:41:08,335
+<font color="#ffff33">There are limits to what one can give.</font>
+Il y a des limites à ce qu'on peut donner.
+
+1251
+01:41:08,355 --> 01:41:11,255
+<font color="#ffff33">Perhaps she could write you, and we could attempt to repair</font>
+Peut-être pourrait-elle vous écrire pour que nous tentions de guérir
+
+1252
+01:41:11,275 --> 01:41:14,436
+<font color="#ffff33">at least one wound in our queen?</font>
+au moins une des blessures de notre reine ?
+
+1253
+01:41:17,698 --> 01:41:19,221
+<font color="#ffff33">Cannot stop her.</font>
+Je ne peux pas l'en empêcher.
+
+1254
+01:41:19,241 --> 01:41:22,349
+<font color="#ffff33">I imagine it'd be pointless, and I would dash the letter into the fire,</font>
+Je suppose que ce serait inutile et que je jetterais la lettre au feu,
+
+1255
+01:41:22,369 --> 01:41:25,030
+<font color="#ffff33">but I cannot stop her.</font>
+mais je ne peux pas l'en empêcher.
+
+1256
+01:41:26,915 --> 01:41:30,952
+<font color="#ffff33">"You... cunt."</font>
+"Sale garce."
+
+1257
+01:41:37,968 --> 01:41:39,825
+<font color="#ffff33">"My God,</font>
+"Mon Dieu,
+
+1258
+01:41:39,845 --> 01:41:42,096
+<font color="#ffff33">I miss you."</font>
+"ce que vous me manquez."
+
+1259
+01:41:48,771 --> 01:41:51,086
+<font color="#ffff33">Are you sure this is all of the mail?</font>
+Il n'y a pas d'autre courrier ?
+
+1260
+01:41:51,106 --> 01:41:53,149
+<font color="#ffff33">You seek something?</font>
+Attendiez-vous quelque chose ?
+
+1261
+01:41:54,401 --> 01:41:55,591
+<font color="#ffff33">No, I...</font>
+Non, je...
+
+1262
+01:41:55,611 --> 01:41:58,260
+<font color="#ffff33">A fabric piece from my cousin in Florence.</font>
+Du tissu, de ma cousine à Florence.
+
+1263
+01:41:58,280 --> 01:42:00,440
+<font color="#ffff33">I'm sure it will come.</font>
+Il finira bien par arriver.
+
+1264
+01:42:00,783 --> 01:42:05,726
+<font color="#ffff33">"I dreamt I stabbed you</font>
+"J'ai rêvé que je vous poignardais
+
+1265
+01:42:05,746 --> 01:42:09,488
+<font color="#ffff33">in the eye."</font>
+"à l'œil."
+
+1266
+01:42:13,337 --> 01:42:14,985
+<font color="#ffff33">This cannot be all of it.</font>
+Ça ne peut pas être tout.
+
+1267
+01:42:15,005 --> 01:42:16,445
+<font color="#ffff33">- It is, ma'am. - Don't lean at me!</font>
+- Ce l'est, madame. - Ne vous inclinez pas !
+
+1268
+01:42:16,465 --> 01:42:20,240
+<font color="#ffff33">Shall we request another fabric piece from your cousin in Florence?</font>
+Nous pourrions demander d'autre tissu à votre cousine à Florence.
+
+1269
+01:42:20,260 --> 01:42:22,908
+<font color="#ffff33">Perhaps it was lost or eaten by mice on the long journey.</font>
+Il a peut-être été perdu ou rongé par des souris durant le trajet.
+
+1270
+01:42:22,928 --> 01:42:25,496
+<font color="#ffff33">No, I just want to know that all my mail is here.</font>
+Je veux seulement savoir que tout mon courrier est ici.
+
+1271
+01:42:25,516 --> 01:42:27,915
+<font color="#ffff33">Of course. Footman, go and check again.</font>
+Bien sûr. Valet, allez vérifier.
+
+1272
+01:42:27,935 --> 01:42:29,933
+<font color="#ffff33">Immediately.</font>
+Tout de suite.
+
+1273
+01:42:29,937 --> 01:42:31,935
+<font color="#ffff33">Incompetent.</font>
+Incompétent.
+
+1274
+01:42:40,155 --> 01:42:43,472
+<font color="#ffff33">"My dearest...</font>
+"Ma très chère
+
+1275
+01:42:43,492 --> 01:42:47,078
+<font color="#ffff33">Mrs. Morley...</font>
+"Mme Morley,
+
+1276
+01:42:50,123 --> 01:42:51,958
+<font color="#ffff33">I..."</font>
+"je..."
+
+1277
+01:43:14,106 --> 01:43:16,255
+<font color="#ffff33">I am in a quandary...</font>
+J'ai un dilemme,
+
+1278
+01:43:16,275 --> 01:43:18,559
+<font color="#ffff33">and you are my dearest one.</font>
+et vous êtes ma chère amie.
+
+1279
+01:43:19,361 --> 01:43:21,677
+<font color="#ffff33">I do not know whether to speak of it.</font>
+Je ne sais pas si je dois en parler.
+
+1280
+01:43:21,697 --> 01:43:23,262
+<font color="#ffff33">What is it?</font>
+Qu'y a-t-il ?
+
+1281
+01:43:23,282 --> 01:43:24,263
+<font color="#ffff33">I'm not sure.</font>
+Je ne sais pas trop.
+
+1282
+01:43:24,283 --> 01:43:25,347
+<font color="#ffff33">I don't like this.</font>
+Ça ne me plaît pas.
+
+1283
+01:43:25,367 --> 01:43:27,224
+<font color="#ffff33">You'll lodge this unknowable thing in my brain,</font>
+Vous sèmerez une idée obscure dans mon esprit,
+
+1284
+01:43:27,244 --> 01:43:30,060
+<font color="#ffff33">and it will eat me with horrible possibilities.</font>
+et je serai tracassée par ses horribles possibilités.
+
+1285
+01:43:30,080 --> 01:43:32,688
+<font color="#ffff33">It is not horrible, dear Anne.</font>
+Ça n'a rien d'horrible, chère Anne.
+
+1286
+01:43:32,708 --> 01:43:34,690
+<font color="#ffff33">It is just money.</font>
+Ce n'est que de l'argent.
+
+1287
+01:43:34,710 --> 01:43:36,544
+<font color="#ffff33">Money?</font>
+De l'argent ?
+
+1288
+01:43:36,837 --> 01:43:39,793
+<font color="#ffff33">I have found in the books...</font>
+J'ai constaté en regardant vos comptes
+
+1289
+01:43:40,048 --> 01:43:42,823
+<font color="#ffff33">large sums of money seem to have flowed to Marlborough,</font>
+que des sommes importantes ont été allouées à Marlborough,
+
+1290
+01:43:42,843 --> 01:43:45,200
+<font color="#ffff33">but are not reflected in the forces' receipts of expenses.</font>
+mais ne se reflètent pas dans les dépenses de l'armée.
+
+1291
+01:43:45,220 --> 01:43:47,054
+<font color="#ffff33">What?</font>
+Quoi ?
+
+1292
+01:43:47,222 --> 01:43:49,221
+<font color="#ffff33">It is gone.</font>
+L'argent a disparu.
+
+1293
+01:43:49,516 --> 01:43:52,124
+<font color="#ffff33">Shall I request it back on his return?</font>
+Devrais-je demander qu'il soit rendu ?
+
+1294
+01:43:52,144 --> 01:43:53,750
+<font color="#ffff33">Quietly, perhaps?</font>
+Discrètement, peut-être ?
+
+1295
+01:43:53,770 --> 01:43:56,753
+<font color="#ffff33">Are you saying that Sarah diverted money to him?</font>
+Vous dites que Sarah a détourné des fonds pour lui ?
+
+1296
+01:43:56,773 --> 01:43:58,774
+<font color="#ffff33">It does seem so.</font>
+Tout porte à le croire.
+
+1297
+01:43:59,026 --> 01:44:01,140
+<font color="#ffff33">Some 7,000.</font>
+Quelque 7 000 livres.
+
+1298
+01:44:01,236 --> 01:44:03,235
+<font color="#ffff33">She would not.</font>
+Elle n'aurait pas fait ça.
+
+1299
+01:44:04,031 --> 01:44:07,770
+<font color="#ffff33">- It is just... - She would not.</font>
+- C'est seulement... - Elle n'aurait pas fait ça.
+
+1300
+01:44:10,495 --> 01:44:14,861
+<font color="#ffff33">I'm, of course, perhaps mistaken in the bookkeeping.</font>
+Je comprends peut-être mal la tenue de comptes.
+
+1301
+01:44:15,292 --> 01:44:19,067
+<font color="#ffff33">Sometimes all these numbers are dizzying, and they're as fickle as humans.</font>
+Les chiffres sont parfois étourdissants et aussi volages que l'être humain.
+
+1302
+01:44:19,087 --> 01:44:22,654
+<font color="#ffff33">They often do add up on the second or third attempt.</font>
+Il faut parfois deux ou trois essais avant que les calculs se tiennent.
+
+1303
+01:44:22,674 --> 01:44:25,949
+<font color="#ffff33">There's a simple explanation I'm not seeing.</font>
+Il y a sûrement une explication qui m'échappe.
+
+1304
+01:44:25,969 --> 01:44:28,504
+<font color="#ffff33">We shall banish it from our minds.</font>
+N'y pensons plus.
+
+1305
+01:44:29,765 --> 01:44:34,351
+<font color="#ffff33">Shall we take the children for a walk in the garden?</font>
+Emmenons les enfants en promenade au jardin.
+
+1306
+01:44:36,563 --> 01:44:39,895
+<font color="#ffff33">No, thank you. I need to rest.</font>
+Non, merci. Je dois me reposer.
+
+1307
+01:44:40,984 --> 01:44:42,818
+<font color="#ffff33">You may leave.</font>
+Vous pouvez partir.
+
+1308
+01:44:55,916 --> 01:44:57,689
+<font color="#ffff33">Fuck!</font>
+Merde !
+
+1309
+01:44:57,709 --> 01:45:01,075
+<font color="#ffff33">Fuck! Fuck! Fuck!</font>
+Merde ! Merde ! Merde !
+
+1310
+01:45:02,756 --> 01:45:04,590
+<font color="#ffff33">Fuck!</font>
+Merde !
+
+1311
+01:45:22,234 --> 01:45:24,599
+<font color="#ffff33">I need to put it back.</font>
+Je dois le rapporter.
+
+1312
+01:45:29,908 --> 01:45:31,784
+<font color="#ffff33">Be gone.</font>
+Vas-y.
+
+1313
+01:45:50,929 --> 01:45:56,350
+<font color="#ffff33"></font>
+AMIE DÉVOUÉE - SARAH
+
+1314
+01:46:36,892 --> 01:46:39,875
+<font color="#ffff33">Marlborough is at Southampton. We need a decision.</font>
+Marlborough est à Southampton. Nous devons prendre une décision.
+
+1315
+01:46:39,895 --> 01:46:44,087
+<font color="#ffff33">- Your Majesty, if I may... - There was very little mail today.</font>
+- Votre Majesté, si je puis... - Il y avait peu de courrier aujourd'hui.
+
+1316
+01:46:44,107 --> 01:46:47,466
+<font color="#ffff33">Quite. If I may, the situation with Marlborough?</font>
+En effet. Si vous permettez, la situation de Marlborough ?
+
+1317
+01:46:47,486 --> 01:46:49,301
+<font color="#ffff33">He is stealing from me.</font>
+Il m'a volée.
+
+1318
+01:46:49,321 --> 01:46:51,155
+<font color="#ffff33">What?</font>
+Quoi ?
+
+1319
+01:46:51,698 --> 01:46:53,764
+<font color="#ffff33">Your Majesty, that is preposterous.</font>
+Votre Majesté, c'est ridicule.
+
+1320
+01:46:53,784 --> 01:46:55,182
+<font color="#ffff33">Lady Abigail, privy purse,</font>
+Lady Abigail, la cassette royale,
+
+1321
+01:46:55,202 --> 01:47:00,312
+<font color="#ffff33">is it not true they have stolen from me? Damaged us?</font>
+n'est-il pas vrai qu'ils y ont pigé ? Qu'ils nous ont nui ?
+
+1322
+01:47:00,332 --> 01:47:02,166
+<font color="#ffff33">Yes.</font>
+Oui.
+
+1323
+01:47:04,961 --> 01:47:07,319
+<font color="#ffff33">It is all there in black and white.</font>
+Tout est là, noir sur blanc.
+
+1324
+01:47:07,339 --> 01:47:09,571
+<font color="#ffff33">She must be ruined,</font>
+Elle doit être ruinée,
+
+1325
+01:47:09,591 --> 01:47:11,156
+<font color="#ffff33">banished from their beloved England.</font>
+il faut les bannir de l'Angleterre.
+
+1326
+01:47:11,176 --> 01:47:12,532
+<font color="#ffff33">They are not loyal.</font>
+Ils ne sont pas loyaux.
+
+1327
+01:47:12,552 --> 01:47:16,161
+<font color="#ffff33">They would hurt us, our country, the queen.</font>
+Ils ont fait du mal au pays et à la reine.
+
+1328
+01:47:16,181 --> 01:47:18,622
+<font color="#ffff33">- Your Majesty, if I may... - No, you may not!</font>
+- Votre Majesté, si je puis... - Non !
+
+1329
+01:47:18,642 --> 01:47:20,248
+<font color="#ffff33">He will be charged. They will be banished.</font>
+Il sera accusé. Ils seront bannis.
+
+1330
+01:47:20,268 --> 01:47:22,929
+<font color="#ffff33">I have spoken. Get out!</font>
+J'ai parlé. Sortez !
+
+1331
+01:47:52,801 --> 01:47:54,960
+<font color="#ffff33">Ah, the mail is here.</font>
+Le courrier arrive.
+
+1332
+01:48:02,144 --> 01:48:05,460
+<font color="#ffff33">I suddenly feel so tired of England, my darling.</font>
+J'en ai soudain assez de l'Angleterre, mon chéri.
+
+1333
+01:48:05,480 --> 01:48:07,936
+<font color="#ffff33">Perhaps we should go somewhere else.</font>
+Peut-être devrions-nous aller ailleurs.
+
+1334
+01:49:20,388 --> 01:49:22,223
+<font color="#ffff33">Anne?</font>
+Anne ?
+
+1335
+01:49:25,060 --> 01:49:27,300
+<font color="#ffff33">Darling Anne?</font>
+Ma chère Anne ?
+
+1336
+01:49:28,104 --> 01:49:29,127
+<font color="#ffff33">Let's get you in a chair.</font>
+Venez dans votre fauteuil.
+
+1337
+01:49:29,147 --> 01:49:32,354
+<font color="#ffff33">How dare you touch the queen like that!</font>
+Comment osez-vous toucher la reine ainsi !
+
+1338
+01:49:32,984 --> 01:49:37,396
+<font color="#ffff33">- I'm sorry. - I did not ask you to speak.</font>
+- Pardon. - Je ne vous ai pas dit de parler.
+
+1339
+01:49:43,245 --> 01:49:45,243
+<font color="#ffff33">Rub my leg.</font>
+Frottez ma jambe.
+
+1340
+01:50:17,570 --> 01:50:22,403
+<font color="#ffff33">- You should lie down. - You shall speak when asked to.</font>
+- Étendez-vous. - Parlez quand je vous le demande.
+
+1341
+01:50:32,252 --> 01:50:34,367
+<font color="#ffff33">I feel dizzy.</font>
+Je me sens étourdie.
+
+1342
+01:50:34,671 --> 01:50:37,252
+<font color="#ffff33">I need to hold on to something.</font>
+Je dois m'accrocher à quelque chose.
+
+1343
+01:53:30,937 --> 01:53:41,986
+<font color="#ffff33"></font>
+LA FAVORITE
+
+1344
+01:53:43,483 --> 01:53:46,883
+<font color="#ffff33">♪ Turn me loose ♪</font>
+
+
+1345
+01:53:46,903 --> 01:53:50,137
+<font color="#ffff33">♪ From your hands ♪</font>
+
+
+1346
+01:53:50,157 --> 01:53:53,181
+<font color="#ffff33">♪ Let me fly ♪</font>
+
+
+1347
+01:53:53,201 --> 01:53:56,643
+<font color="#ffff33">♪ To distant lands ♪</font>
+
+
+1348
+01:53:56,663 --> 01:53:59,521
+<font color="#ffff33">♪ Over green fields ♪</font>
+
+
+1349
+01:53:59,541 --> 01:54:03,705
+<font color="#ffff33">♪ Trees and mountains ♪</font>
+
+
+1350
+01:54:03,962 --> 01:54:06,028
+<font color="#ffff33">♪ Flowers ♪</font>
+
+
+1351
+01:54:06,048 --> 01:54:10,449
+<font color="#ffff33">♪ And forest fountains ♪</font>
+
+
+1352
+01:54:10,469 --> 01:54:13,035
+<font color="#ffff33">♪ Home along the lanes ♪</font>
+
+
+1353
+01:54:13,055 --> 01:54:16,288
+<font color="#ffff33">♪ Of the skyway ♪</font>
+
+
+1354
+01:54:16,308 --> 01:54:19,041
+<font color="#ffff33">♪ For this dark ♪</font>
+
+
+1355
+01:54:19,061 --> 01:54:22,294
+<font color="#ffff33">♪ And lonely room ♪</font>
+
+
+1356
+01:54:22,314 --> 01:54:26,298
+<font color="#ffff33">♪ Projects a shadow ♪</font>
+
+
+1357
+01:54:26,318 --> 01:54:28,800
+<font color="#ffff33">♪ Cast in gloom ♪</font>
+
+
+1358
+01:54:28,820 --> 01:54:32,721
+<font color="#ffff33">♪ And my eyes are mirrors ♪</font>
+
+
+1359
+01:54:32,741 --> 01:54:35,932
+<font color="#ffff33">♪ Of the world outside ♪</font>
+
+
+1360
+01:54:35,952 --> 01:54:38,560
+<font color="#ffff33">♪ Thinking of the way ♪</font>
+
+
+1361
+01:54:38,580 --> 01:54:42,564
+<font color="#ffff33">♪ That the wind can turn the tide ♪</font>
+
+
+1362
+01:54:42,584 --> 01:54:45,067
+<font color="#ffff33">♪ And these shadows turn ♪</font>
+
+
+1363
+01:54:45,087 --> 01:54:48,737
+<font color="#ffff33">♪ From purple into gray ♪</font>
+
+
+1364
+01:54:48,757 --> 01:54:51,573
+<font color="#ffff33">♪ For just a skyline pigeon ♪</font>
+
+
+1365
+01:54:51,593 --> 01:54:53,408
+<font color="#ffff33">♪ Dreaming of the open ♪</font>
+
+
+1366
+01:54:53,428 --> 01:54:55,786
+<font color="#ffff33">♪ Waiting for the day ♪</font>
+
+
+1367
+01:54:55,806 --> 01:54:57,996
+<font color="#ffff33">♪ That he can spread his wings ♪</font>
+
+
+1368
+01:54:58,016 --> 01:55:02,417
+<font color="#ffff33">♪ And fly away again ♪</font>
+
+
+1369
+01:55:02,437 --> 01:55:04,878
+<font color="#ffff33">♪ Fly away ♪</font>
+
+
+1370
+01:55:04,898 --> 01:55:08,515
+<font color="#ffff33">♪ Skyline pigeon, fly ♪</font>
+
+
+1371
+01:55:08,610 --> 01:55:10,342
+<font color="#ffff33">♪ Towards the dreams ♪</font>
+
+
+1372
+01:55:10,362 --> 01:55:15,472
+<font color="#ffff33">♪ You've left so very far behind ♪</font>
+
+
+1373
+01:55:15,492 --> 01:55:18,058
+<font color="#ffff33">♪ Fly away ♪</font>
+
+
+1374
+01:55:18,078 --> 01:55:21,728
+<font color="#ffff33">♪ Skyline pigeon, fly ♪</font>
+
+
+1375
+01:55:21,748 --> 01:55:23,522
+<font color="#ffff33">♪ Towards the dreams ♪</font>
+
+
+1376
+01:55:23,542 --> 01:55:28,610
+<font color="#ffff33">♪ You've left so very far behind ♪</font>
+
+
+1377
+01:55:28,630 --> 01:55:32,823
+<font color="#ffff33">♪ Just let me wake up in the morning ♪</font>
+
+
+1378
+01:55:32,843 --> 01:55:35,492
+<font color="#ffff33">♪ To the smell of new-mown hay ♪</font>
+
+
+1379
+01:55:35,512 --> 01:55:37,577
+<font color="#ffff33">♪ To laugh and cry ♪</font>
+
+
+1380
+01:55:37,597 --> 01:55:39,162
+<font color="#ffff33">♪ To live and die ♪</font>
+
+
+1381
+01:55:39,182 --> 01:55:42,582
+<font color="#ffff33">♪ In the brightness of my day ♪</font>
+
+
+1382
+01:55:42,602 --> 01:55:45,210
+<font color="#ffff33">♪ I want to hear the pealing bells ♪</font>
+
+
+1383
+01:55:45,230 --> 01:55:48,463
+<font color="#ffff33">♪ Of distant churches sing ♪</font>
+
+
+1384
+01:55:48,483 --> 01:55:51,049
+<font color="#ffff33">♪ But most of all, please free me ♪</font>
+
+
+1385
+01:55:51,069 --> 01:55:55,846
+<font color="#ffff33">♪ From this aching metal ring ♪</font>
+
+
+1386
+01:55:55,866 --> 01:55:58,640
+<font color="#ffff33">♪ And open out this cage ♪</font>
+
+
+1387
+01:55:58,660 --> 01:56:01,685
+<font color="#ffff33">♪ Towards the sun ♪</font>
+
+
+1388
+01:56:01,705 --> 01:56:04,312
+<font color="#ffff33">♪ For just this skyline pigeon ♪</font>
+
+
+1389
+01:56:04,332 --> 01:56:06,273
+<font color="#ffff33">♪ Dreaming of the open ♪</font>
+
+
+1390
+01:56:06,293 --> 01:56:09,025
+<font color="#ffff33">♪ Waiting for the day ♪</font>
+
+
+1391
+01:56:09,045 --> 01:56:10,902
+<font color="#ffff33">♪ He can spread his wings ♪</font>
+
+
+1392
+01:56:10,922 --> 01:56:15,240
+<font color="#ffff33">♪ And fly away again ♪</font>
+
+
+1393
+01:56:15,260 --> 01:56:17,784
+<font color="#ffff33">♪ Fly away ♪</font>
+
+
+1394
+01:56:17,804 --> 01:56:21,663
+<font color="#ffff33">♪ Skyline pigeon, fly ♪</font>
+
+
+1395
+01:56:21,683 --> 01:56:23,373
+<font color="#ffff33">♪ Towards the things ♪</font>
+
+
+1396
+01:56:23,393 --> 01:56:28,420
+<font color="#ffff33">♪ You've left so very far behind ♪</font>
+
+
+1397
+01:56:28,440 --> 01:56:31,047
+<font color="#ffff33">♪ Fly away ♪</font>
+
+
+1398
+01:56:31,067 --> 01:56:34,759
+<font color="#ffff33">♪ Skyline pigeon, fly ♪</font>
+
+
+1399
+01:56:34,779 --> 01:56:37,262
+<font color="#ffff33">♪ Towards the things you've left ♪</font>
+
+
+1400
+01:56:37,282 --> 01:56:39,097
+<font color="#ffff33">♪ So very ♪</font>
+
+
+1401
+01:56:39,117 --> 01:56:44,311
+<font color="#ffff33">♪ So very far ♪</font>
+
+
+1402
+01:56:44,331 --> 01:56:52,329
+<font color="#ffff33">♪ Behind ♪</font>
+
+
+1403
+01:59:14,357 --> 01:59:17,359
+<font color="#ffff33"></font>
+Sous-titres : Elsa Deland
+
+1404
+01:59:21,412 --> 01:59:28,000
+Sous-titres ENG + FRE fusionnés par Zorg2412
+
